@@ -1,0 +1,118 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+﻿CARE Checklist of information to include when writing a case report    Topic Item Checklist item description Reported on Line Title 1 The diagnosis or intervention of primary focus followed by the words “case report” . . . . . . . . . . . . . . . . . . . . . . . . . .  Key Words 2 2 to 5 key words that identify diagnoses or interventions in this case report, including "case report" . . .  
+Abstract 
+(no references) 
+3a Introduction: What is unique about this case and what does it add to the scientific literature? . . . . . . . . . . . . . . . . 3b Main symptoms and/or important clinical findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3c The main diagnoses, therapeutic interventions, and outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3d Conclusion—What is the main “take-away” lesson(s) from this case? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Introduction 4 One or two paragraphs summarizing why this case is unique (may include references) . . . . . . . . . . . .  Patient Information 5a De-identified patient specific information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5b Primary concerns and symptoms of the patient. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5c Medical, family, and psycho-social history including relevant genetic information . . . . . . . . . . . . . . . . . 5d Relevant past interventions with outcomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Clinical Findings  Timeline  
+Diagnostic  
+Assessment  
+Therapeutic  
+Intervention  
+Follow-up and  Outcomes  
+6 Describe significant physical examination (PE) and important clinical findings. . . . . . . . . . . . . . . . . . . . . . . 7 Historical and current information from this episode of care organized as a timeline . . . . . . . . . . . . . . .  8a Diagnostic testing (such as PE, laboratory testing, imaging, surveys). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8b Diagnostic challenges (such as access to testing, financial, or cultural) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8c Diagnosis (including other diagnoses considered) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+8d Prognosis (such as staging in oncology) where applicable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9a Types of therapeutic intervention (such as pharmacologic, surgical, preventive, self-care) . . . . . . . . . . . . . . . . . . . .  9b Administration of therapeutic intervention (such as dosage, strength, duration) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9c Changes in therapeutic intervention (with rationale) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10a Clinician and patient-assessed outcomes (if available) . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+10b Important follow-up diagnostic and other test results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10c Intervention adherence and tolerability (How was this assessed?) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10d Adverse and unanticipated events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Discussion 11a A scientific discussion of the strengths AND limitations associated with this case report . . . . . . . . . . . . . . . . . . . . . . .  11b Discussion of the relevant medical literature with references. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+11c The scientific rationale for any conclusions (including assessment of possible causes) . . . . . . . . . . . . . . . . . . . . . . . .  
+11d The primary “take-away” lessons of this case report (without references) in a one paragraph conclusion . . . . . . .  
+Patient Perspective 12 The patient should share their perspective in one to two paragraphs on the treatment(s) they received . . . . . . . .  Informed Consent 13 Did the patient give informed consent? Please provide if requested . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿INTRODUCTION 
+HEART INVASION 
+A Rare Case of Cardiac Echinococcosis: The Role of Multimodality Imaging 
+Johan O. Wedin, MD, Rafael M. Astudillo, MD, Siri Kurland, MD, 
+Karl-Henrik Grinnemo, MD, PhD, Rafael Astudillo, MD, PhD, Per Vikholm, MD, PhD, and Petter Schiller, MD, PhD, Uppsala and Vaster €  as, Sweden 
+VIDEO HIGHLIGHTS 
+Echinococcosis is a parasitic tapeworm infection caused by the Echinococcus genus. Human echinococcus infection is very rare in high-income countries, while the incidence in some endemic areas might exceed 10%, making it a major health issue and economic burden.1 All internal organs can be affected in what is known as cystic echinococcosis, or hydatidosis, with E. granulosus being the most com mon causative pathogen.2 Cardiac echinococcosis is rare, and infected individuals may be asymptomatic for years due to the long incubation time.3 The diagnosis is often established through a combination of echocardiography, computed tomography (CT), and cardiac mag netic resonance imaging (cMRI). The use of speckle-tracking echocar diography has not been reported in the setting of cardiac echinococcosis but could provide detailed, objective, and reproduc ible information about regional cardiac function. Due to the risk of cyst rupture, and subsequent potential fatal anaphylactic shock, prompt surgical excision through open-heart surgery is recommen ded.4 
+CASE PRESENTATION 
+A 38-year-old previously healthy man, originally from Serbia, pre sented with sudden-onset respiratory-related chest pain to the emer gency department of a secondary-level hospital. Elevated cardiac troponin I (315 ng/L, reference <35 ng/L) and C-reactive protein (154 g/L, reference <5 g/L) together with elevated N-terminal pro hormone of brain natriuretic peptide (1,510 ng/L, reference <150 ng/L) and an abnormal electrocardiogram (Figure 1) raised sus picion of myocarditis. Next he underwent a transthoracic echocardio gram (TTE), revealing a large mass with a hypoechogenic area in the inferoseptal region of the heart comprising both the left and right ven tricles. Left ventricular (LV) ejection fraction (LVEF) was mildly to moderately reduced (40%) due to hypo- and dyskinesia in the affected region, and global longitudinal strain (GLS) was severely reduced (–9.3%; Figure 2, Video 1). There was no shunt flow across 
+From the Department of Cardiothoracic Surgery (J.O.W., K.H.G., R.A. P.V., P.S.) and Department of Infectious Diseases (S.K.), Uppsala University Hospital, Uppsala; and Department of Surgery, Vaster €  as County Hospital (R.M.A.), Vaster €  as, Sweden. 
+Keywords: Echinococcus, Global longitudinal strain, Hydatid cyst, Open heart surgery, Transthoracic echocardiography 
+J.O.W. and R.M.A should be considered similar in author order. R.A., P.V., and P.S. should be considered similar in author order. Conflicts of Interest: None. 
+Copyright 2021 by the American Society of Echocardiography. Published by Elsevier Inc. This is an open access article under the CC BY license (http:// creativecommons.org/licenses/by/4.0/). 
+2468-6441 
+https://doi.org/10.1016/j.case.2021.03.002 
+230
+Video 1: Parasternal short-axis view at the level between the mitral valve and the papillary muscles showing the cystic mass, with hypoechoic regions, in the inferoseptal wall. 
+Video 2: Parasternal short-axis color Doppler view gave no suspicion of shunt flow across the interventricular septum. Video 3: Balanced steady-state free procession two-chamber view showing a large hydatid cyst in the inferior wall, affecting LV contractility. A small amount of pericardial effusion can also be seen. 
+Video 4: Balanced steady-state free procession short-axis view of the hydatid cyst. 
+Video 5: Perioperative TEE (transgastric short-axis view) showing cystic structures in the inferoseptal region, compro mising LV function. 
+Video 6: Short video from the operating room showing sur gical removal of the large hydatid capsule. 
+Video 7: Perioperative TEE (transgastric short-axis view) after removal of the hydatid cysts and obliteration of the cavity with bovine pericardial patches, resulting in immediate improvement in LV contractility. post-ECC, Post extracorporeal circulation. 
+View thevideo contentonlineatwww.cvcasejournal.com. 
+the interventricular septum (Video 2) and no concomitant valvular lesions, and the systolic right ventricular function appeared normal. A cMRI examination revealed a 3.5   6.5 cm septet hydatid cyst in the inferoseptal region (Figure 3, Videos 3 and 4). Despite the enzyme-linked immunosorbent assay negative serology, cardiac echi nococcosis was suspected. The patient was scheduled for surgical excision of the cyst and was transferred to our department. Electrocardiogram-gated CT confirmed what was seen on the cMRI and ruled out communication between the cyst and the left and right ventricles. Furthermore, it showed no significant coronary artery ste noses. Computed tomography over the thoracic and abdominal re gions showed no signs of extracardiac involvement. The patient was treated with 200 mg albendazole twice daily for six days before sur gery. The patient also received preoperative prophylactic steroids to prevent anaphylactic shock. 
+Intraoperative transesophageal echocardiography (TEE) revealed cystic structures in the inferoseptal region and a small amount of peri cardial effusion (Figure 4, Video 5). A full median sternotomy was per formed, revealing corresponding inflammatory changes in the pericardium and on the epicardial surface. A small amount of pericar dial fluid was aspirated, suggesting recent cyst rupture. Cardiopulmonary bypass was initiated, and the heart was arrested 
+CASE: Cardiovascular Imaging Case Reports 
+Volume 5 Number 4 
+  
+
+Wedin et al 231
+Figure 1 The electrocardiogram at admission to our clinic showed pathological Q waves and negative T waves in inferior leads (II, aVF, and III), negative T waves in lateral leads (V4-V6), and a poor R-wave progression in anterior leads. 
+  
+Figure 2 Transthoracic echocardiogram was initially performed due to suspected myocarditis. It revealed a large mass with hypoe chogenic areas and a mildly to moderately reduced LVEF (40%) due to hypo- and dyskinesia in the affected areas. (A) The parasternal short-axis view at the papillary muscle level showing the mass in the inferoseptal wall and a minimal pericardial effusion. (B) The bull’s eye plot from the two-dimensional speckle-tracking echocardiography analysis visualizing the regional wall motion abnormalities and a reduced global longitudinal strain of –9%. 
+232 Wedin et al CASE: Cardiovascular Imaging Case Reports August 2021
+  
+
+Figure 3 Cardiac magnetic resonance imaging (balanced steady-state free procession) in (A) two-chamber view and (B) short-axis view showed a multilobulated cystic structure with the appearance of cardiac echinococcosis, partially damaging the myocardium in the inferoseptal region (asterisks). 
+was uncomplicated. Before closing the sternotomy, 3% hydrogen   
+peroxide solution was instilled in the pericardium to wash off any re 
+maining parasites. Gore-Tex membrane was used to adapt the pericar 
+dium in case the patient should need future cardiac surgery. 
+Intraoperative TEE after removal of the hydatid cysts and obliteration 
+of the cavity with bovine pericardial patches indicated immediate 
+improvement in LV contractility (Video 7). 
+The postoperative course was completely uneventful. Routine 
+postoperative TTE showed improved myocardial contraction in the 
+previously affected regions and no ventricular septum defect. The pa 
+tient was discharged to the referral hospital on the seventh postoper 
+ative day with a plan to continue albendazole treatment for a total of 
+four weeks postoperatively. The diagnosis of cardiac echinococcosis 
+with E. granulosus was later confirmed by the laboratory of the 
+Public Health Agency of Sweden. 
+The patient continued close follow-up with the cardiologist and in 
+Figure 4 Perioperative TEE transgastric short-axis view re vealed cystic structures in the inferoseptal region as well as peri cardial effusion. 
+by cross-clamping the ascending aorta and administering antegrade cardioplegia, which was iterated every 20 minutes during the cross clamping. An LV vent was inserted through the right upper pulmonary vein. On full cardiopulmonary bypass, pericardial adhesions were relieved, and the heart was displaced anteriorly in order to inspect the inferiorly situated cyst. Before opening the cyst, a 10% hypertonic saline solution was injected into the cyst and left for 10 minutes. The pericardial surfaces were covered with hydrogen peroxide–soaked towels to prevent direct contact with cyst fluid. The wall of the main cyst together with the inactive daughter cysts was carefully excised to avoid damage of the posterior descending branch of the right coronary artery (Figure 5, Video 6). The cyst cavity was subse quently rinsed with 95% ethanol and 3% hydrogen peroxide solution. A glutaraldehyde-treated bovine pericardial patch was used to rein force and obliterate the cavity. Weaning from cardiopulmonary bypass 
+fectious disease specialist at the referral hospital. The latest TTE about 12 months postoperatively showed normalization of LVEF (>55%), normal LV dimensions, no signs of regional wall-motion abnormalities, and no valvular heart disease. The GLS was not reported. 
+DISCUSSION 
+Echinococcosis is uncommon in Sweden, with fewer than 35 annual cases since 2005, mostly contracted in high-endemic countries. Cardiac echinococcosis was suspected early due to the TTE and cMRI findings. In line with other reports,5 the serology was negative. It has been suggested that ultrasound has better sensitivity for detecting liver echinococcosis than does serological testing, especially when combined with other modalities such as CT and/or magnetic resonance imaging.5 This also applies to cardiac echinococcosis, for which both TTE and TEE play important roles in the diagnosis and in planning the surgical man agement.6-8 In our patient, a multimodality imaging strategy raised sus picion of cardiac echinococcosis, despite negative serological tests. Rupture of the cyst was suspected as pericardial effusion was present. Transthoracic echocardiography has the advantage of detecting valvular 
+CASE: Cardiovascular Imaging Case Reports 
+Volume 5 Number 4 
+  
+Figure 5 Gross images of the surgical removal of the ruptured large hydatid capsule. 
+Wedin et al 233
+regurgitation or stenosis necessitating concomitant surgical intervention. Global longitudinal strain has previously proven to provide important in formation regarding regional myocardial function,9 but its use in cardiac echinococcosis has not previously been reported. Here, GLS revealed the severely reduced regional function with dyskinesia in the area con taining the hydatid cyst. 
+Cardiac involvement of echinococcosis can have various clinical features, with chest pain and dyspnea being the most common pre sentations. Congestive heart failure, pericardial tamponade, pulmo nary embolism, and superior vena cava syndrome are sometimes observed.10 In addition, cyst rupture may cause anaphylactic shock with fatal outcomes if the contents leak into the bloodstream.11 Luckily, the hydatid cyst in our patient had no communication with the left or right ventricle. The cyst found in our patient contained very little fluid at the time of surgery and probably ruptured into the pericardium on the day of admission to the emergency depart ment, when the patient presented with sudden-onset respiratory related chest pain with the characteristics of pericarditis and/or myocarditis. Supporting this is the fact that inflammatory changes and pericardial fluid were found when the pericardium was opened. To our knowledge, this case report is the first description of a nonfatal outcome after cardiac hydatid cyst rupture. 
+Surgical removal of the cysts associated with cardiac echinococ cosis should be considered to prevent potentially fatal cyst rupture, and the results can be excellent.3 Complete removal of the capsule is recommended to avoid the risk of recurring disease.12 The most appropriate treatment depends on both patient and cyst characteris tics.13 Although preoperative treatment with albendazole is recom mended in liver echinococcosis, no such recommendation for cardiac echinococcosis has been established due to its rare occurrence and because pharmacological therapy has very little effect on hydatid cysts.3 Postoperative relapse has been reported,14 so postoperative antiparasitic drug therapy should also be considered to minimize that risk. Follow-up with TTE is recommended every three months for at least three years after surgery, but there is no consensus support ing this recommendation.13 While human echinococcosis constitutes a major health problem in some parts of the world, and thus is widely recognized by physicians in these endemic areas, it remains uncom 
+mon in Sweden and the rest of the Western world. However, with increasing immigration, its occurrence in low-incidence countries con tinues to grow. Our patient originated from Serbia and grew up in a rural setting with various animals. He regularly returned to his home country to visit his family, when he was likely infected. This empha sizes, besides multimodality imaging, the importance of obtaining a thorough medical history, including questions regarding origin, travel habits, and exposure to livestock farming. This can be managed through multidisciplinary cooperation involving cardiologists, radiolo gists, infectious disease specialists, and cardiothoracic surgeons. 
+CONCLUSION 
+Our case demonstrates that a multimodality imaging approach including TTE, cMRI, and CT is important for rapid diagnosis in the workup of cardiac echinococcosis. The presence of pericardial effu sion on cardiac imaging should raise suspicion of a ruptured cyst, even in the absence of anaphylactic shock, while the absence of peri cardial effusion would argue against rupture into the pericardium. This case also illustrates that GLS supplies important information about regional function in infiltrative myocardial disease such as cardiac echinococcosis. 
+SUPPLEMENTARY DATA 
+Supplementary data to this article can be found online at https://doi. org/10.1016/j.case.2021.03.002. 
+REFERENCES 
+1. World Health Organisation. Echinococcosis: epidemiology. Available at: http://www.who.int/echinococcosis/epidemiology/en/. Accessed May 28, 2020. 
+2. Thompson RCA. Biology and systematics of echinococcus. Adv Parasitol 2017;95:65-109. 
+234 Wedin et al CASE: Cardiovascular Imaging Case Reports August 2021
+3. Kahlfuß S, Flieger RR, Roepke TK, Yilmaz K. Diagnosis and treatment of cardiac echinococcosis. Heart 2016;102:1348-53. 
+4. Brunetti E, Kern P, Vuitton DA. Writing Panel for the WHO-IWGE. Expert consensus for the diagnosis and treatment of cystic and alveolar echinococ cosis in humans. Acta Trop 2010;114:1-16. 
+5. Wuestenberg J, Gruener B, Oeztuerk S, Mason RA, Haenle MM, Graeter T, et al. Diagnostics in cystic echinococcosis: serology versus ultrasonography. Turk J Gastroenterol 2014;25:398-404. 
+6. Atilgan D, Kudat H, Tukek T, Ozcan M, Yildirim OB, Elmaci TT, et al. Role € of transesophageal echocardiography in diagnosis and management of car diac hydatid cyst: report of three cases and review of the literature. J Am Soc Echocardiogr 2002;15:271-4. 
+7. Meimand SE, Sadeghpour A, Pakbaz M, Ghavidel AA, Pouraliakbar H, Kamali M, et al. Cardiac echinoccoccosis associated with other organ involvement: report of two challenging cases. CASE 2020;5:33-8. 
+8. Mir H, McClure A, Thampinathan B, Chow C, Cusimano RJ, Bogoch II, et al. Echocardiographic features of cardiac echinococcal infection. CASE 2020;5:26-32. 
+9. Kalam K, Otahal P, Marwick TH. Prognostic implications of global LV dysfunction: a systematic review and meta-analysis of global longitudinal strain and ejection fraction. Heart 2014;100: 1673-80. 
+10. Demircan A, Keles A, Kahveci FO, Tulmac M, Ozsarac M. Cardiac tampo nade via a fistula to the pericardium from a hydatid cyst: case report and review of the literature. J Emerg Med 2010;38:582-6. 
+11. Bitton M, Kleiner-Baumgarten A, Peiser J, Barki Y, Sukenik S. [Anaphylactic shock after traumatic rupture of a splenic echinococcal cyst]. Harefuah 1992;122:226-8. 
+12. Wadhawa V, Shah J, Doshi C, Ramani J, Lakhia K, Rathod D, et al. Surgical overview of cardiac echinococcosis: a rare entity. Interact Cardiovasc Thorac Surg 2018;27:191-7. 
+13. Moro P, Schantz PM. Echinococcosis: a review. Int J Infect Dis 2009;13: 125-33. 
+14. Akpinar I, Tekeli S, Sen T, Sen N, Basar N, Cagli KE, et al. Extremely rare cardiac involvement: recurrent pericardial hydatid cyst. Intern Med 2012; 51:391-3.
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

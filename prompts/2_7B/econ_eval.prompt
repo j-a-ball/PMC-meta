@@ -1,0 +1,707 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+﻿Section & Topic
+	No
+	Item
+	Reported on page #
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	TITLE OR ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	1
+	Identification as a study of diagnostic accuracy using at least one measure of accuracy
+(such as sensitivity, specificity, predictive values, or AUC)
+	
+
+	
+
+	ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	Structured summary of study design, methods, results, and conclusions 
+(for specific guidance, see STARD for Abstracts)
+	
+
+	
+
+	INTRODUCTION
+	
+
+	
+
+	
+
+	
+
+	
+
+	3
+	Scientific and clinical background, including the intended use and clinical role of the index test
+	
+
+	
+
+	
+
+	4
+	Study objectives and hypotheses
+	
+
+	
+
+	METHODS
+	
+
+	
+
+	
+
+	
+
+	Study design
+	5
+	Whether data collection was planned before the index test and reference standard 
+were performed (prospective study) or after (retrospective study)
+	
+
+	
+
+	Participants
+	6
+	Eligibility criteria 
+	
+
+	
+
+	
+
+	7
+	On what basis potentially eligible participants were identified 
+(such as symptoms, results from previous tests, inclusion in registry)
+	
+
+	
+
+	
+
+	8
+	Where and when potentially eligible participants were identified (setting, location and dates)
+	
+
+	
+
+	
+
+	9
+	Whether participants formed a consecutive, random or convenience series
+	
+
+	
+
+	Test methods
+	10a
+	Index test, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	10b
+	Reference standard, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	11
+	Rationale for choosing the reference standard (if alternatives exist)
+	
+
+	
+
+	
+
+	12a
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the index test, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	12b
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the reference standard, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	13a
+	Whether clinical information and reference standard results were available 
+to the performers/readers of the index test
+	
+
+	
+
+	
+
+	13b
+	Whether clinical information and index test results were available 
+to the assessors of the reference standard
+	
+
+	
+
+	Analysis
+	14
+	Methods for estimating or comparing measures of diagnostic accuracy
+	
+
+	
+
+	
+
+	15
+	How indeterminate index test or reference standard results were handled
+	
+
+	
+
+	
+
+	16
+	How missing data on the index test and reference standard were handled
+	
+
+	
+
+	
+
+	17
+	Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	18
+	Intended sample size and how it was determined
+	
+
+	
+
+	RESULTS
+	
+
+	
+
+	
+
+	
+
+	Participants
+	19
+	Flow of participants, using a diagram
+	
+
+	
+
+	
+
+	20
+	Baseline demographic and clinical characteristics of participants
+	
+
+	
+
+	
+
+	21a
+	Distribution of severity of disease in those with the target condition
+	
+
+	
+
+	
+
+	21b
+	Distribution of alternative diagnoses in those without the target condition
+	
+
+	
+
+	
+
+	22
+	Time interval and any clinical interventions between index test and reference standard
+	
+
+	
+
+	Test results
+	23
+	Cross tabulation of the index test results (or their distribution) 
+by the results of the reference standard
+	
+
+	
+
+	
+
+	24
+	Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals)
+	
+
+	
+
+	
+
+	25
+	Any adverse events from performing the index test or the reference standard
+	
+
+	
+
+	DISCUSSION
+	
+
+	
+
+	
+
+	
+
+	
+
+	26
+	Study limitations, including sources of potential bias, statistical uncertainty, and generalisability
+	
+
+	
+
+	
+
+	27
+	Implications for practice, including the intended use and clinical role of the index test
+	
+
+	
+
+	OTHER INFORMATION
+	
+
+	
+
+	
+
+	
+
+	
+
+	28
+	Registration number and name of registry
+	
+
+	
+
+	
+
+	29
+	Where the full study protocol can be accessed
+	
+
+	
+
+	
+
+	30
+	Sources of funding and other support; role of funders
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+________________
+STARD 2015
+AIM 
+STARD stands for “Standards for Reporting Diagnostic accuracy studies”. This list of items was developed to contribute to the completeness and transparency of reporting of diagnostic accuracy studies. Authors can use the list to write informative study reports. Editors and peer-reviewers can use it to evaluate whether the information has been included in manuscripts submitted for publication. 
+Explanation
+A diagnostic accuracy study evaluates the ability of one or more medical tests to correctly classify study participants as having a target condition. This can be a disease, a disease stage, response or benefit from therapy, or an event or condition in the future. A medical test can be an imaging procedure, a laboratory test, elements from history and physical examination, a combination of these, or any other method for collecting information about the current health status of a patient.
+The test whose accuracy is evaluated is called index test. A study can evaluate the accuracy of one or more index tests. Evaluating the ability of a medical test to correctly classify patients is typically done by comparing the distribution of the index test results with those of the reference standard. The reference standard is the best available method for establishing the presence or absence of the target condition. An accuracy study can rely on one or more reference standards.
+If test results are categorized as either positive or negative, the cross tabulation of the index test results against those of the reference standard can be used to estimate the sensitivity of the index test (the proportion of participants with the target condition who have a positive index test), and its specificity (the proportion without the target condition who have a negative index test). From this cross tabulation (sometimes referred to as the contingency or “2x2” table), several other accuracy statistics can be estimated, such as the positive and negative predictive values of the test. Confidence intervals around estimates of accuracy can then be calculated to quantify the statistical precision of the measurements.
+If the index test results can take more than two values, categorization of test results as positive or negative requires a test positivity cut-off. When multiple such cut-offs can be defined, authors can report a receiver operating characteristic (ROC) curve which graphically represents the combination of sensitivity and specificity for each possible test positivity cut-off. The area under the ROC curve informs in a single numerical value about the overall diagnostic accuracy of the index test. 
+The intended use of a medical test can be diagnosis, screening, staging, monitoring, surveillance, prediction or prognosis. The clinical role of a test explains its position relative to existing tests in the clinical pathway. A replacement test, for example, replaces an existing test. A triage test is used before an existing test; an add-on test is used after an existing test. 
+Besides diagnostic accuracy, several other outcomes and statistics may be relevant in the evaluation of medical tests. Medical tests can also be used to classify patients for purposes other than diagnosis, such as staging or prognosis. The STARD list was not explicitly developed for these other outcomes, statistics, and study types, although most STARD items would still apply. 
+DEVELOPMENT
+This STARD list was released in 2015. The 30 items were identified by an international expert group of methodologists, researchers, and editors. The guiding principle in the development of STARD was to select items that, when reported, would help readers to judge the potential for bias in the study, to appraise the applicability of the study findings and the validity of conclusions and recommendations. The list represents an update of the first version, which was published in 2003. 
+
+More information can be found on http://www.equator-network.org/reporting-guidelines/stard.
+ Creative Commons License
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿pii: sp-00062-16 http://dx.doi.org/10.5665/sleep.6152 
+INSOMNIA 
+Internet-Based Cognitive Behavioral Therapy for Insomnia:  
+A Health Economic Evaluation 
+Hanne Thiart, MSc1; David Daniel Ebert, PhD2; Dirk Lehr, PhD1,3; Stephanie Nobis, PhD1; Claudia Buntrock, MSc1,4; Matthias Berking, PhD2;  Filip Smit, PhD5,6,7; Heleen Riper, PhD4 
+1Innovation Incubator, Division of Health Training Online, Leuphana University Lueneburg, Lueneburg, Germany; 2Department of Clinical Psychology and Psychotherapy,  University Erlangen-Nuremberg, Erlangen, Germany; 3Leuphana University Lueneburg, Institute of Psychology, Lueneburg, Germany; 4Department of Clinical, Developmental  and Neuro Psychology, Section of Clinical Psychology, Vrije Universiteit, EMGO+ Institute for Health and Care Research, VUmc, Amsterdam, The Netherlands; 5Center of  Economic Evaluation, Trimbos Institute (Netherlands Institute of Mental health and Addiction), Utrecht, The Netherlands; 6Department of Clinical, Neuro and Developmental  Psychology, VU University, Amsterdam, The Netherlands; 7Department of Epidemiology and Biostatistics, EMGO+ Institute for Health and Care Research, VU University  Medical Center, Amsterdam, The Netherlands 
+Study Objectives: Lost productivity caused by insomnia is a common and costly problem for employers. Although evidence for the efficacy of Internet-based  cognitive behavioral therapy for insomnia (iCBT-I) already exists, little is known about its economic effects. This study aims to evaluate the cost-effectiveness  and cost-benefit of providing iCBT-I to symptomatic employees from the employer’s perspective. 
+Methods: School teachers (N = 128) with clinically significant insomnia symptoms and work-related rumination were randomized to guided iCBT-I or a  waitlist-control-group, both with access to treatment as usual. Economic data were collected at baseline and 6-mo follow-up. We conducted (1) a cost effectiveness analysis with treatment response (Reliable Change [decline of 5.01 points] and Insomnia Severity Index < 8 at 6-month follow-up) as the  
+outcome and (2) a cost-benefit analysis. Because both analyses were performed from the employer’s perspective, we focused specifically on absenteeism  and presenteeism costs. Statistical uncertainty was estimated using bootstrapping. 
+Results: Assuming intervention costs of €200 ($245), cost-effectiveness analyses showed that at a willingness-to-pay of €0 for each positive treatment  response, there is an 87% probability that the intervention is more cost effective than treatment as usual alone. Cost-benefit analyses led to a net benefit of  €418 (95% confidence interval: −593.03 to 1,488.70) ($512) per participant and a return on investment of 208% (95% confidence interval: −296.52 to 744.35).  The reduction in costs was mainly driven by the effects of the intervention on presenteeism and to a lesser degree by reduced absenteeism. Conclusions: Focusing on sleep improvement using iCBT-I may be a cost-effective strategy in occupational health care. Clinical Trials Registration: Title: Online Recovery Training for Better Sleep in Teachers with High Psychological Strain. German Clinical Trial Register  (DRKS), URL: https://drks-neu.uniklinik-freiburg.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00004700. Identifier: DRKS00004700. Commentary: A commentary on this article appears in this issue on page 1767. 
+Keywords: cost-benefit, cost-effectiveness, employer perspective, insomnia, Internet, randomized controlled trial, self-help Citation: Thiart H, Ebert DD, Lehr D, Nobis S, Buntrock C, Berking M, Smit F, Riper H. Internet-based cognitive behavioral therapy for insomnia: a health  economic evaluation. SLEEP 2016;39(10):1769–1778. 
+Significance 
+The intervention that is evaluated in the current study is based on cognitive behavioral therapy (CBT). It has been tailored to the specific situation of  employees suffering from both insomnia and work stress. The health economic evaluation shows that the Internet-based CBT intervention significantly  reduces insomnia symptoms and costs (due to absenteeism & presenteeism) when compared to nonintervening. Thus, the intervention has a good  probability of being cost-effective from an employer’s perspective. To our knowledge, the current study is the first economic evaluation of Internet-based  CBT for insomnia. Future studies should be conducted with varying types of professions since the present results might only be generalized to teachers  and employees with similar working characteristics. 
+INTRODUCTION 
+The efficacy of cognitive behavioral therapy for insomnia  (CBT-I) has been proven in a large number of studies and is  therefore recommended as a first-line treatment for insomnia  for various target groups.1–3 The cost-effectiveness of CBT-I,  however, is regarded as a largely neglected research topic.4 
+A recent review5 on health economics of insomnia treatment  only includes two studies of behavioral treatment. These  studies both report on the cost-effectiveness of face-to-face  CBT-I from a health service perspective, which means that  they only focused on direct health care costs (e.g., costs for  medical drugs or seeing the doctor).6,7 Bonin et al.6 reported  a probability of 97% for the cost-effectiveness of brief psy choeducational CBT-I community workshops compared to a  waitlist-control group if health policy-makers were willing to  pay 150 Great Britain Pound (GBP) ($196) per one-point im provement in the Insomnia Severity Index (ISI). Watanabe and  colleagues7 reported brief CBT-I for patients of an outpatient  
+clinic suffering from both insomnia and comorbid depression  to be cost-effective at a probability of 95% compared to treat ment as usual if decision makers were willing to pay $60,000  for one additional quality-adjusted life year (QALY). These  studies indicate a potential cost-effectiveness of CBT-I but  they are too few in number to make a robust overall conclusion  about the cost-effectiveness of CBT-I. Given the rising costs of  prevention and treatment of medical diseases on the one hand,  and limited resources on the other hand, health economic eval uations can be an important support tool for various decision  makers to make relevant choices between alternative treatment  strategies. Overall, more research on the cost-effectiveness of  CBT-I based interventions is needed.4,8 
+A similar knowledge gap can be observed for Internet-based  interventions for insomnia (iCBT-I). Internet-based interven tions have also been shown to be an effective low-threshold  treatment for insomnia.9–12 They have been introduced to both  potentially increase the reach of CBT-I and to do so at lower 
+SLEEP, Vol. 39, No. 10, 2016 1769 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+costs than traditional CBT-I.13 However, no evidence is cur rently available for this assumption. The current study is the  first economic evaluation of Internet-based CBT-I. The evalu ation was conducted from an employer’s perspective because  the current CBT-I intervention was an occupational health in tervention focusing on employees experiencing work-related  insomnia. Furthermore, the indirect costs due to productivity  losses at work, e.g., work loss days (absenteeism) and reduced  productivity while at work (presenteeism), are primarily rele vant to the employer14 and especially substantial with regard to  insomnia as shown by a number of epidemiologic studies.15,16 
+The indirect costs, i.e. production losses, are assumed to  outweigh those of direct and indirect medical care costs with  an estimated ratio of 1:3.15 For US workers, Kessler et al.16 ob served annual costs of $91.7 billion solely due to presenteeism  and absenteeism, and presenteeism accounted for two-thirds  of these costs. Therefore, we assume that presenteeism will  also account for most of the costs and cost reductions in this  economic evaluation. 
+Based on the aforementioned findings researchers have  emphasized the need for economic evaluations of insomnia  interventions to take the “employer’s perspective”.16,17 From  this perspective, analyses imply that the employer pays for the  costs due to presenteeism/absenteeism and for the intervention  costs and benefits from the potential savings due to reduced  presenteeism/absenteeism. Reporting the probability to which  Internet-based CBT-I may save costs with regard to workplace  productivity16,18 could inform employers on how to best spend  their limited resources in occupational health care.19 
+With regard to the form of economic evaluation relevant to  an employer, two types of analyses can be distinguished19: first,  a cost-benefit analysis providing a return on investment (ROI)  by relating costs (e.g., intervention costs) to consequences  (e.g., reduced presenteeism and absenteeism), both measured  in monetary units, and second, a cost-effectiveness analysis  that takes costs and consequences (intervention, presenteeism,  and absenteeism) both measured in monetary units and relates  them to an effect outcome (e.g., significant improvement of in somnia symptoms) measured in natural units. 
+To the best of our knowledge no published cost-benefit  or cost-effectiveness analyses from an employer’s perspec tive exist for either face-to-face or Internet-based CBT for  employees with insomnia. However, there are a number of  published economic evaluations of occupational health inter ventions for other conditions than insomnia such as depression  that are conducted from the employer’s perspective: 
+A large systematic review20 (n = 51 studies) on the cost-benefit  of face-to-face workplace health promotion programs to em ployers comprised evidence on ROIs of various interventions  and indications, ranging from obesity reduction, smoking ces sation, and productivity enhancement programs. The authors  found a positive overall ROI of 138% ($1.38 for every dollar  invested). However, results were mixed because ROI heavily  varied across studies depending on methodology, scope of the  program, sample size, and study quality. Better study quality  was found in randomized controlled trials (RCTs) correlated  with smaller ROIs: The RCTs included (n = 12) exhibited a  negative ROI, −0.22 ± 2.41. 
+With regard to Internet-based occupational health interven tions, the first economic evaluation in this area was recently  published by Geraedts and collegues.21 They targeted em ployees with depressive symptoms. Their cost-effectiveness  analysis showed that the intervention had a probability of 95%  of being cost-effective if the employer would be willing to pay  3,500 euro for an additional clinically meaningful change in  depressive symptoms. The authors did not recommend the in tervention to employers cost-wise because they regarded 3,500  euro as being too high for the employer to pay and because  cost-benefit analyses showed only a moderate probability of  positive financial return (66%). 
+The health economic evaluation of the iCBT-I intervention,  which we present here, was conducted parallel to an RCT on  the efficacy of Internet-based CBT-I.22 As shown in a previ ously published article on that trial, the intervention signifi cantly reduced insomnia symptoms among employees (large  effect, with Cohen’s d = 1.45, 95% confidence interval [CI]:  1.06 – 1.84), with 42.2% of participants in the intervention  group being symptom-free at 6-month follow-up (vs. 6.3% in  the control group).23 The current evaluation investigates the  probability of Internet-based CBT to be cost-effective and  cost-beneficial from the employer’s perspective with a focus  on productivity loss in terms of absenteeism and presenteeism  among employees. 
+METHODS 
+Design 
+The current health economic evaluation followed guidelines  from the International Society for Pharmacoeconomics and  Outcomes Research task force report on good research prac tices for cost-effectiveness analysis alongside clinical trials  (ISPOR RCT-CEA) and the recommendations of the Con solidated Health Economic Evaluation Reporting Standard  (CHEERS).24 
+The study design is described in detail in the study pro tocol.22 In brief, the study was designed as an evaluation of  efficacy with a health-economic evaluation alongside a ran domized trial with two parallel groups. Randomization was  performed using an automated web-based program (randomi sation.eu). The study was approved by the Ethics Committee of  the Philipps University of Marburg (Nr.: 2013-01K) and regis tered as DRKS00004700 in the German Clinical Trial Register  (DRKS). 
+Procedures 
+Adult schoolteachers were recruited via mailings to schools  from March to September 2013. Outcomes were assessed at  baseline and at 2- and 6-mo follow-up. In total, 128 currently  employed schoolteachers with clinically significant insomnia  symptoms (Insomnia Severity Index [ISI] > 14) and elevated  work-related rumination (Irritation scale, subscale “Cognitive  Irritation” > 14) were randomly allocated to either the guided  GET.ON Recovery intervention group (IG) or a waitlist con trol group (CG) in a ratio of 1:1, both with unrestricted access  to treatment as usual. Exclusion criteria were: (1) currently  receiving psychological help for insomnia and (2) showing 
+SLEEP, Vol. 39, No. 10, 2016 1770 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+suicidal ideation, for which item 9 from the Beck Depression  Inventory II (BDI II)25 was used. 
+Interventions 
+The Internet-based CBT-I intervention (GET.ON Re covery22,23) has been specifically tailored for stressed and  sleepless employees. It mainly uses CBT-I methods such as  sleep restriction, stimulus control, sleep hygiene, and cogni tive interventions,26 supplemented by techniques effective in  reducing work stress and fostering mental detachment from  work-related problems derived from behavioral activation,27 metacognitive therapy,28 gratitude research,29 and research on  boundary management.30 The intervention has been shown to  be effective in a guided self-help23 and pure self-help31 format.  It has also been shown that the intervention’s effects on in somnia severity were mediated by both a reduction in perse verative cognitions and sleep effort. Additionally, an increase  in number of recovery activities per week was found to be  associated with lower perseverative cognitions, which in turn  led to a reduction in insomnia severity.31 The intervention con sisted of six 1-w modules. The participants in the intervention  group received email feedback on every completed module by  trained clinical psychologists (e-coaches) following a manual  to ensure a standardized procedure of coaching. E-coaches  also provided email reminders if participants did not complete  a module within 1 w. E-coaches were advised that the total  amount of support a subject should receive was to be around  3 h total, with a maximum of 30 min per session, so that the  guidance could be kept at a minimal level and comparability  of the participants was maximized. A clinical psychologist su pervised the e-coaches. 
+Individuals in the control group eventually did receive the  intervention (without coaching) after the last assessment at  6-mo follow-up for ethical reasons. 
+All study participants had unrestricted access to treatment  as usual. Treatment as usual for elevated insomnia symptoms  usually indicates visits to the general practitioner (GP) fol lowed by more intensive interventions such as CBT and sleep  medication if insomnia symptoms persevere or worsen. 
+Measures 
+Clinical Outcome 
+The primary clinical outcome for the cost-effectiveness  analysis was the number of participants with a positive treat ment response at 6-mo follow-up using the ISI.32 Participants  were labeled as “having a positive treatment response” ac cording to Jacobson and Truax33, by combining two criteria:  a sufficiently large change in the widely used Reliable Change  Index (RCI) and ISI being below a certain cutoff score. There fore, treatment response was defined if the ISI score: (1) de creased by 5.01 points on the ISI and (2) fell below the cutoff  score of 8 in the ISI, which classifies a participant as being  symptom-free.34 The seven items of the ISI are answered on  a five-point Likert scale with the total score ranging from 0  to 28. The ISI is a commonly used instrument in CBT-I re search and has been validated as a Web-based measure.35 At  screening, the cutoff score of ≥ 15 was used to indicate clinical  
+insomnia.32 Participants with a score < 15 were excluded. In  our sample, internal consistency was α = 0.91. 
+Costs 
+Costs were calculated in euros (€) for the reference year 2013.  Main results were translated into US dollars using the Organi zation for Economic Co-operation and Development’s (OECD)  Purchasing Power Parities (PPP) of 2013.36 PPPs are the rates of  currency conversion eliminating the differences in price levels  between countries and therefore correcting for the purchasing  power of different currencies. 
+Absenteeism and Presenteeism 
+Cost data were measured with the Trimbos/iMTA question naire for costs associated with psychiatric illness (TiC-P37), a  retrospective (covering the previous three months) self-report  questionnaire. The TiC-P is a widely used, feasible, and reli able instrument for collecting data on health care utilization  and productivity losses in patients with mild to moderate  mental health conditions.38 Participants were instructed to  specify all productivity losses. 
+Costs due to absenteeism were based on the human capital  approach.39 In order to measure absenteeism, participants were  asked how many days they had been absent from work during  the past 3 mo (work loss days). To measure costs, work loss  days were then multiplied to the participant’s average gross  daily wage based on their self-reported monthly salary. 
+Production losses due to presenteeism were measured by  asking participants to report how many days during the past  3 mo they went to work even though they were bothered by  their health problems. The number of days was then multiplied  by a self-reported inefficiency score, which ranged between 0  and 1 (where 0 means as efficient as when in good health and  1 means totally inefficient) to obtain workday equivalents lost  to presenteeism. This method is called the Osterhaus method.40 Subsequently, based on self-reported monthly salary, their  gross wages per hour were calculated and were used to calcu late the costs that occurred due to presenteeism.37 
+Intervention Costs 
+Intervention costs were estimated to be €200 based on the fol lowing subcosts. The costs of providing the training, website  hosting, maintenance, and technical support per person were  obtained by interviewing health care providers about a potential  market price for the intervention when implemented in occupa tional health care. These estimates ranged from €49 to €103.  The more conservative estimation of €103 was used and added  to the costs of the coaches, which were estimated from the av erage monthly salary of a full-time psychologist (€65 for 3 h41).  This estimate was based on the completion of all six modules  by the participants, with the coaches investing 30 minutes per  one feedback per person, resulting in 6 × 30 min per participant.  Although not all participants complete all intervention modules  in Internet-based guided self-help interventions and thus true  costs may differ between participants when implementing the  intervention in practice, we used the highest possible costs,  namely 3 h of coaching per participant. Also, a value-added  tax (VAT) of 19% of €168 was added (€30). It was assumed 
+SLEEP, Vol. 39, No. 10, 2016 1771 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+that all participants did the intervention at home, not at work.  Therefore, opportunity costs due to the time employees spent  working on the intervention were not included. 
+To summarize, this leads to a total approximate estimate of  €200 ($245) that an employer would need to pay per participant  for this intervention. 
+Analytic Plan 
+Means of presenteeism and absenteeism costs are reported in  order to conclude if presenteeism accounts for the larger sum  as expected. In order to provide the probability for a positive fi nancial return the employer could expect, cost-benefit analyses  were conducted comparing the costs the employer would have  to pay (intervention costs) with the benefits he gets (reduced  presenteeism and absenteeism). In order to gather evidence on  the probability for cost-effectiveness of Internet-based CBT  for insomnia at different willingness-to-pay ceilings, we con ducted cost-effectiveness analyses relating all costs (interven tion, presenteeism, and absenteeism) to the clinical outcome  of a significant improvement of insomnia symptoms at 6-mo  follow-up. 
+Statistical Analysis 
+The current health economic evaluation was conducted along side a RCT that focused on the efficacy of this intervention and  powered accordingly. A sample size of N = 128 was needed  to detect a mean clinical difference between the IG and CG of  d = 0.50 or larger in the primary outcome (ISI) at posttest. Cost  data are usually heavily skewed to the right with large variance  requiring very large sample sizes. Therefore, due to ethical and  feasibility reasons, the study was not powered to statistically  test differences in health economic outcomes. As a result, as  it is common in health economic evaluations alongside clinical  trials, a probabilistic decision-making approach for making  health-economic inferences is used.42 This procedure takes  the uncertainty about all measured parameters into account43,44 and aims at informing decision makers on probabilities rather  than statistical significance. 
+Analysis of Costs 
+Costs were assessed at baseline (T1) and 6-mo follow-up (T3).  Missing cost data (monthly wage, weekly working hours, pre senteeism days, absenteeism days) at T3 were imputed using a  Markov Chain Monte Carlo multivariate imputation algorithm  (missing data module in IBM SPSS 20) with 100 estimations  per missing value.45 Baseline costs of presenteeism and absen teeism, wage, working hours, age, and sex were used as predic tors. At the 6-mo follow-up, participants were asked to only  report on the previous 3 mo. Therefore, we had to estimate cu mulative costs for each participant during the 6-mo follow-up  period. This was done by calculating the area under the curve  (AUC) of linearly interpolated 1-mo costs46: 
+Cost-Benefit Analyses 
+In the present study, it was assumed that the employer would  be the one who pays for all the included costs and the one who  benefits from all the savings. Three metrics of cost-benefit  analyses were used to report on the comparison between costs  and benefits for the employer.19 Benefits in this case indicate the  productivity benefits due to reduced presenteeism and absen teeism and can be derived by subtracting absenteeism and pre senteeism costs from the CG from those from the IG. Costs are  the intervention costs that the employer would have to pay for  the online training per employee (estimated at €200). The most  frequently used measures of cost-benefit relations are: (1) the net  benefits (NB = benefits – costs), the money gained after costs  are recovered; (2) the benefit-cost ratio (BCR = benefits / costs),  the money returned for one monetary unit invested; and (3) the  ROI (ROI = [benefits – costs] / costs × 100), the percentage  of profit per monetary unit invested.19 All three measures  are reported. 
+To quantify statistical uncertainty, bootstrapped 95% CIs19,47 were estimated around these measures, with 2,500 replications.  Positive financial returns are indicated by the following criteria:  NB > 0, BCR > 1, and ROI > 0%.19,48 In addition to this, the  probability of financial return was estimated by reporting the  proportion of positive bootstrapped financial return estimates. 
+Analysis of Cost-Effectiveness 
+All analyses were based on the intention-to-treat principle.  All 128 participants completed the ISI at baseline. Missing  data from the ISI at follow-up (7.2%) were imputed using a  Markov Chain Monte Carlo multivariate imputation algorithm  (missing data module in IBM SPSS 20) with 100 estimations  per missing value.45 
+For the cost-effectiveness analyses, costs (presenteeism +  absenteeism + intervention costs) and effects (number of par ticipants with treatment response) were calculated for the 6-mo  period and then costs and outcomes were related to each other.  The incremental cost-effectiveness ratio (ICER) was calcu lated according to the following formula: 
+ICER = (Costs IG − Costs CG) 
+(effects IG − effects CG) 
+To adjust the analyses of cost and effect differences for poten tial confounders (e.g., baseline depression, age, sex, and marital  status), seemingly unrelated regression was used. Baseline de pression and marital status were shown to be confounders of the  outcome. Since cost data are usually skewed to the right,42 the  nonparametric bias-corrected and accelerated bootstrapping  method with 2,500 replications was used to handle uncertainty  in the ICER. Bootstrap analyses were done using STATA. In  ICERs, negative ratios generally can mean reduced costs and  positive effects but can also indicate increased costs and nega tive effects. Therefore, figures are used (the so-called cost 
++ Costs Baseline 3 
+Costs 6 months 3 
+effectiveness planes) in which incremental effects (difference  between both groups) are displayed on the x-axis, and incre 
+AUC = * 3 + Costs 6 months 2 Subsequently, we added the respective intervention costs to the IG. 
+mental costs (difference between both groups) are plotted on  the y-axis. If a cost/effect pair (ICER) is located in the north east quadrant (NE-Q), the intervention is more effective but 
+SLEEP, Vol. 39, No. 10, 2016 1772 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+Table 1—Demographic characteristics: means/counts, standard deviations/percentages at baseline. 
+All (n = 128) IG (n = 64) CG (n = 64) 
+Age, mean (SD) 48.0 (9.9) 48.4 (9.9) 47.6 (9.9) Years of occupational experience, mean (SD) 19.6 (10.8) 20.4 (10.4) 18.9 (11.1) Female, n (%) 95 (74.2) 43 (67.2) 52 (81.3) Married/Partnership, n (%) 92 (71.9) 47 (73.4) 45 (70.3) Experience with occupational mental health trainings, n (%) 13 (10.2) 4 (6.3) 9 (14.1) Experiences with psychotherapy, n (%) 46 (35.9) 18 (28.1) 28 (43.8) Diagnosis of primary insomnia, n (%) 100 (78.1) 48 (75.0) 52 (81.3) Diagnosis of major depressive disorder, n (%) 18 (14.1) 11 (17.2) 7 (10.9) Diagnosis of generalized anxiety disorder, n (%) 12 (9.4) 6 (9.4) 6 (9.4) 
+CG, control group; IG, intervention group; SD, standard deviation. 
+Table 2—Hourly wage, absenteeism, presenteeism, and related costs (in euros) categorized by condition at 6-mo follow-up. 
+IG (n = 64) CG (n = 64) Δ IG − CG 
+Hourly Wage 23.96 (8.55) 21.71 (7.54) 2.25 
+Absenteeism days a 2.49 (5.50) 3.27 (11.60) −0.78 
+Presenteeism days a 6.83 (8.68) 11.90 (13.74) −5.07 
+Indirect Costs b 
+Absenteeism 995.40 (1,650.98) 1,073.40 (2,573.30) −78.00 
+Presenteeism 1,332.07 (1,750.82) 1,871.70 (2,190.12) −539.63 
+Intervention costs 200 – 
+Total Costs 2,527.47 (2,352.08) 2,945.10 (3,161.10) −417.63 
+Values presented as mean (standard deviation). a Regarding the past 3 mo. b Cumulative costs for each participant during the 6-mo follow-up period  calculated by the area under the curve of linearly interpolated 1-mo costs. CG, control group; IG, intervention group.
+also more costly as compared to the control condition. In the  southeast quadrant (SE-Q) the intervention is estimated to be  associated with lower costs, while simultaneously achieving  better health effects than the control condition (best possible  outcome). ICERs in the northwest quadrant (NW-Q) indicate  that the intervention is associated with higher costs and worse  outcomes than the control condition. Finally, ICERs in the  southwest Quadrant (SW-Q) point to an intervention being less  effective but also less costly than the control condition. In the  case of the SW-Q and the NE-Q, the amount of money a deci sion maker is willing to pay for one additional positive outcome  is crucial for whether a new intervention is adopted. 
+The willingness to pay is displayed in the cost-effectiveness  acceptability curve, which demonstrates the probability that  the intervention is cost-effective compared to treatment as  usual-only, given varying willingness to pay ceilings for the in tervention by potential decision makers, in this case employers. 
+Sensitivity Analyses 
+Two sensitivity analyses of intervention costs were conducted  in order to assess the robustness of the findings. In the main  analysis, we used intervention costs of €200. However, there  exists uncertainty concerning these costs, as prices may differ  once the intervention is integrated into occupational health care.  Therefore, all analyses were repeated assuming two additional  conditions of 50% (€100) and 150% (€300) intervention costs. 
+RESULTS 
+Baseline Characteristics 
+Table 1 summarizes baseline characteristics; details are de scribed in a previous article.32 
+Study Dropouts 
+Baseline data were available for all participants. The study at trition rate was low; 7.2% did not fill out the 6-mo follow-up  questionnaires (n = 5 [7.8%] for the IG and n = 10 [15.6%] in  the CG). 
+Intervention Use and Costs 
+All of the participants (n = 64) in the IG completed the first  three out of six modules of the intervention. Two subjects  dropped out after the third module, and one dropped out after  the fourth module. Reasons reported were “lack of motivation”  
+and “lack of time.” Overall, 61 participants (95.3%) completed  all six sessions. 
+In Table 2, the mean presenteeism, absenteeism, and inter vention costs are presented for the 6-mo follow-up assessment.  Total costs are reported for both groups and for the differences  between these groups. As Table 2 shows, presenteeism costs  accounted for the highest costs in both groups. 
+The mean difference in indirect costs at the 6-mo follow up was €618 per person in favor of the intervention group  
+SLEEP, Vol. 39, No. 10, 2016 1773 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+Table 3—Cost-benefit analyses (main and sensitivity). 
+Analysis
+	Costs 
+	Benefits 
+	Financial Return
+	P (%) 
+	Total 
+	Total 
+	NB (95% CI) 
+	BCR (95% CI) 
+	ROI (95% CI)
+	Main Analyses 
+	200 
+	617.63 
+	417.63 (−593.03 to  
+1,488.70) 
+	3.09 (−1.97 to 8.44) 
+	208.81 (−296.52 to 744.35) 
+	66
+	SA1 
+	€100 intervention costs 
+	100 
+	617.63 
+	517.63 (−493.04 to  
+1,588.70)
+	 6.18 (−3.93 to 16.89)
+	 517.63 (−493.04 to  
+1,588.70) 
+	72
+	SA2 
+	€300 intervention costs 
+	300 
+	617.63 
+	317.63 (−693.04 to  
+1,388.70) 
+	2.06 (−1.31 to 5.63) 
+	158.81 (−346.52 to 694.35) 
+	60
+	
+
+
+
+BCR, benefit-cost ratio, indicating the amount of money the employer gains for every euro invested; CI, confidence interval; NB, net benefit, indicating  amount of money gained after costs are recovered; SA, sensitivity analyses; ROI, return on Investment, indicating the percent of profit per euro invested.  P, the proportion of NBs, BCRs, and/or ROIs that indicate cost savings (i.e., “the probability of financial return”). 
+Table 4—Cost-effectiveness analyses. 
+Analysis 
+	Outcome
+	ΔC 
+	ΔE 
+	ICER 
+	Distribution CE-Plane (%)
+	Treatment 
+Response
+	Treatment 
+Response
+	€ / Treatment 
+Response 
+	NE 
+	SE 
+	SW 
+	NW
+	Main Analysis 
+	Reliable Change &  ISI < 8 (0–1) 
+	−544 
+	0.36 
+	−1,512 
+	13 
+	87 
+	0.0 
+	0.0
+	SA1 
+	€100 intervention costs 
+	Reliable Change &  ISI < 8 (0–1) 
+	−630 
+	0.36 
+	−1,806 
+	9 
+	91 
+	0.0 
+	0.0
+	SA2 
+	€300 intervention costs 
+	Reliable Change &  ISI < 8 (0–1) 
+	−434 
+	0.36 
+	−1,215 
+	19 
+	81 
+	0.0 
+	0.0
+	
+
+
+
+ΔC, average difference in costs between intervention and control group at 6-month follow-up; ΔE, average difference in effects (treatment response)  between intervention and control group; ICER, incremental cost effectiveness ratio; CE-plane, Cost-effectiveness plane; NE, north-east quadrant;  SA, sensitivity analyses; SE, south-east quadrant, SW, south-west quadrant; NW, north-west quadrant.
+([Presenteeism CG + Absenteeism CG] – [Presenteeism IG +  Absenteeism IG]). In the intervention group, each participant  produced costs of €200 (intervention costs), resulting in av erage savings in the first 6 mo of €418 ($512) in comparison to  the control group. 
+Cost-Benefit Analyses 
+Cost-benefit analyses and related sensitivity analyses are dis played in Table 3. 
+With intervention costs at €200 ($245) and per-person costs  at €2,527 ($2,091) in the IG and €2,945 ($3,602) in the CG, the  net benefit was €418 ($512) per participant at 6 mo, the benefit  cost ratio (BCR [benefit/costs]) was 3.1 (95% CI: −1.97 to 8.44).  This indicates that the employer gains €3.1 ($3.7) for every euro  (US dollar) invested. This results in an ROI ([benefits – costs] /  [costs × 100]) of 208.81% (95% CI: −296.51 to 744.35). Since  NB > 0, BCR > 1, and ROI > 0%, financial returns are con sidered positive. However, CIs are wide and contain 0; thus,  cost-benefit lacks statistical significance at a 95% level. The  probability of a positive financial return is 66%. 
+Cost-Effectiveness Analysis 
+On average, the IG improved by 9.3 (SD = 5.0) points on the  ISI, and the CG improved by 2.6 (SD = 4.4) points. There were  
+more participants in the IG (51 [79.7%]) with reliable improve ment at posttreatment in insomnia severity than in the CG (18  [28.1%]). In the IG, 27 participants were symptom-free by the  6-mo follow-up as indicated by a score of < 8 in the ISI.41 In the  CG, 4 participants were symptom-free. Thus, 42.2% of partici pants were responders in the IG and 6.3% in the CG. 
+Cost-effectiveness analyses are displayed in Table 4. The  ICER refers to the difference of mean indirect costs between  the two groups divided by the difference in positive effects  i.e., reliable ISI improvement and symptom-free subjects  (C1 − C0) / (E1 − E0). It is shown that (1) the improvement in re liable ISI was greater in the IG than the CG and resulted in in creased positive treatment responses (42.2% versus 6.3%), and  (2) the intervention group had less indirect cost (€2,527 versus  €2,945). The unadjusted point estimate of the ICER resulted  in savings of −€1,162 (95% CI: −4,041 to 1,690) (−$1,421) for  every participant with a positive treatment response after 6 mo.  Using the 2,500 bootstrapped replicates of the ICER that were  adjusted for baseline depression and marital status, the ICER  was estimated at −€1,512 (95% CI: −4,493 to 1,128) (−$1,849).  Figure 1 shows the cost-effectiveness plane, where each dot  (n = 2,500) stands for one bootstrap replication of the ICER.  The majority of the dots fall in the SE-Q, indicating an 87%  probability that the GET.ON Recovery intervention produces  
+SLEEP, Vol. 39, No. 10, 2016 1774 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+  
+
+Figure 1—Scatterplot showing the mean differences in costs and effect  outcome (positive treatment response) data using 2,500 bootstrap  replications. 
+greater health effects at lower costs compared to the control  condition. 
+The cost-effectiveness acceptability curve in Figure 2 shows  that if the employer is willing to pay zero for one positive treat ment response, there is an 87% chance that GET.ON Recovery  is more cost-effective than treatment as usual alone. The 95%  probability threshold is reached at €761 ($931) for one positive  treatment response. 
+Sensitivity Analyses 
+As Tables 3 and 4 show, sensitivity analyses led to similar re sults. With lower treatment costs (SA1), a positive financial re turn became more likely in the cost-benefit analyses (72%) and  the ICER increased to −€1,806 ($2,209) per additional treat ment response. Even with increased intervention costs of €300,  the intervention has an 81% probability that it produces greater  health effects at lower costs compared to the control condition  with the 95% probability threshold reached at a willingness-to pay of €1,115 ($1,364) per treatment response. 
+DISCUSSION 
+This economic evaluation performed both cost-effectiveness  and cost-benefit analyses on Internet-based CBT-I compared  to treatment as usual alone in employees with insomnia and  work-related rumination from an employer’s perspective. As  expected, presenteeism was the major cost driver and costs due  to presenteeism and absenteeism decreased relatively more in  the intervention group as compared to the control condition  during the 6-mo follow-up period. 
+The cost-benefit analyses showed a positive financial return  with a net benefit of €418 ($512) and a benefit-cost ratio of 3.09  (95% CI: −1.97 to 8.44). This indicates that the employer would  get €3.1 ($3.7) back for every €1 invested. However, CIs were  wide and included zero; therefore, our results lacked statistical  significance on a 95% level. We only found a moderate prob ability of 66% for a positive financial return. 
+With regard to the cost-benefit analyses, this work is the  first to investigate CBT for insomnia. However, our results  
+  
+
+Figure 2—Cost-effectiveness acceptability curve for one positive  treatment response.
+are comparable to Internet-based occupational health for de pression (P = 63%)21 and score above the average ROI (−0.22  (SD = 2.41) found for RCTs (n = 12) in a large review20 (2014,  n = 51 studies) on the cost-benefit of general workplace health  promotion. 
+With regard to the cost-effectiveness analyses, the probability  of the intervention being cost-effective was 87% at a potential  willingness-to-pay of zero. If a payer is willing to pay €243,  €761, or €1,794 for each treatment response, the probability in creases to 90%, 95%, and 99% respectively. Sensitivity analyses  confirmed the robustness of these results. Even with interven tion costs of €300, the probability of cost-effectiveness is > 80%. 
+A probability of 87% at a willingness to pay of zero can be  generally perceived as a good result because it exceeds the 50%  probability cutoff and compares favorably to economic evalu ations of CBT-I: Bonin et al.6 found the intervention to have a  probability of only 7% of being cost effective. Watanabe et al.7 
+also reported a probability of less than 10% for a willingness to  pay of zero for one additional QALY. A potential explanation  for our relatively good results may be that our study focused  on non-medical indirect costs, which are considered the major  cost-drivers, whereas Bonin et al.6 and Watanabe et al.7 only  focused on direct health care costs from a health service per spective. Other explanations include differences with regard  to the intervention and the costs associated with it, as well as  different outcome measures and another study population. For  example, Bonin et al.6 evaluated brief community workshops  for the general population (universal prevention) while the  present study evaluated Internet-based CBT-I for employees  with elevated symptom severity (indicated prevention). De spite these differences, both studies concluded that CBT-I is  likely to be cost-effective given the anticipated costs decision  makers would be willing to pay. 
+Since the present Internet-based CBT-I intervention was  targeted at employees, its cost-effectiveness may also gen erally be compared to that found in occupational health  interventions for other conditions such as depression.21 Ger aedts et al. found a 95% probability of their Internet-based  
+SLEEP, Vol. 39, No. 10, 2016 1775 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+occupational health intervention for depressed employees to  be cost-effective at a willingness-to-pay of around three times  higher (€3,500) than the one found in this study (€761); there fore, they do not recommend their intervention to employers  in terms of cost savings. 
+Comparisons with the afore-mentioned studies should gen erally be interpreted with caution as our evaluation differs  with regard to target group, methodology, perspective, and/ or setting. Moreover, the willingness-to-pay for occupational  health interventions and the acceptability of a certain cost-ef fectiveness probability threshold varies among payers19; there fore, cost-effectiveness needs to be judged by individual payers  and cannot be obtained using the presented cost-acceptability  curve or comparisons to other studies.43,44 
+Limitations of our study include the lack of a longer  follow-up period. Although six months is a longer period  than in all previous studies on the cost-effectiveness of  CBT-I, simulation of costs developing over a much longer  period of time may be more useful to show employers the  potential of costs to be reduced. With a longer time horizon  (i.e., 12 or 24 mo) benefits might accumulate. Thus, our re sults have a chance of being too conservative, also given its  focus on only presenteeism and absenteeism. Further work related costs were not included. Given that insomnia is asso ciated with 7.2% of all costly workplace accidents and errors  and 23.7% of all the costs of these incidents,49 the inclusion  of costs other than presenteeism and absenteeism may lead  to higher overall costs and a higher potential for cost savings.  Limitations further include the fact that the sample size may  have been too small to detect statistical significance with  appropriate power in the cost-benefit analyses. In economic  evaluations that are conducted parallel to a clinical trial,  power issues constitute a problem because cost variables  often have a higher variance and generally require greater  sample sizes than clinical evaluations.44 Hence, a probabi listic decision making approach was used.43,44 In addition,  the current evaluation was done from the employer’s per spective; further studies should also include calculations of  cost-utility from the societal perspective. Another limita tion is that participants in this trial were predominantly fe male teachers, which may limit the generalizability for male  teachers. Furthermore, our results may only be generalized  to professions with similar characteristics, such as flexible  working hours, loose boundaries between work and private  life, and work-home interference.50 
+Internet-based interventions for mental disorders have  often been introduced as potential cost-saving alternatives  to face-to-face individual or group therapy, but evidence for  this assumption needs to be extended.51 Our study helps shed  light into this by being the first to show the potential cost-ef fectiveness of an Internet-based CBT-I intervention from the  employer’s perspective. 
+This evaluation shows two main points regarding sleep im provement through Internet-based CBT-I. First, this interven tion may potentially be a cost-effective strategy in occupational  health care, and second, the cost-savings due to reduced pre senteeism at work outweigh those of absenteeism. This is im portant information for employers willing to primarily target a  
+reduction in sick leave by this kind of intervention. The results  of this economic evaluation justify replication of its results  preferably with larger sample sizes with sufficient statistical  power and as well with professionals other than teachers tar geted over longer periods of time. The results of these studies  could inform employers about the benefits of CBT-I based oc cupational health interventions for their employees. 
+ABBREVIATIONS 
+AUC, area under the curve 
+BCR, benefit cost ratio 
+CBT-I, cognitive behavioral therapy for insomnia CG, control group 
+CHEERS, Consolidated Health Economic Evaluation  Reporting Standard 
+DRKS, Deutsches Register Klinischer Studien [German  Clinical Trial Register] 
+ICER, incremental cost effect ratio 
+IG, intervention group 
+ISI, Insomnia Severity Index 
+ITT, intention to treat 
+NB, net benefit 
+NE-Q, north-east quadrant 
+NW-Q, north-west quadrant 
+PPP, Purchasing Power Parities 
+QALY, quality adjusted life years 
+RCI, Reliable Change Index 
+ROI, return on investment 
+SE-Q, south-east quadrant 
+SW-W, south-west quadrant 
+TAU, treatment-as-usual 
+TiC-P, Trimbos/iMTA questionnaire for costs associated with  psychiatric illness 
+REFERENCES 
+1. Morin CM, Culbert JP, Schwartz SM. Nonpharmacological  interventions for insomnia: a meta-analysis of treatment efficacy. Am J  Psychiatry 1994;151:1172–80. 
+2. Trauer JM, Qian MY, Doyle JS, Rajaratnam SM, Cunnington D.  Cognitive behavioral therapy for chronic insomnia: a systematic  review and meta-analysis. Ann Intern Med 2015;163:191–204. 
+3. Geiger-Brown JM, Rogers VE, Liu W, Ludeman EM, Downton KD,  Diaz-Abad M. Cognitive behavioral therapy in persons with comorbid  insomnia: a meta-analysis. Sleep Med Rev 2014;23C:54–67. 
+4. Botteman M. Health economics of insomnia therapy: implications for  policy. Sleep Med 2009;10:22–5. 
+5. Wickwire EM, Shaya FT, Scharf SM. Health economics of insomnia  treatments: the return on investment for a good night’s sleep. Sleep  Med Rev 2016;30:72–82. 
+6. Bonin EM, Beecham J, Swift N, Raikundalia S, Brown JS. Psycho educational CBT-Insomnia workshops in the community. A cost effectiveness analysis alongside a randomised controlled trial. Behav  Res Ther 2014;55:40–7. 
+7. Watanabe N, Furukawa TA, Shimodera S, et al. Cost-effectiveness of  cognitive behavioral therapy for insomnia comorbid with depression:  analysis of a randomized controlled trial. Psychiatry Clin Neurosci  2014;69:335–43. 
+8. van der Zweerde T, Lancee J, Slottje P, et al. Cost-effectiveness of  i-Sleep, a guided online CBT intervention, for patients with insomnia  in general practice: protocol of a pragmatic randomized controlled  trial. BMC Psychiatry 2016;16:85.
+SLEEP, Vol. 39, No. 10, 2016 1776 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+9. Cheng SK, Dizon J. Computerised cognitive behavioural therapy  for insomnia: a systematic review and meta-analysis. Psychother  Psychosom 2012;81:206–16. 
+10. Ho FY, Chung KF, Yeung WF, et al. Self-help cognitive-behavioral  therapy for insomnia: a meta-analysis of randomized controlled trials.  Sleep Med Rev 2015;19:17–28. 
+11. Lancee J, van Straten A, Morina N, Kaldo V, Kamphuis JH. Guided  online or face-to-face cognitive behavioral treatment for insomnia?  A randomized wait-list controlled trial. Sleep 2016;39:183–91. 
+12. Zachariae R, Lyby MS, Ritterband LM, O’Toole MS. Efficacy of  internet-delivered cognitive-behavioral therapy for insomnia – a  systematic review and meta-analysis of randomized controlled trials.  Sleep Med Rev 2016;30:1–10. 
+13. Mack LJ, Rybarczyk BD. Behavioral treatment of insomnia: a proposal  for a stepped-care approach to promote public health. Nat Sci Sleep  2011;26;3:87–99. 
+14. Godet-Cayré V, Pelletier-Fleury N, Le Vaillant M, et al. Insomnia and  absenteeism at work. Who pays the cost? Sleep 2006;29:179–84. 15. Daley M, Morin CM, LeBlanc M, Grégoire JP, Savard J. The economic  burden of insomnia: direct and indirect costs for individuals with  insomnia syndrome, insomnia symptoms, and good sleepers. Sleep  2009;32:55–64. 
+16. Kessler RC, Berglund PA, Coulouvrat C, et al. Insomnia and the  performance of US workers: results from the America insomnia  survey. Sleep 2011;34:1161–71. 
+17. Sivertsen B, Lallukka T, Salo P. The economic burden of insomnia  at the workplace. An opportunity and time for intervention? Sleep  2011;34:1151–2. 
+18. O’Donnell MP. What is the ROI for workplace health promotion?  It really does depend, and that’s the point. Am J Health Promot  2015;29:5–7. 
+19. van Dongen JM, van Wier MF, Tompa E, et al. Trial-based economic  evaluations in occupational health: principles, methods, and  recommendations. J Occup Environ Med 2014;56:563–72. 
+20. Baxter S, Sanderson K, Venn AJ, et al. The relationship between  return on investment and quality of study methodology in workplace  health promotion programs. Am J Health Promot 2014;28:347–63. 
+21. Geraedts AS, van Dongen JM, Kleiboer AM, et al. Economic  evaluation of a Web-based guided self-help intervention for employees  with depressive symptoms: results of a randomized controlled  trial. J Occup Environ Med 2015;57:666. 
+22. Thiart H, Lehr D, Ebert DD, Sieland B, Berking M, Riper H. Log in  and breathe out: efficacy and cost-effectiveness of an online sleep  training for teachers affected by work-related strain – study protocol  for a randomized controlled trial. Trials 2013;14:169. 
+23. Thiart H, Lehr D, Ebert DD, Berking M, Riper H. Log in and breathe  out: Internet-based recovery training for sleepless employees with  work-related strain –results of a randomized controlled trial. Scand J  Work Environ Health 2015;41:164–74. 
+24. Husereau D, Drummond M, Petrou S, et al. Consolidated Health  Economic Evaluation Reporting Standards (CHEERS)—Explanation  and Elaboration: a report of the ISPOR Health Economic Evaluation  Publication Guidelines Good Reporting Practices Task Force. Value  Health 2013;16:231–50. 
+25. Hautzinger M, Keller F, Kühner C. BDI-II. Beck Depressions-Inventar  Revision [Beck Depression Inventory Revision]. Frankfurt am Main:  Harcourt Test Services, 2006. 
+26. Siebern AT, Manber R. Insomnia and its effective non-pharmacologic  treatment. Med Clin North Am 2010;94:581–91. 
+27. Cuijpers P, van Straten A, Warmerdam L. Behavioral activation  treatments of depression: a meta-analysis. Clin Psychol Rev  2007;27:318–26. 
+28. Wells A. Metacognitive therapy for anxiety and depression. New York,  NY: Guilford Press, 2009. 
+29. Emmons RA, McCullough ME. Counting blessings versus burdens: an  experimental investigation of gratitude and subjective well-being in  daily life. J Pers Soc Psychol 2003;84:377–89. 
+30. Kreiner GE, Hollensbe EC, Sheep ML. Balancing borders and bridges:  negotiating the work-home interface via boundary work tactics. Acad  Manage J 2009;52:704–30. 
+31. Ebert DD, Berking M, Thiart H, et al. Restoring depleted resources:  efficacy and mechanisms of change of an internet-based unguided  recovery training for better sleep and psychological detachment from  work. Health Psychol 2015;34:1240–51. 
+32. Morin CM, Belleville G, Bélanger L, Ivers H. The Insomnia Severity  Index: psychometric indicators to detect insomnia cases and evaluate  treatment response. Sleep 2011;34:601–8. 
+33. Jacobson N, Truax P. Clinical significance: a statistical approach to  defining meaningful change in psychotherapy research”. J Condult  Clin Psychol 1991;59:12–19. 
+34. Bastien CH, Vallières A, Morin CM. Validation of the insomnia  severity index as an outcome measure for insomnia research. Sleep  Med 2001;2:297–307. 
+35. Thorndike FP, Ritterband LM, Saylor DK, Magee JC, Gonder Frederick LA, Morin CM. Validation of the insomnia severity index as  a web-based measure. Behav Sleep Med 2011;9:216–23. 
+36. OECD Purchasing Power Parities. Accessed January 14, 2016.  Available at https://data.oecd.org/conversion/purchasing-power parities-ppp.htm#indicator-chart. 
+37. Hakkaart-van Roijen L. Manual Trimbos/iMTA questionnaire for costs  associated with psychiatric illness (in Dutch). Rotterdam: Institute for  MedicalTechnology Assessment, 2002. 
+38. Bouwmans C, De Jong K, Timman R, et al. Feasibility, reliability and  validity of a questionnaire on healthcare consumption and productivity  loss in patients with a psychiatric disorder (tic-p). BMC Health Serv  Res 2013;13:217. 
+39. Drummond MF, Sculpher MJ, Torrance GW, O’Brien BSG. Methods  for the economic evaluation of health care programmes, 3rd ed. New  York, NY: Oxford University Press, 2005. 
+40. Osterhaus JT, Gutterman DL, Plachetka JR. Healthcare resource and  lost labor costs of migraine headache in the US. Pharmacoeconomics  1992;2:67–76. 
+41. Berufsverband deutscher Psychologinnen und Psychologen (o.J.):  Durchschnittliche Jahresgehälter von Psychologen [average wages  of psychologists]. Accessed April 30, 2015. Available at http://www. bdpverband.org/beruf/gehalt.shtml. 
+42. van Hout BA, Al MJ, Gordon GS, Rutten FFH. Costs, effects and C/E ratios alongside a clinical trial. Health Econ 1994;3:309–19. 43. Briggs AH, Gray AM. Methods in health service research: handling  uncertainty in economic evaluations of healthcare interventions. Br  Med J 1999;319:635–8. 
+44. Briggs A. Economic evaluation and clinical trials: size matters. The  need for greater power in cost analyses poses an ethical dilemma. BMJ  2000;321:1362–3. 
+45. Schafer JL, Graham JW. Missing data: our view of the state of the art.  Psychol Methods 2002,7:147–77. 
+46. Matthews JN, Altman DG, Campbell MJ, Royston P. Analysis of serial  measurements in medical research. BMJ 1990;300:230–5. 47. Glick HA, Doshi JA, Sonnad SS, Polsky D. Economic evaluations in  clinical trials. New York, NY: Oxford University Press, 2007. 48. Leigh JP. Expanding research on the economics of occupational health.  Scand J Work Environ Health 2006;32:1–4. 
+49. Shahly V, Berglund PA, Coulouvrat C, et al. The associations of  insomnia with costly workplace accidents and errors: results from the  America Insomnia Survey. Arch Gen Psychiatry 2012;69:1054–63. 
+50. Lehr D. Belastung und Beanspruchung im Lehrerberuf:  Gesundheitliche Situation und Evidenz für Risikofaktoren [Stress and  strain in teachers: Health situation and evidence for risk factors]. In:  Terhart E, Bennewitz H, Rothland M, eds. Handbuch der Forschung  zum Lehrerberuf [Manual of research on the teaching profession].  Münster: Waxmann, 2011:757–73. 
+51. Donker T, Blankers M, Hedman E, Ljótsson B, Petrie K, Christensen  H. Economic evaluations of Internet interventions for mental health: a  systematic review. Psychol Med 2015;45:3357–76.
+SLEEP, Vol. 39, No. 10, 2016 1777 Economic Evaluation of Internet-Based CBT-I—Thiart et al. 
+ACKNOWLEDGMENTS 
+Author contributions: Matthias Berking, David Daniel Ebert, and Dirk  Lehr obtained the funding for this study; all authors contributed to the  design of the study; Hanne Thiart performed the outcome analyses, led the  writing efforts for the first draft of the manuscript, and integrated co-author  comments and edits; Stephanie Nobis helped with the analyses; Hanne  Thiart, Heleen Riper, Dirk Lehr, Stephanie Nobis, Filip Smit, and David  Daniel Ebert supervised the writing process; and all authors contributed to  further writing of the manuscript and approved the final manuscript. 
+SUBMISSION & CORRESPONDENCE INFORMATION Submitted for publication February, 2016 
+Submitted in final revised form May, 2016 
+Accepted for publication June, 2016 
+Address correspondence to: Hanne Thiart, MSc, Leuphana University  Lueneburg, Scharnhorststraße 1, 21335 Lueneburg, Germany; Fon +49 4131  2173 002; Fax: +49 4131 677 1717; Email: thiart@leuphana.de 
+DISCLOSURE STATEMENT 
+This was not an industry supported study. The European Union funded this  study (EU EFRE: ZW6-80119999, CCI 2007DE161PR001). Hanne Thiart,  David Daniel Ebert, Dirk Lehr, Stephanie Nobis, and Matthias Berking are  stakeholders of the “Institute for Online Health Trainings” which aims to  transfer scientific knowledge related to the current research into routine health  care. The other authors have indicated no financial conflicts of interest. The  current study was performed at Leuphana University of Lueneburg. Hanne  Thiart had full access to all the data in the study and takes responsibility for  the integrity of the data and the accuracy of the data analysis. 
+SLEEP, Vol. 39, No. 10, 2016 1778 Economic Evaluation of Internet-Based CBT-I—Thiart et al.
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

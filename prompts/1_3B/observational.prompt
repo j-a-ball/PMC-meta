@@ -1,0 +1,564 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+SPIRIT 2013 Checklist: Recommended items to address in a clinical trial protocol and related documents*
+Section/item
+	Item No
+	Description
+	Addressed on page number
+	Administrative information
+	
+
+	Title
+	1
+	Descriptive title identifying the study design, population, interventions, and, if applicable, trial acronym
+	_____________
+	Trial registration
+	2a
+	Trial identifier and registry name. If not yet registered, name of intended registry
+	_____________
+	2b
+	All items from the World Health Organization Trial Registration Data Set
+	_____________
+	Protocol version
+	3
+	Date and version identifier
+	_____________
+	Funding
+	4
+	Sources and types of financial, material, and other support
+	_____________
+	Roles and responsibilities
+	5a
+	Names, affiliations, and roles of protocol contributors
+	_____________
+	5b
+	Name and contact information for the trial sponsor
+	_____________
+	
+
+	5c
+	Role of study sponsor and funders, if any, in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication, including whether they will have ultimate authority over any of these activities
+	
+
+_____________
+	
+
+	5d
+	Composition, roles, and responsibilities of the coordinating centre, steering committee, endpoint adjudication committee, data management team, and other individuals or groups overseeing the trial, if applicable (see Item 21a for data monitoring committee)
+
+
+
+
+
+
+	_____________
+	Introduction
+	
+
+	
+
+	
+
+	Background and rationale
+	6a
+	Description of research question and justification for undertaking the trial, including summary of relevant studies (published and unpublished) examining benefits and harms for each intervention
+	_____________
+	
+
+	6b
+	Explanation for choice of comparators
+	_____________
+	Objectives
+	7
+	Specific objectives or hypotheses
+	_____________
+	Trial design
+	8
+	Description of trial design including type of trial (eg, parallel group, crossover, factorial, single group), allocation ratio, and framework (eg, superiority, equivalence, noninferiority, exploratory)
+	
+
+_____________
+	Methods: Participants, interventions, and outcomes
+	
+
+	Study setting
+	9
+	Description of study settings (eg, community clinic, academic hospital) and list of countries where data will be collected. Reference to where list of study sites can be obtained
+	_____________
+	Eligibility criteria
+	10
+	Inclusion and exclusion criteria for participants. If applicable, eligibility criteria for study centres and individuals who will perform the interventions (eg, surgeons, psychotherapists)
+	_____________
+	Interventions
+	11a
+	Interventions for each group with sufficient detail to allow replication, including how and when they will be administered
+	_____________
+	11b
+	Criteria for discontinuing or modifying allocated interventions for a given trial participant (eg, drug dose change in response to harms, participant request, or improving/worsening disease)
+	_____________
+	11c
+	Strategies to improve adherence to intervention protocols, and any procedures for monitoring adherence (eg, drug tablet return, laboratory tests)
+	_____________
+	11d
+	Relevant concomitant care and interventions that are permitted or prohibited during the trial
+	_____________
+	Outcomes
+	12
+	Primary, secondary, and other outcomes, including the specific measurement variable (eg, systolic blood pressure), analysis metric (eg, change from baseline, final value, time to event), method of aggregation (eg, median, proportion), and time point for each outcome. Explanation of the clinical relevance of chosen efficacy and harm outcomes is strongly recommended
+	
+
+_____________
+	Participant timeline
+	13
+	Time schedule of enrolment, interventions (including any run-ins and washouts), assessments, and visits for participants. A schematic diagram is highly recommended (see Figure)
+	_____________
+	Sample size
+	14
+	Estimated number of participants needed to achieve study objectives and how it was determined, including clinical and statistical assumptions supporting any sample size calculations
+	_____________
+	Recruitment
+	15
+	Strategies for achieving adequate participant enrolment to reach target sample size
+	_____________
+	Methods: Assignment of interventions (for controlled trials)
+	
+
+	Allocation:
+	
+
+	
+
+	
+
+	Sequence generation
+	16a
+	Method of generating the allocation sequence (eg, computer-generated random numbers), and list of any factors for stratification. To reduce predictability of a random sequence, details of any planned restriction (eg, blocking) should be provided in a separate document that is unavailable to those who enrol participants or assign interventions
+	_____________
+	Allocation concealment mechanism
+	16b
+	Mechanism of implementing the allocation sequence (eg, central telephone; sequentially numbered, opaque, sealed envelopes), describing any steps to conceal the sequence until interventions are assigned
+	_____________
+	Implementation
+	16c
+	Who will generate the allocation sequence, who will enrol participants, and who will assign participants to interventions
+	_____________
+	Blinding (masking)
+	17a
+	Who will be blinded after assignment to interventions (eg, trial participants, care providers, outcome assessors, data analysts), and how
+	_____________
+	
+
+	17b
+	If blinded, circumstances under which unblinding is permissible, and procedure for revealing a participant’s allocated intervention during the trial
+	_____________
+	Methods: Data collection, management, and analysis
+	
+
+	Data collection methods
+	18a
+	Plans for assessment and collection of outcome, baseline, and other trial data, including any related processes to promote data quality (eg, duplicate measurements, training of assessors) and a description of study instruments (eg, questionnaires, laboratory tests) along with their reliability and validity, if known. Reference to where data collection forms can be found, if not in the protocol
+	_____________
+	
+
+	18b
+	Plans to promote participant retention and complete follow-up, including list of any outcome data to be collected for participants who discontinue or deviate from intervention protocols
+	_____________
+	Data management
+	19
+	Plans for data entry, coding, security, and storage, including any related processes to promote data quality (eg, double data entry; range checks for data values). Reference to where details of data management procedures can be found, if not in the protocol
+	_____________
+	Statistical methods
+	20a
+	Statistical methods for analysing primary and secondary outcomes. Reference to where other details of the statistical analysis plan can be found, if not in the protocol
+	_____________
+	
+
+	20b
+	Methods for any additional analyses (eg, subgroup and adjusted analyses)
+	_____________
+	
+
+	20c
+	Definition of analysis population relating to protocol non-adherence (eg, as randomised analysis), and any statistical methods to handle missing data (eg, multiple imputation)
+	
+
+_____________
+	Methods: Monitoring
+	
+
+	Data monitoring
+	21a
+	Composition of data monitoring committee (DMC); summary of its role and reporting structure; statement of whether it is independent from the sponsor and competing interests; and reference to where further details about its charter can be found, if not in the protocol. Alternatively, an explanation of why a DMC is not needed
+	_____________
+	
+
+	21b
+	Description of any interim analyses and stopping guidelines, including who will have access to these interim results and make the final decision to terminate the trial
+	_____________
+	Harms
+	22
+	Plans for collecting, assessing, reporting, and managing solicited and spontaneously reported adverse events and other unintended effects of trial interventions or trial conduct
+	_____________
+	Auditing
+	23
+	Frequency and procedures for auditing trial conduct, if any, and whether the process will be independent from investigators and the sponsor
+	_____________
+	Ethics and dissemination
+	
+
+	Research ethics approval
+	24
+	Plans for seeking research ethics committee/institutional review board (REC/IRB) approval
+	_____________
+	Protocol amendments
+	25
+	Plans for communicating important protocol modifications (eg, changes to eligibility criteria, outcomes, analyses) to relevant parties (eg, investigators, REC/IRBs, trial participants, trial registries, journals, regulators)
+	_____________
+	Consent or assent
+	26a
+	Who will obtain informed consent or assent from potential trial participants or authorised surrogates, and how (see Item 32)
+	_____________
+	
+
+	26b
+	Additional consent provisions for collection and use of participant data and biological specimens in ancillary studies, if applicable
+	_____________
+	Confidentiality
+	27
+	How personal information about potential and enrolled participants will be collected, shared, and maintained in order to protect confidentiality before, during, and after the trial
+	_____________
+	Declaration of interests
+	28
+	Financial and other competing interests for principal investigators for the overall trial and each study site
+	_____________
+	Access to data
+	29
+	Statement of who will have access to the final trial dataset, and disclosure of contractual agreements that limit such access for investigators
+	_____________
+	Ancillary and post-trial care
+	30
+	Provisions, if any, for ancillary and post-trial care, and for compensation to those who suffer harm from trial participation
+	_____________
+	Dissemination policy
+	31a
+	Plans for investigators and sponsor to communicate trial results to participants, healthcare professionals, the public, and other relevant groups (eg, via publication, reporting in results databases, or other data sharing arrangements), including any publication restrictions
+	_____________
+	
+
+	31b
+	Authorship eligibility guidelines and any intended use of professional writers
+	_____________
+	
+
+	31c
+	Plans, if any, for granting public access to the full protocol, participant-level dataset, and statistical code
+	_____________
+	Appendices
+	
+
+	
+
+	
+
+	Informed consent materials
+	32
+	Model consent form and other related documentation given to participants and authorised surrogates
+	_____________
+	Biological specimens
+	33
+	Plans for collection, laboratory evaluation, and storage of biological specimens for genetic or molecular analysis in the current trial and for future use in ancillary studies, if applicable
+	_____________
+	
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿888128 TAR0010.1177/1753466619888128Therapeutic Advances in Respiratory DiseaseM Contoli, P Rogliani 
+research-article20192019 
+Therapeutic Advances in Respiratory Disease 
+Satisfaction with chronic obstructive  
+pulmonary disease treatment: results from  a multicenter, observational study 
+Marco Contoli, Paola Rogliani, Fabiano Di Marco, Fulvio Braido, Angelo G. Corsico,  Christian A. Amici, Roberto Piro, Riccardo Sarzani, Patrizia Lessi, Carla Scognamillo ,  Nicola Scichilone and Pierachille Santus on behalf of the SAT Study Group 
+Abstract 
+Background: Understanding the level of patients’ satisfaction with treatment and its  determinants have the potential to impact therapeutic management and clinical outcome in  chronic conditions such as chronic obstructive pulmonary disease (COPD). 
+Methods: A national, multicenter, longitudinal, observational study of COPD from 20 Italian  pulmonary centers to explore patients’ satisfaction to treatment [assessed by the Treatment  Satisfaction Questionnaire, 9 items (TSQM-9)] and association with clinical parameters  [including dyspnea score, COPD Assessment Test (CAT) score, exacerbation rate], adherence  to treatment [Morisky Medication-Taking Adherence Scale (MMAS-4)], illness perception  [evaluated by Brief Illness Perception Questionnaire (B-IPQ)] in a 1-year follow up. Results: A total of 401 COPD patients were enrolled [69.4% group B Global Initiative for COPD  (GOLD), considering 366 patients with available GOLD 2017 classification at enrollment].  At enrollment, satisfaction with treatment was moderate, being TSQM-9 mean scores  for effectiveness 64.2 [95% confidence interval (CI) 62.5–65.9], for convenience 75.8 (95%  CI 74.2–77.3), and for global satisfaction 65.7 (95% CI 64.0–67.4). Global satisfaction was  negatively associated with disease perception (β = −0.4709, p<0.0001), and grade of dyspnea  (β = −4.2564, p=0.009). Satisfaction with treatment was lower in patients with poor compared  with optimal adherence to treatment (β = −4.5608, p=0.002). Changes in inhalation regimens  during follow up did not modify the satisfaction with treatment. 
+Conclusions: The results of this real-life study showed that the patients’ satisfaction with  treatments is only moderate in COPD. A high grade of patients’ satisfaction is associated mainly  with a low perception of the disease, high adherence to treatment and lower level of dyspnea. Trial Registration: Clinicaltrials.gov identifier: NCT02689492 
+The reviews of this paper are available via the supplemental material section. 
+Keywords: adherence, COPD, treatment satisfaction 
+Received: 17 June 2019; accepted in revised form: 7 October 2019. 
+Original Research
+Ther Adv Respir Dis 
+2019, Vol. 13: 1–12 
+DOI: 10.1177/ 
+https://doi.org/10.1177/1753466619888128 https://doi.org/10.1177/1753466619888128 
+1753466619888128 
+© The Author(s), 2019.  
+Correspondence to: 
+Pierachille Santus 
+Department of Biomedical  and Clinical Sciences  (DIBIC), Università  
+di Milano, Division of  
+Respiratory Diseases, ‘L.  Sacco’ Hospital, Via G.B.  Grassi 74, Milan 20157, Italy  pierachille.santus@ 
+unimi.it 
+Marco Contoli 
+Department of Medical  Sciences, University of  Ferrara, Emilia-Romagna,  Italy 
+Paola Rogliani 
+Department of  
+Experimental Medicine,  University of Rome ‘Tor  Vergata,’ Rome, Italy 
+Fabiano Di Marco 
+Department of Health  Science, Università di  Milano, Bergamo, Italy 
+Fulvio Braido 
+Department of Internal  Medicine, University of  Genoa, Genoa, Italy 
+Angelo G. Corsico 
+Division of Respiratory  Diseases, IRCCS  
+Policlinico San Matteo  Foundation, University of  Pavia, Pavia, Italy 
+Christian A. Amici 
+Medineos Observational  Research, Modena, Emilia Romagna, Italy 
+Roberto Piro 
+Azienda Unità Sanitaria  Locale-IRCCS di Reggio  Emilia, Italy 
+Riccardo Sarzani 
+Internal Medicine and  
+Introduction 
+Chronic obstructive pulmonary disease (COPD) is  characterized by persistent respiratory symptoms,  exercise intolerance, and airflow limitation due to  airway or alveolar abnormalities, commonly caused  by a substantial exposure to noxious particles or  gases, cigarette smoking being the most relevant  risk factor.1 COPD is one of the most common  
+causes of morbidity, mortality, and increased  health costs among chronic diseases.2 
+The success of any therapy for chronic conditions  is determined by the adherence to long-term  therapy, defined by the World Health Organization  (WHO) as ‘the extent to which a person’s behavior  (taking medication, following a diet, or executing  
+Geriatrics, Università  Politecnica delle Marche  and IRCCS-INRCA,  Ancona, Italy  
+Patrizia Lessi  
+Carla Scognamillo 
+Boehringer Ingelheim  Milano, Italy 
+Nicola Scichilone 
+DIBIMIS, University of  Palermo, Palermo, Italy 
+journals.sagepub.com/home/tar 1 
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License (http://www.creativecommons.org/licenses/by/4.0/)  which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open  Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage). 
+Therapeutic Advances in Respiratory Disease 13 
+lifestyle changes) corresponds with the agreed rec ommendations from a healthcare provider.’3 As  this concept of adherence is expressed, it includes  not only compliance to pharmacological and non pharmacological treatments but also the extent to  which the patient’s behavior matches agreed rec ommendations from the prescriber (e.g. smoking  cessation, dietary restriction, regular physical  activities, periodical medical consultations). Long term adherence is a major unmet medical need in  chronic conditions, negatively influencing short and long-term prognosis. In addition, poor adher ence to treatment increases disease-related costs  and may contribute to treatment gaps in COPD  care.3,4 Almost half of patients with COPD do not  adhere to their medications.5 
+Patient satisfaction with their medications is  shown to affect treatment-related factors, such as  their likelihood of continuing use of their medica tion, using their medication correctly, and adher ence of their medication regimen.6,7 
+Limited information is available on the long-term  treatment satisfaction and potential correlation  with treatment adherence of patients with COPD  in the real-life setting, as well as on the impact of  satisfaction on clinical outcomes. To address this  gap of information, we performed a national mul 
+ticenter longitudinal observational study to pri marily explore the patients’ satisfaction with  COPD medical treatment in a clinical, real-world  setting. Furthermore, we evaluated if and how  this is related to clinical parameters, quality of  life, illness perception and treatment adherence  evolution, during a 12-month follow up. 
+Understanding the impact of treatment patient  satisfaction on clinical outcomes could help iden tify determinants of poor adherence and highlight  potential actions to improve success of COPD  management. 
+Methods 
+Study design and population 
+The SATisfaction and adherence to COPD treat ment (SAT) study was a multicenter, non interventional (observational) cohort study. A  detailed description of the study design and pro cedures are available in Supplementary Appendix  1. Briefly, consecutive COPD patients were  enrolled between November 2015 and September  
+2016. Patients were followed up for 1 year, with  an intermediate evaluation after 6 (±1) months  from baseline. The study conformed to the  Declaration of Helsinki. The local institutional  ethics committees approved the work, and  informed written consent was obtained from each  participant. The study is registered [ClinicalTrials. 
+gov identifier: NCT02689492]. 
+All patients were aged > 40years and had COPD  according to symptoms, spirometry results, and  the standard definition according to the Global  Initiative for COPD (GOLD). Patients had to be  free from a COPD exacerbation since at least  3months and on stable, inhaled treatment for at  least 3months. The main exclusion criteria  included patients naïve/without chronic, inhaled  treatment, concomitant diagnosis of asthma. 
+Study procedures, variables, and outcomes The assessment and the treatment of the enrolled  patients were applied according to standard clinical  practice. No treatment was administered to the  patients on the protocol basis. At baseline, socio demographic variables, smoking habits, medical  history, lung function test (by means of spirometry),  and history of COPD exacerbations in the previous  year were collected (Table 1). The exacerbation of  COPD was defined as a symptomatic deterioration  requiring treatment with antibiotic agents, systemic  corticosteroids (moderate), hospitalization, or a  combination of these (severe).8 At each visit, data  on switching/modification of inhaled treatments  and exacerbation events occurring from the previ ous visit were collected. Furthermore, at each study  visit, the physicians were asked to collect by specific  and validated questionnaires: (a) patients’ satisfac tion with COPD medical treatments evaluated  through the Treatment Satisfaction Questionnaire,  9 items (TSQM-9; ranging between 0 and 100, the  higher the score, the higher the grade of satisfac tion);9,10 (b) patient disease perception, evaluated  by means of the Brief Illness Perception  Questionnaire (B-IPQ; ranging between 0 and 80,  the higher scores indicate a more threatening notion  of COPD by the patient);11 (c) adherence to COPD  treatment, evaluated by means of the Morisky  Medication-Taking Adherence Scale (MMAS-4;  ranging between 0 and 4, the higher scores indicate  greater adherence to therapy);12 (d) disease-related  health status by the COPD Assessment Test (CAT;  CAT total score of ⩾10 is used by in the GOLD  document 1 to classify COPD patients as highly 
+2 journals.sagepub.com/home/tar 
+M Contoli, P Rogliani et al. 
+symptomatic);13 and (e) dyspnea severity by the  Modified Medical Research Council (mMRC;  ranging between 0 and 4, mMRC score of ⩾2 is  used by in the GOLD document (1) to classify  COPD patients as highly symptomatic) scale.14 No  minimal clinically important difference has been  validated for the TSQM-9, B-IPQ and MMAS-4  questionnaires. The most reliable estimate of the  minimum clinically important difference of the  CAT questionnaire is 2points.15 A difference in one  unit between two consecutive measurements in the  mMRC score has been proposed as clinically mean ingful in COPD.16 A detailed description of the  composition of the questionnaires and scoring inter 
+pretation is available in Supplementary Appendix 1. 
+The primary endpoint was to describe patients’  satisfaction with COPD medical treatments by  means of the TSQM-9 during a 12-month obser vation period in a real-world setting The second ary endpoints included: (a) disease perception,  adherence to treatment, health status, and dysp nea over the 12-month observation period; and  (b) identification of factors associated with patient  satisfaction with COPD medical treatments. 
+Sample size and statistical analyses 
+Since this was a descriptive study, no formal sta tistical hypotheses were set. The sample size was  determined based on feasibility: according to the  number of patients managed by the centers  involved in the study, the inclusion of 400 partici pants fulfilling the inclusion/exclusion criteria was  deemed feasible in the defined enrollment period.  Assuming an overall dropout rate ranging from  5% to 20%, the foreseen total number of evalua ble patients ranged from between 380 and 320,  respectively. Under these assumptions, the achiev able precision for the estimates of the primary  endpoint, namely, the mean TSQM-9 global  satisfaction score, was evaluated, considering  previous surveys with TSQM on patients with  other chronic conditions17,18 which showed a  mean ± standard deviation (SD) score account ing for 54.4±21.4 and 79.7±16.6points, respec tively. In all considered scenarios, the achievable  precision was deemed adequate, since the half widths of the 95% confidence intervals (CIs) of  the mean19 were always <2.5points, and the rela tive errors of the estimates were always <30%. 
+Descriptive statistics were used to evaluate socio demographic and clinical variables at the baseline  
+visit and during the study period. Repeated measures linear regression models were used20 to  estimate the β coefficients for the evaluation of the  associations between the three TSQM-9 treatment  satisfaction domain scores (effectiveness, conveni ence, and global satisfaction of COPD treatments,  each ranging 0–100points) and the following inde pendent factors: age, sex, B-IPQ total score, forced  expiratory volume at 1 s (FEV1) percentage of pre dicted, number of annual exacerbations, MMAS-4  score (poor/suboptimal versus optimal), mMRC  dyspnea grade, and COPD therapeutic regimen.  Only patients with data available both at enroll ment and at 12-month follow-up visits were  included in the regression models. 
+The patients switching or stopping treatment dur ing the observation period were not withdrawn  from the study. Patients with missing values at  6-month follow-up visit were not excluded for the  primary outcome analysis. Database management  and data analysis were performed using SAS® 9.4. 
+Results 
+The study population consisted of 401 patients  enrolled in a 10-month period. At baseline, con sidering the 366 patients with available retro spective data, 38.5% of patients reported having  experienced at least one exacerbation in the year  prior to study and the clear majority of patients  belonged to GOLD group B,21 characterized by  relatively few exacerbations but significant dis ease-related impairment of health status and  symptom severity (Table 2). Inhaled treatments  are reported in Table 2. The average number of  exacerbations per patient during observation  period was 0.3 event/patient (SD = 0.6) and 99  patients (24.7%) had at least one new exacerba tion during the 12-month observation period.  Only 9 events (2.2 events/100 patients) of hospi talization occurred during the follow-up period. 
+Patient satisfaction with COPD medical  treatments 
+The level of patient satisfaction with treatment for  COPD (primary endpoint) was evaluated at base line and during the study period according to the  scores recorded for the three TSQM-9 domains  (effectiveness, convenience, and global satisfaction).  The results of TSQM-9 at baseline were available  for 390 patients, while the TSQM-9 assessments at  the 6-month and 12-month visits were available for 
+journals.sagepub.com/home/tar 3 
+Therapeutic Advances in Respiratory Disease 13 
+Table 1. Assessment schedule of the study. 
+Visit 1 Visit 2 Visit 3 
+Baseline Follow-up 1 Follow-up 2 
+Assessment Months: 0 6 (±1) 12 (±1) 
+Eligibility criteria 
+Inclusion and exclusion criteria, informed consent, and privacy form X 
+Baseline information 
+X 
+Socio-demographic variables: age, sex, race, geographic location, housing situation, marital  status, educational and employment status 
+Weight, body mass index X X X Physical examination X X X 
+Life habits 
+Smoking (yes/no, number of pack/years, smoking duration) X X X 
+Medical history and concomitant diseases 
+Charlson Comorbidity Index X X X COPD medical history: 
+Date of COPD diagnosis (years from diagnosis); number of COPD exacerbations/year during  the previous year to enrollment visit 
+Functional assessment 
+Lung function test results (FEV1, FVC, FEV1% of the predicted, RV, TLC, DLCO) according to  clinical practice 
+X 
+X X X 
+CAT questionnaire X X X COPD exacerbations* after enrollment 
+Onset and resolution date Severity (mild, moderate, severe) 
+X X X 
+Disease severity (GOLD 2017 guidelines) X X X Medications related to COPD, COPD exacerbations and adverse events (LABA, LAMA, SABA,  
+SAMA, ICS/LABA, steroids, antibiotics, etc.): drug, dose, frequency, duration of therapy Long-term oxygen therapy (liquid or concentrate) 
+X X X 
+Change of therapy during observation period and reason for change. X X 
+Nonpharmacological treatment 
+Pulmonary rehabilitation X X X Patient-reported outcome questionnaires/scales 
+TSQM-9 X X X mMRC X X X CAT X X X MMAS-4 X X X Brief Illness Perception Questionnaire X X X Awareness structured interview X X X Serious adverse events assessment X X 
+*An exacerbation was defined as an increase or new onset of more than one symptom (cough, sputum, wheezing, dyspnea or chest tightness) with  at least one symptom lasting at least 3days and leading to the patient’s attending physician to initiate treatment with systemic steroids, antibiotics  (moderate exacerbation), or hospital admission (severe exacerbation). 
+CAT, COPD Assessment Test; COPD, chronic obstructive pulmonary disease; DLCO, diffusing capacity of the lungs for carbon monoxide; FEV1,  forced expiratory volume at 1 s; FVC, forced vital capacity; GOLD, Global Initiative for COPD; ICS, inhaled corticosteroid; LABA, long-acting beta  agonist; LAMA, long-acting muscarinic antagonist; MMAS-4, Morisky Medication-Taking Adherence Scale; mMRC, Modified Medical Research  
+Council Scale; RV, residual volume; SABA, short-acting beta agonist; SAMA, short-acting muscarinic antagonist; TLC, total lung capacity; TSQM-9,  Treatment Satisfaction Questionnaire, 9 items.
+4 journals.sagepub.com/home/tar 
+M Contoli, P Rogliani et al. 
+Table 2. Demographics and clinical characteristics of the patients at enrollment. 
+Age (mean ± SD) 71.7±7.6 Sex 
+Male 299 (74.6%) Female 102 (25.4%) COPD 
+Duration, years (median, 25th–75th percentile) 4.9 (2.1–9.2) Age at diagnosis, years, mean ± SD 65.3±9.0 Patients with comorbidities 339 (84.5%) GOLD 2017 group classification (n=366) 
+Group A 70 (19.1%) Group B 254 (69.4%) Group C 2 (0.5%) Group D 40 (11.0%) Unknown 35 Exacerbations during last year (n=366) 
+None 225 (61.5%) ⩾1 141 (38.5%) Unknown 35 Treatment for COPD at enrollment* 
+LABA+LAMA+ICS 153 (38.2%) LABA+LAMA 99 (24.7%) LAMA 92 (22.9%) SABA or SAMA on demand 43 (10.7%) LABA+ICS 36 (9.0%) 
+LABA 18 (4.5%) ICS 4 (1.0%) Other treatments for COPD 16 (4.0%) 
+*A patient could have received more than one treatment. The following treatment categories are mutually exclusive: LAMA,  LABA, ICS, LABA+LAMA, LABA+ICS, LABA+LAMA+ICS. 
+COPD, chronic obstructive pulmonary disease; GOLD, Global Initiative for COPD; ICS, inhaled corticosteroid; LABA,  long-acting beta agonist; LAMA, long-acting muscarinic antagonist; SABA, short-acting beta agonist; SAMA, short-acting  muscarinic antagonist; SD, standard deviation.
+journals.sagepub.com/home/tar 5 
+Therapeutic Advances in Respiratory Disease 13 
+  
+
+Figure 1. Percentage scores related to effectiveness,  convenience, and global satisfaction domains of the  TSQM-9 assessments at enrollment, at the 6-month,  and 12-month visits. 
+No clinically relevant difference is evident in the TSQM-9  scores during the study period. The satisfaction to treatment  in these patients is moderate. 
+The bar represents the standard deviation. 
+TSQM-9, Treatment Satisfaction Questionnaire, 9 items. 
+355 patients and 304 patients, respectively. Overall,  no change was found in the TSQM-9 scores during  the study period (Figure 1). Overall, the satisfaction  scores, and particularly those related to effectiveness  and global satisfaction domains, classified the  satisfaction with treatment in these patients as  moderate. 
+Disease perception 
+Patient perception of the disease was evaluated  using the B-IPQ tool. The change in perception  
+of the disease along the study was evaluated  against the baseline visit in patients with scores  available at enrollment, at the 6-month, and  12-month visits. Overall, no change in disease  perception was recorded over the 12-month  observation (Table 3). 
+Adherence to treatment for COPD 
+Adherence to treatment was measured using the  MMAS-4 questionnaire. The mean MMAS-4  total score at enrollment was 3.4±0.9 and  remained substantially constant along the study  period. The intrasubject variation of MMAS-4  scoring was also minimal, resulting in 0.1points  both at 6-month and 12-month visits (95% CI  0.0–0.1 and 95% CI 0.0–0.2, respectively). No  change in adherence to treatment was observed  over the study period (Table 3). 
+Health status, and dyspnea score 
+Health status of the patients was evaluated by  CAT. At enrollment visit, most of the patients  (49.6%) scored between 10 and 20points. Overall,  the mean CAT score did not change over 12  months. (Table 3). In 126 patients (41%) we found  an increase at 12months compared with baseline of  CAT⩾2points (minimal clinically important dif 
+ference) while in 124 patients (40%), a  decrease⩾2points (Supplementary Appendix 1,  Table 1). Dyspnea was evaluated by the mMRC  questionnaire. At baseline, mean mMRC question 
+naire score was 1.6±1.1 and did not substantially  differ over the 12-month study period. Overall, no  
+Table 3. Assessment of disease perception, treatment adherence, health status, and dyspnea over the 12-month study period. Domain Score at enrollment ± SD Variation over the study period 
+6-month visit* ± SD 12-month visit** ± SD 
+Perception (B-IPQ total  score) 
+Adherence (MMAS-4 total  score) 
+Health status (CAT total  score) 
+Dyspnea (mMRC total  score) 
+41.8±11.3 (n=396) 95% CI 40.7–42.9 0.5±7.6 (n=348) 95% CI −0.3 to 1.3 1.3±9.3 (n=300) 95% CI 0.2–2.3 3.4±0.9 (n=401) 95% CI 3.3–3.5 0.1±0.8 (n=360) 95% CI 0.0–0.1 0.1±0.9 (n=308) 95% CI 0.0–0.2 15.7±7.8 (n=401) 95% CI 14.9–16.5 0.4±5.9 (n=360) 95% CI −0.2 to 1.0 0.0±6.8 (n=307) 95% CI −0.7 to 0.8 1.6±1.1 (n=400) 95% CI 1.5–1.8 0.1±0.8 (n=358) 95% CI 0.1–0.2 0.1±0.9 (n=305) 95% CI 0.0–0.2 
+*In this analysis, only evaluable patients at 6months with score available both at enrollment and 6-month follow-up visits were considered. **In this analysis, only evaluable patients at 12months with score available both at enrollment and 12-month follow-up visits were considered. B-IPQ, Brief Illness Perception Questionnaire; CAT, COPD Assessment Test; CI, confidence interval; COPD, chronic obstructive pulmonary disease;  MMAS, Morisky Medication-Taking Adherence Scale; mMRC, Modified Medical Research Council Scale; SD, standard deviation.
+6 journals.sagepub.com/home/tar 
+M Contoli, P Rogliani et al. 
+relevant variations in dyspnea grade were observed  over the 12-month observational study (Table 3).  In 67 patients (22%), we found an increase at  12months compared with baseline of mMRC  scale ⩾ 1 point (minimal clinically important dif 
+ference), while in 78 patients (26%) a decrease ⩾ 1  point (Supplementary Appendix 1, Table 1). 
+Factors associated with treatment satisfaction In patients with a decreased CAT score (reflect ing the improvement of the impact of COPD on a  patient’s life), we found a numerical increase of  all the domains of the TSQM-9 questionnaire  (meaning an improvement of patients’ satisfac tion with treatment). Similarly, we found an  increase of all the domains of the TSQM-9 ques tionnaire in COPD patients with a decrease of at  least 1 point in the mMRC scale at the end  of the study period compared with baseline  (Supplementary Appendix 1, Table 1). Overall,  no statistically significant associations were found  between patient satisfaction (any of the TSQM-9  domains) and the frequency of exacerbations  occurring during the study period. A weak statis tically significant negative correlation was found  between the convenience item of the patient satis faction score and the total number of hospitaliza tions (ρ = −0.13, p value = 0.02). 
+A multivariate linear regression analysis model was  implemented to evaluate the relationship between  the demographic data, clinical parameters, or  patient-reported outcomes and the patients’ satisfac 
+tion with COPD medical treatments. No statistically  significant associations were found between any of  the TSQM-9 domains and demographics (age and  sex), FEV1 values, and number of exacerbations.  Similarly, the COPD treatment modalities [inhaled  corticosteroid (ICS) treatment versus any non-ICS  treatment] was not significantly associated with  patients’ satisfaction with treatment. Interestingly,  we found that the only clinical variable significantly  associated with patient satisfaction with medical  treatments was the dyspnea score. The global satis faction domain of the TSQM-9 score was negatively  correlated with the mMRC (β = 4.2564, p=0.009);  the patients with a higher grade of dyspnea  (mMRC ⩾ 2) had a mean global satisfaction score  of 4.3points lower than patients with a lower grade  of dyspnea (mMRC<2; Table 4). 
+Notably, a significant negative association  (β = 0.4709, p < 0.0001) emerged between the  
+scores to all items of the TSQM-9 questionnaire  recorded at the end of the study and the disease  perception (B-IPQ) score (Table 4). COPD  patients with poor/suboptimal adherence to  treatment (MMAS-4 scores 0–3) had a lower  mean convenience score (about 6.6 points less;  p < 0.0001) and lower global satisfaction score  (of about 4.6 points; β = 4,5608, p < 0.002)  compared with patients with optimal adherence  (MMAS-4 score = 4). In the multivariate linear  regression low/suboptimal adherence to treat ment was associated with low satisfaction to  treatment (Table 4). 
+The levels of satisfaction to treatments were evalu ated in the COPD patients according to the inhaled  treatment regimens ongoing at the end of the  study. Similar mean scores for the three domains  of TSQM-9 were found irrespective of the treat ment modality (mono, dual, or triple therapy;  Table 5). Similar levels of TSQM-9 scores were  found during the 12-month follow-up period  between patients who changed (switchers, n=73)  and who did not change (nonswitchers, n=231)  their pharmacological inhalatory regimens. 
+Discussion 
+Previous surveys have been conducted in cohorts  of patients with COPD to explore perception  or awareness of disease severity,22–24 self management and improvement of quality of life,25 and adherence to therapies.9,11 However, this  national, multicenter study is the first compre hensive analysis that corelates different domains  of patient satisfaction with therapy for COPD  with adherence, health status, and illness percep tion, by using five different validated question naires and clinical parameters during a 12-month  follow up in a clinical real-world setting. Overall,  we found that patient satisfaction could be con siderate, according to the questionnaire adopted,  or only moderate. Interestingly, patient satisfac tion was associated with a low perception of the  disease and high adherence to treatment. Dyspnea  score was the only clinical parameter found to be  negatively associated with patient satisfaction  with treatment. A weak statistically significant  negative correlation between the convenience  item of the patients’ satisfaction score (exploring  satisfaction to treatment regimen, dosing com plexity, and frequency) and the total number of  hospitalizations was found. This finding suggests  a greater satisfaction in participants who had 
+journals.sagepub.com/home/tar 7 
+Therapeutic Advances in Respiratory Disease 13 
+Table 4. Multivariate linear regression analysis on TSQM-9 domains compared to demographic data, clinical parameters, and  patient-reported outcomes. 
+Effectiveness Convenience Global satisfaction 
+β ± SE p β ± SE p β ± SE p 
+Intercept 85.06±8.18 <0.0001 106.32±7.70 <0.0001 93.55±8.09 <0.0001 Visit (12 months versus enrollment) 3.27±1.43 0.02 1.51±1.19 0.20 2.57±1.27 0.04 Age −0.02±0.10 0.87 −0.18±0.09 0.06 −0.06±0.10 0.57 Sex (female versus male) 0.71±1.71 0.68 −1.29±1.59 0.42 0.75±1.69 0.66 FEV1 (%) (⩾50% versus <50%) 0.24±1.72 0.89 −0.71±1.56 0.65 −1.25±1.67 0.45 Annual exacerbations, n (⩾1 versus none) 1.17±1.50 0.44 −0.95±1.32 0.47 1.07±1.40 0.44 Dyspnea (mMRC ⩾ 2 versus <2) −3.15±1.69 0.06 −0.26±1.52 0.86 −4.26±1.61 <0.01 COPD treatment (without ICS versus with ICS) −0.85±1.48 0.56 0.54±1.37 0.69 −0.82±1.45 0.57 Disease perception (B-IPQ) −0.41±0.08 <0.0001 −0.34±0.07 <0.0001 −0.47±0.07 <0.0001 Adherence (MMAS-4 poor/suboptimal  
+versus optimal)−2.05±1.55 0.19 −6.62±1.40 <0.0001 −4.56±1.49 <0.01 
+Poor/suboptimal adherence class corresponds to MMAS-4 score = 0–3; optimal adherence class corresponds to MMAS-4 score = 4. Statistically  significant values are in bold. 
+B-IPQ, Brief Illness Perception Questionnaire; β, regression coefficient; COPD, chronic obstructive pulmonary disease; FEV1, forced expiratory  volume after 1 s; ICS, inhaled corticosteroid; MMAS, Morisky Medication-Taking Adherence Scale; mMRC, Modified Medical Research Council Scale;  SE, standard error; TSQM-9, Treatment Satisfaction Questionnaire, 9 items. 
+Table 5. Treatment satisfaction in patients stratified according to the type of ongoing COPD treatment at the 12-month follow-up visit. COPD treatment classes 
+Other 
+TSQM-9 domains 
+ICS LABA LABA ICS LABA  LAMA 
+LABA  
+LAMA ICS 
+LAMA SABA or  SAMA on  
+demand 
+Patients, n 2 14 26 86 110 63 39 24 Effectiveness  
+score75.0±11.8 68.7±15.3 70.7±12.2 67.0±15.3 66.1±15.5 67.7±13.5 69.4±13.0 65.0±15.4 Convenience  
+score69.4±3.9 78.6±14.6 79.3±13.3 78.0±14.5 74.2±13.1 75.3±14.8 77.4±14.8 72.9±13.7 
+Global  
+satisfaction  score 
+60.7±15.2 69.9±12.6 68.7±14.9 67.7±15.4 66.7±14.6 68.0±14.3 67.0±12.9 66.4±13.7 
+Only patients with available TSQM-9 domain scores and at least one COPD treatment at the 12-month follow-up visit were considered. A patient  may have received more than one treatment. Mean ± SD values are indicated for the TSQM-9 scores. 
+COPD, chronic obstructive pulmonary disease; ICS, inhaled corticosteroid; LABA, long-acting beta agonist; LAMA, long-acting muscarinic  antagonist; SABA, short-acting beta agonist; SAMA, short-acting muscarinic antagonist; SD, standard deviation; TSQM-9, Treatment Satisfaction  Questionnaire, 9 items.
+8 journals.sagepub.com/home/tar 
+M Contoli, P Rogliani et al. 
+less COPD-related hospitalizations. However, it  should be noted that the magnitude of these cor relations is very limited, meaning that they may  not actually be clinically relevant. 
+The demographics and the clinical features of the  patients enrolled in this real-world study (mainly  group B with low rate/no exacerbation in the previ ous year) were representative and in line with the  general population of COPD26 included in several  other real-life observational studies.9,22,23,27 
+In our study, we found that the satisfaction of  patients with ongoing therapy after 1 year was only  moderate and did not vary significantly over the  1-year follow up. When disease perception and  adherence to treatment were examined over the  12-month period of observation, no statistically sig 
+nificant changes were observed. Similarly, no clini cally meaningful variations in health status occurred. 
+The multivariate regression analysis performed in  this study included the clinical parameters related to  the most recent grading system for COPD assess ment and derived from patient symptoms, namely  dyspnea (mMRC score), in addition to the history  of exacerbation, adherence, and illness perception. 
+The results of this analysis revealed that patient  satisfaction is associated mainly with a low per ception of disease and high adherence to treat ment. The negative correlation between all three  domains of the satisfaction questionnaire and the  B-IPQ score suggests a patient is satisfied when  he underestimates his/her disease. Further studies  will be required to shed light on this issue. 
+The association between poor/suboptimal adher ence (MMAS-4 score = 0–3) with poor conveni ence and global satisfaction domains of TSQM-9  clearly supports previous evidence that improving  the adherence to treatment can positively influence  patient satisfaction with treatments in COPD.3,17,28 
+In our study, patient satisfaction was also influ enced by clinical expression of the disease in  terms of dyspnea, because of the statistically sig nificant correlation between the global satisfac tion domain of TSQM-9 and the mMRC score.  Patients who are symptomatic in terms of dysp nea (mMRC score ⩾ 2) are less satisfied by their  therapy, irrespective of the ongoing inhalation  treatment. This result is of relevance because it  may help the clinician to better evaluate and  
+predict patient satisfaction with therapy. Our  results demonstrate that dyspnea is the most criti cal symptom, and this should be considered when  selecting the most satisfactory therapy possible, at  least for the symptomatic patients with COPD. 
+The most recent GOLD classification is deemed  potentially useful in providing sufficiently strong  evidence to prescribe changes of treatment  modality (mono, double, triple therapy) accord 
+ing to the disease severity assessed by the GOLD  system. However, this real-life analysis on satis faction and adherence in patients stratified  according to the type of ongoing COPD treat ment suggests that treatment modality or modifi cation do not impact patient satisfaction  (TSQM-9). This information is of relevance to  clinicians who should be aware that other deter minants over treatment regimens could influence  patients’ satisfaction with treatment. 
+A possible limitation of this study is the relatively  low amplitude of the differences between groups  or parameters compared in the study, despite  being statistically significant. The differences  measured in the analysis of TSQM-9 never  exceeded 7–10points, compared with the 0–100- 
+point range of the questionnaire. However, a sim ilar amplitude of significant-point difference has  been found in previous reports evaluating satis faction with treatment.13,17,18 Furthermore, the  mean scores for patient satisfaction with treat ment and adherence are surprisingly high com pared with previous studies.5,11,23 In this regard, it  must be recognized that most of the patients  enrolled in the study belong to a cohort of patients  already regularly referring to the centers that par ticipated in the study. This bias can influence the  two study variables. Finally, considering the  descriptive methodological approach used in our  study, we recognize that inferential studies are  needed to confirm our preliminary findings  regarding the putative factors associated with  COPD treatment satisfaction. 
+Conclusion 
+The real-life profile of this study may better pro vide a clear and accurate picture of the daily clini cal practice in the management of COPD. In  particular, the identification of risk factors associ ated with poor patient satisfaction with treatment  can help suggest novel strategies for improving  COPD management.
+journals.sagepub.com/home/tar 9 
+Therapeutic Advances in Respiratory Disease 13 
+Acknowledgements 
+Medical writing assistance was provided by Dr  Luisa Granziero, appointed by MediNeos  Observational Research, Modena, Italy. Luisa  Granziero declares there are no potential conflicts  of interest relating to her assistance. We acknowl 
+edge the participants of the SAT study group for  collecting data. 
+The SAT study group: 
+Steering Committee: Fulvio Braido, A.O.U.  IRCCS San Martino (Genova); Marco Contoli,  A.O.U. Sant’Anna (Cona); Angelo Guido  Corsico, Fondazione IRCCS San Matteo (Pavia);  Fabiano Di Marco, Ospedale San Paolo (Milano);  Paola Rogliani, Policlinico Tor Vergata (Roma);  Pierachille Santus, Istituti Clinici Scientifici  Maugeri-SpA SB (Milano); Nicola Scichilone,  A.O. V. Cervello (Palermo). 
+Participating centers: Rita Raccanelli, Dejan  Radovanovic, Istituti Clinici Scientifici Maugeri SpA SB (Milano); Angelo Guido Corsico, Erica  Gini, Fondazione IRCCS San Matteo (Pavia);  Vincenzo Patella, Giovanni Florio, Ospedale S.  Maria della Speranza (Battipaglia); Fulvio Braido,  Silvia Garuti, A.O.U. IRCCS San Martino  (Genova); Marco Contoli, Giacomo Forini,  A.O.U. Sant’Anna (Cona); Nicola Scichilone,  Alida Benfante, A.O. V. Cervello (Palermo);  Giuseppe Fiorentino, Antonella Marotta, A.O.  dei Colli P.O. Monaldi (Napoli); Fabiano Di  Marco, Fausta Alfano, Ospedale San Paolo  (Milano); Paola Rogliani, Francesco Cavalli,  Policlinico Tor Vergata (Roma); Roberto Piro,  Patrizia Ruggiero, Arcispedale S. Maria Nuova  IRCCS (Reggio Emilia); Mauro Carone, Maria  Aliani, ICS Maugeri (IRCCS Cassano Murge);  Antonio Iannaccone, Alessandro Izzo, A.O. San  G.Moscati (Avellino); Biago Polla, Ospedale SS  Antonio Biagio e Cesare e Arrigo (Alessandria);  Riccardo Sarzani, Francesco Spannella, Ospedale  INRCA (Ancona); Claudio Micheletto, Ospedale  Mater Salutis (Legnago); Rigoletta Vincenti,  Ospedale Civico (Livorno); Laura Maugeri, Carlo  Gulotta - A.O.U. San Luigi Gonzaga (Orbassano);  Roberto Tazza, Azienda Unità Sanitaria Locale  Umbria n.2 (Terni); Luigi Di Re, Paolo Mimotti,  Ospedale Mazzini (Teramo); Roberto Carbone,  Rodolfo Riva, Ospedale Reg. Parini (Aosta). 
+Project management, statistical analyses and data  management: Giovanni Fiori, Stefano Viaggi,  Alessandra Ori, Lucia Simoni, Christian Amici,  Fabio Ferri, Barbara Roncari, Saide Sala,  
+Francesca Trevisan, Nicole Lanci (MediNeos  Observational Research, Modena, Italy). 
+CS had full access to all the data in the study and  takes responsibility for integrity of the data, and  the accuracy of the data analysis, being the guar antor of the study. MC, FB, AC, FDM, PR, PS,  NS, PL, CAA contributed substantially to the  study design, data analysis, and interpretation,  and the writing of the manuscript. RP and RS  contributed substantially to writing the manu script. SC contributed substantially to the data  analysis and interpretation. 
+CAA confirms that the study objectives and pro cedures are honestly disclosed. MC and PS  reviewed the results, understands the statistical  methods employed for the analysis, and confirms  an understanding of this analysis, that the meth ods are clearly described and that they are a fair  way to report the results. 
+The datasets used and/or analyzed during the  current study are available from the correspond ing author on reasonable request. 
+Funding 
+The authors disclosed receipt of the following  financial support for the research, authorship,  and/or publication of this article: This study was  supported by Boehringer Ingelheim S.p.A, Italy. 
+Conflict of interest statement 
+The following authors report personal fees for sci entific consultation from Boehringer Ingelheim  related to the study: FB, MC, PS, AGC, FDM,  PR, NS. 
+FB has received honoraria for lectures at national  and international meetings from Almirall, Astra Zeneca, Boehringer Ingelheim, Chiesi Farm aceutici, Dompè, Guidotti/Malesci, GlaxoSmith Kline, Menarini, Novartis, Lallemand Pharma,  Biophutura, Levante Pharma, Merck Sharp &  Dohme and Zambon; he has served as consultant  for AstraZeneca, Chiesi Farmaceutici, Novartis,  Glaxo Smith Kline, Boehringer Ingelheim,  Guidotti/MalesciZambon, Csl Behring. 
+MC reports grants for research from AstraZeneca  and Chiesi, and reports personal fees for scientific  consultations and/or lectures at national and  international meetings from Chiesi, Novartis,  AstraZeneca, Glaxo Smith Kline, Boehringer  Ingelheim, Menarini, Zambon, outside the sub 
+mitted work.
+10 journals.sagepub.com/home/tar 
+M Contoli, P Rogliani et al. 
+FDM has received honoraria for lectures at  national and international meetings from Almirall,  AstraZeneca, Boehringer Ingelheim, Chiesi  Farmaceutici, Dompe, Guidotti/Malesci, Glaxo 
+SmithKline, Menarini, Novartis, and Zambon; he  has served as consultant for AstraZeneca, Chiesi  Farmaceutici, Novartis, and Zambon; he has  received financial support for research from  Novartis, and Boehringer Ingelheim. 
+PR has participated as a lecturer, speaker, and  advisor in scientific meetings and courses under  the sponsorship of Almirall, AstraZeneca,  Biofutura, Boehringer Ingelheim, Chiesi, Glaxo 
+SmithKline, Menarini Group, Mundipharma,  and Novartis; her department has received fund ing from Almirall, Boehringer Ingelheim, Chiesi,  Novartis, and Zambon; she has no other relevant  affiliations or financial involvement with any  organization or entity with a financial interest in  or financial conflict with the subject matter or  materials discussed in the manuscript apart from  those disclosed. 
+PL and CS are employees of Boehringer Ingelheim  Italy. 
+CAA is employee for MediNeos Observational  Research, Modena, Italy. MediNeos Obser vational Research received payment from  Boehringer Ingelheim Italy for the following  activities related to the submitted work: scientific  support, clinical operations, data management,  statistical analysis, and manuscript preparation. 
+RP and RS do not report any conflicts of interest. 
+ORCID iD 
+Carla Scognamillo https://orcid.org/0000-0001- 8724-374X 
+Supplemental material 
+The reviews of this paper are available via the  supplemental material section. 
+References 
+1. Vogelmeier CF, Criner GJ, Martinez FJ, et al. Global strategy for the diagnosis, management,  and prevention of chronic obstructive lung  disease 2017 report. GOLD Executive Summary.  Am J Respir Crit Care Med 2017; 195: 557–582. 
+2. GBD 2015 Mortality and Causes of Death  Collaborators. Global, regional, and national life  expectancy, all-cause mortality, and  
+cause-specific mortality for 249 causes of death,  1980-2015: a systematic analysis for the Global  Burden of Disease Study 2015. Lancet 2016; 388:  1459–1544. 
+3. World Health Organization. Adherence to long term therapies: evidence for action, www.who.int/ chp/knowledge/publications/adherence_report/en  (2003, accessed 7 February 2018). 
+4. Anthonisen NR, Connett JE, Kiley JP, et al. Effects of smoking intervention and the use of  an inhaled anticholinergic bronchodilator on the  rate of decline of FEV1. The Lung Health Study.  JAMA 1994; 272: 1497–1505. 
+5. Krauskopf K, Federman AD, Kale MS,  et al. Chronic obstructive pulmonary disease  illness and medication beliefs are associated  with medication adherence. COPD 2015; 12:  151–164. 
+6. Bharmal M, Payne K, Atkinson MJ, et al. Validation of an abbreviated Treatment  
+Satisfaction Questionnaire for Medication  (TSQM-9) among patients on antihypertensive  medications. Health Qual Life Outcomes 2009; 7:  36. 
+7. Chrystyn H, Small M, Milligan G, et al. Impact  of patients’ satisfaction with their inhalers on  treatment compliance and health status in  COPD. Respir Med 2014; 108: 358–365. 
+8. Calverley PMA, Anderson JA, Celli B, et al. Salmeterol and fluticasone propionate and  survival in chronic obstructive pulmonary disease.  N Engl J Med 2007; 356: 775–789. 
+9. Atkinson MJ, Kumar R, Cappelleri JC, et al. Hierarchical construct validity of the treatment  satisfaction questionnaire for medication (TSQM  version II) among outpatient pharmacy consumers.  Value Health 2005; 8(Suppl. 1): S9–S24. 
+10. Atkinson MJ, Sinha A, Hass SL, et al. Validation  of a general measure of treatment satisfaction,  the Treatment Satisfaction Questionnaire for  Medication (TSQM), using a national panel  study of chronic disease. Health Qual Life  Outcomes 2004; 2: 12. 
+11. Broadbent E, Petrie KJ, Main J, et al. The brief  illness perception questionnaire. J Psychosom Res 2006; 60: 631–637. 
+12. Morisky DE, Green LW and Levine DM.  Concurrent and predictive validity of a self reported measure of medication adherence. Med  Care 1986; 24: 67–74. 
+13. Jones PW, Harding G, Berry P, et al. 
+Development and first validation of the COPD  Assessment Test. Eur Respir J 2009; 34: 648–654.
+journals.sagepub.com/home/tar 11 
+Therapeutic Advances in Respiratory Disease 13 
+Visit SAGE journals online journals.sagepub.com/ home/tar 
+SAGE journals
+14. Schilling RS, Hughes JP and Dingwall-Fordyce  I. Disagreement between observers in an  
+epidemiological study of respiratory disease. Br  Med J 1955; 1: 65–68. 
+15. Kon SS, Canavan JL, Jones SE, et al. Minimum  clinically important difference for the COPD  Assessment Test: a prospective analysis. Lancet  Respir Med 2014; 2: 195–203. 
+16. De Torres JP, Pinto-Plata V, Ingenito E, et al. Power of outcome measurements to detect  clinically significant changes in pulmonary  rehabilitation of patients with COPD. Chest 2002;  121: 1092–1098. 
+17. Saiz A, Mora S and Blanco J. Therapeutic  compliance of first line disease-modifying  therapies in patients with multiple sclerosis.  COMPLIANCE Study. Neurologia (Barcelona,  Spain) 2015; 30: 214–222. 
+18. Schaarschmidt ML, Kromer C, Herr R, et al. Treatment satisfaction of patients with psoriasis.  Acta Derm Venereol 2015; 95: 572–578. 
+19. Dixon W and Massey JF. Introduction to statistical  analysis. 4th ed. New York, NY: McGraw-Hill,  1983. 
+20. Donner A. Linear regression analysis with  repeated measurements. J Chronic Dis 1984; 37:  441–448. 
+21. GOLD Global Initiative for Chronic Obstructive  Lung Disease. Global strategy for the diagnosis,  management, and prevention of chronic obstructive  pulmonary disease (2018 Report), www.goldcopd. org/ (2018, accessed 15 April 2018). 
+22. Barnes N, Calverley PM, Kaplan A, et al. Chronic obstructive pulmonary disease and  exacerbations: patient insights from the global  Hidden Depths of COPD survey. BMC Pulm  Med 2013; 13: 54. 
+23. Celli B, Blasi F, Gaga M, et al. Perception of  symptoms and quality of life - comparison of  patients’ and physicians’ views in the COPD  MIRROR study. Int J Chron Obstruct Pulmon Dis 
+2017; 12: 2189–2196. 
+24. Seo JY, Hwang YI, Mun SY, et al. Awareness of  COPD in a high risk Korean population. Yonsei  Med J 2015; 56: 362–367. 
+25. Huang B, Willard-Grace R, De Vore D, et al. Health coaching to improve self-management  and quality of life for low income patients with  chronic obstructive pulmonary disease (COPD):  protocol for a randomized controlled trial. BMC  Pulm Med 2017; 17: 90. 
+26. Corrado A and Rossi A. How far is real life  from COPD therapy guidelines? An Italian  observational study. Respir Med 2012; 106:  989–997. 
+27. Agusti A, Calverley PM, Celli B, et al. Characterisation of COPD heterogeneity in  the ECLIPSE cohort. Respir Res 2010; 11:  122. 
+28. Barbosa CD, Balp MM, Kulich K, et al. A  literature review to explore the link between  treatment satisfaction and adherence,  
+compliance, and persistence. Patient Prefer  Adherence 2012; 6: 39–48. 
+12 journals.sagepub.com/home/tar
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

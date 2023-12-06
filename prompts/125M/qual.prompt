@@ -1,0 +1,2348 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+SPIRIT 2013 Checklist: Recommended items to address in a clinical trial protocol and related documents*
+Section/item
+	Item No
+	Description
+	Addressed on page number
+	Administrative information
+	
+
+	Title
+	1
+	Descriptive title identifying the study design, population, interventions, and, if applicable, trial acronym
+	_____________
+	Trial registration
+	2a
+	Trial identifier and registry name. If not yet registered, name of intended registry
+	_____________
+	2b
+	All items from the World Health Organization Trial Registration Data Set
+	_____________
+	Protocol version
+	3
+	Date and version identifier
+	_____________
+	Funding
+	4
+	Sources and types of financial, material, and other support
+	_____________
+	Roles and responsibilities
+	5a
+	Names, affiliations, and roles of protocol contributors
+	_____________
+	5b
+	Name and contact information for the trial sponsor
+	_____________
+	
+
+	5c
+	Role of study sponsor and funders, if any, in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication, including whether they will have ultimate authority over any of these activities
+	
+
+_____________
+	
+
+	5d
+	Composition, roles, and responsibilities of the coordinating centre, steering committee, endpoint adjudication committee, data management team, and other individuals or groups overseeing the trial, if applicable (see Item 21a for data monitoring committee)
+
+
+
+
+
+
+	_____________
+	Introduction
+	
+
+	
+
+	
+
+	Background and rationale
+	6a
+	Description of research question and justification for undertaking the trial, including summary of relevant studies (published and unpublished) examining benefits and harms for each intervention
+	_____________
+	
+
+	6b
+	Explanation for choice of comparators
+	_____________
+	Objectives
+	7
+	Specific objectives or hypotheses
+	_____________
+	Trial design
+	8
+	Description of trial design including type of trial (eg, parallel group, crossover, factorial, single group), allocation ratio, and framework (eg, superiority, equivalence, noninferiority, exploratory)
+	
+
+_____________
+	Methods: Participants, interventions, and outcomes
+	
+
+	Study setting
+	9
+	Description of study settings (eg, community clinic, academic hospital) and list of countries where data will be collected. Reference to where list of study sites can be obtained
+	_____________
+	Eligibility criteria
+	10
+	Inclusion and exclusion criteria for participants. If applicable, eligibility criteria for study centres and individuals who will perform the interventions (eg, surgeons, psychotherapists)
+	_____________
+	Interventions
+	11a
+	Interventions for each group with sufficient detail to allow replication, including how and when they will be administered
+	_____________
+	11b
+	Criteria for discontinuing or modifying allocated interventions for a given trial participant (eg, drug dose change in response to harms, participant request, or improving/worsening disease)
+	_____________
+	11c
+	Strategies to improve adherence to intervention protocols, and any procedures for monitoring adherence (eg, drug tablet return, laboratory tests)
+	_____________
+	11d
+	Relevant concomitant care and interventions that are permitted or prohibited during the trial
+	_____________
+	Outcomes
+	12
+	Primary, secondary, and other outcomes, including the specific measurement variable (eg, systolic blood pressure), analysis metric (eg, change from baseline, final value, time to event), method of aggregation (eg, median, proportion), and time point for each outcome. Explanation of the clinical relevance of chosen efficacy and harm outcomes is strongly recommended
+	
+
+_____________
+	Participant timeline
+	13
+	Time schedule of enrolment, interventions (including any run-ins and washouts), assessments, and visits for participants. A schematic diagram is highly recommended (see Figure)
+	_____________
+	Sample size
+	14
+	Estimated number of participants needed to achieve study objectives and how it was determined, including clinical and statistical assumptions supporting any sample size calculations
+	_____________
+	Recruitment
+	15
+	Strategies for achieving adequate participant enrolment to reach target sample size
+	_____________
+	Methods: Assignment of interventions (for controlled trials)
+	
+
+	Allocation:
+	
+
+	
+
+	
+
+	Sequence generation
+	16a
+	Method of generating the allocation sequence (eg, computer-generated random numbers), and list of any factors for stratification. To reduce predictability of a random sequence, details of any planned restriction (eg, blocking) should be provided in a separate document that is unavailable to those who enrol participants or assign interventions
+	_____________
+	Allocation concealment mechanism
+	16b
+	Mechanism of implementing the allocation sequence (eg, central telephone; sequentially numbered, opaque, sealed envelopes), describing any steps to conceal the sequence until interventions are assigned
+	_____________
+	Implementation
+	16c
+	Who will generate the allocation sequence, who will enrol participants, and who will assign participants to interventions
+	_____________
+	Blinding (masking)
+	17a
+	Who will be blinded after assignment to interventions (eg, trial participants, care providers, outcome assessors, data analysts), and how
+	_____________
+	
+
+	17b
+	If blinded, circumstances under which unblinding is permissible, and procedure for revealing a participant’s allocated intervention during the trial
+	_____________
+	Methods: Data collection, management, and analysis
+	
+
+	Data collection methods
+	18a
+	Plans for assessment and collection of outcome, baseline, and other trial data, including any related processes to promote data quality (eg, duplicate measurements, training of assessors) and a description of study instruments (eg, questionnaires, laboratory tests) along with their reliability and validity, if known. Reference to where data collection forms can be found, if not in the protocol
+	_____________
+	
+
+	18b
+	Plans to promote participant retention and complete follow-up, including list of any outcome data to be collected for participants who discontinue or deviate from intervention protocols
+	_____________
+	Data management
+	19
+	Plans for data entry, coding, security, and storage, including any related processes to promote data quality (eg, double data entry; range checks for data values). Reference to where details of data management procedures can be found, if not in the protocol
+	_____________
+	Statistical methods
+	20a
+	Statistical methods for analysing primary and secondary outcomes. Reference to where other details of the statistical analysis plan can be found, if not in the protocol
+	_____________
+	
+
+	20b
+	Methods for any additional analyses (eg, subgroup and adjusted analyses)
+	_____________
+	
+
+	20c
+	Definition of analysis population relating to protocol non-adherence (eg, as randomised analysis), and any statistical methods to handle missing data (eg, multiple imputation)
+	
+
+_____________
+	Methods: Monitoring
+	
+
+	Data monitoring
+	21a
+	Composition of data monitoring committee (DMC); summary of its role and reporting structure; statement of whether it is independent from the sponsor and competing interests; and reference to where further details about its charter can be found, if not in the protocol. Alternatively, an explanation of why a DMC is not needed
+	_____________
+	
+
+	21b
+	Description of any interim analyses and stopping guidelines, including who will have access to these interim results and make the final decision to terminate the trial
+	_____________
+	Harms
+	22
+	Plans for collecting, assessing, reporting, and managing solicited and spontaneously reported adverse events and other unintended effects of trial interventions or trial conduct
+	_____________
+	Auditing
+	23
+	Frequency and procedures for auditing trial conduct, if any, and whether the process will be independent from investigators and the sponsor
+	_____________
+	Ethics and dissemination
+	
+
+	Research ethics approval
+	24
+	Plans for seeking research ethics committee/institutional review board (REC/IRB) approval
+	_____________
+	Protocol amendments
+	25
+	Plans for communicating important protocol modifications (eg, changes to eligibility criteria, outcomes, analyses) to relevant parties (eg, investigators, REC/IRBs, trial participants, trial registries, journals, regulators)
+	_____________
+	Consent or assent
+	26a
+	Who will obtain informed consent or assent from potential trial participants or authorised surrogates, and how (see Item 32)
+	_____________
+	
+
+	26b
+	Additional consent provisions for collection and use of participant data and biological specimens in ancillary studies, if applicable
+	_____________
+	Confidentiality
+	27
+	How personal information about potential and enrolled participants will be collected, shared, and maintained in order to protect confidentiality before, during, and after the trial
+	_____________
+	Declaration of interests
+	28
+	Financial and other competing interests for principal investigators for the overall trial and each study site
+	_____________
+	Access to data
+	29
+	Statement of who will have access to the final trial dataset, and disclosure of contractual agreements that limit such access for investigators
+	_____________
+	Ancillary and post-trial care
+	30
+	Provisions, if any, for ancillary and post-trial care, and for compensation to those who suffer harm from trial participation
+	_____________
+	Dissemination policy
+	31a
+	Plans for investigators and sponsor to communicate trial results to participants, healthcare professionals, the public, and other relevant groups (eg, via publication, reporting in results databases, or other data sharing arrangements), including any publication restrictions
+	_____________
+	
+
+	31b
+	Authorship eligibility guidelines and any intended use of professional writers
+	_____________
+	
+
+	31c
+	Plans, if any, for granting public access to the full protocol, participant-level dataset, and statistical code
+	_____________
+	Appendices
+	
+
+	
+
+	
+
+	Informed consent materials
+	32
+	Model consent form and other related documentation given to participants and authorised surrogates
+	_____________
+	Biological specimens
+	33
+	Plans for collection, laboratory evaluation, and storage of biological specimens for genetic or molecular analysis in the current trial and for future use in ancillary studies, if applicable
+	_____________
+	
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿De Panflis et al. BMC Medical Ethics (2022) 23:133  https://doi.org/10.1186/s12910-022-00863-z 
+RESEARCH 
+  
+Open Access 
+Research, education, ethics consultation:  evaluating a Bioethics Unit in an Oncological  Research Hospital 
+Ludovica De Panflis1, Morten Magelssen2, Massimo Costantini3, Luca Ghirotto4, Giovanna Artioli5,  Elena Turola3 and Marta Perin1,6* 
+Abstract 
+Background: This study aims to quantitatively and qualitatively evaluate the activities of a Bioethics Unit (BU) 5 years  since its implementation (2016–2020). The BU is a research unit providing empirical research on ethical issues related  to clinical practice, clinical ethics consultation, and ethical education for health care professionals (HPS). Methods: We performed an explanatory, sequential, mixed-method, observational study, using the subsequent  qualitative data to explain the initial quantitative fndings. Quantitative data were collected from an internal database  and analyzed by descriptive analysis. Qualitative evaluation was performed by semi-structured interviews with 18 HPs  who were diferently involved in the BU’s activities and analyzed by framework analysis. 
+Results: Quantitative results showed an extensive increment of the number of BU research projects over the years  and the number of work collaborations with other units and wards. Qualitative fndings revealed four main themes,  concerning: 1. the reasons for contacting the BU and the type of collaboration; 2. the role of the bioethicist; 3. the  impact of BU activities on HPs, in terms of developing deeper and more mature thinking; 4. the need to extend ethics  support to other settings. Overall, our results showed that performing both empirical bioethics research and more  traditional clinical ethics activities at the same unit would produce an impetus to increase collaboration and spread  an ’ethical culture’ among local HPs. 
+Conclusions: Our fndings contribute to a growing body of literature on the models of clinical ethics support ser vices and the role of empirical research in bioethics internationally. They also prepare the ground for the implementa tion of a multidisciplinary Clinical Ethics Committee (CEC) that aims to support the BU’s ethics consultation service  within the local context. 
+Keywords: Ethics, Empirical bioethics, Clinical ethics, Ethics support services, Mixed-method research 
+Introduction 
+Complicated health care decisions often involve conficts  of values. It is not unusual for patients and their families  to seek advice about ethical issues from their clinicians,  
+*Correspondence: marta.perin@ausl.re.it 
+1 Bioethics Unit, Azienda USL-IRCCS di Reggio Emilia, Reggio Emilia, Italy Full list of author information is available at the end of the article
+who in turn may strive to provide informed and well-rea soned responses to such requests [1]. 
+To satisfy the needs of patients to receive more com prehensive and personalized ethical care, further support  targeting health care professionals (HPs) and patients  have been required [2]. Te last several decades have seen  increasing development and implementation of services  specialized in dealing with and promoting the ethical  
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which  permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the  original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or  other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line  to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory  regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this  licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativeco mmons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.           
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 2 of 15 
+dimension of clinical practice through clinical ethics sup port services (CESSs) [3, 4]. 
+Te increasing engagement with CESSs and clinical  ethics leads to a growing focus on empirical research in  bioethics. Indeed, the increase in empirical methods of  research in bioethics can contribute to the integration of  ethics consultants into the clinical setting [5]. Research  activity can play an essential role in ethical clarifcation  and decision-making because it can translate abstract  principles into workable practices. It can also ensure that  bioethicists are in touch with the actual experiences of  those afected [6]. 
+As we reported in a previous study [7–9], in Italy no  national legislation exists about CESS’s role and func tions. However, some local, unregulated and spontane ous experiences of CESSs has been implemented across  diferent regions, especially in the North of Italy [10–13].  Te National Committee for bioethics (CNB) issued an  opinion in 2017 on the urgency of implementing clinical  ethics committees throughout the country [14]. Moreo ver, in 2021 CNB published a statement about the role  and competencies of the “expert in bioethics”/ethicist  [15]. Also, the current debate around medical assistance  in dying, following some leading cases, has renewed  attention on the CESS’s functions [16]. 
+Te Bioethics Unit (BU) in this study is a research unit  implemented as a pilot project by the Scientifc Directo rate of the Local Health Authority AUSL-IRCCS of Reg gio Emilia. It is a local health service consisting of six  hospitals and 6 districts encompassing the 42 communes  of the province, and provides services on a total area of  2.291 Kmq. Te BU was established in 2016 inside one of  the hospitals, the Oncological Research Hospital (ORH),  a 900-bed service accredited as a Comprehensive Clini cal Cancer Institute (OECI). Since its implementation,  the aim of the BU was to promote evidence-based eth ics through research activities, ethics consultation and  clinical ethics, and training programs. In other words,  the mission of the BU is to promote a ‘bedside’ form of  ethics, where the concrete experience of the health care  relationship represents the starting point for improv ing quality of care [17] and fostering a personalized  approach by enhancing HPs’ ethical competences. Te  BU works within the ‘empirical turn in bioethics’ frame work. Empirical bioethics is an interdisciplinary research  area that integrates empirical, qualitative, and scientifc  analysis with ethical analysis. Te aim is to stimulate the  translation of general moral principles into concrete and  specifc action-driven guidelines that are morally justifed  and workable in practice. [6, 18, 19]. 
+Specifcally, the BU’s activities are divided into four  main areas: research related to ethical issues of clini cal practice employing qualitative and quantitative  
+methods; ethics consultationfor individual HPs; ethics  supervision for the health care team; and educational  programs and training on the ethical aspects of care for  HPs. Tese activities are not necessary related, but they  often run simoultaneously. A description of the BU’s  activities is provided in Table 1. 
+Te research projects promoted by the BU are dedi cated to developing, implementing, and evaluating  services and tools related to ethical issues of clinical  practice. Tey employ qualitative and quantitative  methods. Some examples are those pertaining to  advance care planning tools, advance directives imple mentation, ethics training evaluation, and development  of ethical skills. 
+Ethics consultation is on demand and dedicated to  individual HPs or medical teams, especially in urgent  circumstances. 
+Ethcis supervision is organized monthly and it is dedi cate to the healthcare team. Te bioethicist participates  in the team meetings and if ethical aspects emerge, the  Head of the BU engages in the discussion. 
+Ethics education and training promote ethical refec tions and knowledge among HPs. Tey are organized fol lowing HPs request or promoted by the BU. Tey regard  especially the following topics: patient engagement and  shared decision-making, advance care planning (ACP),  Advance Directives (AD), end-of-life issues and pallia tive care, pediatric palliative care, and ethics of resource  allocation. 
+Currently, the BU is composed of one employed senior  researcher, one PhD student, and two research consult ants involved in the BU activities in diferent ways. Te  BU also promotes and manage two institutional clinical  ethics services: a Clinical Ethics Committee composed  by 15 members [20] and an in-hospital service to inform  people about end-of-life rights and advance directives.  Te BU team leader oversees the running of the service  and meets with the Scientifc Directorate management.  As it is, the BU represents a CESS with a specifc focus on  research activity. 
+According to the literature, the evaluation of ethical  interventions in clinical practice helps understand (a)  user satisfaction, (b) penetration of the services among  HPs, and (c) the impact of the service on the care pro 
+vided, as well as for collecting useful data to improve  the quality of the services provided [21]. Te goal of this  study is twofold: 
+(a) to quantitatively describe the BU activities car ried out in the fve years since its implementation  (2016–2020); 
+(b) to understand the HPs’ perception of the BU activi ties and their perceived impact on clinical practice.
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 3 of 15 
+ 
+ 
+s 
+m
+i
+a
+ 
+d
+n
+a
+ 
+s
+e
+i
+t
+i
+v
+i
+t
+c
+a
+ 
+s
+’
+t
+i
+n
+U
+ 
+s
+c
+i
+ht
+e
+o
+i
+B
+ 
+e
+h
+t
+ 
+f
+o
+ 
+n
+o
+i
+t
+p
+i
+r
+c
+s
+e
+D
+1 
+e 
+l
+b
+a
+T
+m 
+i
+A
+y 
+t
+i
+v
+i
+t
+c
+a
+ 
+e
+h
+t
+ 
+f
+o
+ 
+n
+o
+i
+t
+p
+i
+r
+c
+s
+e
+D
+o 
+t
+ 
+d
+e
+t
+a
+c
+i
+de
+D
+y 
+b 
+d
+e
+t
+o
+m
+o
+r
+P
+y 
+t
+i
+v
+i
+t
+c
+A
+ 
+e
+g
+d
+e
+l
+w
+o
+n
+k 
+d
+n
+a
+ 
+s
+n
+o
+i
+t
+c
+e
+f
+e
+r
+ 
+l
+a
+c
+i
+ht
+e
+ 
+e
+t
+o
+m
+o
+r
+p
+ 
+o
+T
+- 
+u
+l
+a
+v
+e
+ 
+d
+n
+a
+ 
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+lp
+m
+i
+ 
+,
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+D
+s 
+dr
+a
+w
+ 
+d
+n
+a
+ 
+s
+e
+c
+i
+v
+r
+e
+s
+ 
+r
+e
+ht
+O
+ 
+s
+r
+e
+b
+m
+e
+m
+ 
+U
+B
+ 
+e
+h
+t
+ 
+ll
+A
+H 
+C
+R
+A
+E
+S
+E
+R
+- 
+w
+o
+ll
+o
+f 
+e
+h
+t
+ 
+g
+n
+i
+dr
+a
+g
+e
+r
+ 
+y
+ll
+a
+i
+c
+e
+p
+s
+e
+ 
+,
+s
+P
+H
+ 
+g
+n
+o
+m
+a
+ 
+l
+a
+c
+i
+ht
+e
+ 
+o
+t
+ 
+d
+e
+t
+a
+l
+e
+r
+ 
+s
+t
+c
+e
+j
+o
+r
+p
+ 
+h
+c
+r
+a
+e
+s
+e
+r
+ 
+f
+o
+ 
+n
+o
+i
+t
+a
+ 
+d
+n
+a
+ 
+s
+e
+c
+i
+v
+r
+e
+s
+ 
+r
+e
+ht
+o
+ 
+r
+o
+ 
+d
+e
+r
+a
+h
+s
+ 
+d
+n
+a
+ 
+t
+n
+e
+m
+e
+g
+a
+g
+n
+e
+ 
+t
+n
+e
+i
+t
+a
+p
+ 
+:
+s
+c
+i
+p
+o
+t
+ 
+g
+n
+i
+- 
+a
+t
+i
+la
+u
+q
+ 
+g
+n
+i
+y
+o
+lp
+m
+e
+ 
+,
+e
+c
+i
+t
+c
+a
+r
+p
+ 
+l
+a
+c
+i
+n
+i
+l
+c
+ 
+f
+o
+ 
+s
+e
+u
+s
+s
+i
+s 
+dr
+a
+w
+,
+)P
+C
+A
+( 
+g
+n
+i
+n
+n
+a
+l
+p
+ 
+e
+r
+a
+c
+ 
+e
+c
+n
+a
+v
+d
+a
+ 
+,
+g
+n
+i
+ka
+m
+-
+n
+o
+i
+s
+i
+c
+e
+d
+h 
+c
+r
+a
+e
+s
+e
+r
+ 
+e
+v
+i
+t
+a
+t
+i
+t
+n
+a
+u
+q
+ 
+d
+n
+a
+ 
+e
+v
+i
+t
+ 
+d
+n
+a
+ 
+s
+e
+u
+s
+s
+i 
+e
+fi
+l
+-
+f
+o
+-
+d
+n
+e
+ 
+,
+)
+D
+A
+( 
+s
+e
+v
+it
+c
+e
+r
+i
+D 
+e
+c
+n
+a
+v
+dA
+- 
+ht
+e
+ 
+d
+n
+a
+ 
+,
+e
+r
+a
+c
+ 
+e
+v
+i
+t
+a
+i
+ll
+a
+p 
+c
+i
+r
+t
+a
+i
+de
+p
+ 
+,
+e
+r
+a
+c
+ 
+e
+v
+i
+t
+a
+i
+ll
+a
+p
+n 
+o
+it
+a
+c
+o
+ll
+a
+ 
+e
+c
+r
+u
+o
+s
+e
+r
+ 
+f
+o
+ 
+s
+c
+i
+ 
+s
+t
+c
+i
+f
+n
+o
+c
+ 
+l
+a
+c
+i
+ht
+e
+ 
+g
+n
+i
+v
+l
+o
+s
+e
+r
+ 
+n
+i
+ 
+s
+P
+H
+ 
+t
+r
+o
+p
+p
+u
+s
+ 
+o
+T
+ 
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+p
+ 
+d
+n
+a
+ 
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+t
+e
+r
+ 
+f
+o
+ 
+n
+o
+i
+s
+i
+v
+o
+r
+P
+ 
+y
+ll
+a
+i
+c
+e
+p
+s
+e
+ 
+,
+s
+m
+a
+e
+t
+e 
+r
+a
+c
+h
+t
+la
+e
+hr 
+o
+ 
+s
+P
+H
+ 
+la
+u
+di
+v
+i
+d
+n
+I
+U 
+B
+ 
+e
+h
+t
+ 
+f
+o
+ 
+da
+e
+H
+ 
+e
+h
+t
+ 
+y
+ln
+O
+N 
+O
+I
+T
+A
+T
+L
+U
+S
+N
+O
+C
+ 
+S
+C
+I
+H
+T
+E
+ 
+g
+n
+i
+ka
+m
+-
+n
+o
+i
+s
+i
+c
+e
+d 
+x
+e
+lp
+m
+o
+c
+ 
+e
+h
+t
+ 
+h
+t
+i
+w
+ 
+la
+e
+d 
+r
+o
+ 
+e
+c
+a
+f-
+o
+t
+-
+e
+c
+a
+f
+ 
+,
+e
+l
+g
+n
+i
+s
+ 
+a
+ 
+y
+b 
+n
+o
+i
+t
+a
+t
+l
+u
+s
+n
+o
+c
+ 
+s
+c
+i
+ht
+e
+s 
+e
+c
+n
+a
+t
+s
+m
+u
+c
+r
+i
+c
+ 
+t
+n
+e
+g
+r
+u
+ 
+n
+i
+s 
+s
+e
+c
+o
+r
+p
+n 
+o
+i
+t
+a
+t
+l
+u
+s
+n
+o
+c
+ 
+U
+B
+ 
+e
+h
+t
+ 
+f
+o
+ 
+da
+e
+H
+ 
+e
+h
+t
+ 
+,
+e
+g
+r
+e
+m
+e
+ 
+s
+t
+c
+e
+p
+s
+a
+ 
+l
+a
+c
+i
+ht
+e
+ 
+fI
+ 
+n
+o
+i
+s
+i
+v
+r
+e
+p
+u
+s
+ 
+l
+a
+c
+i
+ht
+e
+ 
+d
+e
+r
+u
+t
+c
+u
+r
+t
+s
+ 
+f
+o
+ 
+n
+o
+i
+s
+i
+v
+o
+r
+P
+- 
+t
+e
+e
+m
+ 
+r
+a
+lu
+g
+e
+r
+r 
+i
+e
+h
+t
+ 
+g
+n
+i
+r
+u
+d
+ 
+,
+s
+m
+a
+e
+t
+ 
+e
+r
+a
+c
+h
+t
+la
+e
+H
+U 
+B
+ 
+e
+h
+t
+ 
+f
+o
+ 
+da
+e
+H
+ 
+e
+h
+t
+ 
+y
+ln
+O
+N 
+O
+I
+S
+I
+V
+R
+E
+P
+U
+S
+ 
+S
+C
+I
+H
+T
+E
+ 
+s
+P
+H
+ 
+g
+n
+i
+t
+r
+o
+p
+p
+u
+s
+ 
+,
+n
+o
+i
+s
+s
+u
+c
+s
+i
+d 
+e
+h
+t
+ 
+n
+i
+ 
+s
+e
+t
+a
+p
+i
+c
+i
+t
+r
+a
+p
+s 
+g
+n
+i
+t
+e
+e
+m
+ 
+m
+a
+e
+t
+ 
+e
+r
+a
+c
+ 
+e
+h
+t
+ 
+g
+n
+i
+r
+u
+d
+s 
+g
+n
+i
+ 
+d
+n
+a
+ 
+e
+r
+a
+c
+ 
+f
+o
+ 
+n
+o
+is
+n
+e
+m
+i
+d
+ 
+l
+a
+c
+i
+ht
+e
+ 
+e
+h
+t 
+n
+o
+ 
+s
+u
+c
+o
+f 
+o
+t
+s 
+e
+i
+t
+i
+x
+e
+lp
+m
+o
+c
+ 
+l
+a
+r
+o
+m
+ 
+g
+n
+i
+gr
+e
+m
+e
+ 
+h
+t
+i
+w
+ 
+la
+e
+d
+ 
+e
+g
+d
+e
+l
+w
+o
+n
+k 
+d
+n
+a
+ 
+s
+n
+o
+i
+t
+c
+e
+f
+e
+r
+ 
+l
+a
+c
+i
+ht
+e
+ 
+e
+t
+o
+m
+o
+r
+p
+ 
+o
+T
+ 
+g
+n
+i
+n
+i
+a
+r
+t
+ 
+f
+o
+ 
+n
+o
+i
+s
+i
+v
+o
+r
+p
+ 
+d
+n
+a
+ 
+n
+o
+i
+t
+a
+t
+n
+e
+m
+e
+lp
+m
+I
+s 
+P
+H
+ 
+ll
+a
+ 
+r
+o
+ 
+,
+t
+s
+e
+u
+q
+e
+r
+ 
+c
+fi
+c
+e
+p
+s
+ 
+a
+ 
+n
+o
+ 
+s
+dr
+a
+w
+ 
+e
+l
+g
+n
+i
+S
+s 
+r
+e
+b
+m
+e
+m
+ 
+U
+B
+ 
+e
+h
+t
+ 
+ll
+A
+G 
+N
+I
+N
+I
+A
+R
+T
+ 
+D
+N
+A
+ 
+N
+O
+I
+T
+A
+C
+U
+D
+E
+- 
+w
+o
+ll
+o
+f 
+e
+h
+t
+ 
+g
+n
+i
+dr
+a
+g
+e
+r
+ 
+y
+ll
+a
+i
+c
+e
+p
+s
+e
+ 
+,
+s
+P
+H
+ 
+g
+n
+o
+m
+a
+- 
+o
+t
+-
+e
+c
+a
+f 
+y
+b 
+n
+o
+i
+t
+a
+c
+u
+d
+e
+ 
+s
+c
+i
+ht
+e
+ 
+d
+n
+a
+ 
+s
+m
+a
+r
+g
+o
+r
+p
+ 
+d
+e
+r
+a
+h
+s
+ 
+d
+n
+a
+ 
+t
+n
+e
+m
+e
+ga
+g
+n
+e
+ 
+t
+n
+e
+i
+t
+a
+p
+ 
+:
+s
+c
+i
+p
+o
+t
+ 
+g
+n
+i
+s 
+e
+s
+s
+a
+l
+c
+ 
+l
+a
+i
+t
+n
+e
+i
+r
+e
+p
+x
+e
+ 
+d
+n
+a
+ 
+e
+c
+a
+f
+,
+)P
+C
+A
+( 
+g
+n
+i
+n
+n
+a
+l
+p
+ 
+e
+r
+a
+c
+ 
+e
+c
+n
+a
+v
+d
+a
+ 
+,
+g
+n
+i
+ka
+m
+-
+n
+o
+i
+s
+i
+c
+e
+d
+ 
+d
+n
+a
+ 
+s
+e
+u
+s
+s
+i 
+e
+fi
+l
+-
+f
+o
+-
+d
+n
+e
+ 
+,
+)
+D
+A
+( 
+s
+e
+v
+it
+c
+e
+r
+i
+D 
+e
+c
+n
+a
+v
+dA
+- 
+ht
+e
+ 
+d
+n
+a
+ 
+,
+e
+r
+a
+c
+ 
+e
+v
+i
+t
+a
+i
+ll
+a
+p 
+c
+i
+r
+t
+a
+i
+de
+p
+ 
+,
+e
+r
+a
+c
+ 
+e
+v
+i
+t
+a
+i
+ll
+a
+p
+n
+o
+it
+a
+c
+o
+ll
+a
+ 
+e
+c
+r
+u
+o
+s
+e
+r
+ 
+f
+o
+ 
+s
+c
+i
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 4 of 15 
+Methods 
+Tis is a mixed-method study that followed a quanti tatively driven and explanatory design [22]. Subsequent  qualitative data build on the initial quantitative fnd ings with the aim of expanding on them and ofering a  more in-depth understanding of the research questions  through users’ perceptions. 
+Quantitative study 
+Data collection 
+Quantitative data on the BU’s activities from January  2016 to December 2020 were collected to describe the  activities in terms of hours/time spent, collaborators,  and topics covered. 
+Information on research projects promoted and  implemented by the BU, the number and length of eth ics consultations, educational programs or training,  the topics covered, and the units and institutions that  collaborated in these activities were collected from an  internal database. 
+Data analysis 
+Te quantitative data were analyzed by descriptive  statistics using IBM SPSS Statistics 26, by an expert  researcher in biomedical statistics (ET). Two data bases were generated, one for research activities and  one for educational programs or training, consultation,  and supervision activities. Te datasets were analyzed  independently except for the data related to the topics  addressed. 
+Qualitative study 
+Population and setting 
+We performed a purposive sampling varying eligible  participants’ characteristics. Participants were identi fed among units that have diferently collaborated with  the BU, accordingly with emerging quantitative fnding. 
+Participants had to meet the following inclusion  criteria: 
+• Tey were working at the local Health Care Service  of Reggio Emilia. 
+• Tey had been involved in at least one of the activi ties provided by the BU between 2016 and 2020. 
+Data collection 
+A series of one-to-one qualitative interviews were con ducted to understand the perceptions of HPs who col laborated in activities organized by the service. Te  interviews focused on the BU activities and their per ceived impact on clinical practice. Due to the restrictions  
+imposed by the pandemic, all the interviews were con ducted online except for one, which was held at the  participant’s ofce. Two researchers (LDP and MP) devel oped the semi-structured interview topic guide. LDP is  the Head of the BU, while MP is a PhD student in Clinical  and Experimental Medicine. Tey both work at the BU  and have a background in qualitative research. Te inter view guide was revised by a third researcher (LG) who is  the head of the qualitative research unit. Te main topics  were (a) the participants’ evaluation of their involvement  with the BU in terms of satisfaction and the impact on  their clinical practice; (b) further needs regarding ethical  aspects of care; (c) expectations for future collaboration  with the BU. Te interview guide and related exemplify ing questions are reported in Table 2. 
+A letter was sent to each respondent to invite them  for an interview at a convenient date and time. Te  interviews were audio-recorded with the participants’  consent. All the interviews were conducted by three  researchers (MP, GA, and CG) trained in qualitative  research. No repeat interviews were conducted, and  the transcripts were not returned to the participants for  comments or corrections. 
+Data analysis 
+Te semi-structured interviews have been transcribed  verbatim. We followed the thematic framework [23]. It  was developed by MP and GA, and supervised by LG,  combining a deductive approach with an inductive one:  themes were initially pre-selected based on the research  questions (deductive approach), then themes were gen 
+erated from the data though open coding (inductive  approach). Firstly, MP and GA read the transcript of two  interviews, writing down frst impressions and notes.  Ten, they coded the texts, and analyzed themes inde 
+pendently before reaching inter-coder agreement. Using  the agreed-upon themes, MP analyzed each interview  by applying the framework to make recurrent themes  emerge. GA supervised the work. Subsequently, the two  researchers discussed and agreed on emergent themes  and subthemes. LDP, LG, MM and MC contributed to  analysis and the presentation of the fnal results. 
+Results 
+Quantitative results 
+From January 2016 to December 2020, the BU partici pated in 33 clinical and organizational research projects.  Most of them were promoted by the Azienda USL IRCCS  of Reggio Emilia structure (n=25), while 8 projects were  led by other Italian institutions and European organiza tions (n=6 and n=2, respectively). Te BU directly pro moted 11 research projects (Fig. 1a).
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 5 of 15 
+Table 2 Interview topic guide 
+Theme Exemplifying questions 
+Evaluation of the participant’s collaboration with the BU in terms of:  satisfaction, impact on clinical practice and within the health care  relationship 
+-Can you tell me what the activities of the BU are? And what are the aims of the  activities promoted by the BU? 
+-Which of these activities have you been involved in? What was the reason for  your involvement? 
+-What do you think about the activities you took part in? 
+-How would you evaluate the impact of this experience on your clinical  practice? And on the care process? (For example, in the relationship between  medical teams or diferent settings?) 
+-Considering your personal experience, do you remember a particular situation  when the BU was particularly signifcant? Can you describe it with an example? 
+Further needs regarding ethical aspects of care - Considering your work and the BU activities, are there other topics that need  to be examined more in depth? If so, can you give an example? 
+-Considering the place where you work and your colleagues and medical  
+teams, are there other situations that need to be examined more in depth? If so,  
+can you give an example? 
+Expectations on future collaboration with the BU -The BU is thinking of expanding the ethics consultation service. What is your  opinion about this? 
+-What activities do you think the BU should promote in the future?
+Te number of research projects in which the BU was  involved increased over the years and reached its maxi mum in 2020, when 15 new research projects were initi ated while 7 were still ongoing (Fig.  1b). Te research  projects had several target audiences, including patients,  caregivers, citizens, and ethics committees. However,  more than half were designed for healthcare professionals  (63.6%) (Fig. 1c). Among the 33 research projects in which  the BU collaborated, some consisted of updating perspec tives on roles and practices in specifc settings to revise or  produce new care pathways or implement new services.  Others aimed to explore or comprehend whether and how  healthcare professionals make sense of and handle ethical  issues in clinical practice. Some research projects aimed  to assess the efectiveness of a structured ethical interven tion (e.g., Advance Care Planning) for a target population.  All of them have as their main outcomes improving quality  of care and quality of assistance and scholarly papers pub lished in peer-review journals. Te BU’s research activity  was carried out in collaboration with 19 units/services,  both involved and not involved in patient care (n=11 and  n=8, respectively). Ten units collaborated with the BU on  only one project, 6 units collaborated on two or three pro jects, and 3 units were involved in more than 8 projects.  Four services collaborated both as sponsors and collabora tors in projects sponsored by the BU (Fig. 1d). 
+Consultation, training, and supervision activities  involved 25 services/units, 22 of them directly involving  patient care, while three were not clinical services (health  directorate, health professions directorate, forensic medi 
+cine). Ten units were engaged in community health ser vice, while 15 were hospital ones (Fig. 2). Te number of  hours spent by the services on activities led by the BU  
+varied widely, ranging from 1 h of the health directorate  to 292 h of the palliative care unit (median: 8; IQR 2–20). Te majority of services/units collaborated in one of  the 4 areas of BU activity (n=25), 10 services/units col laborated in 2 or 3 areas (n=6 and n=4). Only one unit,  the Palliative Care Unit (PCU), collaborated in all the 4  main areas of activity. 
+Finally, we looked at the topics addressed in the BU’s  activities. Most of them were addressed in more than  one activity, and 4 were addressed in all the areas. All  issues except the ethics of deep palliative sedation were  addressed from a research perspective (Fig. 3). 
+Qualitative results 
+An appropriate sample of participants were recruited  among units that had collaborated with the BU. Starting  from the results of the quantitative analysis, we identifed  the following variables of the units where the participants  work: 
+• Time spent in research projects; 
+• Time spent in consultations, educational programs  or training organized/led by the BU; 
+• Te extent of the collaboration between the partici pating unit and the BU; 
+• Te type of unit participating, in terms of hospital/ local community; pediatric/adult service; clinical/ non-clinical service. 
+Te units were frst divided into three groups based on  the total time spent in research projects, ethics consul tations and educational programs or training organized/ 
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 6 of 15   Fig. 1 BU’s research activities. Quantitative analysis of the number of projects, collaborators, and target audience of BU’research activities from  January 2016 to December 2020. a Sponsor of the research project in which BU is involved. b Initiated and ongoing project per year. c Research  projects target audience. d Units that have collaborated with the BU either as sponsors or collaborators in BU-sponsored projects. IT Italian, EU 
+European, AUSL-RE Azienda AUSL IRCCS di Reggio Emilia, PCU palliative care unit, QRU qualitative research unit, MAPS medically assisted procreation  service, NICU neonatal intensive care unit
+led by the BU: low level of collaboration (≤2 h), medium  level of collaboration (between 3 and 12  h); high level  of collaboration (> 12 h). Within each group, we identi fed units that difer from the other variables. Finally, we  identifed participants from selected units. 
+We identifed and contacted 22 participants. Of  these, 4 did not reply, while the others showed a great  deal of interest in the project. Te fnal sample included  18 participants: 16 female and 2 male HPs. Two were  psychologists, one researcher, one biologist, one  
+physiotherapist, one speech therapist, six nurses and  six physicians. Te participant characteristics are sum marized in Table 3. 
+Te interviews were performed between February  and March 2021 and lasted an average of 31 min (range  15–55). 
+Framework analysis identifed the following 4 main  themes and 6 related subthemes. Table  4 presents the  themes and sub themes and corroborates the analysis  with selected quotations. 
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 7 of 15   Fig. 2 BU’s consultations, training, and supervision activities. Hours spent from other structure in AUSL-Re BU consultations, training, and  supervision activity
+Ways and meanings of the BU’s collaborations 
+How and  why to  access the  BU Te participants  described as ‘spontaneous’, informal (c.1.6), and personal  the access to the BU (c.1.4). Sometimes, access was medi ated by other professionals or directors. Te two reasons  most often given for contacting the BU were the need for  further knowledge on Law no. 219 on Advance Directives  and Advance Care planning and the wish for support to  increase the quality of care as professionals (C15.10). Most  of the participants reported that after the frst contact  with the BU they discussed and agreed with the BU’s Head  which type of service would help among research activity,  ethics support and ethics training. Often, the presence of  the BU in the hospital has been cited as a reason to work  with it (C.6.6). Some defned their collaboration with the  BU as ‘germinal’ and ‘in progress’ (C.11.4), while others  depicted their collaboration as ‘extensive’ (C.9.4), daily (C.10.11), and varied (C.15.1). Finally, a few participants  
+reported an abrupt interruption of the collaboration due  to the COVID-19 pandemic (C.13.14). 
+Te BU’s role and  activities Participants involved in  some of the research projects promoted by the BU defned  research issues as ‘themes [typically] involving the inner  aspects of the patients and their possibility of choice’  (C.15.3.1). Participants also appreciated the interconnec 
+tion between BU activities, which led to a practical, less  theoretical approach to the topics (C8.16). Tis was par ticularly noted for training and case discussions among  the care team, but HPs also highlighted the novelty of the  issues treated in the educational programs. (c.2). Moreo ver, Individual ethics consultations were requested by the  HPs for reassurance and to fnd someone able to help them  in reading difcult emotions cognitively (c.5), while ethi cal supervision was perceived as a more structured, multi professional meeting among the care teams (c.11.1.5). 
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 8 of 15   Fig. 3 Topics addressed in BU’s activities. The graph showed the number of times each topic was the subject of one of the activities conducted by  the Bioethics Unit 
+Table 3 Participants characteristics and collaboration with the Bioethics Unit 
+Cod Professions Working Unit Collaboration with BU  (R, EC, ES, E&T) 
+Time of collaboration Level of collaboration  (high, good, medium,  
+low) 
+01 Physician Hospice EC, ES, E&T 2018–2020 High collaboration 
+02 Physiotherapist Rehabilitation Unit for Severe Childhood  Disabilities 
+Only E&T 2018, 2020 Medium 
+03 Physician Intensive care Only E&T 2018 and 2020 Medium 04 Speech therapist Paediatric care E&T and ES 2020 Good 05 Phisician Covid-hospital Only EC (Covid) 2020 Low 06 Psychologist Neuroloy Only R (4 projects) Since 2018 Low 07 Psycho-oncologist Psycho-oncology Unit E&T and R (9 projects) 2015,2018,2020 High 08 Methodologist Qulitative Research Unit Only R (18 projects) Since 2016 Low 09 Physician Palliative care Unit E&T, ES; EC, R (13 projects) since 2016 High 10 Nurse Palliative care Unit E&T, ES; EC, R (13 projects) since 2016 High 11 Oncologist Oncology E&T, ES; EC, R (1 projects) 2016, 2019- 2020 High 12 Nurse Neonatal intensive care E&T, EC, R (2 projects) 2017–2020 High 13 Nurse Hospice Only ES Since 2020 Good 14 Nurse Hospice E&T, ES; EC 2018–2020 High 15 Biologist Mediaclly Assisted Procreation Service E&T, R (2 projects) 2018–2020 Medium 16 Nurse Hospice Only ES Since 2020 Good 
+17 Physician Rehabilitation Unit for Severe Childhood  Disabilities 
+Only E&T 2018 and 2020 Medium 
+18 Nurse Neuropsychiatry Only EC 2019 Good
+For further description of each activities, please, see Table 1 
+R: Research activity; EC: Ethics consultation; ES: Ethics Supervision; E&T: ethics education and training 
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 9 of 15 
+Table 4 The 4 key themes, related sub-themes and meaningful quotes 
+Theme I Meaningful quotations 
+1. Ways and Meanings of the BU’s collaborations 1.1 How and why to access the BU So in certain circumstances, I asked myself: Which  person is the most competent to help you with  
+this specifc question? And I autonomously identi 
+fed her (the Head of BU)" (cod. 1.4). 
+We certainly made the initial request, because we  
+needed an opinion, a point of view diferent from  
+ours. This, perhaps, is ethics: a diferent vision from  
+ours. (C.15.10) 
+The reasons that led us to contact the BU were:  
+frst, the fact that the bioethics unit exists. This is  
+the main reason: it is not so common for a hospi 
+tal to provide this resource (c.6) 
+1.2 The BU’s role and activities If we talk about the ethics training (…) it brought  
+attention to topics that we usually lack some  
+knowledge of (C 2.3) 
+In my innermost thoughts, I thought (my choice)  
+was right, but in that moment (…) I needed  
+someone to rationalize all the choices and the  
+path of care, someone who could support me  
+(c.5.18). 
+In the educational activity, we discussed specifc  
+cases, (…) which created a bit of disagreement  
+within the care team regarding the decisions to  
+be taken on palliative sedation (…), and this made  
+it clear to me and to the nursing coordinator that  
+there was a need to increase the training activity  
+on this topic (c.11.1.5). 
+I believe that the BU’s aim is very clear, which is to  
+give us more confdence and provide ethical sup 
+port, not only methodological, towards choices  
+that have to made…choices that are often less  
+clinical than those taken elsewhere. (We work  
+in a unit where) non-clinical choices have equal  
+dignity to clinical choices (C.16.3). 
+2. The role of the bioethicist and organizational  aspects 
+2.1 Personal attitudes and specifc competen cies 
+The strongest point is the training in the feld,  namely the discussion of real cases together: then  you understand the whole theoretical part (c.10) The frst times I changed my point of view on the  case, being less focused on ‘doing’, it was a shock  to me too. Then… knowing that no one judges  you… the bioethicist is the right fgure for this  type of support. (C.18.20) 
+In our setting there are, as well as perhaps in other  settings, cultural aspects that in my opinion it is  important to be aware of, and from this point of  view, having referents who specifcally study these  things, and have a background and the ability to  follow the current ethics questions is fundamental  for having feedback, also for the overall growth in  the system of our department (c.11.41)
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 10 of 15 
+Table 4 (continued) 
+Theme I Meaningful quotations 
+2.2 Organizational aspects If I have a symptom X, I do something to cure  
+the symptom X, and I need to have the result  
+immediately. On the contrary, considering the  
+care path, I do something, and I will see the result  
+after a long time, it is a path built in many steps.  
+This is perhaps the difculty of making the two  
+facets interact with many other facets: I think this  
+(ethics) is a facet of our work, but it doesn’t always  
+ft in with the timing we are used to working with.  
+(c.3.28) 
+If there is only one person (the head of BU), you  
+do not know who to refer to. Probably there is a  
+limit (…) in the sense of having only one contact  
+person. (c.11.45) 
+I didn’t even know (the BU) existed, (…) I could  
+never have made the contact if I hadn’t found out  
+from someone else. (…) knowing that it exists is  
+important, to spread this opportunity. (c.5.43) 
+(There are) organizational (limitations) but also  
+regarding cultural aspect of both executives and  
+us as professionals: because we are inside this  
+logic of doing and doing, and you are not allowed  
+to think about the ethical aspect of doing… 
+(refecting on it) is experienced as a luxury (c.2.21) 
+3. Impact on the HPs’ attitudes 3.1 A deeper way of thinking It is very important to have other ‘’two eyes’’  trained on this type of comparison. It allows you  
+to refne, to mature, to give a little more depth to  
+your assessments, to your orientations." (c.1.10) 
+The possibility of drawing on a professional who is  
+not strictly clinical but also has a wider philosophi 
+cal tradition, which is more extended compared  
+to the questions we are usually accustomed to  
+thinking, but which in real life concern the daily  
+choices of clinicians and patients (c.6) 
+In the end, (the Head of BU) not only helps you to  
+deal with the question that arose, but also helps  
+to strengthen the group and therefore in my opin 
+ion it is a doubly positive result. (c.13.22) 
+Then there were also situations in which we  
+realized that the problem was not ethical but was  
+more relational or organizational. But (the ethics  
+intervention) was useful anyway, because we also  
+understood what kind of problem it is: since we  
+work within complexity, it helps a lot. (c.14.10)
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 11 of 15 
+Table 4 (continued) 
+Theme I Meaningful quotations 
+3.2. Identifying new questions in clinical practice I think there’s been a positive impact, in the sense  
+that we, as clinicians, are far ahead clinically. (…)  
+She (the head of BU) suggested that we go step  
+by step, take small steps, set small goals and see  
+on the other side how the parents respond. It  
+is not easy for a parent to become aware of the  
+child’s illness. In this way, instead, they arrive  
+prepared, but we must not do everything immedi 
+ately. (C.18.9) 
+Sometimes we clash also, we clash in the sense  
+of a comparison among us, among our diferent  
+points of view, and in my opinion the tools that  
+are ofered to us (by the BU) help the care team to  
+be a little more at peace. (c.14.20) 
+(There has been) an improvement in the relation 
+ship with patients. (…) While before, the meeting  
+with the patients took place on two slightly  
+separate levels, we at the top and patients at the  
+bottom, I saw this distance was reduced. And so  
+more and more professionals are trying to put  
+understanding at the core of the health care  
+relationship, even when things aren’t really great.  
+(c.15.33) 
+4. Further needs I think that considering all this no longer in an  informal way but in a planned, structured way can  
+be absolutely useful." (1.16) 
+More structured, because when we need (the BU  
+intervention) the situation is probably already too  
+far advanced. If I had a consistent presence, (…)  
+she makes me aware in time that there is a need  
+for something more, to implement a care pathway  
+where I usually arrive too late. (c.3.23) 
+So sometimes I asked myself: Why not bring this  
+way of training to other departments? Because an  
+oncologic patient is in all departments, because  
+the “questions of meaning” arise in all the depart 
+ments (…) (c.13.38) 
+What I think and hope is that having a system  
+within the health care facility (dealing with ethical  
+aspects of care) will push (…) all the departments  
+to provide health care professionals with an ethi 
+cal basis, because ethics is the basis of the profes 
+sion and still too many nurses do not perceive that  
+(…) goes beyond in so many ways (C.16.35) 
+So I hope it really becomes a way to bring it to  
+everyone, because everyone has ethical doubts  
+but sometimes they don’t know them and so the  
+crises arise. (…) I think this year has brought it to  
+light a lot (due to the COVID-19 pandemic), (…)  
+there have been many ethical choices and they  
+often have not been perceived, and this perhaps  
+has aggravated a crisis that was already serious  
+from a clinical point of view. But the clinical prac 
+tice raises questions that are easier to solve than  
+the ethical ones, and so I think it’s right to care  
+for the HPs from this point of view, otherwise we  
+would have HPs who are much more sterile and  
+much more unhappy in their doubts. (c.16.36).
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 12 of 15 
+The role of the bioethicist and organizational aspects Bioethicist’s personal attitudes and  specifc compe tences Te bioethicist was perceived by participants  as a specialist to be involved, like other professionals, in  critical case discussions. Participants appreciated difer ent characteristics related to the personal attitude of the  bioethicist, such as speed (c.7), availability, communica tive competence (c.11.11), and the practical approach  (c.10). One participant also noted the bioethicist’s ability  to support HPs in expressing their thoughts without being  judged. One participant underlined that it is essential to  have someone who can help with the HPs’ moral distress.  Participants identifed the bioethicist as a professional  with specifc, advanced competences that can help them  develop a diferent perspective in order to foster a more  patient-centered decision-making process. (c.18.20;) 
+Organizational aspects Participants generally did not  identify criticisms or problems in their collaboration  with the BU. However, some ‘organizational’ limits were  specifed. It was noted that activating the ethics consul 
+tation was difcult, especially in urgent situations due to  the time constraints. In such situations, asking for ethics  consultation is “already too late”, while a more proactive  approach would have beneftted the HPs, preventing the  ethical confict (c.3.28). Other emerging relevant limits  included the lack of other competent personnel to support  the bioethicist (c.11.45) and the lack of sufcient infor mation about the BU service and its activities (c.5.43). A  few participants referred to bioethics as ‘something niche’,  calling for more involvement of a bottom-up approach,  for example, more intense participation of the BU person 
+nel in the daily health care activities (c.D). 
+Impact on the HPs’ attitudes 
+A deeper way of thinking Participants reported that the  collaboration with the BU, especially in ethics consulta tion and research projects, led them to develop a more  mature and deeper way of thinking (c.1.10), stimulating  new questions and focusing on the practical and daily  aspects of ethics in clinical practice (c.6). One participant  specifed that working with the BU helped the profession als to be more aware of the ‘limits’ of their own compe tences (c.7). Many others reported that it helped them to  develop a holistic understanding of what is going on in a  clinical case (c.13.22; c.14). 
+Identifying new questions in clinical practice According  to participants, the research activity proposed by the BU  allows them to focus on the ethical aspects of health care issues. For example, only after a 4 h ethical training, pedi atric HPs asked for a research project on pediatric advance  care planning. Pediatric HPs interviewed also noted how  
+the ethics support helped them better synchronize the  time required by pediatric patients’ end of life and the  time needed by the parents to deal with the complex situ ation (c.18.9; c.18.10). Many participants reported feeling  supported (c. 5.21), peaceful, relieved (5.27, c.15.27), and  safe (c.10) in making difcult decisions, in both patient clinician relationships and interpersonal relationships  among colleagues. (14.20, c. 15. 33). 
+Further needs 
+Participants suggested a more structured method for col laboration with the BU, starting with better identifca tion of formal access paths (c.1.6). Tey also requested  increasing the cooperation with a more robust integra tion between the BU and the operative wards, and a more  proactive attitude by the BU (c.4; c.6). Participants high lighted the need to broaden a ‘common ground’ related to  ethical issues in clinical practice among HPs, considering  the multi-professional relevance of such activity, by tak ing a practical formative approach (c.7, c.13.38, c.16.36).  Generally, participants called for a normalization of the  ethical discussions within their clinical practice (c.6.).  According to participants, end-of-life issues, communi cation, advance directives, research ethics, advance care  planning, shared decision-making process, and ethi cal aspects related to COVID-19 need further in-depth  analysis. 
+Discussion 
+Quantitative data collected and qualitative interviews  with HPs were crucial to evaluate the BU impact on clini cal practice. 
+As quantitative results showed, the number of BU  research projects increased extensively over the years  and the number of work collaborations with other units  and wards. We can defne this process as an “inter-related  growth”. Indeed, our results have shown that performing  both empirical bioethics research and more traditional  clinical ethics activities at the same unit would produce  a mutual improvement and thus lead to synergy efects.  For example, many research projects started as a result  of ethics consultation, or the latter came inside a spe cifc research activity. HPs particularly appreciated the  integration of research activity, training, and EC. Tey  stressed the need to increase such activities and spread  the BU’s knowledge among colleagues within the health  care facilities. It represents an exciting and novel result,  yet unexplored by literature—the few described experi ences focused on the research activity only [24, 25] or the  ethics consultation function [3, 10, 26]. 
+According to our quantitative data, research activities  lead to the BU being considered a cross-institutional ser vice, which can be applied in diferent settings and with 
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 13 of 15 
+diferent HPs. Moreover, dealing with ethical problems  through research activities would enhance mutual col laboration between ethicists and HPs as reported in the  qualitative interviews. It also helps ethicists develop eth ics tools and interventions based on the specifc needs in  the setting where the collaboration will be implemented  and helps HPs consider ethics as a part of daily clinical  practice. Tis approach is in line with others in the feld  of empirical bioethics, such as the ’deliberative engage ment’, the ’embedded researcher’, and the ’committed  researcher’ approaches [27]. Tese research methods  integrate a patient-oriented service and a multidiscipli nary research team to gain a deeper understanding of  what the diferent stakeholders express, and to establish  ‘a coherent and viable framework to regulate the unfold ing practice, in a way that can best honor the essential  
+life-building values of all the concerned people’ [27]. Despite the recent increasing interest and improve ments in the role of empirical research in bioethics [24,  28], many challenges still afect its implementation,  including the lack of training of bioethics specialists  in empirical methods and the lack of consensus on the  appropriate methodology for doing empirical research  in bioethics [29]. A standard methodology for empirical  research in bioethics is still an open and debated ques tion [30], while our results could highlight the substan tial contribution of an integrated CESS that promotes  research projects along with ethics consultation. Another important fnding of this study was about the  role of ethics support. According to our results, the BU  ethics consultation activity over the years was focused  on HPs only. Te topic of patient participation in clini cal ethics support service (CESS) is a matter of ongoing  controversy in Europe [31]. It is increasingly discussed  in the literature due to the lack of extensive theoretical  or empirical studies on the matter. CESSs and clinicians  have reported a positive experience regarding the partici pation of patients or next of kin in the consultations. It  can help them understand new and important informa tion for achieving appropriate deliberation, even though  the presence of stakeholders can also bring further ten sion and confict to the meetings. It is also sometimes  perceived as inhibiting frank discussions [32]. As our qualitative fndings highlighted, HPs appreci ated the practical/pragmatic aspect of ethics education  and training, describing the impact on their clinical  practice in terms of the development of new ques tions about daily clinical practice and the meaning of  ’professional competences’. Previous studies described  the impact of such ethical interventions on HPs and  the related outcomes [33]. Tese studies demonstrated  that multidimensional educational intervention, com bining diferent elements such as lectures, small-group  
+discussions, workshops, and ethical roundtables focus ing on diferent areas of ethics increased HPs’ ethical  knowledge and ethical sensitivity, the application of  ethical principles and ethical codes, and the identifca tion of ethical problems within their clinical practice  [33–35]. 
+Our qualitative fndings also highlighted the support ive role of the bioethicist within the health care team.  HPs felt reassured and more confdent in dealing with  complicated decision-making processes. Tese fnd ings confrm the role of the ethicist, as described in the  literature, in helping to create the appropriate environ ment in which ethical refection and deliberation can  take place [36]. 
+However, the support of a single ethicist within the  health care team, providing ethics consultation, repre sents one form of CESS. Diferent forms of CESSs have  been developed and implemented worldwide, includ ing the clinical ethics committee (CEC) model, mainly  widespread in Europe. 
+A CEC is a multidisciplinary institutional body  assigned to consider, debate, take action on, or report  ethical issues in patient care [3]. It focuses on providing  advice or recommendations to HPs concerning the best  course of action in a specifc clinical case or discussion.  It leads to a good decision-making process through a  written, institutional response. Rather than the single  bioethicist, the support of a multidisciplinary and plural istic body would be constructive in dealing with complex  cases where diferent moral views confict [37]. Since our  results showed HPs have been progressively sensitized to  their clinical practice’s ethical aspect of care, we hypoth 
+esised that they could also beneft from the support of a  multidisciplinary institutional body in managing complex  moral situations. Terefore, the BU promoted an empiri cal bioethics research project on a CEC implementation  and evaluation to continue integrating diferent activities. 
+Strengths and limitations 
+Our study evaluates a BU activity by integrating a quan titative and qualitative assessment. No other experience  like our BU has been previously described and evaluated  concerning ethics consultation, training, and empirical  bioethics research. Moreover, research activity is a dis tinctive feature of our BU. 
+However, our study presents some limitations. First,  this study was developed in a local context, using a con venience sample. Moreover, since no other experiences  like our BU exist in Italy, our fndings are limited to a sin gle research hospital in northern Italy. No other signif cant quantitative data are available to compare research  from BUs nationally and internationally.
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 14 of 15 
+Conclusions 
+Acknowledging that our ultimate goal is to provide evi dence of the BU activities impact on clinical practice, we  believe that our results provide new knowledge on the  integration of empirical research activities, ethics consul tation and ethics training. 
+Integrating research activities provided an impetus  to increase collaboration and spread an ’ethical culture’  among local HPs. We can argue that such integration  of activities could be a model also for other large hospi 
+tals. Further studies are needed to understand the feasi bility of the model proposed in diferent countries and  organizations. 
+Abbreviations 
+BU: Bioethics Unit; HPs: Healthare Professionals; CEC: Clinical Ethics Committee;  CESS: Clinical Ethics Support Services; ORH: Oncological Research Hospital;  OECI: Comprehensive Clinical Cancer Institute; CNB: National Committee for  bioethics. 
+Acknowledgements 
+We are grateful to Cinzia Gradellini who helped the research team with  qualitative interviews, and to all the HPs who participated in this study. Their  collaboration has been invaluable, as is their commitment to bringing ethics  to the patient’s bedside. This study was partially supported by Italian Ministry  of Health – Ricerca Corrente Annual Program 2023. 
+Authors’ contributions 
+LDP: Conceptualization, Data Curation, Methodology, Writing—original draft;  MM: Contribution to analysis, Writing – review & editing; MC: Conceptualiza tion, Writing—review & editing, Supervision; LG: Methodology, Writing— review & editing; GA: Investigation, Data curation, Formal analysis, Writing— review & editing; ET: Data curation, Formal analysis, Writing—review & editing;  MP: Conceptualization, Investigation, Data curation, Formal analysis, Writing— original draft. All authors read and approved the fnal manuscript. 
+Funding 
+This research did not receive any specifc grant from funding agencies in the  public, commercial, or not-for-proft sectors. 
+Availability of data and materials 
+All data generated or analysed during this study are included in this published  article. 
+Declarations 
+Ethics approval and consent to participate 
+The Ethics Committee of the Local Health Authority of Reggio Emilia (Aven)  approved the study (Protocol n. 2020/0109819 on 24/09/2020). Written  informed consent was obtained from all participants after a clear explanation  of the study objectives and to ensure confdentiality. All methods were carried  out in accordance with relevant guidelines and regulations. 
+Consent for publication 
+Not applicable. 
+Competing interests 
+The authors declare that they have no competing interests. 
+Author details 
+1Bioethics Unit, Azienda USL-IRCCS di Reggio Emilia, Reggio Emilia, Italy.  2Centre for Medical Ethics, Institute of Health and Society, University of Oslo,  Oslo, Norway. 3Scientifc Directorate, Azienda USL-IRCCS di Reggio Emilia,  Reggio Emilia, Italy. 4Qualitative Research Unit, Azienda USL-IRCCS di Reggio  
+Emilia, Reggio Emilia, Italy. 5Department of Medicine and Surgery, University  of Parma, Parma, Italy. 6PhD Program in Clinical and Experimental Medicine,  University of Modena and Reggio Emilia, Modena, Italy.  
+Received: 4 July 2022 Accepted: 21 November 2022 
+  
+
+References 
+1. Aulisio MP, Arnold RM, Youngner SJ, Hudson B. Health care ethics con sultation: nature, goals, and competencies. A position paper from the  society for health and human values-society for bioethics consultation  task force on standards for bioethics consultation. Ann Intern Med. 2000.  https://doi.org/10.7326/0003-4819-133-1-200007040-00012. 
+2. Boniolo G, Sanchini V. Consulenza etica e decision-making clinic. Per  comprendere e agire in epoca di medicina personalizzata. 1st ed. Pear son; 2017. 
+3. Rasoal D, Skovdahl K, Giford M, Kihlgren A. Clinical ethics support for  healthcare personnel: an integrative literature review. HEC Forum.  2017;29(4):313–46. https://doi.org/10.1007/s10730-017-9325-4. 
+4. Fletcher JC. What are the goals of ethics consultation? A consensus state ment. J Clin Ethics. 1996;7:122–6. 
+5. Goldenberg MJ. Evidence-based ethics? On evidence-based practice  and the “empirical turn” from normative bioethics. BMC Med Ethics.  2005;8(6):E11. https://doi.org/10.1186/1472-6939-6-11. 
+6. Borry P, Schotsmans P, Dierickx K. The birth of the empirical turn in bio ethics. Bioethics. 2005;19(1):49–71. https://doi.org/10.1111/j.1467-8519. 2005.00424.x. 
+7. De Panflis L, Merlo DF, Satolli R, Perin M, Ghirotto L, Costantini M. Clinical  ethics consultation among Italian ethics committee: a mixed method  study. PLoS ONE. 2019;14(12):e0226710. https://doi.org/10.1371/journal. pone.0226710. 
+8. De Panflis L, Merlo DF, Satolli R, Coppola T, Ghirotto L, Costantini M. Clini cal ethics consultation and research ethics consultation: a call for Italy.  Am J Bioeth. 2018;18(1):63–4. https://doi.org/10.1080/15265161.2017. 1403665. 
+9. Leuter C, Petrucci C, Caponnetto V, La Cerra C, Lancia L. Need for ethics  support in clinical practice and suggestion for an Ethics Consultation  Service: views of Nurses and Physicians working in Italian Healthcare  Institutions. Ann Ist Super Sanita. 2018;54(2):117–25. https://doi.org/10. 4415/ANN_18_02_07. 
+10. Furlan E, Viafora C, Oprandi N, Cipolletta S. Creare e coordinare una rete  regionale di comitati etici per la pratica clinica. Risultati e lezioni apprese  da uno studio qualitativo svolto in Veneto/Establishing and coordinating  a regional network of healthcare ethics committees. Findings and lessons  learnt from a qualitative research in the Veneto Region (Italy). Medicina E  Morale. 2019;68(1):11–23. https://doi.org/10.4081/mem.2019.564. 
+11. DELIBERAZIONE DELLA GIUNTA REGIONALE n. 4049 del 22 dicembre  2004 Interventi in materia di Bioetica. Istituzionalizzazione del Comitato  regionale per la Bioetica. Linee-guida per la costituzione ed il funzi onamento dei Comitati etici per la sperimentazione. Linee-guida per la  costituzione ed il funzionamento dei Comitati etici per la pratica clinica.  https://bur.regione.veneto.it/BurvServices/Pubblica/DettaglioDgr.aspx? id=178000. Accessed 8 Oct 2022. 
+12. Deliberazione della Giunta regionale, Toscana. http://www301.regione. toscana.it/bancadati/atti/Contenuto.xml?id=5309988&nomeFile=Delib era_n.1219_del_22-11-2021 
+13. AZIENDA SANITARIA UNIVERSITARIA INTEGRATA DI TRIESTE, Formalizzazi one dell’organizzazione supportante l’etica clinica nell’A.S.U.I. di Trieste, in  attuazione dell’Atto Aziendale adottato con decreto n. 476/2017. https:// asugi.sanita.fvg.it/export/sites/aas1/it/documenti/all_dss/mat_info/dss_ nepc_dcr_606_2017_org_etica_cl_asuits.pdf. Accessed 8 Oct 2022. 
+14. National Committee of Bioethics, Clinical Ethics Committees, 31 march  2017. https://bioetica.governo.it/en/opinions/opinions-responses/clini cal-ethics-committees. 
+15. National Committee of Bioethics, The role of Bioethics Experts in Ethics  Committees, 28 May 2021. https://bioetica.governo.it/en/opinions/opini ons-responses/the-role-of-bioethics-experts-in-ethics-committees/.
+De Panflis et al. BMC Medical Ethics (2022) 23:133 Page 15 of 15 
+16. Petrini C. Will medically-assisted suicide mean the rebirth of (clinical) eth ics committees in Italy? Med Leg J. 2020;88(1_suppl):26–30. https://doi. org/10.1177/0025817220923650. 
+17. Huxtable R, Ives J. Mapping, framing, shaping: a framework for empirical  bioethics research projects. BMC Med Ethics. 2019;20(1):86. https://doi. org/10.1186/s12910-019-0428-0. 
+18. Molewijk B, Stiggelbout AM, Otten W, Dupuis HM, Kievit J. Empirical data  and moral theory. A plea for integrated empirical ethics. Med Health Care  Philos. 2004;7(1):55–69. https://doi.org/10.1023/b:mhep.0000021848. 75590.b0. 
+19. Hurst S. What “empirical turn in bioethics”? Bioethics. 2010;24(8):439–44.  https://doi.org/10.1111/j.1467-8519.2009.01720.x. 
+20. Website of the CEC. https://www.ausl.re.it/comitato-per-letica-nella-clini ca-cec. Accessed 8 Oct 2022. 
+21. Haltaufderheide J, Nadolny S, Gysels M, Bausewein C, Vollmann J,  Schildmann J. Outcomes of clinical ethics support near the end of life:  a systematic review. Nurs Ethics. 2020;27(3):838–54. https://doi.org/10. 1177/0969733019878840. 
+22. Cresswell JW, Plano-Clark VL. Designing and conducting mixed method  research. Thousand Oaks: Sage; 2010. 
+23. Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework  method for the analysis of qualitative data in multi-disciplinary health  research. BMC Med Res Methodol. 2013;18(13):117. https://doi.org/10. 1186/1471-2288-13-117. 
+24. Wangmo T, Provoost V. The use of empirical research in bioethics: a  survey of researchers in twelve European countries. BMC Med Ethics.  2017;18(1):79. https://doi.org/10.1186/s12910-017-0239-0. 
+25. Chadwick R, Wilson D. The emergence and development of bioethics  in the UK. Med Law Rev. 2018;26(2):183–201. https://doi.org/10.1093/ medlaw/fwy011. 
+26. Fox E, Tarzian AJ, Danis M, Duke CC. Ethics consultation in U.S. hospitals:  opinions of ethics practitioners. Am J Bioeth. 2022;22(4):19–30. https:// doi.org/10.1080/15265161.2021.1893550. 
+27. Fournier V, Bretonnière S, Spranzi M. Empirical research in clinical ethics:  the “committed researcher” approach. Bioethics. 2020;34(7):719–26.  https://doi.org/10.1111/bioe.12742. 
+28. Ives J, Dunn M, Molewijk B, Schildmann J, Bærøe K, Frith L, Huxtable R,  Landeweer E, Mertz M, Provoost V, Rid A, Salloch S, Sheehan M, Strech D,  de Vries M, Widdershoven G. Standards of practice in empirical bioethics  research: towards a consensus. BMC Med Ethics. 2018;19(1):68. https:// doi.org/10.1186/s12910-018-0304-3. 
+29. Davies R, Ives J, Dunn M. A systematic review of empirical bioethics  methodologies. BMC Med Ethics. 2015;7(16):15. https://doi.org/10.1186/ s12910-015-0010-3. 
+30. Brooks L, Bell D. Teaching, learning and assessment of medical ethics at  the UK medical schools. J Med Ethics. 2017;43(9):606–12. https://doi.org/ 10.1136/medethics-2015-103189. 
+31. Brierley J, Archard D, Cave E. Challenging misconceptions about clinical  ethics support during COVID-19 and beyond: a legal update and future  considerations. J Med Ethics. 2021;47(8):549–52. https://doi.org/10.1136/ medethics-2020-107092. 
+32. Magelssen M, Pedersen R, Miljeteig I, Ervik H, Førde R. Importance of  systematic deliberation and stakeholder presence: a national study of  clinical ethics committees. J Med Ethics. 2020;46(2):66–70. https://doi. org/10.1136/medethics-2018-105190. 
+33. Stolt M, Leino-Kilpi H, Ruokonen M, Repo H, Suhonen R. Ethics interven tions for healthcare professionals and students: a systematic review. Nurs  Ethics. 2018;25(2):133–52. https://doi.org/10.1177/0969733017700237. 
+34. De Panflis L, Tanzi S, Perin M, Turola E, Artioli G. “Teach for ethics in  palliative care”: a mixed-method evaluation of a medical ethics training  programme. BMC Palliat Care. 2020;19(1):149. https://doi.org/10.1186/ s12904-020-00653-7. 
+35. Sader J, Audétat MC, Nendaz M, Hurst S, Clavien C. Design bioethics,  not only as a research tool but also a pedagogical tool. Am J Bioeth.  2021;21(6):69–71. https://doi.org/10.1080/15265161.2021.1915416. 
+36. DuVal G, Clarridge B, Gensler G, Danis M. A national survey of U.S. intern ists’ experiences with ethical dilemmas and ethics consultation. J Gen  Intern Med. 2004;19(3):251–8. https://doi.org/10.1111/j.1525-1497.2004. 21238.x. 
+37. Crico C, Sanchini V, Casali PG, Pravettoni G. Evaluating the efectiveness of  clinical ethics committees: a systematic review. Med Health Care Philos.  2021;24(1):135–51. https://doi.org/10.1007/s11019-020-09986-9. 
+Publisher’s Note 
+Springer Nature remains neutral with regard to jurisdictional claims in pub lished maps and institutional afliations.
+Ready to submit y submit your research ? Choose BMC and benefit from:  
+• fast, convenient online submission 
+• thorough peer review by experienced researchers in your field 
+• rapid publication on acceptance 
+• support for research data, including large and complex data types • gold Open Access which fosters wider collaboration and increased citations  • maximum visibility for your research: over 100M website views per year  
+At BMC, research is always in progress. 
+Learn more biomedcentral.com/submissions
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!
