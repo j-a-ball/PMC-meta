@@ -1,0 +1,494 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+SPIRIT 2013 Checklist: Recommended items to address in a clinical trial protocol and related documents*
+Section/item
+	Item No
+	Description
+	Addressed on page number
+	Administrative information
+	
+
+	Title
+	1
+	Descriptive title identifying the study design, population, interventions, and, if applicable, trial acronym
+	_____________
+	Trial registration
+	2a
+	Trial identifier and registry name. If not yet registered, name of intended registry
+	_____________
+	2b
+	All items from the World Health Organization Trial Registration Data Set
+	_____________
+	Protocol version
+	3
+	Date and version identifier
+	_____________
+	Funding
+	4
+	Sources and types of financial, material, and other support
+	_____________
+	Roles and responsibilities
+	5a
+	Names, affiliations, and roles of protocol contributors
+	_____________
+	5b
+	Name and contact information for the trial sponsor
+	_____________
+	
+
+	5c
+	Role of study sponsor and funders, if any, in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication, including whether they will have ultimate authority over any of these activities
+	
+
+_____________
+	
+
+	5d
+	Composition, roles, and responsibilities of the coordinating centre, steering committee, endpoint adjudication committee, data management team, and other individuals or groups overseeing the trial, if applicable (see Item 21a for data monitoring committee)
+
+
+
+
+
+
+	_____________
+	Introduction
+	
+
+	
+
+	
+
+	Background and rationale
+	6a
+	Description of research question and justification for undertaking the trial, including summary of relevant studies (published and unpublished) examining benefits and harms for each intervention
+	_____________
+	
+
+	6b
+	Explanation for choice of comparators
+	_____________
+	Objectives
+	7
+	Specific objectives or hypotheses
+	_____________
+	Trial design
+	8
+	Description of trial design including type of trial (eg, parallel group, crossover, factorial, single group), allocation ratio, and framework (eg, superiority, equivalence, noninferiority, exploratory)
+	
+
+_____________
+	Methods: Participants, interventions, and outcomes
+	
+
+	Study setting
+	9
+	Description of study settings (eg, community clinic, academic hospital) and list of countries where data will be collected. Reference to where list of study sites can be obtained
+	_____________
+	Eligibility criteria
+	10
+	Inclusion and exclusion criteria for participants. If applicable, eligibility criteria for study centres and individuals who will perform the interventions (eg, surgeons, psychotherapists)
+	_____________
+	Interventions
+	11a
+	Interventions for each group with sufficient detail to allow replication, including how and when they will be administered
+	_____________
+	11b
+	Criteria for discontinuing or modifying allocated interventions for a given trial participant (eg, drug dose change in response to harms, participant request, or improving/worsening disease)
+	_____________
+	11c
+	Strategies to improve adherence to intervention protocols, and any procedures for monitoring adherence (eg, drug tablet return, laboratory tests)
+	_____________
+	11d
+	Relevant concomitant care and interventions that are permitted or prohibited during the trial
+	_____________
+	Outcomes
+	12
+	Primary, secondary, and other outcomes, including the specific measurement variable (eg, systolic blood pressure), analysis metric (eg, change from baseline, final value, time to event), method of aggregation (eg, median, proportion), and time point for each outcome. Explanation of the clinical relevance of chosen efficacy and harm outcomes is strongly recommended
+	
+
+_____________
+	Participant timeline
+	13
+	Time schedule of enrolment, interventions (including any run-ins and washouts), assessments, and visits for participants. A schematic diagram is highly recommended (see Figure)
+	_____________
+	Sample size
+	14
+	Estimated number of participants needed to achieve study objectives and how it was determined, including clinical and statistical assumptions supporting any sample size calculations
+	_____________
+	Recruitment
+	15
+	Strategies for achieving adequate participant enrolment to reach target sample size
+	_____________
+	Methods: Assignment of interventions (for controlled trials)
+	
+
+	Allocation:
+	
+
+	
+
+	
+
+	Sequence generation
+	16a
+	Method of generating the allocation sequence (eg, computer-generated random numbers), and list of any factors for stratification. To reduce predictability of a random sequence, details of any planned restriction (eg, blocking) should be provided in a separate document that is unavailable to those who enrol participants or assign interventions
+	_____________
+	Allocation concealment mechanism
+	16b
+	Mechanism of implementing the allocation sequence (eg, central telephone; sequentially numbered, opaque, sealed envelopes), describing any steps to conceal the sequence until interventions are assigned
+	_____________
+	Implementation
+	16c
+	Who will generate the allocation sequence, who will enrol participants, and who will assign participants to interventions
+	_____________
+	Blinding (masking)
+	17a
+	Who will be blinded after assignment to interventions (eg, trial participants, care providers, outcome assessors, data analysts), and how
+	_____________
+	
+
+	17b
+	If blinded, circumstances under which unblinding is permissible, and procedure for revealing a participant’s allocated intervention during the trial
+	_____________
+	Methods: Data collection, management, and analysis
+	
+
+	Data collection methods
+	18a
+	Plans for assessment and collection of outcome, baseline, and other trial data, including any related processes to promote data quality (eg, duplicate measurements, training of assessors) and a description of study instruments (eg, questionnaires, laboratory tests) along with their reliability and validity, if known. Reference to where data collection forms can be found, if not in the protocol
+	_____________
+	
+
+	18b
+	Plans to promote participant retention and complete follow-up, including list of any outcome data to be collected for participants who discontinue or deviate from intervention protocols
+	_____________
+	Data management
+	19
+	Plans for data entry, coding, security, and storage, including any related processes to promote data quality (eg, double data entry; range checks for data values). Reference to where details of data management procedures can be found, if not in the protocol
+	_____________
+	Statistical methods
+	20a
+	Statistical methods for analysing primary and secondary outcomes. Reference to where other details of the statistical analysis plan can be found, if not in the protocol
+	_____________
+	
+
+	20b
+	Methods for any additional analyses (eg, subgroup and adjusted analyses)
+	_____________
+	
+
+	20c
+	Definition of analysis population relating to protocol non-adherence (eg, as randomised analysis), and any statistical methods to handle missing data (eg, multiple imputation)
+	
+
+_____________
+	Methods: Monitoring
+	
+
+	Data monitoring
+	21a
+	Composition of data monitoring committee (DMC); summary of its role and reporting structure; statement of whether it is independent from the sponsor and competing interests; and reference to where further details about its charter can be found, if not in the protocol. Alternatively, an explanation of why a DMC is not needed
+	_____________
+	
+
+	21b
+	Description of any interim analyses and stopping guidelines, including who will have access to these interim results and make the final decision to terminate the trial
+	_____________
+	Harms
+	22
+	Plans for collecting, assessing, reporting, and managing solicited and spontaneously reported adverse events and other unintended effects of trial interventions or trial conduct
+	_____________
+	Auditing
+	23
+	Frequency and procedures for auditing trial conduct, if any, and whether the process will be independent from investigators and the sponsor
+	_____________
+	Ethics and dissemination
+	
+
+	Research ethics approval
+	24
+	Plans for seeking research ethics committee/institutional review board (REC/IRB) approval
+	_____________
+	Protocol amendments
+	25
+	Plans for communicating important protocol modifications (eg, changes to eligibility criteria, outcomes, analyses) to relevant parties (eg, investigators, REC/IRBs, trial participants, trial registries, journals, regulators)
+	_____________
+	Consent or assent
+	26a
+	Who will obtain informed consent or assent from potential trial participants or authorised surrogates, and how (see Item 32)
+	_____________
+	
+
+	26b
+	Additional consent provisions for collection and use of participant data and biological specimens in ancillary studies, if applicable
+	_____________
+	Confidentiality
+	27
+	How personal information about potential and enrolled participants will be collected, shared, and maintained in order to protect confidentiality before, during, and after the trial
+	_____________
+	Declaration of interests
+	28
+	Financial and other competing interests for principal investigators for the overall trial and each study site
+	_____________
+	Access to data
+	29
+	Statement of who will have access to the final trial dataset, and disclosure of contractual agreements that limit such access for investigators
+	_____________
+	Ancillary and post-trial care
+	30
+	Provisions, if any, for ancillary and post-trial care, and for compensation to those who suffer harm from trial participation
+	_____________
+	Dissemination policy
+	31a
+	Plans for investigators and sponsor to communicate trial results to participants, healthcare professionals, the public, and other relevant groups (eg, via publication, reporting in results databases, or other data sharing arrangements), including any publication restrictions
+	_____________
+	
+
+	31b
+	Authorship eligibility guidelines and any intended use of professional writers
+	_____________
+	
+
+	31c
+	Plans, if any, for granting public access to the full protocol, participant-level dataset, and statistical code
+	_____________
+	Appendices
+	
+
+	
+
+	
+
+	Informed consent materials
+	32
+	Model consent form and other related documentation given to participants and authorised surrogates
+	_____________
+	Biological specimens
+	33
+	Plans for collection, laboratory evaluation, and storage of biological specimens for genetic or molecular analysis in the current trial and for future use in ancillary studies, if applicable
+	_____________
+	
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿Clinical Oral Investigations (2023) 27:4567–4577  
+https://doi.org/10.1007/s00784-023-05081-4 
+RESEARCH 
+Efects of water fossing on gingival infammation and supragingival  plaque microbiota: a 12‑week randomized controlled trial 
+Xin Xu1,2 · Yishan Zhou1,2 · Chengcheng Liu1,3 · Lei Zhao1,3 · Ling Zhang1,2 · Haolai Li1,4 · Yi Li5 · Xingqun Cheng1,6 
+Received: 21 November 2022 / Accepted: 19 May 2023 / Published online: 25 May 2023 
+© The Author(s) 2023 
+Abstract 
+Objectives The efects of water fossing on dental plaque removal have been suggested, but its ecological impact on dental  plaque microbiota needs further investigation. In addition, whether this plaque control measure by water fossing promotes  the control of halitosis still needs clinical validation. The aim of this study was to evaluate the efects of water fossing on  gingival infammation and supragingival plaque microbiota. 
+Materials and methods Seventy participants with gingivitis were randomly assigned to control (toothbrushing) and  experimental (toothbrushing+water fossing) groups (n=35). Participants were recalled at 4, 8, and 12 weeks, and their  gingival index, sulcus bleeding index, bleeding on probing, dental plaque index, and oral malodor values were measured.  The microbiota of supragingival plaque was further investigated using 16S rRNA sequencing and qPCR. 
+Results Sixty-three participants completed all revisits (control: n=33; experimental: n=30). The experimental and control  groups exhibited similar clinical characteristics and dental plaque microbiota at baseline. Adjunctive water fossing efectively  reduced the gingival index and sulcus bleeding index as compared to the toothbrushing control group. The water-fossing  group showed reduced oral malodor at week 12 as compared to the baseline. Consistently, the water-fossing group exhibited  altered dental plaque microbiota at week 12, characterized by a depletion of Prevotella at genus level and Prevotella  intermedia at species level as compared to the toothbrushing control. In addition, the plaque microbiota of water-fossing  group exhibited a more aerobic phenotype, while the control group was more anaerobic. 
+Conclusions Daily water fossing can efectively alleviate gingival infammation and reduce oral malodor, possibly by  depleting oral anaerobes and altering the oral microbiota to a more aerobic phenotype. 
+Clinical relevance Water fossing adjunctive to toothbrushing efectively alleviated gingival infammation, representing a  promising oral hygiene practice to promote oral health. 
+Clinical trial registration The trial was registered in the Chinese Clinical Trial Registry (http://www.chictr.org.cn/showp rojen.aspx?proj=61797, #ChiCTR2000038508) on September 23, 2020. 
+Keywords Dental plaque · Gingivitis · Halitosis · Oral microbiota · Water fossing 
+Introduction 
+The periodontal diseases are highly prevalent and can afect  up to 90% of the worldwide population [1]. Gingivitis is  the most prevalent form of periodontal disease. According  to the released data from the fourth national oral health  epidemiology survey of China, the prevalence of gingival  bleeding is over 87.4% in middle-aged and elderly people  in China [2]. Gingivitis is typically caused by dental plaque  
+🖂 Xingqun Cheng  
+chengxq2007@163.com 
+Extended author information available on the last page of the article
+accumulation. Streptococcus, Fusobacterium, Actinomyces,  Veillonella, and Treponema, and possibly Bacteroides,  Capnocytophaga, and Eikenella, are etiologically involved  [3]. Microbial colonization and participation is sequential,  with the complexity of the associated fora increasing with  time [3]. Other local or systemic etiologic factors such as  defective prosthesis, smoking, and hormones may also  promote plaque deposition and/or predispose the host to  microbial attack [4]. The ecological balance via both inter microbial and host-microbial interactions plays a critical role  in maintaining the gingival tissue health [5]. Disruption of this  homeostatic balance leads to selective outgrowth of species  with potential for destructive infammation, and increases in  
+Vol.:(0123456789) 1 3 
+4568 Clinical Oral Investigations (2023) 27:4567–4577 
+the bacterial burden promote gingival infammation in this  condition [5, 6]. Gingivitis is a key risk factor of periodontitis,  and control of gingival infammation is crucial for the primary  prevention of periodontitis [7]. In addition, halitosis, which  shares risk factors with periodontal diseases, is also common  among patients with gingivitis or periodontitis [8]. 
+Dental plaque control, typically by toothbrushing, is the  most efective measure for preventing and treating gingivitis  [9]. However, toothbrushing leaves approximately 40% of the  dental plaque on the tooth surface [10]. A toothbrush combined  with interdental cleaning device can achieve sufcient oral  hygiene [10, 11]. Regular fossing can remove up to 80% of  the interproximal plaques as reported by American Dental  Association [12]. Daily use of dental foss can efectively reduce  the gingival infammation and halitosis [13, 14]. However,  regular fossing requires time and skill, limiting its daily use  [15]. Interdental brushes can efectively reduce the dental plaque  between the teeth, and alleviate the gingival infammation [16,  17]. However, interdental brushes can only be used if there is  sufcient space between the teeth, and we should choose the  appropriate diameters; otherwise, the cleaning efciency will be  infuenced and the periodontal tissue may be destroyed [17, 18]. 
+The power-driven water fosser, with claims of easy home  use, has become a widely recommended oral hygiene prod uct. Through pulsation and pressure, it disrupts plaque and  removes loosely lodged debris, and can deliver antimicrobial  solutions into the sulcus and interproximal regions [19]. The  efects of water fossing on dental plaque removal and gin givitis management were better than those of regular foss  and interdental brushes [20, 21]. Water fossing adjunctive  to manual toothbrushing can inhibit dental plaque formation  and reduce the levels of pro-infammatory factors, alleviating  gingivitis and reducing periodontitis recurrence as compared  to solely toothbrushing [22-24]. In addition, water fossing  can alleviate gingivitis in orthodontic patients and manage  peri-implant mucositis [25, 26]. With the widespread accept ance and application of water fossing, the safety regarding  its daily use has drawn increasing attention. Studies have  demonstrated that daily use of water fosser for 3 months  did not increase the risk of bacteremia during periodontal  maintenance therapy [27, 28]. In addition, water fossing was  safe to be used on composite restorations with no infuence  on their surface roughness and color stability [29]. 
+However, water fossing cannot completely eradicate  dental plaque due to microbial recolonization on the tooth  surface shortly after cleaning [30]. Long-term disturbance  of oral microbiota by measures such as antimicrobial mouth 
+wash (chlorhexidine) may have the risk of microbial dys biosis and bacterial resistance [31, 32]. Therefore, the long term efect of water fossing on oral microbial ecology still  needs clinical validation. In addition, whether this plaque  control measure by water fossing promotes the control of  halitosis, which is a common complaint among patients  
+with gingivitis, still needs investigation. Here, we conducted  a 12-week prospective clinical trial to investigate the efect  of water fossing on gingival infammation and bleeding,  plaque accumulation, and halitosis in individuals with gin 
+givitis, and the ecological impact of water fossing on oral  microbiota was further evaluated. 
+Materials and methods 
+Study participants 
+This article is reported according to CONSORT guidelines  for reporting randomized clinical trials. This study was  approved by the Research Ethics Committee of West China  Hospital of Stomatology (WCHSIRB-D-2020-309) and was  in agreement with the Declaration of Helsinki and complied  with Chinese Good Clinical Practice (GCP) regulations. All  participants were recruited at the West China Hospital of  Stomatology, Sichuan University, and signed informed con sent. The trial was registered in the Chinese Clinical Trial  Registry (http://www.chictr.org.cn/showprojen.aspx?proj= 
+61797, #ChiCTR2000038508) on September 23, 2020. The participants were aged 18–65 years with no sys temic diseases. All participants had intact Ramjord teeth  (16, 21, 24, 36, 41, 44) in the oral cavity. Participants had  gingivitis, with a modiied gingival index≥1, dental plaque  index≥1.5, and gingival sulcus depth<3 mm [33]. Partici pants were excluded if they had periodontitis, had undergone  surgical/non-surgical periodontal therapy or antibacterial/ hormonal drug therapy in the last 6 weeks, had participated  in other clinical trials within the last 3 months, had an aller gic constitution, or were pregnant [34]. 
+Experimental design 
+This was a single-center, randomized controlled clinical trial  with a duration of 14 weeks (2-week washout and 12-week  treatment phase) (Fig. 1). The washout phase was introduced  to normalize the oral hygiene habits of participants as also  suggested by Sreenivasan et al. [35]. Participants who met the  inclusion and exclusion criteria were recruited in the 2-week  washout phase, and were instructed to brush their teeth with  Bass brushing technique twice daily for 3 min using Crest  herbal crystal toothpaste and a Crest triple care toothbrush  (P&G Technology Co., Ltd., Beijing, China). Participants were  asked not to use antibiotics/hormonal drug and have periodontal  therapy during the washout phase. These participants were  re-screened according to the inclusion and exclusion criteria at  baseline, and then were enrolled in the 12-week treatment phase. 
+The sample size was calculated using G*Power 3.1  software and was based on the primary data of gingival  bleeding. Based on inequality and two independent groups 
+1 3 
+Clinical Oral Investigations (2023) 27:4567–4577 4569 
+  
+Fig. 1 Schematic of study design
+(Fisher’s exact test), the sample size was determined to be  60, with an 0.05 alpha level (type II error) and 90% power  (type I error). Considering a 15% dropout rate, 70 partici pants were eventually enrolled in this study. 
+The participants were randomly allocated to two groups  (n=35/group) using a computer-generated randomization  list. The control group only brushed their teeth with Bass  brushing technique twice daily for 3  min using above 
+mentioned toothbrush and toothpaste, but the experimen tal group was additionally instructed to use a Bixdo P50  water fosser (Bixdo SH Healthcare Technology Co., Ltd.,  Shanghai, China) to irrigate all the teeth in the oral cav ity with water for 3 min immediately after toothbrushing.  Participants were recalled at 4, 8, and 12 weeks, and their  modiied gingival index, sulcus bleeding index, bleeding on  probing (BOP), dental plaque index, and oral malodor values  were determined. Supragingival plaque samples were also  collected. Participants were asked to refrain from brushing,  fossing, eating, and drinking anything other than water for  4 h prior to sample collection visits. The names and groups  of the participants were covered for blinding to those collect ing samples or clinical assessments. Over the experimental  
+period, participants received weekly oral hygiene instruction  and supervised plaque removal using the devices assigned  for each group. 
+Periodontal examination and supragingival plaque  collection 
+Periodontal examination was performed by an operator,  previously trained until reaching a low intra-operator  variability, using an UNC-15 periodontal probe with a  controlled (ca. 0.25 N) force. The gingival sulcus depth  (distance from the gingival margin to the bottom of the  gingival sulcus, evaluated at each tooth surface, for all  teeth), modiied Loe–Silness gingival index (assessment  of gingival color, texture, and bleeding tendency, evaluated  at four speciic sites of each tooth), sulcus bleeding index  (assessment of gingival bleeding, with a score of 0–5 per  site), BOP (recorded based on the presence or absence of  bleeding up to 20 s after probing at the experimental sites),  and dental plaque index (evaluation of the presence of plaque,  with a score of 0–5 per site) were measured [36]. After  drying saliva of the collection site, supragingival plaque  samples were collected from facial and lingual sites of all  six Ramjord teeth of each subject, by using a sterile curette.  Scraped plaque was immediately transferred to and dispersed  in 1×phosphate-bufered saline in a sterile microcentrifuge  tube. The plaque sample was divided into three parts after  vibration and stored at−80 °C until analysis. 
+Oral malodor measurement using a halimeter 
+Oral malodor values were measured using a halimeter (RH 17 K; Interscan Co., Chatsworth, CA). Subjects refrained  from any oral activity, such as food intake, for at least 2 h  pre-measurement. The subjects were instructed to close their  mouths for 3 min (using only nasal breathing) before every  measurement, followed by placing a straw, connected to the  halimeter, 4-cm deep into their mouth. The measurement  was performed automatically, and the mean value of three  consecutive measurements was used for analysis [37]. 
+16S rRNA sequencing 
+Barcoded 16S rRNA amplicon (V3–V4 regions) sequencing  was performed using Illumina MiSeq technology (Person albio, Shanghai, China) and primers F (5′-ACTCCTACG GGAGGCAGCA-3′) and R (5′-TCGGACTACHVGGG TWTCTAAT-3′). A unique 12-mer tag for each DNA  sample was added to the 5′-end of both primers to allow  pooling of multiple samples in one run. The PCR products  were visualized on a 3% agarose gel, gel puriied, quanti ied with a Pico-Green kit, pooled in an equimolar ratio,  assessed using an Agilent BioAnalyzer 2100 (Invitrogen,  
+1 3 
+4570 Clinical Oral Investigations (2023) 27:4567–4577 
+Carlsbad, CA), and sequenced. Sequences were trimmed  using Trimmomatic 2 based on a quality score of 20, and  pair-end reads were merged into longer reads using FLASH  3. Unqualiied sequences were removed if they were too  short or if they contained ambiguous residues. Operational  taxonomic units (OTUs) were clustered using Usearch (ver 
+sion 7.1, http://drive5.com/uparse/) at a 97% similarity level.  The inal OTUs were generated based on clustering results.  The raw sequencing data were deposited in the public data base Sequence Read Archive (http://www.ncbi.nlm.nih.gov/ 
+Traces/sra) with accession no. PRJNA861384. Before bioinformatic analysis, sequencing reads of all  samples were standardized by rarefying OTU tables to the  minimum read number. Analyses were performed using the  online Majorbio Cloud Platform (www.majorbio.com) [38].  The Kruskal–Wallis H and Wilcoxon rank-sum tests were  used to compare diferences in taxa. Alpha diversity was cal culated in terms of Chao, Shannon, and Simpson indices and  was compared using the Wilcoxon rank-sum test. Beta diver sity was assessed by principal coordinate analysis (PCoA)  or non-metric multidimensional scaling (NMDS) analysis  using weighted-unifrac distance and Adonis with 999 per mutations. Analysis of similarity values and heatmaps were  constructed using R (version 3.3.1; https://www.r-project. org/) “vegan” (version 2.4–3) package. Linear discriminant  analysis (LDA) of the efect size (LEfSe) was performed to  identify the signiicant taxa that most likely explained the  diferences between groups, with a threshold LDA score of  2. Bugbase was used for the predictions of the functional  profile of a microbial community based on 16S rDNA  sequence data. BugBase is able to predict seven phenotype  types, including gram-positive, gram-negative, bioilm form ing, pathogenic, mobile element containing, oxygen utiliz ing, and oxidative stress tolerant. A p value of<0.05 was  considered statistically signiicant in the current study. 
+Bacterial quantifcation 
+Quantitative polymerase chain reaction (qPCR) was used to  quantify dental plaque bacteria. qPCR ampliication was per formed using the CFX96 system (Bio-Rad, Hercules, CA).  The 25-μl reaction mixture contained the SYBR reaction  mix (TaKaRa, Kusatsu, Japan), template DNA (100 ng), and  forward and reverse primers (500 nM each). Thermal cycling  conditions were as follows: initial denaturation at 95 °C for  30 s, followed by 40 cycles each consisting of 95 °C for 15 s,  and 60 °C for 30 s. Threshold cycle (CT) values were deter 
+mined, and the relative abundance was calculated based on  the 2−ΔΔCT method. Porphyromonas gingivalis, Fusobacte rium nucleatum, Actinobacillus actinomycetemcomitans, and  Prevotella intermedia were quantiied using primers listed in  Table S1. Each sample was examined in triplicate. 
+Statistical analysis 
+Statistical analysis of data other than 16S rRNA sequenc ing was performed using SPSS software (version 16.0;  SPSS Inc., Chicago, IL) and GraphPad Prism 8 (Graph Pad Software Inc., La Jolla, CA). Categorical variables are  presented as natural frequencies, and continuous variables  as mean±standard deviation. The clinical characteristics  of the participants were analyzed using Kruskal–Wallis  (with Dunn–Bonferroni post hoc) or chi-squared tests.  Within-group and between-group diferences in gingival,  sulcus bleeding, and dental plaque indices, BOP%, and  oral malodor values were analyzed by repeated measure  (RM) ANOVA, followed by Bonferroni post hoc tests  and Student’s t tests, respectively. Other data were ana lyzed using one-way ANOVA, followed by Tukey’s test  or the Student–Newman–Keuls test to compare all pairs  of groups. Data were considered signiicantly diferent if  the two-tailed p value was<0.05. 
+Results 
+Clinical characteristics of the study participants 
+This study enrolled 70 gingivitis participants, of which  seven dropped out, who missed the recall time due to  closed management amid COVID-19 outbreak. Thirty three control and 30 experimental participants attended  all recall visits. The baseline clinical characteristics are  shown in Table 1. Demographics, gingival, and halitosis  parameters were similar between the groups (p > 0.05).  No adverse reaction including gingival recession reported  during the 12-week experimental period in terms of water  fossing. 
+Efects of water fossing on clinical parameters 
+The efects of water fossing on periodontal parameters, den tal plaque index, and oral malodor were assessed. Two-way  RM-ANOVA identiied time and group as statistically sig niicant factors (p<0.05) in the gingival index, sulcus bleed ing index, and BOP% (Table 2). These indices improved  signiicantly in both groups at all observation time points  (weeks 4, 8, 12) compared with baseline (p<0.05). How ever, the improvement in the control group slowed after  4 weeks. Gingival index and sulcus bleeding index at weeks  8 and 12 were signiicantly better in the experimental than in  the control group, and BOP% improved signiicantly in the  experimental group at weeks 8 as compared with the control  group (Table 2). These results suggest that water fossing 
+1 3 
+Clinical Oral Investigations (2023) 27:4567–4577 4571 
+Table 1 Clinical characteristics  of the participants at baseline 
+Control group (n=33) Water-fossing group  (n=30) 
+p value 
+Age (years) 34.20±11.99 31.05±10.00 0.265 Gender (M/F) 11/22 14/16 0.313 Ethnicity (Han/other) 33/0 29/1 0.476 BMI (kg/m2) 22.82±3.35 22.60±3.74 0.798 No. of teeth 28.85±1.97 28.63±1.63 0.629 Past medical history (no/yes) 30/3 24/6 0.289 Gingival sulcus depth 1.51±0.27 1.41±0.22 0.115 Gingival index 1.26±0.17 1.23±0.16 0.493 Sulcus bleeding index 1.70±0.44 1.63±0.41 0.554 Bleeding on probing (%) 48.23±23.91 43.61±21.85 0.428 Dental plaque index 2.46±0.61 2.60±0.51 0.335 Oral malodor values 177.14±96.10 201.65±119.40 0.371 
+Continuous variables are presented as mean±standard deviation. Categorical variables are presented as  natural frequencies 
+M male, F female, BMI body mass index 
+Table 2 Two-way repeated measure ANOVA analysis  results of the clinical parameters 
+Values Time point Control group (n=33) Water-fossing  group (n=30) 
+p value (RM 
+ANOVA analysis) Time Group 
+Gingival index W0 1.26±0.17 1.23±0.16 <0.0001 0.0180 W4 1.06±0.30# 1.02±0.21$ 
+W8 1.07±0.27# 0.89±0.26$** 
+W12 0.99±0.22# 0.83±0.28$* 
+Sulcus bleeding index W0 1.70±0.44 1.63±0.41 <0.0001 0.0234 W4 1.36±0.45# 1.25±0.37$ 
+W8 1.35±0.41# 1.11±0.36$* 
+W12 1.28±0.31# 1.09±0.38$* 
+Bleeding on probing (%) W0 48.23±23.91 43.61±21.85 <0.0001 0.0099 W4 31.82±25.47# 24.72±19.27$ 
+W8 34.09±23.51# 17.50±16.43$** 
+W12 25.76±20.13# 17.78±16.20$ 
+Dental plaque index W0 2.46±0.61 2.60±0.51 0.0316 0.5556 W4 2.37±0.64 2.45±0.64 
+W8 2.36±0.55 2.30±0.52$ 
+W12 2.29±0.44 2.40±0.52 
+Oral malodor values W0 177.14±96.10 201.65±119.40 0.1392 0.3708 W4 146.61±90.20 183.60±100.80 
+W8 149.14±69.42 186.12±113.33 
+W12 174.49±137.89 151.23±77.02$
+W week, RM-ANOVA analysis repeated-measure ANOVA analysis 
+#Signiicant diferences compared with the baseline in the control group 
+$Signiicant diferences compared with the baseline in the experimental group 
+*Between-group diferences at the same time point 
+*p<0.05, **p<0.01 
+1 3 
+4572 Clinical Oral Investigations (2023) 27:4567–4577 
+had a good clinical efect on managing gingival bleeding  and infammation. 
+Two-way RM-ANOVA of the dental plaque index identi ied time as a statistically signiicant factor (p<0.05), with  signiicant diferences among time points (Table 2). How ever, the control and experimental groups did not difer at  any time point (Table 2). There was no signiicant diference  in the oral malodor values between groups after the use of  the respective oral hygiene regimens (Table 2). However, the  value was signiicantly decreased after 12-week water foss ing as compared with that at baseline in the experimental  group (Table 2). 
+Efects of water fossing on dental plaque  microbiota 
+The 16S rRNA sequencing data are detailed in the sup plementary information (Fig. S1). In total, 20.71 million  high-quality 16S rRNA sequences were generated from the  supragingival plaque samples of 33 control and 30 experi mental participants at 0, 4, 8, and 12 weeks (length range  408–480 bp, average length 464.36 bp). After subsampling  each sample to equal sequencing depth and clustering, 6442  OTUs with 97% identity were obtained. Good’s coverage for  the observed OTUs was 99.72±0.09%, and the rarefaction  curves showed clear asymptotes, which together indicated a  near-complete sampling of the community. 
+The α and β diversity of the baseline dental plaque  samples showed no signiicant diference between the two  groups, suggesting that the baseline dental plaque microbiota  structure of the two groups was comparable (Fig. S2A and B).  Although the PCoA analysis showed no signiicant diference  in the microbiota community structure between the groups,  the p value approximated 0.05 (p=0.056). NMDS analysis  revealed a signiicant diference between the groups (p=0.012)  (Fig.  S2C). PCoA and NMDS analyses demonstrated  signiicant diferences between the control and experimental  groups at week 12 (PCoA: p=0.038, NMDS: p=0.029), and  samples could be clearly distinguished and clustered into two  groups (Fig. 2A). These results indicate that, after 12 weeks,  the dental plaque microbiota of the two groups were distinct,  suggesting that water fossing changed the microbial structure. 
+Further analysis of the top 30 abundant bacterial taxa  revealed genus-level diferences between the control and  water-fossing groups (Fig. 2B). The abundance of Aggre gatibacter, Porphyromonas, Prevotella, and Fusobacterium increased over time in the control, but not in the experi mental group (Fig. 2B). There was no signiicant diference  in the top 15 most abundant bacterial taxa between groups  at baseline (Fig. 2D). However, after 12 weeks, the water fossing group exhibited signiicantly lower Prevotella and  higher Corynebacterium genus as compared with the con trol group (Fig. 2C, E). qPCR showed no diference in the  
+relative abundance of Porphyromonas gingivalis, F. nuclea tum, and A. actinomycetemcomitans between the groups at  weeks 4 or 12, as compared to baseline, but the abundance  of Prevotella intermedia in the experimental group was sig niicantly lower at week 12 than week 4 or that in the control  group at week 12 (Fig. 2F). 
+The BugBase phenotype prediction showed no signii cant diference in the seven metabolic phenotypes between  the control and experimental groups at baseline (Fig. 3A).  At week 4, the water-fossing group exhibited signiicantly  higher aerobic phenotype, while the control group exhibited  signiicantly higher anaerobic and gram-negative phenotypes  (Fig. 3B). At week 12, the water-fossing group still exhib ited signiicantly higher aerobic phenotype, while the control  group exhibited signiicantly higher anaerobic phenotype  (Fig. 3C). These data further suggest that water fossing may  beneit periodontal health by altering the microbial composi tion and reducing the virulence of the dental plaque. 
+Discussion 
+Gingivitis is a typical plaque-related oral diseases, and plaque  control has been proved to be an efective way to prevent and  treat this disease. Accumulating evidence has demonstrated  that water flossing can ameliorate gingival inflammation  by removing dental plaque [25, 39, 40]. Although relatively  easy and safe to apply as a daily oral hygiene instruction, the  ecological impact of water fossing on oral microbiota after  long-term use has yet to be investigated. In addition, as oral  malodor is usually accompanied with periodontal diseases  including gingivitis and periodontitis, whether or not water  fossing can beneit oral malodor control still needs clinical  validation. Here, we performed a prospective clinical trial to  investigate the efects of water fossing on plaque accumulation,  gingival infammation, and halitosis, as well as the ecological  impact on supragingival plaque microbiota in a duration of  12-week application. We demonstrate that water fossing is an  efective adjuvant to control gingival infammation. 
+Water fossing promotes gingival health by facilitating  removal of dental plaque. Here, we found that both water flossing and toothbrushing groups exhibited ameliorated  gingival infammation as refected by gingival index, sulcus  bleeding index, and BOP%. More importantly, the gingival  and sulcus bleeding indices in the water-fossing group were  lower than those in toothbrushing control at 8 and 12 weeks,  indicating that adjunctive application of water flossing  to toothbrushing can better promote periodontal health.  Consistently, several randomized controlled trials found that  the addition of a water fosser to toothbrush could signiicantly  reduce the BOP, gingival index, and plaque index at 4-week  compared with the toothbrush alone [39, 41]. Of note,  although both groups exhibited signiicantly reduced plaque 
+1 3 
+Clinical Oral Investigations (2023) 27:4567–4577 4573   
+Fig. 2 Comparison of the microbiota community structure and com position between the control and water fossing group. A Principal  coordinate analysis (PCoA) and non-metric multidimensional scal ing (NMDS) analysis of the dental plaque samples from control and  experimental groups at week 12. B Heatmap analysis of the top 30  abundant bacterial taxa at genus level. C Linear discriminant analy sis of the efect size (LEfSe) analysis at week 12. D Intergroup dif 
+ference analysis of the top 15 abundant bacterial taxa at genus level  at baseline. E Intergroup diference analysis of the top 15 abundant  bacterial taxa at genus level at week 12. F Relative quantiication of  Porphyromonas gingivalis, Fusobacterium nucleatum, Actinobacillus  actinomycetemcomitans, and Prevotella intermedia at weeks 4 and 12  as compared to baseline. *p<0.05, **p<0.01
+1 3 
+4574 Clinical Oral Investigations (2023) 27:4567–4577 
+Fig. 3 Phenotype prediction of  
+the dental plaque community. A.  
+BugBase phenotype prediction  
+of the control and experimental  
+groups at baseline. B. BugBase  
+phenotype prediction of the  
+control and experimental groups  
+at week 4. C. BugBase pheno 
+type prediction of the control  
+and experimental group at week  
+12. *p<0.05, **p<0.01
+accumulating as refected by dental plaque index, no signiicant  between-group diference in dental plaque index was observed  in this study. Studies also demonstrated that although use of  water fosser plus manual toothbrushing signiicantly reduced  the plaque index at 8-week compared with that at baseline, no  between-group diference was achieved [42, 43]. The possible  explanation is that dental plaque may have reformed overnight  as the participants were instructed not to brush, foss, or eat  for 4 h prior to sample collection. Moreover, the participants  received good oral hygiene instruction and supervision during  the study, and this may overwhelm the diferences in dental  plaque accumulation between the adjunctive water-fossing  group and toothbrushing control group. 
+As water fossing is a well-recognized oral hygiene technique  via active agitation and removal of supragingival dental plaque,  whether its daily use may pose long-term disturbance on oral  microecology is worth clinical validation. Here, we observed  an altered microbial structure and composition after 12-week  use of the respective oral hygiene regimens. More importantly,  we also observed that periodontal anaerobes, such as P.  intermedia, was depleted in the water-fossing group, while  this anaerobe increased in toothbrushing control during the  12-week study. P. intermedia, known as “orange complex”  species, is associated with gingivitis and periodontitis [44].  P. intermedia can stimulate the release of proteinases, matrix  metalloproteinases, and proinfammatory cytokines, and favors  the colonization of red complex species (i.e., P. gingivalis,  Treponema denticola, Tannerella forsythia), triggering dental  plaque dysbiosis and contributing to gingival infammation,  and eventually periodontitis [35, 44]. Consistently, we found  that the oral microbiota of individuals using water fossing was  
+  
+
+prone to an aerobic phenotype, while the oral microbiota of  the toothbrushing control was characterized with anaerobic  and gram-negative phenotypes. Periodontal pathogens are  mostly gram-negative anaerobes, enrichment of which can  shift the composition and structure of the microbial community,  leading to a breakdown of the normal homeostatic state [45].  It is speculated that water fossing may increase the presence  of oxygen in the dental plaque, and thus favor the outgrowth  of aerobes over anaerobic species. In addition, we also found  that Corynebacterium genus was increased after 12-week use  of water fosser. Corynebacterium genus is an important bridge  organism in dental plaque, which is usually enriched in the  periodontal healthy group, and is negatively associated with  probe depth in patients with chronic periodontitis [46, 47]. Our  indings indicate that water fossing may beneit gingival health  by altering microbial composition, preventing overgrowth of  oral pathobionts, and promoting anerobic phenotype of the  dental plaque. 
+In addition to gingival infammation, oral malodor, which  is mainly derived from the metabolic production of volatile  sulfur compounds (VSCs) by periodontal anaerobes, is usually  accompanied with periodontal conditions such as periodontitis  and gingivitis [48, 49]. Although there still lacks clinical  evidence, it is conceivable that water fossing may help reduce  oral malodor by alleviating gingival infammation and reducing  oral anaerobes. The current study measured the halimeter score  of participants during the 12-week use of water fosser. We found  that participants in the water fossing group had signiicantly  lower oral malodor values at week 12 as compared to its baseline.  This may be accredited to the reduced anaerobes and relative  aerobic phenotype of dental plaque in the water fossing group. 
+1 3 
+Clinical Oral Investigations (2023) 27:4567–4577 4575 
+In conclusion, the current study demonstrates that water  fossing can efectively alleviate gingival infammation and  reduce oral malodor, possibly by depleting oral anaerobes and  altering the oral microbiota to a more aerobic phenotype. 
+Supplementary Information The online version contains supplementary  material available at https://doi.org/10.1007/s00784-023-05081-4. 
+Acknowledgements This project was supported by clinical research  projects of the State Institute of Drug/Medical Device Clinical Trial,  West China Hospital of Stomatology, Sichuan University (QX2020-02- 01, QX2020-02-02), the Technology Innovation Research and Devel opment project of Chengdu (2021-YF05-01866-SN), and the research  fund from the West China School/Hospital of Stomatology, Sichuan  University (LCYJ2019-4, RCDWJS2021-16). 
+Author contribution XX contributed to the conception, design, data  interpretation, and drafted and critically revised the manuscript; YZ  contributed to data acquisition and analysis; CL, LZ, LZ, HL, and YL  contributed to conception, design, data analysis, and critically revised the  manuscript; XC contributed to the conception, design, data acquisition,  analysis, and interpretation, and drafted and critically revised the  manuscript. All authors critically revised and approved the inal manuscript  for submission. 
+Data availability The data are available upon request from the corre sponding author. The 16S rRNA sequencing raw data were deposited  in the public database Sequence Read Archive (http://www.ncbi.nlm. nih.gov/Traces/sra) under accession number PRJNA861384. 
+Declarations 
+Competing interests XX reports grants from Bixdo SH Healthcare  Technology Co., Ltd., Shanghai, China, during the conduct of the  study. XC reports grants from Science and Technology Bureau of  Chengdu, China, during the conduct of the study. YL reports three  patents licensed. The authors YZ, CL, LZ, LZ, and HL declare no  confict of interest regarding this work. 
+Ethics statement This study was approved by the Research Ethics  Committee of West China Hospital of Stomatology (WCHSIRB D-2020-309). The study procedures were conducted in accordance with  the principles outlined in the Declaration of Helsinki and complied  with the laws and regulations covering Good Clinical Practice (GCP)  in China. All participants provided written informed consent. 
+Conflict of interest XX reports grants from Bixdo SH Healthcare  Technology Co., Ltd., Shanghai, China, during the conduct of the  study. XC reports grants from Science and Technology Bureau of  Chengdu, China, during the conduct of the study. YL reports three  patents licensed. The authors YZ, CL, LZ, LZ, and HL declare no  confict of interest regarding this work. 
+Open Access This article is licensed under a Creative Commons Attribution  4.0 International License, which permits use, sharing, adaptation, distribution  and reproduction in any medium or format, as long as you give appropriate  credit to the original author(s) and the source, provide a link to the Creative  Commons licence, and indicate if changes were made. The images or  other third party material in this article are included in the article's Creative  Commons licence, unless indicated otherwise in a credit line to the material.  If material is not included in the article's Creative Commons licence and your  intended use is not permitted by statutory regulation or exceeds the permitted  use, you will need to obtain permission directly from the copyright holder. To  view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. 
+References 
+1. Pihlstrom BL, Michalowicz BS, Johnson NW (2005) Periodontal  diseases. Lancet 366(9499):1809–1820. https://doi.org/10.1016/ S0140-6736(05)67728-8 
+2. Zhou X, Xu X, Li J, Hu D, Hu T, Yin W, Fan Y, Zhang X (2018)  Oral health in China: from vision to action. Int J Oral Sci 10(1):1.  https://doi.org/10.1038/s41368-017-0006-6 
+3. Page RC (1986) Gingivitis. J Clin Periodontol 13(5):345–359.  https://doi.org/10.1111/j.1600-051x.1986.tb01471.x 
+4. Trombelli L, Farina R, Silva CO, Tatakis DN (2018) Plaque induced gingivitis: case deinition and diagnostic considerations.  J Periodontol 89(Suppl 1):S46–S73. https://doi.org/10.1002/JPER. 17-0576 
+5. Hajishengallis G, Lamont RJ (2000) Polymicrobial communities  in periodontal disease: their quasi-organismal nature and dialogue  with the host. Periodontol 86(1):210–230. https://doi.org/10.1111/ prd.12371 
+6. Bamashmous S, Kotsakis GA, Kerns KA, Leroux BG, Zenobia  C, Chen D, Trivedi HM, McLean JS, Darveau RP (2021) Human  variation in gingival infammation. Proc Natl Acad Sci U S A  118(27):e2012578118. https://doi.org/10.1073/pnas.2012578118 
+7. Chapple IL, Van der Weijden F, Doerfer C, Herrera D, Shapira L,  Polak D, Madianos P, Louropoulou A, Machtei E, Donos N et al  (2015) Primary prevention of periodontitis: managing gingivitis. J  Clin Periodontol 42(Suppl 16):S71–S76. https://doi.org/10.1111/ 
+jcpe.12366 
+8. Quirynen M, Dadamio J, Van den Velde S et al (2009) Character istics of 2000 patients who visited a halitosis clinic. J Clin Peri odontol 36(11):970–975. https://doi.org/10.1111/j.1600-051X. 2009.01478.x 
+9. Valkenburg C, Van der Weijden FA, Slot DE (2000) Plaque con trol and reduction of gingivitis: the evidence for dentifrices. Peri odontol 79(1):221–232. https://doi.org/10.1111/prd.12257 
+10. Van der Weijden FA, Slot DE (2015) Efcacy of homecare regi mens for mechanical plaque removal in managing gingivitis a  meta review. J Clin Periodontol 42(Suppl 16):S77–S91. https:// doi.org/10.1111/jcpe.12359 
+11. Van der Weijden F, Slot DE (2000) Oral hygiene in the prevention  of periodontal diseases: the evidence. Periodontol 55(1):104–123.  https://doi.org/10.1111/j.1600-0757.2009.00337.x 
+12. Terézhalmy GT, Bartizek RD, Biesbrock AR (2008) Plaque removal efficacy of four types of dental floss. J Periodontol  79(2):245–251. https://doi.org/10.1902/jop.2008.070345 
+13. Londero AB, Reiniger APP, Tavares RCR, Ferreira CM, Wikesjö  UME, Kantorski KZ, Moreira CHC (2022) Efcacy of dental foss  in the management of gingival health: a randomized controlled  clinical trial. Clin Oral Investig 26(8):5273–5280. https://doi.org/ 
+10.1007/s00784-022-04495-w 
+14. Nazir MA, Almas K, Majeed MI (2017) The prevalence of hali tosis (oral malodor) and associated factors among dental students  and interns, Lahore. Pakistan Eur J Dent 11(4):480–485. https:// doi.org/10.4103/ejd.ejd_142_17 
+15. Carr MP, Rice GL, Horton JE (2000) Evaluation of foss types for  interproximal plaque removal. Am J Dent 13(4):212–214 16. Poklepovic T, Worthington HV, Johnson TM, Sambunjak D, Imai  P, Clarkson JE, Tugwell P (2013) Interdental brushing for the  prevention and control of periodontal diseases and dental caries  in adults. Cochrane Database Syst Rev (12):CD009857. https:// doi.org/10.1002/14651858.CD009857.pub2 
+17. Kotsakis GA, Lian Q, Ioannou AL, Michalowicz BS, John MT,  Chu H (2018) A network meta-analysis of interproximal oral  hygiene methods in the reduction of clinical indices of infamma tion. J Periodontol 89(5):558–570. https://doi.org/10.1002/JPER. 17-0368
+1 3 
+4576 Clinical Oral Investigations (2023) 27:4567–4577 
+18. Turner C (2022) Interdental brushes and ISO standards. Br Dent  J 232(11):761–762. https://doi.org/10.1038/s41415-022-4360-1 19. Goyal CR, Lyle DM, Qaqish JG, Schuller R (2012) The addition  of a water fosser to power tooth brushing: efect on bleeding,  gingivitis, and plaque. J Clin Dent 23(2):57–63 
+20. Goyal CR, Lyle DM, Qaqish JG, Schuller R (2013) Evaluation  of the plaque removal efcacy of a water fosser compared to  string foss in adults after a single use. J Clin Dent 24(2):37–42 
+21. Lyle DM, Goyal CR, Qaqish JG, Schuller R (2016) Compari son of water fosser and interdental brush on plaque removal: a  single-use pilot study. J Clin Dent 27(1):23–26 
+22. Flemmig TF, Epp B, Funkenhauser Z, Newman MG, Korn man KS, Haubitz I, Klaiber B (1995) Adjunctive supragingival  irrigation with acetylsalicylic acid in periodontal supportive  therapy. J Clin Periodontol 22(6):427–433. https://doi.org/10. 1111/j.1600-051x.1995.tb00173.x 
+23. Costa FO, Costa AA, Cota LOM (2020) The use of interden tal brushes or oral irrigators as adjuvants to conventional oral  hygiene associated with recurrence of periodontitis in periodon tal maintenance therapy: A 6-year prospective study. J Peri odontol 91(1):26–36. https://doi.org/10.1002/JPER.18-0637 
+24. Cutler CW, Stanford TW, Abraham C, Cederberg RA, Boardman  TJ, Ross C (2000) Clinical beneits of oral irrigation for peri odontitis are related to reduction of pro-infammatory cytokine  levels and plaque. J Clin Periodontol 27(2):134–143. https://doi. org/10.1034/j.1600-051x.2000.027002134.x 
+25. Kossack C, Jost-Brinkmann PG (2005) Plaque and gingivitis  reduction in patients undergoing orthodontic treatment with ixed  appliances—comparison of toothbrushes and interdental cleaning  aids. A 6-month clinical single-blind trial. J Orofac Orthop  66(1):20–38. https://doi.org/10.1007/s00056-005-0344-4 
+26. Tütüncüoğlu S, Cetinkaya BO, Pamuk F, Avci B, Keles GC, Kurt Bayrakdar S, Lütioğlu M (2022) Clinical and biochemical evalu ation of oral irrigation in patients with peri-implant mucositis:  a randomized clinical trial. Clin Oral Investig 26(1):659–671.  https://doi.org/10.1007/s00784-021-04044-x 
+27. Lofthus JE, Waki MY, Jolkovsky DL, Otomo-Corgel J, Newman  MG, Flemmig T, Nachnani S (1991) Bacteremia following sub gingival irrigation and scaling and root planing. J Periodontol  62(10):602–607. https://doi.org/10.1902/jop.1991.62.10.602 
+28. Jolkovsky DL, Lyle DM (2015) Safety of a water fosser: a litera ture review. Compend Contin Educ Dent 36(2):146–9 29. Alharbi M, Farah R (2020) Efect of water-jet fossing on surface  roughness and color stability of dental resin-based composites. J  Clin Exp Dent 12(2):e169–e177. https://doi.org/10.4317/jced.56153 30. Uzel NG, Teles FR, Teles RP, Song XQ, Torresyap G, Socransky  SS, Hafajee AD (2011) Microbial shifts during dental bioilm re development in the absence of oral hygiene in periodontal health  and disease. J Clin Periodontol 38(7):612–620. https://doi.org/10. 1111/j.1600-051X.2011.01730.x 
+31. do Amaral GCLS, Hassan MA, Sloniak MC, Pannuti CM, Romito  GA, Villar CC (2022) Efects of antimicrobial mouthwashes on  the human oral microbiome: Systematic review of controlled clini cal trials. Int J Dent Hyg. https://doi.org/10.1111/idh.12617 
+32. Saleem HG, Seers CA, Sabri AN, Reynolds EC (2016) Dental  plaque bacteria with reduced susceptibility to chlorhexidine are  multidrug resistant. BMC Microbiol 16:214. https://doi.org/10. 1186/s12866-016-0833-1 
+33. Brousseau-Nault M, Kizhakkedathu JN, Kim H (2017) Chronic  periodontitis is associated with platelet factor 4 (PF4) secretion: a  pilot study. J Clin Periodontol 44(11):1101–1111. https://doi.org/ 10.1111/jcpe.12771 
+34. Lira-Junior R, Bissett SM, Preshaw PM, Taylor JJ, Boström EA  (2021) Levels of myeloid-related proteins in saliva for screen ing and monitoring of periodontal disease. J Clin Periodontol  48(11):1430–1440. https://doi.org/10.1111/jcpe.13534 
+35. Sreenivasan PK, Tischio-Bereski D, Fine DH (2017) Reduction in  bacteremia after brushing with a triclosan/copolymer dentifrice— a randomized clinical study. J Clin Periodontol 44(10):1020–1028.  https://doi.org/10.1111/jcpe.12798 
+36. Butera A, Gallo S, Maiorani C, Molino D, Chiesa A, Preda C,  Esposito F, Scribante A (2020) Probiotic alternative to chlorhex idine in periodontal therapy: evaluation of clinical and microbio logical parameters. Microorganisms 9(1):69. https://doi.org/10. 3390/microorganisms9010069 
+37. Lee HJ, Kim HM, Kim N et al (2014) Association between hali tosis diagnosed by a questionnaire and halimeter and symptoms  of gastroesophageal refux disease. J Neurogastroenterol Motil  20(4):483–490. https://doi.org/10.5056/jnm14052 
+38. Tu Y, Zhou Z, Shu C, Zhou Y, Zhou X (2022) The crosstalk  between saliva bacteria and fungi in early childhood caries. Front  Cell Infect Microbiol 12:845738. https://doi.org/10.3389/fcimb. 2022.845738 
+39. Goyal CR, Qaqish JG, Schuller R, Lyle DM (2018) Evaluation  of the addition of a water fosser to manual brushing on gingival  health. J Clin Dent 29(4):81–86 
+40. Barnes CM, Russell CM, Reinhardt RA, Payne JB, Lyle DM  (2005) Comparison of irrigation to foss as an adjunct to tooth  brushing: efect on bleeding, gingivitis, and supragingival plaque.  J Clin Dent 16(3):71–77 
+41. Lyle DM, Qaqish JG, Goyal CR, Schuller R (2020) Efcacy of  the use of a water fosser in addition to an electric toothbrush  on clinical signs of infammation: 4-week randomized controlled  trial. Compend Contin Educ Dent 41(3):170–177 
+42. Frascella JA, Fernández P, Gilbert RD, Cugini M (2000) A ran domized, clinical evaluation of the safety and efcacy of a novel  oral irrigator. Am J Dent 13(2):55–8 
+43. Husseini A, Slot DE, Van der Weijden GA (2008) The efcacy  of oral irrigation in addition to a toothbrush on plaque and the  clinical parameters of periodontal infammation: a systematic  review. Int J Dent Hyg 6(4):304–314. https://doi.org/10.1111/j. 
+1601-5037.2008.00343.x 
+44. Guan SM, Shu L, Fu SM, Liu B, Xu XL, Wu JZ (2009)  Prevotella intermedia upregulates MMP-1 and MMP-8  expression in human periodontal ligament cells. FEMS  Microbiol Lett 299(2):214–222. https://doi.org/10.1111/j.1574- 
+6968.2009.01748.x 
+45. Hajishengallis G, Darveau RP, Curtis MA (2012) The keystone pathogen hypothesis. Nat Rev Microbiol 10(10):717–725. https:// doi.org/10.1038/nrmicro2873 
+46. Tsai CY, Tang CY, Tan TS, Chen KH, Liao KH, Liou ML (2018)  Subgingival microbiota in individuals with severe chronic peri odontitis. J Microbiol Immunol Infect 51(2):226–234. https://doi. org/10.1016/j.jmii.2016.04.007 
+47. Shi M, Wei Y, Hu W, Nie Y, Wu X, Lu R (2018) The subgingival  microbiome of periodontal pockets with diferent probing depths  in chronic and aggressive periodontitis: a pilot study. Front Cell  Infect Microbiol 8:124. https://doi.org/10.3389/fcimb.2018. 
+00124 
+48. De Geest S, Laleman I, Teughels W, Dekeyser C, Quirynen M  (2000) Periodontal diseases as a source of halitosis: a review of  the evidence and treatment approaches for dentists and dental  hygienists. Periodontol 71(1):213–227. https://doi.org/10.1111/ 
+prd.12111 
+49. Musić L, Par M, Peručić J, Badovinac A, Plančak D, Puhar I  (2021) Relationship between halitosis and periodontitis: a pilot  study. Acta Stomatol Croat 55(2):198–206. https://doi.org/10. 15644/asc55/2/9 
+Publisher's note Springer Nature remains neutral with regard to  jurisdictional claims in published maps and institutional afliations.
+1 3 
+Clinical Oral Investigations (2023) 27:4567–4577 4577 
+Authors and Afliations 
+Xin Xu1,2 · Yishan Zhou1,2 · Chengcheng Liu1,3 · Lei Zhao1,3 · Ling Zhang1,2 · Haolai Li1,4 · Yi Li5 · Xingqun Cheng1,6 
+1 The State Key Laboratory of Oral Diseases & National  Clinical Research Center for Oral Diseases, West China  Hospital of Stomatology, Sichuan University, Chengdu,  Sichuan, China 
+2 Department of Cariology and Endodontics, West China  Hospital of Stomatology, Sichuan University, Chengdu,  Sichuan, China 
+3 Department of Periodontology, West China Hospital  of Stomatology, Sichuan University, Chengdu, Sichuan,  China 
+4 State Institute of Drug/Medical Device Clinical Trial,  West China Hospital of Stomatology, Sichuan University,  Chengdu, Sichuan, China 
+5 Bixdo (SH) Healthcare Technology Co., Ltd., Shanghai,  China 
+6 Department of Geriatric Dentistry, West China Hospital  of Stomatology, Sichuan University, No. 14, 3rd section of  Renmin South Road, Chengdu 610041, Sichuan, China
+1 3
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

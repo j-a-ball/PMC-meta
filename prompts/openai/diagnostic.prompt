@@ -1,0 +1,822 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+﻿Section & Topic
+	No
+	Item
+	Reported on page #
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	TITLE OR ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	1
+	Identification as a study of diagnostic accuracy using at least one measure of accuracy
+(such as sensitivity, specificity, predictive values, or AUC)
+	
+
+	
+
+	ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	Structured summary of study design, methods, results, and conclusions 
+(for specific guidance, see STARD for Abstracts)
+	
+
+	
+
+	INTRODUCTION
+	
+
+	
+
+	
+
+	
+
+	
+
+	3
+	Scientific and clinical background, including the intended use and clinical role of the index test
+	
+
+	
+
+	
+
+	4
+	Study objectives and hypotheses
+	
+
+	
+
+	METHODS
+	
+
+	
+
+	
+
+	
+
+	Study design
+	5
+	Whether data collection was planned before the index test and reference standard 
+were performed (prospective study) or after (retrospective study)
+	
+
+	
+
+	Participants
+	6
+	Eligibility criteria 
+	
+
+	
+
+	
+
+	7
+	On what basis potentially eligible participants were identified 
+(such as symptoms, results from previous tests, inclusion in registry)
+	
+
+	
+
+	
+
+	8
+	Where and when potentially eligible participants were identified (setting, location and dates)
+	
+
+	
+
+	
+
+	9
+	Whether participants formed a consecutive, random or convenience series
+	
+
+	
+
+	Test methods
+	10a
+	Index test, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	10b
+	Reference standard, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	11
+	Rationale for choosing the reference standard (if alternatives exist)
+	
+
+	
+
+	
+
+	12a
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the index test, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	12b
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the reference standard, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	13a
+	Whether clinical information and reference standard results were available 
+to the performers/readers of the index test
+	
+
+	
+
+	
+
+	13b
+	Whether clinical information and index test results were available 
+to the assessors of the reference standard
+	
+
+	
+
+	Analysis
+	14
+	Methods for estimating or comparing measures of diagnostic accuracy
+	
+
+	
+
+	
+
+	15
+	How indeterminate index test or reference standard results were handled
+	
+
+	
+
+	
+
+	16
+	How missing data on the index test and reference standard were handled
+	
+
+	
+
+	
+
+	17
+	Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	18
+	Intended sample size and how it was determined
+	
+
+	
+
+	RESULTS
+	
+
+	
+
+	
+
+	
+
+	Participants
+	19
+	Flow of participants, using a diagram
+	
+
+	
+
+	
+
+	20
+	Baseline demographic and clinical characteristics of participants
+	
+
+	
+
+	
+
+	21a
+	Distribution of severity of disease in those with the target condition
+	
+
+	
+
+	
+
+	21b
+	Distribution of alternative diagnoses in those without the target condition
+	
+
+	
+
+	
+
+	22
+	Time interval and any clinical interventions between index test and reference standard
+	
+
+	
+
+	Test results
+	23
+	Cross tabulation of the index test results (or their distribution) 
+by the results of the reference standard
+	
+
+	
+
+	
+
+	24
+	Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals)
+	
+
+	
+
+	
+
+	25
+	Any adverse events from performing the index test or the reference standard
+	
+
+	
+
+	DISCUSSION
+	
+
+	
+
+	
+
+	
+
+	
+
+	26
+	Study limitations, including sources of potential bias, statistical uncertainty, and generalisability
+	
+
+	
+
+	
+
+	27
+	Implications for practice, including the intended use and clinical role of the index test
+	
+
+	
+
+	OTHER INFORMATION
+	
+
+	
+
+	
+
+	
+
+	
+
+	28
+	Registration number and name of registry
+	
+
+	
+
+	
+
+	29
+	Where the full study protocol can be accessed
+	
+
+	
+
+	
+
+	30
+	Sources of funding and other support; role of funders
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+________________
+STARD 2015
+AIM 
+STARD stands for “Standards for Reporting Diagnostic accuracy studies”. This list of items was developed to contribute to the completeness and transparency of reporting of diagnostic accuracy studies. Authors can use the list to write informative study reports. Editors and peer-reviewers can use it to evaluate whether the information has been included in manuscripts submitted for publication. 
+Explanation
+A diagnostic accuracy study evaluates the ability of one or more medical tests to correctly classify study participants as having a target condition. This can be a disease, a disease stage, response or benefit from therapy, or an event or condition in the future. A medical test can be an imaging procedure, a laboratory test, elements from history and physical examination, a combination of these, or any other method for collecting information about the current health status of a patient.
+The test whose accuracy is evaluated is called index test. A study can evaluate the accuracy of one or more index tests. Evaluating the ability of a medical test to correctly classify patients is typically done by comparing the distribution of the index test results with those of the reference standard. The reference standard is the best available method for establishing the presence or absence of the target condition. An accuracy study can rely on one or more reference standards.
+If test results are categorized as either positive or negative, the cross tabulation of the index test results against those of the reference standard can be used to estimate the sensitivity of the index test (the proportion of participants with the target condition who have a positive index test), and its specificity (the proportion without the target condition who have a negative index test). From this cross tabulation (sometimes referred to as the contingency or “2x2” table), several other accuracy statistics can be estimated, such as the positive and negative predictive values of the test. Confidence intervals around estimates of accuracy can then be calculated to quantify the statistical precision of the measurements.
+If the index test results can take more than two values, categorization of test results as positive or negative requires a test positivity cut-off. When multiple such cut-offs can be defined, authors can report a receiver operating characteristic (ROC) curve which graphically represents the combination of sensitivity and specificity for each possible test positivity cut-off. The area under the ROC curve informs in a single numerical value about the overall diagnostic accuracy of the index test. 
+The intended use of a medical test can be diagnosis, screening, staging, monitoring, surveillance, prediction or prognosis. The clinical role of a test explains its position relative to existing tests in the clinical pathway. A replacement test, for example, replaces an existing test. A triage test is used before an existing test; an add-on test is used after an existing test. 
+Besides diagnostic accuracy, several other outcomes and statistics may be relevant in the evaluation of medical tests. Medical tests can also be used to classify patients for purposes other than diagnosis, such as staging or prognosis. The STARD list was not explicitly developed for these other outcomes, statistics, and study types, although most STARD items would still apply. 
+DEVELOPMENT
+This STARD list was released in 2015. The 30 items were identified by an international expert group of methodologists, researchers, and editors. The guiding principle in the development of STARD was to select items that, when reported, would help readers to judge the potential for bias in the study, to appraise the applicability of the study findings and the validity of conclusions and recommendations. The list represents an update of the first version, which was published in 2003. 
+
+More information can be found on http://www.equator-network.org/reporting-guidelines/stard.
+ Creative Commons License
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 
+Current and innovative methods for the diagnosis  of COVID‑19 infection (Review) 
+LUCA FALZONE1, GIUSEPPE GATTUSO2, ARISTIDIS TSATSAKIS3,  
+DEMETRIOS A. SPANDIDOS4 and MASSIMO LIBRA2,5 
+1Epidemiology and Biostatistics Unit, National Cancer Institute‑IRCCS ‘Fondazione G. Pascale’, I‑80131 Naples;  2Department of Biomedical and Biotechnological Sciences, University of Catania, I‑95123 Catania, Italy;  3Department of Forensic Sciences and Toxicology, Faculty of Medicine; 4Laboratory of Clinical Virology,  
+Medical School, University of Crete, 71003 Heraklion, Greece; 5Research Center for the Prevention,  Diagnosis and Treatment of Tumors, University of Catania, I‑95123 Catania, Italy 
+Received March 1, 2021; Accepted April 7, 2021 
+DOI: 10.3892/ijmm.2021.4933 
+Abstract. The Coronavirus Disease 2019 (COVID‑19)  pandemic has forced the scientific community to rapidly  develop highly reliable diagnostic methods in order to effec‑ tively and accurately diagnose this pathology, thus limiting  the spread of infection. Although the structural and molecular  characteristics of the severe acute respiratory syndrome  coronavirus 2 (SARS‑CoV‑2) were initially unknown, various  diagnostic strategies useful for making a correct diagnosis of  COVID‑19 have been rapidly developed by private research  laboratories and biomedical companies. At present, rapid  antigen or antibody tests, immunoenzymatic serological tests  and molecular tests based on RT‑PCR are the most widely used  and validated techniques worldwide. Apart from these conven‑ 
+tional methods, other techniques, including isothermal nucleic  acid amplification techniques, clusters of regularly inter‑ spaced short palindromic repeats/Cas (CRISPR/Cas)‑based  approaches or digital PCR methods are currently used in  research contexts or are awaiting approval for diagnostic use  by competent authorities. In order to provide guidance for the  correct use of COVID‑19 diagnostic tests, the present review  describes the diagnostic strategies available which may be used  for the diagnosis of COVID‑19 infection in both clinical and  research settings. In particular, the technical and instrumental  characteristics of the diagnostic methods used are described  herein. In addition, updated and detailed information about the  type of sample, the modality and the timing of use of specific  tests are also discussed. 
+Correspondence to: Professor Massimo Libra, Department of  Biomedical and Biotechnological Sciences, University of Catania,  Via Santa Sofia 97, I‑95123 Catania, Italy 
+E‑mail: mlibra@unict.it 
+Key words: SARS‑CoV‑2, COVID‑19, diagnosis, viral detection,  RT‑PCR, rapid test, immunoenzymatic assay, ddPCR, isothermal  amplification technique, CRISPR‑Cas, molecular methods
+Contents 
+1. Introduction 
+2. The right test, on the right sample, at the right time 3. RT‑PCR‑based molecular tests 
+4. Rapid antigen and rapid antibody tests 
+5. Immunoenzymatic serological tests 
+6. Alternative methods for the effective diagnosis of  COVID‑19 infection 
+7. Conclusions 
+1. Introduction 
+Europe and the entire world have faced the second wave of  Coronavirus Disease 2019 (COVID‑19) pandemic which  was characterized by an increased number of infections  and related deaths worldwide, thus still highlighting critical  issues in the management of this health emergency (1,2).  At the time of the writing of the present review article,  113,523,131 laboratory‑confirmed COVID‑19 cases and  2,519,454 COVID‑19‑related deaths have been recorded world‑ wide, highlighting the impressive impact of this pandemic  globally (3). 
+Despite the optimism deriving from the approval of two  new mRNA vaccines and of one recombinant vaccine against  severe acute respiratory syndrome coronavirus2 (SARS‑CoV‑2)  infections by the Food and Drug Administration (FDA) and  the European Medicines Agency (EMA) (5,6), a third wave of  infections, already observed in the United States, the United  Kingdom and other countries with greater proportions than the  one just concluded, is expected in the coming months (3,6,7).  In this regard, several governments worldwide have already  begun to adopt social distancing measures and the lockdown  of collective activities in order to avoid a drastic increase in  the number of infections (8,9). In addition, a great concern is  also represented by the need to differentiate COVID‑19 cases  from seasonal flu that could clog hospital emergency services,  slowing down the diagnostic and therapeutic procedures for  patients with COVID‑19 (10). These reasons have led the scien‑ 
+2 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+tific community to question which diagnostic strategies are  optimal in order to efficiently combat the imminent increase  in COVID‑19 infections, as well as to perform differential  diagnoses between COVID‑19 infections and seasonal flu. 
+In this context, population screening strategies have been  proposed and are currently being implemented for the effec‑ tive monitoring of the COVID‑19 epidemiological curve and  to screen the immunized population; however, it is not yet  clear which is the most effective method for these surveillance  programs (11‑14). 
+Since the beginning of the pandemic, immense efforts  have been made for the development of effective diag‑ nostic strategies which may be used to accurately identify  SARS‑CoV‑2‑infected patients, thus limiting the risk of  contagion and promptly treating any respiratory symptoms,  avoiding serious consequences for individuals (15). 
+At present, several diagnostic methods have been approved  by regulatory agencies worldwide; however, there is still  confusion regarding the correct tests to be used based on the  patient's medical history or the investigation purpose (16).  As regards Europe, there are 365 different commercialized  devices CE‑IVD‑ and FDA‑approved or used for research  purposes. Of these devices, 168 are immunoassays, 192 are  PCR‑based methods, three are NGS‑based methods and two  commercialized tools are based on different technologies (17).  Therefore, it is evident that the selection of the optimal diag‑ nostic test can be difficult. 
+On these bases, the present review aimed to provide the  rationale for the correct use of SARS‑CoV‑2 diagnostic tools  currently available by setting out the decision‑making prin‑ ciples useful for the correct choice of the most appropriate test. 
+As will be discussed in the following paragraphs, several  diagnostic tests are currently available for the early identifi‑ cation of SARS‑CoV‑2 infection, for the monitoring of the  presence of any infections among healthcare workers, for the  monitoring the incidence rates and the severity of the infection  and for the evaluation of the complete remission of patients  with COVID‑19 (18‑20). 
+Several parameters should be considered for the selection  of the optimal diagnostic test. A diagnostic test must have good  sensitivity and specificity rates; however, these parameters are  not the only features to be considered. Indeed, in the case of  the COVID‑19 pandemic, an effective test should be rapid,  repeatable, based on technologies available at numerous  centers and keep costs limited in order to be carried out on a  large fraction of the population (21). 
+Therefore, it is evident that the selection of the diagnostic  test should be performed taking into account the clinical or  surveillance purpose of the investigation as well as the possi‑ bility to repeat the test several times until the patients are no  longer positive. 
+For all these clinical and epidemiological needs, three  main types of tests for COVID‑19 diagnosis are available:  i) Molecular RT‑PCR swab tests; ii) serological tests; iii) rapid  antigen or antibody tests. 
+2. The right test, on the right sample, at the right time 
+Although the molecular and structural characteristics of  SARS‑CoV‑2 were initially unknown, in a very short period of  
+time, research laboratories and biomedical companies studied  the main features of the virus, thus assisting researchers world‑ wide in developing various diagnostic solutions for a correct  diagnosis of COVID‑19 (22‑24). Among such solutions, the  most commonly used and validated methodologies are rapid  antigen or antibody tests, immunoenzymatic serological tests  and RT‑PCR‑based molecular tests. Each of these three types  of diagnostic tests can be applied at a precise moment of  infection. Of note, only kits, reagents and molecular probes  validated by the Centers for Diseases Control and Prevention  (CDC) and the World Health Organization (WHO) and  approved at the American and European level by the FDA and  by the EMA can be used for diagnostic purposes (25). 
+Although immunoenzymatic (either classic or rapid  methods) and molecular methods are the most widely used  techniques for the diagnosis of COVID‑19, other approaches  were used in the early phase of the pandemic to identify posi‑ 
+tive patients and the etiological agent of infection. Among  these approaches, viral culture and next‑generation sequencing  (NGS) methods were crucial for the identification of the novel  coronavirus and for the characterization of its molecular  structure. These two techniques have made it possible to  fully characterize the genome and the viral protein structure,  allowing the understanding of the viral mechanisms of action,  the mode of transmission, the clinical impact and the develop‑ ment of any therapeutic strategies and diagnostic tools (26,27). 
+Apart from these conventional strategies, other diagnostic  methods are under development and validation or are currently  finding application in research contexts. Among these  methods, digital PCR, isothermal amplification techniques,  clusters of regularly interspaced short palindromic repeats/Cas  (CRISPR/Cas)‑based diagnostic methods, biosensors, electron  microscopy‑based methods, etc., represent the armamentarium  to effectively diagnose COVID‑19 infection and to effectively  assess the epidemiological spreading of the pandemic (15,28).  Notably, clinical investigations and radiological imaging have  represented valid diagnostic alternatives, particularly during  the early stages of the pandemic when there were still no vali‑ dated molecular and serological tests available (29) (Fig. 1). 
+Despite the availability of all these diagnostic techniques,  a correct diagnosis of COVID‑19 infection can only be estab‑ lished considering the test to be used, the type of sample to  be analyzed and the timing of the test itself. Therefore, it is  necessary to perform the correct test, at the correct time in the  correct biological sample (30,31). 
+In particular, it is important to take into account the  moment of the suspected infection, the patient's medical  history, the symptoms and general clinical picture for a  successful outcome of the diagnostic test. Furthermore, the  positivity of a diagnostic test strongly depends on the moment  at which it is carried out (Fig. 2). Both serological and molec‑ 
+ular tests are not useful during the first week of the supposed  infection because the virus is still in its incubation period and  there are not yet sufficient copies of viral RNA in circulation  neither antibodies nor viral proteins identifiable by serological  tests (32,33). Therefore, before the onset of symptoms, the  probability of correctly determining the presence of the virus,  particularly using molecular tests, remains low (32). 
+At two weeks after the presumed infection, and in parallel  with the onset of symptoms, molecular tests carried out 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 3   Figure 1. Overview of the available clinical, diagnostic and research strategies for the effective diagnosis of COVID‑19 infection.
+on nasopharyngeal swabs or bronchoalveolar lavage fluid  (BALF) samples will have a greater chance of being positive,  as the virus is actively replicating. However, this probability is  reduced over time, as a result of the elimination of the virus  and the remission of the disease. In the case of molecular tests,  the probability of a positive or negative result should be consid‑ 
+ered, as no commercial diagnostic tools have a sensitivity of  100%, particularly in cases of patients with low viral load as  asymptomatic or paucisymptomatic individuals (32,34). 
+As regards serological tests, the search for IgM and IgG  antibodies begins to yield positivity at approximately one  month after the presumed infection and the levels of these  immunoglobulins remain high for long periods of time. Of  note, the IgM serum levels decrease significantly after six  weeks from the onset of symptoms (35). The detection of viral  proteins and mucosal IgA antibodies is also very important.  
+Indeed, these markers increase in the early stages of infection  and can be used for the early diagnosis of COVID‑19 infec‑ tion (36). In summary, all these data suggest that for a correct  diagnosis of COVID‑19 infection to be made, it is necessary to  use the right test, at the right time. 
+As already mentioned, the selection and the correct  handling of samples for both molecular and serological anal‑ yses are fundamental for the diagnosis of COVID‑19 infection.  In particular, the collection of samples and the pre‑analytical  phases are crucial for the positive outcome of the diagnostic  procedure (37,38). Different studies have demonstrated that  the positivity rate of molecular tests significantly depends  on the quality of the starting sample influenced by sample  collection, poor quality material, wrong transport or storage,  the presence of inhibitors, etc. (38). Technical troubleshooting  will be discussed in the following chapters. 
+4 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+Table I. Biological samples and methods used for an effective diagnosis of COVID‑19 infection. 
+ Diagnostic methods ‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑ 
+ Collection Transport Approved Research‑used 
+Type of specimens devices conditions diagnostic methods diagnostic methods Comments 
+NP swab, OP swab, Dacron or VTM Within 5 days, 4˚C; Real‑time PCR NGS ‑ CRISPR/Cas PCR ‑ and NP aspirate flocked swabs >5 days, ‑70˚C isothermal amplification  techniques ‑ddPCR ‑ 
+viral culture 
+Sputum Sterile vial Within 48 h, 4˚C; Real‑time PCR NGS ‑ CRISPR/Cas PCR ‑ >48 h, ‑70˚C isothermal amplification 
+techniques ‑ ddPCR ‑ 
+viral culture 
+Bronchial washing Sterile vial Within 48 h, 4˚C; Real‑time PCR NGS ‑ CRISPR/Cas PCR ‑ Pathogens >48 h, ‑70˚C isothermal amplification may be diluted; 
+techniques ‑ ddPCR ‑ however, the 
+viral culture specimen can 
+be used for 
+diagnostic testing 
+Tracheal aspirate Sterile vial Within 48 h, 4˚C; Real‑time PCR NGS ‑ CRISPR/Cas PCR ‑ and transtracheal >48 h, ‑70˚C isothermal amplification aspirate techniques ‑ ddPCR ‑  viral culture 
+Lung biopsy Sterile vial Within 48 h, 4˚C; Real‑time PCR NGS ‑ CRISPR/Cas PCR ‑ >48 h, ‑70˚C isothermal amplification 
+techniques ‑ ddPCR ‑ 
+viral culture 
+Serum, plasma Serum/plasma Within 5 days, 4˚C; Rapid serological Biosensors For the immune collection tube: >5 days, ‑70˚C test; immune enzymatic test,  Adults, 3‑5 ml; enzymatic test two samples are infants, 1 ml collected. The 
+first sample is 
+collected between 
+1‑7 days after 
+symptom onset  
+and the second is 
+collected 14 days 
+after the onset 
+of symptoms
+The chief samples used for molecular analyses are  obtained from the respiratory tract. In particular, both  oropharyngeal and nasopharyngeal swabs represent good  samples for viral RNA extraction and amplification through  RT‑PCR; however, previous studies have highlighted that  BALF is the most appropriate sample for SARS‑CoV‑2  molecular detection (39,40). Apart from these commonly  analyzed respiratory tract samples, other specimens may also  be collected, including nasal mid‑turbinate swabs and nasal or  nasopharyngeal wash/aspirate (41). Of note, the permanence  of the virus in the respiratory tract is only temporary, with a  peak of positivity in the first three days of infection, followed  by a constant decrement of the rate of positivity for molecular  analyses until the 10th week following symptom onset (42). To  ascertain SARS‑CoV‑2 positivity after a long period of time,  other biological samples are used. Among these, fecal samples  
+represent the optimal material to evaluate the permanence of  viral RNA in patients with negative nasopharyngeal swabs,  but with clinical symptoms attributable to COVID‑19 infec‑ tion (43). Indeed, a greater persistence of SARS‑CoV‑2 in the  gastrointestinal tract has been demonstrated, allowing the  detection of SARS‑CoV‑2 RNA even after more than a month  from infection (44). 
+Other studies have proposed diagnostic screening based on  the analysis of saliva and urine samples through serological  and molecular tests. However, the collection of these samples  is generally carried out by the patients themselves without  the surveillance of a healthcare professional, resulting in a  possible non‑representative sample. In addition, the presence  of interfering substances or substances that degrade viral RNA  or human antibodies represents a considerable bias that signifi‑ cantly limits the use of these samples in clinical practice (30). 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 5   Figure 2. Timing and type of samples that should be analyzed for the effective detection of SARS‑CoV‑2 RNA or anti‑SARS‑CoV‑2 human antibodies.
+All the types of biological samples used for diagnostic  purposes are presented in Table I. A detailed description of  the timing of use and the technique for which specific samples  are collected is also provided (Table I). 
+Overall, the type of sample should be collected considering  the timing of the infection. Collecting different samples from  different sites may be useful to avoid misdiagnosis of asymp‑ tomatic patients negative for molecular tests. Otherwise, it is  possible to carry out repeated nasopharyngeal swabs in two  or three consecutive days in order to overcome the window  period of SARS‑CoV‑2 incubation thus being able to correctly  diagnose a patient infected with SARS‑CoV‑2 (45). 
+3. RT‑PCR‑based molecular tests 
+RT‑PCR‑based molecular methods represent the gold standard  techniques used worldwide to make a confirmatory diagnosis  of COVID‑19 infection (46). Since the complete sequencing  of the SARS‑CoV‑2 genome (26), researchers of different  countries have begun to design molecular primers and probes  specific to SARS‑CoV‑2 RNA sequences in order to perform  differential diagnosis between COVID‑19 infections and  other pathologies with similar symptoms, such as seasonal  flu or bacterial infections (47,48). Of note, the whole genome  sequence of SARS‑CoV‑2 is 29,903 bp in length containing  the following functional elements: A poly‑A cap of 50 bases,  the open reading frame 1/ab (ORF1/ab) containing the coding  sequences for the RNA‑dependent RNA polymerase (RdRP),  
+the spike proteins, the envelope proteins, the membrane and  nucleocapsid proteins, and a poly‑A tail of 30 bp (49). At present, several portions of the SARS‑CoV‑2 genome  are used for the design of specific primers and probes,  including the genomic portions encoding for the RdRP gene,  for proteins constituting the nucleocapsid (N gene) and spike  molecules (S gene), for proteins of the envelope (E gene), for  the membrane, etc. (Fig. 3). 
+The CDC has made available a list of approved and  validated kits and reagents to clinically diagnose COVID‑19  infection (50). Similarly, the CDC has also made available a  list of three primer pairs that can be used for research purposes  only, each working with two different molecular probes,  specific for two portions of the N gene and the gene coding for  viral RdRP, respectively (51). 
+RT‑PCR‑based molecular tests are considered the optimal  diagnostic option for wide surveillance strategies due to the  relatively low costs of the entire viral RNA extraction, reverse  transcription and amplification procedure, and the availability  of RT‑PCR thermal cyclers in hospitals, research institutes and  private laboratories(52). Other advantages of RT‑PCR methods  compared to other diagnostic techniques are the timesaving  of the procedure, the easy execution of the technique and the  non‑necessity of highly trained personnel (53). In addition, a  number of the available RT‑PCR kits are based on one‑step  amplification methods, where the buffer of the nasopharyngeal  swab is inserted into the plate and the machine autonomously  provides for the extraction, reverse transcription, amplification  
+6 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+  
+Figure 3. SARS‑CoV‑2 genome structure and probes for the molecular detection of SARS‑CoV‑2 RNA in human samples.
+and analysis of the samples. These procedures ensure fast  results guaranteeing excellent reproducibility and standardiza‑ tion of the data obtained which are less influenced by operator  bias (54). 
+As already mentioned, the EMA has approved 192 PCR based methods while the FDA has approved 235 different  molecular tests for both RT‑PCR and the rapid detection of  SARS‑CoV‑2 RNA (17,55). 
+All these approved molecular tests detect two or three  fragments of SARS‑CoV‑2 RNA mainly using multiplex  assays based on standard RT‑PCR protocols. Briefly,  following the collection of nasopharyngeal swabs from indi‑ 
+viduals with suspected COVID‑19 infection, the viral RNA  is extracted using commercial kits and lysing solutions with  manual or automated extraction protocols. Subsequently, the  obtained RNA, containing both human and viral RNA, can  be directly analyzed by RT‑PCR in the one‑step protocols or  must be retrotranscribed into complementary DNA (cDNA)  before RT‑PCR amplification. After obtaining the cDNA, the  SARS‑CoV‑2 targets are amplified through RT‑PCR using  TaqMan probes specific for the two‑three viral targets. In  particular, the exonuclease activity of the Taq polymerase  (5'→3' direction) cleaves the probes annealed with the viral  targets allowing the emission and real‑time detection of fluo‑ rescent signals. In this manner, the intensity of the fluorescent  signal is proportional to the total amount of the amplified  targets. However, all the existing RT‑PCR protocols are only  qualitative and not quantitative (Fig. 4) (56,57). 
+The entire analytical procedure is completed in 4‑8 h,  based on the type of RT‑PCR protocol used (one‑step or  two‑steps). This makes it possible to establish the positivity  of an individual in a relatively short amount of time, allowing  the initiation of quarantine protocols that limit the spread of  infections (58,59). In addition, the majority of the automated or  semi‑automated systems available are based on 48‑ or 96‑well  platforms in order to process a series of samples, thus reducing  the execution times, the costs of plastics and consumables and  
+procedural errors that may occur by analyzing the samples  individually (60). 
+RT‑PCR‑based methods ensure also a low limit of detec‑ tion (LoD) of SARS‑CoV‑2 RNA (61). Specifically, during  the early stages of the pandemic, when diagnostic techniques  had not yet been optimized and standardized, a significant  fraction of COVID‑19‑positive patients were identified as  false‑negative due to the low sensitivity of the primers and  probes used or the inaccuracy of the whole RT‑PCR procedure  (false‑negative rates ranging from 38% at the day of symptoms  onset to 67% before one day from the onset of symptoms or to  66% after 16 days from the onset of symptoms) (62). As will  be better described at the end of this chapter, in the case of  asymptomatic or paucisymptomatic patients, generally char‑ 
+acterized by a low viral load, the RT‑PCR investigations could  mistakenly yield negative results. Currently, the commercially  available RT‑PCR kits have partially solved the problem of  the low sensitivity of RT‑PCR. Indeed, the methods available  today have a theoretical LoD that varies from 0.3 copies/µl to  100 copies/µl, depending on the diagnostic system used (63).  However, it should be considered that this limit is only theo‑ 
+retical; therefore, in clinical practice, procedural errors or  reaction interferers raise the LoD by 10‑fold (64). Although RT‑PCR represents the gold standard method for  the diagnosis of COVID‑19 infection, this method is subject to  several limitations and criticisms that can lead to false‑positive  or false‑negative results, thus affecting the correct manage‑ ment of the pandemic. As already mentioned, one of the main  limits of RT‑PCR is its low sensitivity in correctly diagnosing  samples with low viral load, including swabs taken incorrectly  or obtained from asymptomatic or paucisymptomatic indi‑ viduals (65). In addition, RT‑PCR is affected by contaminants  and interferers contained in the sample or introduced by the  operator capable of inhibiting the reaction (65). Other limits  also concern the execution time of the analysis, which in  non‑automated systems, can take up to 24 h to obtain a result  that can be communicated to the patient. Finally, RT‑PCR is  
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 7   
+Figure 4. Schematic workflow of RT‑PCR‑based diagnostic methods. 1) Collection of samples from suspected COVID‑19 patient through nasopharyngeal  or oropharyngeal swab; 2) storage and handling of the swab to preserve viral RNA integrity; 3) SARS‑CoV‑2 heat inactivation and RNA extraction through  custom or commercial protocols; 4) viral RNA retro‑transcription into double strand cDNA; 5) RT‑PCR amplification and real‑time fluorescent signal detec‑ tion; 6) interpretation of amplification signals and setting of the positivity threshold.
+a method that is profoundly affected by pre‑analytical and  analytical bias regarding the collection, storage and handling  of samples, therefore, careful attention should be paid during  the collection and management of samples (66). 
+In order to reduce the errors in the interpretation of molec‑ ular tests, the WHO has published specific recommendations  useful to make a correct diagnosis of COVID‑19. In particular,  a molecular test must be conducted in two different biological  matrices, for example, a nasopharyngeal swab and a fecal  swab, or be performed on two consecutive nasopharyngeal  swabs in order to obtain reliable results. The approved tests  include the analysis of three different viral genes or two viral  genes and a human control gene and the use of specific nega‑ 
+tive and positive controls useful to ascertain the presence of  contamination or evaluate the inhibition of the reaction (67). Overall, RT‑PCR represents the gold standard and most  widely used method worldwide to make an accurate diagnosis  of COVID‑19 infection due to the rapidity of the method and  
+the availability of instruments in public and private hospitals  and laboratories. In addition, the RT‑PCR tests currently avail‑ able on the market ensure good sensitivity and specificity rates  for the diagnosis of COVID‑19 infection. The main RT‑PCR  diagnostic systems currently available on the market, illus‑ trating their main technical features are presented in Table SI. 
+4. Rapid antigen and rapid antibody tests 
+With the increase in the number of individuals with a suspected  COVID‑19 infection, it became necessary to adopt more  rapid and low‑cost diagnostic strategies to carry out extensive  surveillance campaigns (68‑70). To cope with this emergency,  various rapid tests have been developed to detect viral anti‑ 
+gens or anti‑SARS‑CoV‑2 human antibodies in salivary, nasal  or oropharyngeal swabs and blood samples. These tests are  currently adopted for the frequent monitoring of personnel  operating in at‑risk environments such as schools or hospitals  
+8 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+or to carry out extensive screening strategies on populations  where a new outbreak of infection is suspected (70,71). Compared to RT‑PCR‑based methods, rapid antigenic  and rapid antibody tests are characterized by more rapid  execution times of ~15‑30 min, a lower cost and an easier  procedure that does not require the presence of highly trained  personnel (72). These tests are mainly built on platforms  based on the principle of lateral flow immunoassay (LFIA)  for the direct detection of viral proteins (rapid antigen tests)  or human antibodies against SARS‑CoV‑2 antigens (rapid  antibody tests). As regards rapid antigen tests, these allow  the identification of COVID‑19‑positive individuals through  the detection of SARS‑CoV‑2 nucleocapsid or Spike proteins  (viral antigens) in swabs collected from the upper airways of  the subject with suspected infection. The principle behind  these LFIA rapid antigen tests is very simple and based on  the bond between antigens and antibodies that occurs on the  surface of a porous membrane where the swab buffer flows  by capillarity. Briefly, the swab buffer is loaded in the sample  well of the cartridge and flows by capillarity at the level of  the conjugation pad containing control rabbit antibodies  and specific antibodies against SARS‑CoV‑2 antigens both  linked to detector molecules (conjugated antibodies). In the  case of a positive sample, the link between viral antigens and  conjugated antibodies take place at the level of the conjuga‑ tion pad. Subsequently, the buffer containing conjugated  control rabbit antibodies and the antigen‑conjugated antibody  complex flows to the test line where other antibodies specific  for viral antigens are immobilized. In the case of a positive  sample, the binding between antibodies immobilized in the  test line and the antigen‑conjugated antibody complex gives  rise to a colorimetric reaction indicating the positivity of the  sample. Finally, the buffer flows further to the control line  where anti‑antibodies specific for the conjugated control rabbit  antibodies are immobilized; if the test is performed correctly,  the reaction between these two molecules also gives rise to a  colorimetric reaction. To be trusted, the test control line must  always be positive (73,74) (Fig. 5A). 
+Similarly, rapid antibody tests use the same LFIA  principle; however, human IgA or IgG and IgM against  SARS‑CoV‑2 antigens are searched for. In particular, the  blood (or saliva) sample is loaded inside the sample well  and flows to the conjugated pad containing gold‑tagged viral  antigens and gold‑tagged control antibodies. In this test,  anti‑SARS‑CoV‑2 human antibodies (IgA, IgG or IgM) bind  the gold‑tagged antigens and the sample flows to the test line  where anti‑human IgA, IgG or IgM antibodies are pre‑attached  to the membrane. In the case of a positive sample, the IgA,  IgG or IgM‑gold‑tagged antigen complex binds to the human  anti‑antibodies immobilized in the test line determining  a colorimetric reaction which indicates the positivity of the  sample. Finally, the gold‑tagged control rabbit antibodies flow  to the control line binding anti‑rabbit antibodies thus giving  rise to a confirmatory colorimetric reaction (75,76) (Fig. 5B). 
+Both rapid antigen and rapid antibody tests yield results  readable to the naked eye in a very short period of time and can  be performed at the ‘point‑of‑care’ without any specific instru‑ ments or sample processing. Of note, these tests yield qualitative,  but not quantitative results; therefore, it is only possible to  establish whether the individual is positive or not for COVID‑19  
+infection without assessing the viral load. In addition, in the  case of rapid antibody tests, it is possible to establish whether  the patient is carrying anti‑SARS‑CoV‑2 antibodies; however,  it is not possible to establish whether the patient has an active  SARS‑CoV‑2 infection or already resolved disease (77,78). 
+Overall, among the main advantages of rapid antigen and  rapid antibody tests are the low cost, the possibility of carrying  out the test directly at the point‑of‑care and the high speed  and easy execution that ensure a positive or negative result in  ~30 min. However, these tests suffer from important limita‑ 
+tions mainly related to a low sensitivity and specificity of 56.2  and 99.5%, respectively (79). Indeed, a recent review of the  literature demonstrated that rapid antigen tests had a false  negative rate of 27.9%, while no false‑positive results were  observed (68). As regards rapid antibody tests, a recent study  comparing three different kits demonstrated a false‑positive  rate ranging from 51.6 to 28.1%, and a false‑negative rate  ranging from 0 to 4.2% (80). 
+As regards rapid antibody tests, these are very straight‑ forward and can be quickly performed, and provide useful  information about the stage of infection. Indeed, in the case of  negativity, only the control band is colored. In the case of an  ongoing infection, the IgM and control bands are stained. In  the case of a recent infection, both the IgM and IgG bands are  stained, since both antibodies are present in the bloodstream.  Following the remission of the disease, for a period of time  that varies from patient to patient, only the IgG band is positive  together with the control one, and in the case of re‑infection,  all the three bands are positive again (Fig. S1). The test is  considered invalid when none of the lines stain or when the  test lines are stained but the control line is not (81). 
+The limited sensitivity and the related high false‑negative  results are mainly related to the low viral load and the low  antibody response observed in some patients; however, as  already mentioned, the probability of obtaining a positive test  depends also on the time of the presumed infection and on  the test execution time. Indeed, although the viral antigens  are found in the samples after a short time from infection,  their permanence and stability in the biological sample are  limited; therefore, it is not always possible to correctly identify  these proteins (82). Similarly, rapid antibody tests are mainly  designed to identify IgM and IgG antibodies, which are not  produced by the body immediately, but begin to be found in  the bloodstream after the third week of the suspected infec‑ tion. Therefore, it is important to use the most appropriate test  considering the time of the presumed infection. More recently,  the use of rapid tests for the detection of IgA to accelerate the  diagnosis of COVID‑19 infection has been proposed (83). 
+Overall, rapid antigen and rapid antibody tests are widely  used for screening strategies on large portions of the popula‑ tion (70,84); however, they do not ensure a precise diagnosis of  COVID‑19. Therefore, these tests should be always confirmed  by RT‑PCR analyses. Details of rapid antigen and rapid anti‑ body tests currently approved by international agencies are  reported in Table SII. 
+5. Immunoenzymatic serological tests 
+Most of the immunoenzymatic serological tests used for  COVID‑19 investigations are based on the principle of indirect 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 9   
+Figure 5. Rapid antigen and rapid antibody tests. (A) Analytical workflow of rapid antigen test for the rapid detection of SARS‑CoV‑2 viral antigens through  lateral flow immunoassay. (B) Analytical workflow of rapid antibody test for the rapid detection of human IgA, IgG or IgM antibodies against SARS‑CoV‑2  antigens through lateral flow immunoassay.
+10 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+  
+
+Figure 6. ELISA‑based immune enzymatic serological tests. (A) Analytical workflow of indirect ELISA for the effective detection of human IgA, IgG or IgM  antibodies against SARS‑CoV‑2 antigens. (B) Analytical workflow of sandwich ELISA for the effective detection of SARS‑CoV‑2 antigens.
+enzyme‑linked immunosorbent assay (ELISA). Of note, ELISA  is a colorimetric, chemiluminescent or fluorescent microwell  plate‑based assay used for the quantitation and detection of  human proteins, immunoglobulins, antigens and other peptides  through the binding between the target protein and a specific  antibody that results in a detectable signal (85). This technique  allows researchers to obtain highly specific and sensitive results  in a relatively short time ranging from 1 to 5 h (85). 
+Briefly, 96‑well commercial COVID‑19 ELISA indirect  tests contain immobilized viral antigens at the bottom of each  well that are recognized and bound by anti‑SARS‑CoV‑2  antibodies present in the serum of patients following proper  dilutions. A series of washes is then made to remove the serum  and unbounded antibodies; subsequently, a conjugated anti‑ 
+body specific for human immunoglobulins is added to each  well. Following further washing, a chromogenic (or fluorescent  or chemiluminescent) substrate is finally added and metabo‑ lized in the presence of antibodies against SARS‑CoV‑2 and  enzyme‑conjugated anti‑human antibodies. This process gives  rise to a colorimetric reaction easily detectable by optical  densitometry (or fluorescence or chemiluminescence) whose  intensity is indicative of the quantity of IgG, IgM or IgA anti‑ body presents in the sample (Fig. 6A). 
+Similarly, 96‑well commercial COVID‑19 ELISA  sandwich tests contain immobilized antibodies against  SARS‑CoV‑2 antigens at the bottom of each well able to  bind antigens contained in the serum samples of patients.  Subsequently, a series of washes is performed to remove the  
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 11 
+serum and unbounded antigens and a conjugated antibody  specific for SARS‑CoV‑2 antigens is added to each well.  Finally, following further washing, a chromogenic substrate is  added and metabolized in the case of positive samples giving  rise to a colorimetric reaction (Fig. 6B). 
+As regards the management of the COVID‑19 pandemic,  ELISAs are currently used for the detection of IgM and IgG  antibodies (86) specific for SARS‑CoV‑2 antigens or for the  identification of viral Spike proteins (87). More recently, other  ELISAs have been developed for the detection of human IgA  antibodies whose determination is of fundamental importance  as they are the first antibodies to be produced following expo‑ 
+sure to the virus (86). 
+In a very short period of time, several COVID‑19 ELISAs  have been developed and some of these have been approved  by international agencies (Table SIII). These tests are mainly  adopted to monitor the immunological status of patients  or for the immunosurveillance of specific work categories,  such as healthcare workers or school personnel (88,89). In  particular, ELISA tests for the detection of IgG and IgM are  often performed on COVID‑19 patients who obtained a nega‑ tive result in molecular tests conducted on nasopharyngeal  swabs in order to ascertain the seroconversion of patients and  the acquisition of immunocompetence against COVID‑19  infection (90). Contrariwise, ELISAs for the detection of viral  proteins and anti‑SARS‑CoV‑2 human IgA can be used for  diagnostic purposes or for large screening strategies, as these  molecules are rapidly founded in clinical samples (83,91). Of  note, ELISAs for the detection of viral antigens are based on  sandwich ELISA instead of indirect ELISA (92). 
+Several ELISAs have been approved for the management of  COVID‑19 infection, allowing the identification of individuals  exposed to the SARS‑CoV‑2 virus (Table SIII); however, these  tests are not able to confirm the infectious status of the subject.  Indeed, in the case of an ELISA‑positive result (either IgA,  IgM, IgG or viral antigens), it is necessary to perform molec‑ 
+ular confirmatory analyses on nasopharyngeal swabs (93).  However, ELISA‑based serological tests are much more reli‑ able than rapid antigen or antibody tests; the sensitivity and  specificity values of these tests range from 75.6 to 100%, and  85.7 to 100%, respectively, albeit important variations in these  values may be related to both the manufacturer or the human  antibody or viral antigen tested (94). Indeed, generally, the  search for IgG is more accurate compared to that of IgM or  IgA (this latter is less sensitive) (94). Of note, both sensitivity  and specificity depend on the timing of infection and the  timing of test execution. 
+Overall, SARS‑CoV‑2 ELISAs represent a good clinical  option for large screening and surveillance campaigns mainly  adopted for specific work categories due to the rapidity of this  method, the possibility of analyzing multiple samples in one  round and the availability of automated or semi‑automated  systems that allow a precise quantitation of viral antigens or  human antibodies. 
+6. Alternative methods for the effective diagnosis of  COVID‑19 infection 
+The COVID‑19 pandemic has prompted research groups  worldwide to develop novel technologies for the diagnosis of  
+COVID‑19 infection or to readapt existing diagnostic systems  according to the characteristics of the new SARS‑CoV‑2 virus. When the infection had not yet assumed the dimension of  a global pandemic, traditional culture methods, clinical inves‑ tigations and NGS techniques were among the first methods  used to diagnose COVID‑19 infection. Apart from these  approaches, other methods have been developed, including  biosensors, CRISPR/Cas‑based tests, nucleic acid isothermal  amplification methods, electron microscopy, etc. (25,95). 
+Viral culture and electron microscopy. Viral culture has  represented the fundamental method that allows the identifi‑ cation of SARS‑CoV‑2 as a novel causative agent of human  pneumonia (96). Despite the difficult realization and the long  period of times necessary to obtain a viral culture in vitro,  viral isolates represent a milestone for the discovery of novel  viral infections (96,97). As regards SARS‑CoV‑2 infection,  viral culture was fundamental in the initial phase of the  outbreak prior to the development of other diagnostic assays.  Zhu et al (96) (2020) were the first to obtain SARS‑CoV‑2 viral  isolates from clinical specimens and to observe cytopathic  effects using transmission electron microscopy. Briefly, the  authors of that study inoculated 150 µl of BALF supernatant  obtained from a COVID‑19 patient into pathogen‑free human  airway epithelial cells. Following 2 h of incubation at 37˚C,  infected epithelial cells were washed with phosphate‑buffered  saline and incubated at 37˚C for a long time period. To assess  the efficacy of infection and the production of novel viral  particles, the authors of that study collected cells supernatant  every two days for molecular analyses and observed cyto‑ pathic effects under light microscopy. Finally, infected cells  were prepared for electron microscopy observation (96). 
+Subsequently, following the study by Zhu et al (96), other  research groups isolated SARS‑CoV‑2 with an aim to study  the structural features and molecular interaction with infected  cells (98,99). For these purposes, other cell lines have been  used, including the Vero and LLC‑MK2 cell lines; by using  electron microscopy and cells infected with clinical specimens  obtained from COVID‑19 patients, it was possible to identify  the ultrastructural details of the virus, the interaction between  virus and cells and the resulting cytopathic effects (100). 
+Of note, electron microscopy is one of the pioneering  methods for the discovery of novel pathogens, allowing the  identification of their structural features. As regards viral  infections, two main applications of electron microscopy  exist: Solid‑phase immune electron microscopy (SPIEM) and  immunolabeling electron microscopy (IEM), which are based  on the observation of cells blocked in the surface of a grid and  on the observation of antibody‑antigen complex occurring in  infected cells, respectively (101,102). 
+Overall, viral culture and electron microscopy are impor‑ tant techniques used to observe the main characteristics of  the virus. In the case of SARS‑CoV‑2, these two methods  allowed the identification of the typical structure of corona‑ viruses characterized by a nucleocapsid enclosed within a  crown‑like envelope composed of spike proteins. As regards  the cytopathic effects, both methods displayed a broad range  of cellular alterations mainly represented by the formation  of plaques characterized by a net‑like structure or fused  cells. These plaques, composed of multinucleated syncytial 
+12 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+cells, also present deformed cilia with a granular formation  and a disordered polarity. SARS‑CoV‑2‑infected cells also  exhibited double‑membrane vesicles and degraded mitochon‑ dria. Finally, viral infections also led to the expansion of the  endoplasmic reticulum and an increased number of secretory  vesicles (96). 
+Overall, these techniques have made it possible to estab‑ lish the main characteristics of the novel SARS‑CoV‑2 virus,  which then allowed researchers to develop the diagnostic  systems currently used, as well as to propose the first thera‑ peutic approaches for the treatment of COVID‑19 infection.  Despite the importance of both viral culture and electron  microscopy, both methods present some issues that limit their  use in clinical settings. Indeed, viral culture is time‑consuming  and requires specific equipment and high biosafety levels.  For these reasons, the CDC recommends SARS‑CoV‑2 viral  culture only for research studies carried out in laboratories  equipped with level 3 biosafety cabinets (103). On the other  hand, electron microscopy is not widely used as it requires  costly instruments and highly trained personnel with specific  skills in sample preparation and electron microscopy image  analysis. In addition, this technique is characterized by low  diagnostic sensitivity and specificity and optimal results can be  obtained only if appropriate viral cultures are available (104). 
+NGS. Apart from viral culture and electron microscopy,  NGS has represented a key method for the identification of  SARS‑CoV‑2 and for the development of almost all of the  currently adopted molecular diagnostic methods. Through  NGS, it was possible to fully characterize the entire  genome of SARS‑CoV‑2, thus establishing that it belongs  to the β‑coronavirus genus (49). The de novo sequencing of  SARS‑CoV‑2 was performed using the nanopore technology  through a sequence‑independent single‑primer amplification  approach (105,106). 
+At present, NGS is not used for diagnostic purposes, but  for molecular epidemiology and for the discovery of novel  molecular variants. Indeed, its diagnostic application is  limited due to the high costs of the analysis, the requirement  of expensive technologies and the need for highly trained  personnel with molecular and bioinformatics skills (25).  Despite the high procedural costs, some companies have  proposed commercial tests for the sequencing of SARS‑CoV‑2  through NGS platforms. In particular, the commercial kits  available are mainly based on NGS techniques coupled with  hybrid capture methods (BioCat, Arbor Biosciences and Swift  tests). These platforms are built with biotinylated RNA probes  that hybridize SARS‑CoV‑2 RNA fragments. Subsequently,  the biotinylated probes are amplified through PCR using  streptavidin‑coated beads (107,108). 
+Apart from these platforms, more complex NGS tools  have been developed to detect mutations in the sequence  of SARS‑CoV‑2 genome, thus identifying novel emerging  strains important from an epidemiological point of view  and for the development of novel vaccines. Among these  tools, amplicon‑based metagenomic sequencing represents  the most powerful approach with which to rapidly identify  and comprehensively characterize SARS‑CoV‑2 and other  pathogens. In particular, metagenomic sequencing allows the  identification of the normal microbiome of patients, while  
+amplicon‑based sequencing allows the amplification and the  subsequent sequencing of SARS‑CoV‑2 viral RNA. Together,  amplicon‑based sequencing and metagenomic sequencing  are able to correctly diagnose COVID‑19 infection, thus also  identifying secondary infections due to other pathogens aggra‑ 
+vating the health status of patients (109). 
+As already mentioned, amplicon‑based and metagenomic  approaches based on the sequence‑independent single primer  amplification (SISPA) method are able to detect mutations  occurring in the sequence of SARS‑CoV‑2 and potentially  associated with vaccine inefficacy or resistance to antiviral  therapies (110,111). Examples of this type of sequencing  technique are the MinION and IDbyDNA platforms produced  by Oxford Nanopore Technologies and Illumina, respec‑ tively (112). As regards the IDbyDNA platform, it ensures the  collection of >13 million reads of which >8 million are unique  reads with an average length of ~75 bp and an in‑depth coverage.  This shotgun sequencing allows the generation of high‑quality  library score and Q score ensuring the correct identification of  single variants in the SARS‑CoV‑2 sequence (113). 
+Similarly, MinION technology ensures the collection of  millions of short and ultra‑long reads (4,000 bp in length)  obtaining output data up to 30 Gb. This technology is based  on a portable platform that allows the real‑time analysis of  clinical samples with limited costs (114). This technology  was effectively used for the analysis of the SARS‑CoV‑2  genome by using primers for 16 conserved binding sites of  coronavirus allowing the reconstruction of the whole genome  of SARS‑CoV‑2 through the generation of 1,000 bp reads with  overlapping regions each other (75). 
+Overall, NGS whole‑genome sequencing is the most  powerful method for the molecular characterization of  SARS‑CoV‑2, for the identification of novel variants during  genomic surveillance screening and for the development of  genome‑based therapeutic approaches (115‑117). 
+Clinical investigations and imaging techniques. During the  early stages of the infection, when the causative agent was  still unknown, the diagnosis of COVID‑19 was predominantly  clinical based on the observation of the patient's respiratory  and extra‑respiratory symptoms and on the use of radiological  imaging techniques (118,119). 
+Of note, a significant fraction (~50‑75%) of COVID‑19  patients is asymptomatic or paucisymptomatic, presenting  mild symptoms for a limited period of time, while other  patients (~10%) present severe respiratory symptoms resulting  in acute respiratory distress syndrome (ARDS) responsible for  dyspnea, interstitial pneumonitis, multiorgan dysfunctions and  in some cases, even death (120,121). Such severe manifestations  are often observed in patients with pre‑existing comorbidities,  such as diabetes, cardiovascular diseases, hypertension and  cancer, and are mediated by specific host cell entry media‑ tors (122‑126). 
+Among the COVID‑19 symptoms, there are not only  respiratory manifestations, but also other systemic symp‑ toms. According to a recent comprehensive review, the main  respiratory symptoms include, but are not limited to dyspnea  (19‑64%), cough (69‑82%), rhinorrhea (4‑24%) and a sore  throat (5‑14%). Other common symptoms are fever (44‑98%),  headaches (5‑14%) and diarrhea (2‑5%) (127). However, the 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 13   Figure 7. Respiratory and extra‑respiratory clinical manifestations of COVID‑19 infection.
+most common symptoms reported by patients with COVID‑19  are anosmia and ageusia, together with fatigue (128,129). Apart from these commonly reported symptoms, a plethora  of clinical manifestations has been reported, ranging from  cardiovascular to neurological disorders and from gastrointes‑ tinal to systemic symptoms (Fig. 7). In particular, SARS‑CoV‑2  exhibits a neuroinvasive behavior via the retrograde trans‑ synaptic invasion of the central nervous system. SARS‑CoV‑2  is able to bind specific receptors in the cells constituting the  olfactory bulb or pulmonary and airways sensorial receptors.  Among the most frequent neurological symptoms, there are  headaches, neuropathy, myalgia, encephalitis, encephalopathy,  etc. (130). 
+Other common symptoms are related to systemic inflam‑ mation responsible for the alteration of coagulative and  hematological parameters and for the so‑called ‘cytokine  storm’ observed in patients with COVID‑19 with severe  respiratory symptoms. In fact, inflammation leads to the  increase of fibrin/fibrinogen debris and D‑dimer associated  with coagulopathy. In rare cases, such alterations may induce  disseminated intravascular coagulopathy that requires antico‑ agulant prophylactic or curative treatments (131). In addition,  inflammation is also responsible for lymphopenia and T‑cell  exhaustion (132). Strictly related to these hematological altera‑ tions are cardiovascular disorders, such as acute myocardial  injury, coronary syndrome, cardiomyopathy, myocarditis,  arrhythmias, etc. (133). 
+Among gastrointestinal disorders, COVID‑19 infection  is responsible for nausea, vomiting, weight loss, anorexia and  more frequently, diarrhea. Among these symptoms, hepatic  manifestations mainly represented by increasing levels of  transaminases are also included (134). Finally, other symptoms  affect the kidneys, skin, endocrine system, etc. (135). 
+Overall, COVID‑19 symptoms are mild in 80‑90% of  positive individuals; however, a small fraction of patients  experiences severe symptoms that require hospitalization.  Approximately 5% of patients develop interstitial pneumonia  associated with respiratory failure, cytokine storm and multi‑ 
+organ failure that could lead to patient death (127,136). Therefore, the careful clinical evaluation of all these symp‑ toms, together with radiological and laboratory data, helps the  clinicians to correctly diagnose COVID‑19 infection, and thus  to the timely commencement of effective therapeutic proto‑ cols (24). 
+As already mentioned, radiological investigations help  clinicians to correctly diagnose COVID‑19 infection in the  case of a suspicious case of pneumonia. Among radiological  imaging techniques, chest X‑ray (CXR) and computed tomog‑ 
+raphy (CT) are the most powerful methods for the diagnosis of  COVID‑19 pneumonia (137,138). 
+CXR is usually used for the detection of pulmonary abnor‑ malities following lung injuries due to infectious or neoplastic  diseases (139). During the first phase of the COVID‑19  outbreak, CXR was widely used to detect multifocal opacities  affecting mainly lung interstitial space and alveoli in patients  with COVID‑19‑related symptomatology (140). In particular,  CXR is mainly adopted for patients suspected of COVID‑19  infection with moderate or severe symptomatology who  usually exhibit interstitial opacities (71.7%), or alveolar opaci‑ 
+ties (60.5%) frequently affecting both lungs (64.5%) (141).  These radiological findings become more severe over time  with the progression of symptoms and are mostly found in  elderly patients with previous pulmonary parenchyma altera‑ 
+tions (such as patients with chronic obstructive pulmonary  disease) who exhibit both bilateral interstitial and alveolar  opacities (142). 
+14 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+Despite the low cost and the rapid radiological findings  obtained through CRX, some pulmonary abnormalities are  not clearly detectable through this technique. Therefore,  besides CRX, CT scan is frequently adopted to better display  lung abnormalities mainly represented by bilateral interstitial  ground‑glass opacities (143). In particular, the CT scan has a  great resolution power with a sensitivity of ~95‑100%, although  the specificity is very low, as this method does not allow for  the discrimination of pulmonary alterations associated with  other etiological agents other than SARS‑CoV‑2 (144). 
+The CT scan has been demonstrated to be an important  technique for the diagnosis of asymptomatic patients with  COVID‑19 negative for molecular tests due to low viral  load (145,146). In fact, the CT scan is able to discriminate the  presence of morphological abnormalities in the lung already  during the early stages of infection; however, this technique  is not effective in correctly diagnosing a COVID‑19 infec‑ 
+tion characterized by the absence of respiratory symptoms or  where there is no involvement of the lung parenchyma (147).  Other limits of the CT scan are represented by the needs  of two radiologists' evaluations and the risk of cumulative  radiations. This latter issue is addressed through the use of  low‑dose CT scan or ultra‑low‑dose CT scan often used for  the long‑term monitoring of COVID‑19 patients with severe  respiratory symptoms (148). 
+Overall, the radiological hallmarks of COVID‑19 infection  are the bilateral interstitial ground‑glass opacities that may  also affect the peripheral areas and the alveolar parenchyma.  These alterations together with clinical symptoms, lead clini‑ 
+cians to perform a diagnosis of COVID‑19 infection. 
+Biosensor COVID‑19 testing techniques. To effectively  diagnose COVID‑19 infection rapidly and directly at the  point‑of‑care, several electrochemical biosensing systems  have been developed. These biosensor‑based tools use  the principle of impedance and electrochemical reactions  occurring when viral RNA or proteins bind specific probes  or antibodies. Different types of biosensor platforms are  currently available for the diagnosis of COVID‑19. These  include electrochemical biosensors, colorimetric biosensors,  fluorescence‑based biosensors, surface‑enhanced Raman scat‑ tering (SERS) biosensors, quartz crystal microbalance (QCM)  biosensors, localized surface plasmon resonance (LSPR) and  other platforms that ensure the accurate and fast detection of  SARS‑CoV‑2 particles (149‑152). 
+Among these platforms, the most commonly used are elec‑ trochemical biosensors and SERS adopted as point‑of‑care  platforms due to the limited size of instruments, the low cost  and the easy execution of the procedure (153). 
+Electrochemical biosensors can be used for the detection  of SARS‑CoV‑2 proteins or for the detection of viral RNA.  Seo et al (154) (2020) described an innovative biosensor for the  detection of a low concentration of SARS‑CoV‑2 spike protein  (LoD, 1 fg/ml) built with a graphene sensor with immobilized  anti‑SARS‑CoV‑2 spike antibodies. This type of field‑effect  transistor biosensor (FET) allowed the effective identification  of SARS‑CoV‑2 in different types of samples (PBS, transport  medium, viral culture medium, etc.) through the evaluation  of electrical performance after S protein‑antibody interaction  suggesting its application in clinical settings (154). 
+As regards electrochemical systems for viral RNA detec‑ tion, Zhao et al (155) (2020) developed an ultrasensitive  electrochemical biosensor built with calixarene functionalized  graphene oxide containing specific probes for SARS‑CoV‑2  RNA. This system allows the detection of viral RNA  without nucleic acid amplification systems through the use  of capture probes and label probes specific for SARS‑CoV‑2  RNA that through a calixarene substrate are able to detect  electrochemical mediators, including toluidine blue and gold  nanoparticles, generated by the binding between probes and  the viral RNA. The device is portable and the analysis of  data can be performed on smartphone apps as a point‑of‑care  testing (155). 
+Several other types of biosensors have been produced;  however, their detailed description is beyond the scope of  the present review. Overall, these biosensors exhibited a  sensitivity ranging from 86.43 to 93.75%, and a specificity of  90.63‑100% depending on the platform used (156). As already  mentioned, biosensors present several advantages mainly  represented by high sensitivity and specificity, low costs of  analysis, rapid execution time, the optimal LoD and the possi‑ bility of developing miniaturized platforms used directly in  the point‑of‑care. 
+Loop‑mediated isothermal amplification (LAMP) COVID‑19  testing methods. LAMP systems are among the most commonly  used alternative nucleic acid amplification methods for the  diagnosis of infectious diseases. These techniques are charac‑ 
+terized by an easy execution of the assay that does not require  specific equipment, a rapid and highly sensitive detection of  targets and an easy interpretation of results (157). As regards  SARS‑CoV‑2, several RT‑LAMP systems have been developed  for the effective detection of viral RNA, highlighting how  these methods can be coupled with other diagnostic techniques  including NGS, digital detection systems, biosensors, etc. (158). 
+The SARS‑CoV‑2 RT‑LAMP detection systems are based  on autocycling strand displacement DNA synthesis‑mediated  Bst DNA polymerase and six primers, which work at isothermal  temperatures ranging from 60 to 65˚C, thus avoiding the use of  a costly PCR thermocycler. RT‑LAMP amplification is able to  amplify RNA fragments up to 106‑109 copies in ~30‑60 min.  The final amplification products can be visualized by agarose  gel electrophoresis, by fluorescence labeling, turbidity, or colo‑ rimetry for an immediate readout of the data obtained and a  prompt diagnosis of COVID‑19 infection (Fig. 8). 
+Overall, SARS‑CoV‑2 RT‑LAMP tests have a high sensi‑ tivity and specificity and some of these have been approved  for diagnostic purposes by different national and international  agencies. Some studies have reported a sensitivity of ~100%  for the detection of ORF1ab SARS‑CoV‑2 gene, highlighting  a higher diagnostic accuracy compared to other validated  RT‑PCR diagnostic methods. In addition, the specificity rate  is higher than that obtained through RT‑PCR, as the use of  more than six primers in the RT‑LAMP ensures the correct  diagnosis of SARS‑CoV‑2 infection (25). 
+Among the most commonly used RT‑LAMP methods there  is The ID NOW™ COVID‑19 assay (Abbott Laboratories),  which has been approved by FDA with Emergency Use  Authorization (EUA). This RT‑LAMP‑based system ensures  high‑sensitive results in ~5 min through the identification of 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 15   Figure 8. Schematic workflow of nucleic acids isothermal amplification methods for the diagnosis of COVID‑19.
+the SARS‑CoV‑2 RdRp gene. Abbott ID NOW™ and other  similar systems represent effective point‑of‑care testing,  which have improved the management of COVID‑19 infection  thanks to their rapid results and limited costs (159). 
+Through the development of novel integrated diagnostic  tools, RT‑LAMP has been coupled with other diagnostic  systems improving their applicability in clinical settings. In  particular, Broughton et al (160) developed an RT‑LAMP  system combined with CRISPR/Cas12 lateral flow assay,  which ensures a better display of the results and a significant  reduction of the execution times. 
+Similarly, other LAMP systems have been combined with  recombinase polymerase amplification (RPA) techniques,  resulting in a high‑sensitive method termed as RAMP. In  particular, RAMP consists of two consecutive isothermal  enzymatic steps that are RPA and LAMP. Firstly, RPA is  performed at 37˚C for 20 min in order to amplify all viral  targets; subsequently, RPA amplicons are detected through  isothermal LAMP performed for 30 min at 65˚C. The ampli‑ fication data are finally displayed by using colorimetric dyes  or are monitored in real‑time by using intercalating fluores‑ 
+cent dyes, such as SYBR‑Green (161). At present, a RAMP  detection system is used in research contexts for the effective  detection of the SARS‑CoV‑2 ORF1ab gene with a sensitivity  of 100% (162). If adequately validated, both RT‑LAMP and  RAMP may represent an effective alternative to nucleic acid  amplification systems (163‑165). 
+CRISPR/Cas‑based COVID‑19 testing methods. The  CRISPR/Cas system is a bacterial nucleoprotein complex that  confers resistance to external plasmids or phages nucleic acids  acting as a type of prokaryotic immune system. The CRISPR/Cas  system has revolutionized the field of molecular biology allowing  
+the development of genome editing, a technology that has  received the Nobel Prize 2020 for Chemistry (166,167). The  applications and potentialities of CRISPR/Cas systems are  almost unlimited, ranging from genome editing to diagnostics  and from therapies to gene regulation (168). 
+As mentioned in above, CRISPR/Cas technology has  been used for the effective diagnosis of COVID‑19 associated  with LAMP isothermal amplification (169). The technology  behind the SARS‑CoV‑2 diagnostic CRISPR/Cas systems is  very simple and based on the use of CRISPR sequences with  guide RNAs (gRNAs) specific for SARS‑CoV‑2 viral RNA,  Cas nuclease proteins, target nucleic acid fragments and  fluorescent probes or colorimetric dyes. At present, two main  CRISPR/Cas technologies are used for the effective detection  of the viral genome, i.e., CRISPR/Cas13a and CRISPR/Cas12a  that are able to bind and cleave RNA and DNA targets, respec‑ tively. Other systems, not yet approved, but with a higher level  of accuracy, use also FnCas9 nuclease (170). 
+Following viral RNA extraction, the sample is retrotrans‑ cribed into cDNA using RT‑RPA or RT‑LAMP, as described in  above [please see section entitled ‘Loop‑mediated isothermal  amplification (LAMP) COVID‑19 testing methods’].  Subsequently, the obtained cDNA can be directly analyzed  through CRISPR/Cas12a detection system or can be tran‑ scribed into RNA using T7 transcriptase. In this latter case, the  RNA obtained is then processed through the CRISPR/Cas13a  nucleoprotein complex able to cleave labeled targeted viral  RNA, thus allowing the detection of a positive signal in case  of COVID‑19 infection. If the CRISPR/Cas12a detection  system is used, the double‑strand DNA bound by a probe  labeled with a fluorescent reporter and a quencher is cleaved  by Cas12a generating a readable signal. The data generated by  using both CRISPR/Cas13a or CRISPR/Cas12a systems can  
+16 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+  
+
+Figure 9. Schematic workflow of CRISPR/Cas‑based methods for the diagnosis of COVID‑19 infection. CRISPR/Cas12a systems effectively detect  SARS‑CoV‑2 viral RNA after cDNA synthesis through the recognition of a specific SARS‑CoV‑2 sequence that is cleaved by Cas12a activity resulting in  the collateral cleavage of fluorescent probes. In the same manner, CRISPR/Cas13a systems effectively detect SARS‑CoV‑2 RNA that is cleaved by Cas13a  activity resulting in the collateral cleavage of fluorescent probes. Apart from fluorescence, alternative detection methods are based on the use of colorimetric  dyes, electrophoresis gel and LFIA cartridge. CRISPR/Cas, clusters of regularly interspaced short palindromic repeats/Cas; LFIA, lateral flow immunoassay.
+be observed via different methods by using electrophoresis  gel, lateral flow strips or instruments able to detect real‑time  fluorescent signals occurring when probes are cleaved by Cas  proteins (159) (Fig. 9). 
+Some SARS‑CoV‑2 CRISPR/Cas detection systems have  been already approved by international agencies and can be  used as point‑of‑care testing due to their smart execution that  does not require specific laboratory equipment, the rapidity of  the procedure and the low cost of the assay (171). 
+Among the most commonly used systems, there is the  Sherlock™ CRISPR SARS‑CoV‑2 assay (Sherlock Biosciences)  that has been approved by the US FDA for emergency use. This  system based on Cas13a nuclease activity is composed of two  different stages. The first one is an RT‑LAMP, where viral  RNA is reverse transcribed into cDNA and amplified through a  strand‑displacing DNA polymerase (LAMP). The second step  consists of RNA transcription and collateral cleavage medi‑ ated by the CRISPR/Cas13a complex able to target a specific  SARS‑CoV‑2 sequence. The cleavage of SARS‑CoV‑2 RNA  results in a fluorescent signal easily detectable (172,173). This  system has exhibited a more rapid execution time compared  with RT‑PCR, with 100% sensitivity and specificity to correctly  diagnose COVID‑19 in clinical samples, a minimal footprint of  instruments and a LoD of 6.75 copies/µl (174). 
+Other CRISPR/Cas‑based systems have proven similar  accuracy. Hou et al (175) (2020) developed a CRISPR/Cas13a  system able to produce high‑sensitive results within 40min with  a LoD of 7.5 copies per reaction. Similarly, Curti et al (176)  (2020) developed an ultrasensitive, rapid, and portable  CRISPR/Cas12a‑based assay for the effective detection of  SARS‑CoV‑2 RNA demonstrating a LoD of 10 copies/µl. 
+Overa l l, as shown for RT‑LA M P met hods,  CRISPR/Cas‑based assays (176) represent a promising alter‑ native for the effective diagnosis of COVID‑19, ensuring high  sensitivity and specificity rates, and low costs of analysis. 
+Digital PCR COVID‑19 testing methods. Digital PCR  represents a technological evolution of the currently adopted  RT‑PCR methods (177). Digital PCR has been widely used for  different applications, including mutational analysis, viral load  
+detection, microbiological investigations, copy number variant  analysis, single‑cell analysis, analysis of liquid biopsy samples  and detection of low expressed targets (177‑183). 
+Different digital PCR platforms have been developed  by different companies. Among these, droplet digital PCR  (ddPCR) represents one of the most accurate systems currently  available for the effective detection of viral infections. Of note,  ddPCR (and other digital PCR systems in general) was initially  developed to find application in microbiological diagnostics,  especially in that of the virus, where it is of fundamental  importance to assess the viral load of an infected individual  in order to establish its contagiousness and prognosis (177).  Subsequently, ddPCR was applied to various clinical fields  and currently represents one of the most sensitive and accurate  methods for the diagnosis of numerous pathologies, including  COVID‑19 infection (178,184,185). 
+Of note, digital PCR uses the principles of the sample  micro‑partitions and DNA ultra‑dilutions performed on solid  supports or through the water‑oil emulsion of the reaction  mix. This latter example is the principle of ddPCR, where the  reaction mix is nano‑partitioned in >20,000 oil‑water droplets  containing the target nucleic acid, specific primers and probes,  Taq polymerase and the amplification buffer necessary for the  PCR amplification. The workflow is similar to that observed for  RT‑PCR; following sample collection, viral RNA is extracted  through custom or commercial protocols. Subsequently, viral  RNA can be directly processed in ddPCR by using one‑step  protocols or needs a previous RT step to obtain cDNA. The  ddPCR protocol consists of the preparation of the reaction mix  and the subsequent generation of oil‑water emulsion droplets  performed through specific cartridges and a droplet generator.  The thousands of droplets thus generated are subsequently  amplified through a classic RT‑PCR amplification protocol  which amplifies target DNA contained in each individual  droplet resulting in hundreds of separate amplification reac‑ tions in a single well. Finally, the amplified droplets are read  through a droplet reader which uses capillary tubes where the  droplets flow separately and are excited by a laser beam that  in case of positivity will generate a fluorescent emission signal  detected by a CCD camera (186) (Fig. 10). 
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 17   Figure 10. Schematic workflow of the ddPCR detection system. ddPCR, droplet digital PCR.
+As regards SARS‑CoV‑2 RNA detection, ddPCR ensures  a greater sensitivity, specificity and accuracy compared to  other molecular systems, including RT‑PCR (178,187). Indeed,  the elevated false‑negative rate and the lack of availability of  quantitative RT‑PCR methods significantly limit the diagnostic  potential of RT‑PCR. Conversely, ddPCR is able to accurately  assess SARS‑CoV‑2 viral load, thus allowing clinicians to  effectively diagnose COVID‑19 infection, particularly in  asymptomatic or paucisymptomatic patients (188). In addition,  ddPCR may be used for the monitoring of COVID‑19 patients,  thus allowing the discharge of patients who have resolved the  infection and to guarantee correct social isolation measures  useful for limiting the spread of infections (189). 
+Apart from the advantages in terms of sensitivity and  specificity, ddPCR has been proven to have a higher robustness  compared to RT‑PCR, also in terms of stability and reproduc‑ ibility of the method. Indeed, RT‑PCR efficiency is affected by  several pre‑analytical and analytical biases due to the source  of specimens, the storage of samples, the sampling timing, the  sampling modalities, the extraction protocols and the nucleic  acid quality (38,64). Conversely, ddPCR has exhibited a lower  LoD compared to RT‑PCR and it is also less susceptible to  PCR interferers (178,190). 
+The better accuracy of the ddPCR translates into the optimal  performance in terms of LoD. Indeed, in an experimental  setting ddPCR has an LoD of 2.1 and 1.8 copies/reaction for  ORF1ab and N SARS‑CoV‑2 genes, respectively, compared  to RT‑PCR, which has an LoD of 1,039 copies/reaction for  ORF1ab and 873.2 copies/reaction for N gene. Overall, ddPCR  has a 500‑fold greater sensitivity compared to RT‑PCR (188). 
+These data suggest how ddPCR may be considered a  turning point method for the effective diagnosis of COVID‑19  infection, due to its greater sensitivity, specificity and accuracy  compared to other existing molecular methods. 
+7. Conclusions 
+The COVID‑19 pandemic has highlighted the importance  of laboratory diagnostics in the management of a health  
+emergency that has deeply affected the social, economic  and health fabric of the entire world. At present, nucleic  acid amplification methods represent the gold standard  for the diagnosis of COVID‑19 infection with several  RT‑PCR‑based tests approved by different national and  international regulatory agencies. These tests, together with  clinical and radiological investigations, have significantly  improved the ability to correctly and rapidly diagnose  a COVID‑19 infection compared to the first diagnostic  methods mainly represented by viral culture analysis and  de novo sequencing of the SARS‑CoV‑2 genome. However,  despite the high sensitivity of RT‑PCR, patients with a  low viral load are not often correctly diagnosed. In addi‑ tion, this technique requires confirmatory analyses, trained  personnel and expensive instruments and reagents that limit  its application, especially in low‑income countries. For  these purposes, other methods have been developed to over‑ come the limitations of RT‑PCR. Among these methods,  CRISPR/Cas‑based assays and isothermal amplification  methods represent promising low‑cost diagnostic strategies  that can be used for the effective diagnosis of COVID‑19  infection in middle‑ and low‑income countries. Moreover,  more sensitive molecular methods, including ddPCR and  biosensors, are beginning to be approved by international  agencies and used for the diagnosis of COVID‑19 infection,  as well as for the monitoring of viral load in hospitalized  patients or quarantined individuals. 
+Apart from these widely used diagnostic strategies,  other techniques have been developed for the screening of  SARS‑CoV‑2 infection in the population or in high‑risk  environments, such as hospitals and schools. Among these,  rapid antigen and rapid antibody tests and immunoenzymatic  serological tests represent the most used techniques for  the monitoring of COVID‑19 infection spreading. Of note,  despite the low‑cost of such techniques, the low sensitivity  and specificity of LFIAs and ELISAs do not allow clinicians  to formulate a precise diagnosis of COVID‑19 infection that  should be confirmed with other techniques. However, the use  of such point‑of‑care testing made it possible to implement  
+18 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+effective health surveillance systems that allowed the effective  management of the COVID‑19 pandemic thus limiting the  number of infections. 
+At present, other techniques are essential for the genomic  surveillance of the pandemic. Indeed, NGS techniques and  SARS‑CoV‑2 whole‑genome sequencing are fundamental  for the precise characterization of novel genetic variants of  SARS‑CoV‑2. However, the high costs of these methods limit  their application in clinical practice. 
+Overall, in a short period of time, the scientific community  has developed several methods useful for correctly diagnosing  a suspected case of COVID‑19 infection. However, in order  to perform a correct diagnosis of COVID‑19, it is neces‑ 
+sary to take into account, not only the test to be used, but  also the patient's medical history, the time of the suspicious  SARS‑CoV‑2 exposure, the type of sample to be collected and  analyzed and how to interpret the result. Only by integrating  all these elements, it will be possible to formulate a correct  diagnosis of COVID‑19 infection and effectively manage the  COVID‑19 pandemic. 
+Acknowledgements 
+Not applicable. 
+Funding 
+No funding was received. 
+Availability of data and materials 
+The datasets used and/or analyzed during the current study are  available from the corresponding author on reasonable request.  The original contributions/references of studies presented in  the study are publicly available. These data can be found at:  www.pubmed.com and https://www.who.int. 
+Authors' contributions 
+LF, DAS and ML conceptualized the study. LF and GG wrote  and prepared the draft of the manuscript. AT, DAS and ML  provided critical revisions. LF and GG drew the figures and  prepare the tables. LF and ML confirm the authenticity of all  the raw data. All authors contributed to manuscript revision  and approved the final version of the manuscript. 
+Ethics approval and consent to participate 
+Not applicable. 
+Patient consent for publication 
+Not applicable. 
+Competing interests 
+DAS is the Editor‑in‑Chief for the journal, but had no personal  involvement in the reviewing process, or any influence in  terms of adjudicating on the final decision, for this article. The  other authors declare that they have no competing interests. 
+References 
+1. Bontempi E: The europe second wave of COVID‑19 infection  and the Italy ‘strange’ situation. Environ Res 193: 110476, 2021. 2. Cacciapaglia G, Cot C and Sannino F: Second wave COVID‑19  pandemics in Europe: A temporal playbook. Sci Rep 10: 15514, 2020. 3. COVID‑19 Dashboard by the Center for Systems Science  and Engineering (CSSE) Jonhs Hopkins University  (JHU). https://gisanddata.maps.arcgis.com/apps/ opsdashboard/index.html#/bda7594740fd40299423467b4 8e9ecf6. Accessed February 27, 2021. 
+4. Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A,  Lockhart S, Perez JL, Pérez Marc G, Moreira ED, Zerbini C, et al;  C4591001 Clinical Trial Group: Safety and Efficacy of the  BNT162b2 mRNA Covid‑19 Vaccine. N Engl J Med 383:  2603‑2615, 2020. 
+5. European Medicine Agency (EMA): COVID‑19 Vaccines.  https://www.ema.europa.eu/en/human-regulatory/overview/public‑ health‑threats/ coronavirus‑disease‑ covid‑19/treatments‑vaccines/ covid‑19‑vaccines. Accessed February 27 2021. 
+6. Dong E, Du H and Gardner L: An interactive web‑based  dashboard to track COVID‑19 in real time. Lancet Infect Dis 20:  533‑534, 2020. 
+7. Pullano G, Di Domenico L, Sabbatini CE, Valdano E,  Turbelin C, Debin M, Guerrisi C, Kengne‑Kuetche C, Souty C, Hanslik T, et al: Underdetection of cases of COVID‑19 in France  threatens epidemic control. Nature 590: 134‑139, 2021. 
+8. O'Dowd A: Covid‑19: Avoid indoor mixing over Christmas or  risk third wave, warns iSAGE. BMJ 371: m4832, 2020. 9. Farsalinos K, Poulas K, Kouretas D, Vantarakis A, Leotsinidis M,  Kouvelas D, Docea AO, Kostoff R, Gerotziafas GT, Antoniou MN, et al: Improved strategies to counter the COVID‑19 pandemic:  Lockdowns vs. primary and community healthcare. Toxicol  Rep 8: 1‑9, 2021. 
+10. Liu S and Pan C: Differentiating diagnosis of COVID‑19 or  influenza in patients based on laboratory data during flu season.  EClinicalMedicine 26: 100511, 2020. 
+11. García‑Basteiro AL, Chaccour C, Guinovart C, Llupià A, Brew J,  Trilla A and Plasencia A: Monitoring the COVID‑19 epidemic  in the context of widespread local transmission. Lancet Respir  Med 8: 440‑442, 2020. 
+12. Wu AHB: Screening the General Population for SARS‑CoV‑2  Virus and COVID‑19 Antibodies: A Counterargument. J Appl  Lab Med 5: 1107‑1110, 2020. 
+13. Rostami A, Sepidarkish M, Leeflang MMG, Riahi SM,  Nourollahpour Shiadeh M, Esfandyari S, Mokdad AH, Hotez PJ,  and Gasser RB: SARS‑CoV‑2 seroprevalence worldwide: a  systematic review and meta‑analysis. Clin Microbiol Infect 27:  331‑340, 2021. 
+14. Wells PM, Doores KJ, Couvreur S, Nunez RM, Seow J, Graham C, Acors S, Kouphou N, Neil SJD, Tedder RS, et al: Estimates of  the rate of infection and asymptomatic COVID‑19 disease in a  population sample from SE England. J Infect 81: 931‑936, 2020. 
+15. Ji T, Liu Z, Wang G, Guo X, Akbar Khan S, Lai C, Chen H,  Huang S, Xia S, Chen B, et al: Detection of COVID‑19: A  review of the current literature and future perspectives. Biosens  Bioelectron 166: 112455, 2020. 
+16. Sanyaolu A, Okorie C, Marinkovic A, Ayodele O, Abbasi AF,  Prakash S, Ahmed M, Kayode D, Jaferi U and Haider N:  Navigating the diagnostics of COVID‑19. SN Compr Clin Med:  Jul 25, 2020 (Epub ahead of print). 
+17. European Commission (EC): Current performance of COVID‑19  test methods and devices and proposed performance criteria. EC, Brussels, 2020. https://ec.europa.eu/docsroom/documents/40805.  Accessed January 2, 2021. 
+18. Taleghani N and Taghipour F: Diagnosis of COVID‑19 for  controlling the pandemic: A review of the state‑of‑the‑art.  Biosens Bioelectron 174: 112830, 2021. 
+19. Jung J, Jang H, Kim HK, Kim J, Kim A and Ko KP: The  Importance of Mandatory COVID‑19 Diagnostic Testing Prior  to Release from Quarantine. J Korean Med Sci 35: e314, 2020. 
+20. Winter AK and Hegde ST: The important role of serology for  COVID‑19 control. Lancet Infect Dis 20: 758‑759, 2020. 21. Vandenberg O, Martiny D, Rochas O, van Belkum A and  Kozlakidis Z: Considerations for diagnostic COVID‑19 tests. Nat  Rev Microbiol 19: 171‑183, 2021. 
+22. Tromberg BJ, Schwetz TA, Pérez‑Stable EJ, Hodes RJ,  Woychik RP, Bright RA, Fleurence RL and Collins FS: Rapid  scaling up of Covid‑19 diagnostic testing in the United States‑ The  NIH RADx Initiative. N Engl J Med 383: 1071‑1077, 2020.
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 19 
+23. Guglielmi G: The explosion of new coronavirus tests that could  help to end the pandemic. Nature 583: 506‑509, 2020. 24. Tsatsakis A, Calina D, Falzone L, Petrakis D, Mitrut R, Siokas V,  Pennisi M, Lanza G, Libra M, Doukas SG, et al: SARS‑CoV‑2  pathophysiology and its clinical implications: An integrative  overview of the pharmacotherapeutic management of COVID‑19.  Food Chem Toxicol 146: 111769, 2020. 
+25. Alpdagtas S, Ilhan E, Uysal E, Sengor M, Ustundag CB and  Gunduz O: Evaluation of current diagnostic methods for  COVID‑19. APL Bioeng 4: 041506, 2020. 
+26. Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, Hu Y,  Tao ZW, Tian JH, Pei YY, et al: A new coronavirus associated  with human respiratory disease in China. Nature 579: 265‑269,  2020. Erratum in: Nature 580: E7, 2020. 
+27. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X,  Huang B, Shi W, Lu R, et al; China novel coronavirus investi‑ gating and research team: a novel coronavirus from patients with  pneumonia in China, 2019. N Engl J Med 382: 727‑733, 2020. 
+28. Kumar R, Nagpal S, Kaushik S and Mendiratta S: COVID‑19  diagnostic approaches: Different roads to the same destination.  Virusdisease 31: 97‑105, 2020. 
+29. Brun AL, Gence‑Breney A, Trichereau J, Ballester MC, Vasse M,  Chabi ML, Mellot F and Grenier PA: COVID‑19 pneumonia:  High diagnostic accuracy of chest CT in patients with inter‑ mediate clinical probability. Eur Radiol 31: 1969‑1977, 2021. 
+30. Martinez RM: Clinical samples for SARS‑CoV‑2 detection: Review  of the early literature. Clin Microbiol Newsl 42: 121‑127, 2020. 31. Rao GG, Agarwal A and Batura D: Testing times in Coronavirus  
+disease (COVID‑19): A tale of two nations. Med J Armed Forces  India 76: 243‑249, 2020. 
+32. Jarvis KF and Kelley JB: Temporal dynamics of viral load and false  negative rate influence the levels of testing necessary to combat  COVID19 spread. medRxiv: doi: 10.1101/2020.08.12.20173831. 
+33. Rode OĐ, Kurolt IC, Puljiz I, Čivljak R, Balent NC, Laškaj R,  Tiljak MK, Mikulić R and Markotić A: Antibody response and  the clinical presentation of patients with COVID‑19 in Croatia:  The importance of a two‑step testing approach. Eur J Clin  Microbiol Infect Dis 40: 261‑268, 2021. 
+34. Bisoffi Z, Pomari E, Deiana M, Piubelli C, Ronzoni N, BeltrameA,  Bertoli G, Riccardi N, Perandin F, Formenti F, et al: Sensitivity,  specificity and predictive values of molecular and serological  tests for COVID‑19: a longitudinal study in emergency room.  Diagnostics (Basel) 10: 669, 2020. 
+35. Krajewski R, Gołębiowska J, Makuch S, Mazur G and Agrawal S:  Update on serologic testing in COVID‑19. Clin Chim Acta 510:  746‑750, 2020. 
+36. Guo L, Ren L, Yang S, Xiao M, Chang D, Yang F, Dela Cruz CS,  Wang Y, Wu C, Xiao Y, et al: Profiling early humoral response  to diagnose novel coronavirus disease (COVID‑19). Clin Infect  Dis 71: 778‑785, 2020. 
+37. Chirumbolo S: Swabbing Thoroughly People for COVID‑19  Positivity. Insights on the Main Bio‑analytical and Microbiology  Bias and Concerns. Curr Microbiol 77: 3680‑3684, 2020. 
+38. Lippi G, Simundic AM and Plebani M: Potential preanalytical  and analytical vulnerabilities in the laboratory diagnosis of  coronavirus disease 2019 (COVID‑19). Clin Chem Lab Med 58:  1070‑1076, 2020. 
+39. Ora J, Puxeddu E, Cavalli F, Giorgino FM, Girolami A,  Chiocchi M, Sergiacomi G, Federici M and Rogliani P: Does bronchoscopy help the diagnosis in COVID‑19 infection? Eur  Respir J 56: 2001619, 2020. 
+40. Tong Y, Bao A, Chen H, Huang J, Lv Z, Feng L, Cheng Y, Wang Y,  Bai L, Rao W, et al: Necessity for detection of SARS‑CoV‑2 RNA  in multiple types of specimens for the discharge of the patients  with COVID‑19. J Transl Med 18: 411, 2020. 
+41. McFee DRB: COVID‑19 Laboratory Testing/CDC Guidelines.  Dis Mon 66: 101067, 2020. 
+42. Fu Y, Li Y, Guo E, He L, Liu J, Yang B, Li F, Wang Z, Li Y,  Xiao R, et al: Dynamics and correlation among viral positivity,  seroconversion, and disease severity in COVID‑19: a retro‑ spective study. Ann Intern Med 8: M20‑M3337, 2020. 
+43. Mesoraca A, Margiotti K, Viola A, Cima A, Sparacino D and  Giorlandino C: Evaluation of SARS‑CoV‑2 viral RNA in fecal  samples. Virol J 17: 86, 2020. 
+44. Ng SC and Tilg H: COVID‑19 and the gastrointestinal tract:  More than meets the eye. Gut 69: 973‑974, 2020. 
+45. Long DR, Gombar S, Hogan CA, Greninger AL, O'Reilly‑Shah V,  Bryson‑Cahn C, Stevens B, Rustagi A, Jerome KR, Kong CS, et al: Occurrence and timing of subsequent severe acute respiratory  syndrome coronavirus 2 reverse‑transcription polymerase chain  reaction positivity among initially negative patients. Clin Infect  Dis 72: 323‑326, 2021. 
+46. Mahendiratta S, Batra G, Sarma P, Kumar H, Bansal S, Kumar S,  Prakash A, Sehgal R and Medhi B: Molecular diagnosis of  COVID‑19 in different biologic matrix, their diagnostic validity and  clinical relevance: A systematic review. Life Sci 258: 118207, 2020. 
+47. da Silva SJR, Silva CTAD, Guarines KM, Mendes RPG,  Pardee K, Kohl A and Pena L: Clinical and Laboratory Diagnosis  of SARS‑CoV‑2, the Virus Causing COVID‑19. ACS Infect  Dis 6: 2319‑2336, 2020. 
+48. Li D, Zhang J and Li J: Primer design for quantitative  real‑time PCR for the emerging Coronavirus SARS‑CoV‑2.  Theranostics 10: 7150‑7162, 2020. 
+49. Chan JF, Kok KH, Zhu Z, Chu H, To KK, Yuan S and Yuen KY:  Genomic characterization of the 2019 novel human‑pathogenic  coronavirus isolated from a patient with atypical pneumonia  after visiting Wuhan. Emerg Microbes Infect 9: 221‑236, 2020. 
+50. Centers for Disease Control and Prevention (CDC):  CDC's Diagnostic Test for COVID‑19 Only and Supplies.  https://www.cdc.gov/coronavirus/2019‑ncov/lab/virus‑requests. html. Accessed January 5, 2021. 
+51. Centers for Disease Control and Prevention (CDC):  Research Use Only 2019‑Novel Coronavirus (2019‑nCoV)  Real‑time RT‑PCR Primers and Probes. https://www.cdc. gov/coronavirus/2019‑ncov/lab/rt‑pcr‑panel‑primer‑probes.html.  Accessed January 5, 2021. 
+52. Dorlass EG, Monteiro CO, Viana AO, Soares CP, Machado RRG,  Thomazelli LM, Araujo DB, Leal FB, Candido ED, Telezynski BL, et al: Lower cost alternatives for molecular  diagnosis of COVID‑19: Conventional RT‑PCR and SYBR  Green‑based RT‑qPCR. Braz J Microbiol 51: 1117‑1123, 2020. 
+53. Neilan AM, Losina E, Bangs AC, Flanagan C, Panella C,  Eskibozkurt GE, Mohareb A, Hyle EP, Scott JA,  WeinsteinMC,etal: Clinical Impact, Costs, and Cost‑Effectiveness  of Expanded SARS‑CoV‑2 Testing in Massachusetts. Clin Infect  Dis: Sep 18, 2020 (Epub ahead of print). 
+54. Smyrlaki I, Ekman M, Lentini A, Rufino de Sousa N,  Papanicolaou N, Vondracek M, Aarum J, Safari H, Muradrasoli S,  Rothfuchs AG, et al: Massive and rapid COVID‑19 testing  is feasible by extraction‑free SARS‑CoV‑2 RT‑PCR. Nat  Commun 11: 4812, 2020. 
+55. U.S Food & Drug: COVID‑19 tests and collection kits authorized  by the FDA in 2020: Infographic. https://www.fda.gov/ medical‑devices/coronavirus‑covid‑19‑and‑medical‑devices/covi d‑19‑tests‑and‑collection‑kits‑authorized‑fda‑2020‑infographic.  Accessed January 8, 2021). 
+56. Fomsgaard AS and Rosenstierne MW: An alternative workflow  for molecular detection of SARS‑CoV‑2 ‑ escape from the NA  extraction kit‑shortage, Copenhagen, Denmark, March 2020.  Euro Surveill 25: 2000398, 2020. 
+57. Udugama B, Kadhiresan P, Kozlowski HN, Malekjahani A,  Osborne M, Li VYC, Chen H, Mubareka S, Gubbay JB and  Chan WCW: Diagnosing COVID‑19: The Disease and Tools for  Detection. ACS Nano 14: 3822‑3835, 2020. 
+58. Ravi N, Cortade DL, Ng E and Wang SX: Diagnostics for  SARS‑CoV‑2 detection: A comprehensive review of the FDA‑EUA  COVID‑19 testing landscape. Biosens Bioelectron 165: 112454,  2020. 
+59. Wells CR, Townsend JP, Pandey A, Moghadas SM, Krieger G,  Singer B, McDonald RH, Fitzpatrick MC and Galvani AP:  Optimal COVID‑19 quarantine and testing strategies. Nat  Commun 12: 356, 2021. 
+60. Bustin SA and Nolan T: RT‑qPCR Testing of SARS‑CoV‑2:  A Primer. Int J Mol Sci 21: 3004, 2020. 
+61. Böger B, Fachi MM, Vilhena RO, Cobre AF, Tonin FS and  Pontarolo R: Systematic review with meta‑analysis of the  accuracy of diagnostic tests for COVID‑19. Am J Infect  Control 49: 21‑29, 2021. 
+62. Kucirka LM, Lauer SA, Laeyendecker O, Boon D and Lessler J:  Variation in false‑negative rate of reverse transcriptase poly‑ merase chain reaction‑based SARS‑CoV‑2 tests by time since  exposure. Ann Intern Med 173: 262‑267, 2020. 
+63. Afzal A: Molecular diagnostic technologies for COVID‑19:  Limitations and challenges. J Adv Res 26: 149‑159, 2020. 64. Tahamtan A and Ardebili A: Real‑time RT‑PCR in COVID‑19  detection: Issues affecting the results. Expert Rev Mol Diagn 20:  453‑454, 2020. 
+65. Pan Y, Long L, Zhang D, Yuan T, Cui S, Yang P, Wang Q and  Ren S: Potential false‑negative nucleic acid testing results for  severe acute respiratory syndrome coronavirus 2 from thermal  inactivation of samples with low viral loads. Clin Chem 66:  794‑801, 2020.
+20 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+66. Li Y, Yao L, Li J, Chen L, Song Y, Cai Z and Yang C: Stability  issues of RT‑PCR testing of SARS‑CoV‑2 for hospitalized  patients clinically diagnosed with COVID‑19. J Med Virol 92:  903‑908, 2020. 
+67. World Health Organization (WHO): Recommendations for labo‑ ratories testing by PCR for presence of SARS coronavirus‑RNA,  WHO, Geneva, 2020. https://www.who.int/csr/sars/coronarec‑ ommendations/en/. Accessed January 26, 2021). 
+68. Cerutti F, Burdino E, Milia MG, Allice T, Gregori G, Bruzzone B  and Ghisetti V: Urgent need of rapid tests for SARS CoV‑2  antigen detection: Evaluation of the SD‑Biosensor antigen test  for SARS‑CoV‑2. J Clin Virol 132: 104654, 2020. 
+69. Olalekan A, Iwalokun B, Akinloye OM, Popoola O, Samuel TA  and Akinloye O: COVID‑19 rapid diagnostic test could contain  transmission in low‑ and middle‑income countries. Afr J Lab  Med 9: 1255, 2020. 
+70. Augustine R, Das S, Hasan A, S A, Abdul Salam S, Augustine P,  Dalvi YB, Varghese R, Primavera R, Yassine HM, et al: Rapid  antibody‑based COVID‑19 mass surveillance: relevance, chal‑ lenges, and prospects in a pandemic and post‑pandemic world.  J Clin Med 9: 3372, 2020. 
+71. Albert E, Torres I, Bueno F, Huntley D, Molla E,  Fernández‑Fuentes MÁ, Martínez M, Poujois S, Forqué L,  Valdivia A, et al: Field evaluation of a rapid antigen test (Panbio™  COVID‑19 Ag Rapid Test Device) for COVID‑19 diagnosis  in primary healthcare centres. Clin Microbiol Infect 27: 472. 
+e7‑472.e10, 2021. 
+72. Pilarowski G, Lebel P, Sunshine S, Liu J, Crawford E, Marquez C,  Rubio L, Chamie G, Martinez J, Peng J, et al: Performance  characteristics of a rapid SARS‑CoV‑2 antigen detection assay  at a public plaza testing site in San Francisco. J Infect Dis: Jan 4,  2021 (Epub ahead of print). 
+73. Lee JH, Choi M, Jung Y, Lee SK, Lee CS, Kim J, Kim J, Kim NH,  Kim BT and Kim HG: A novel rapid detection for SARS‑CoV‑2  spike 1 antigens using human angiotensin converting enzyme 2  (ACE2). Biosens Bioelectron 171: 112715, 2021. 
+74. Diao B, Wen K, Zhang J, Chen J, Han C, Chen Y, Wang S,  Deng G, Zhou H and Wu Y: Accuracy of a nucleocapsid protein  antigen rapid test in the diagnosis of SARS‑CoV‑2 infection. Clin  Microbiol Infect 27: 289.e1‑289.e4, 2021. 
+75. Carter LJ, Garner LV, Smoot JW, Li Y, Zhou Q, Saveson CJ,  Sasso JM, Gregg AC, Soares DJ, Beskid TR, et al: Assay  Techniques and Test Development for COVID‑19 Diagnosis.  ACS Cent Sci 6: 591‑605, 2020. 
+76. Huang C, Wen T, Shi FJ, Zeng XY and Jiao YJ: Rapid detection  of igm antibodies against the SARS‑CoV‑2 virus via colloidal  gold nanoparticle‑based lateral‑flow assay. ACS Omega 5:  12550‑12556, 2020. 
+77. Mak GC, Cheng PK, Lau SS, Wong KK, Lau CS, Lam ET,  Chan RC and Tsang DN: Evaluation of rapid antigen test for  detection of SARS‑CoV‑2 virus. J Clin Virol 129: 104500,  2020. 
+78. Lanser L, Bellmann‑Weiler R, Öttl KW, Huber L, Griesmacher A,  Theurl I and Weiss G: Evaluating the clinical utility and sensi‑ tivity of SARS‑CoV‑2 antigen testing in relation to RT‑PCR Ct  values. Infection 13: 1‑3, 2020. 
+79. Dinnes J, Deeks JJ, Adriano A, Berhane S, Davenport C,  Dittrich S, Emperador D, Takwoingi Y, Cunningham J,  Beese S, et al; Cochrane COVID‑19 Diagnostic Test Accuracy  Group: Rapid, point‑of‑care antigen and molecular‑based tests  for diagnosis of SARS‑CoV‑2 infection. Cochrane Database Syst  Rev 8: CD013705, 2020. 
+80. Montesinos I, Gruson D, Kabamba B, Dahma H, Van den  Wijngaert S, Reza S, Carbone V, Vandenberg O, Gulbis B,  Wolff F, et al: Evaluation of two automated and three rapid  lateral flow immunoassays for the detection of anti‑SARS‑CoV‑2  antibodies. J Clin Virol 128: 104413, 2020. 
+81. Prazuck T, Colin M, Giachè S, Gubavu C, Seve A, Rzepecki V,  Chevereau‑Choquet M, Kiani C, Rodot V, Lionnet E, et al: Evaluation of performance of two SARS‑CoV‑2 Rapid IgM‑IgG  combined antibody tests on capillary whole blood samples from  the fingertip. PLoS One 15: e0237694, 2020. 
+82. Jacobs J, Kühne V, Lunguya O, Affolabi D, Hardy L and  Vandenberg O: Implementing COVID‑19 (SARS‑CoV‑2) rapid  diagnostic tests in Sub‑Saharan Africa: a review. Front Med  (Lausanne) 7: 557797, 2020. 
+83. La Rosa Fabián C and Urquizo Briceño L: Anti‑SARS‑Cov‑2  IgA in Current Scenario of IgM and IgG Rapid Test: A New  Alternative for the Diagnostic of COVID‑19. SN Compr Clin  Med 26: 1‑3, 2020. 
+84.Canetti D, Dell'Acqua R, Riccardi N, Della Torre L, Bigoloni A,  Muccini C, Bruzzesi E, Ranzenigo M, Chiurlo M, Racca S, et al:  SARS‑CoV‑2 IgG/IgM Rapid Test as a Diagnostic Tool in  Hospitalized Patients and Healthcare Workers, at a large  Teaching Hospital in northern Italy, during the 2020 COVID‑19  Pandemic. New Microbiol 43: 161‑165, 2020. 
+85.Alhajj M and Farhana A: Enzyme Linked Immunosorbent  Assay. In: StatPearls. StatPearls Publishing, Treasure Island,  FL, 2020. 
+86.Tré‑Hardy M, Wilmet A, Beukinga I, Favresse J, Dogné JM,  Douxfils J and Blairon L: Analytical and clinical validation of  an ELISA for specific SARS‑CoV‑2 IgG, IgA, and IgM anti‑ bodies. J Med Virol 93: 803‑811, 2021. 
+87. Freeman B, Lester S, Mills L, Rasheed MAU, Moye S,  Abiona O, Hutchinson GB, Morales‑Betoulle M, Krapinunaya I,  Gibbons A, et al: Validation of a SARS‑CoV‑2 spike protein  ELISA for use in contact investigations and serosurveillance.  bioRxiv: doi: 10.1101/2020.04.24.057323. 
+88.Korth J, Wilde B, Dolff S, Anastasiou OE, Krawczyk A,  Jahn M, Cordes S, Ross B, Esser S, Lindemann M, et al:  SARS‑CoV‑2‑specific antibody detection in healthcare workers  in Germany with direct contact to COVID‑19 patients. J Clin  Virol 128: 104437, 2020. 
+89.Alharbi SA, Almutairi AZ, Jan AA and Alkhalify AM:  Enzyme‑linked immunosorbent assay for the detection of  severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2)  IgM/IgA and IgG antibodies among healthcare workers.  Cureus 12: e10285, 2020. 
+90. Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA,  Baysson H, De Ridder D, Petrovic D, Schrempft S, Marcus K, et al: Seroprevalence of anti‑SARS‑CoV‑2 IgG antibodies in  Geneva, Switzerland (SEROCoV‑POP): A population‑based  study. Lancet 396: 313‑319, 2020. 
+91.Vashist SK: In vitro diagnostic assays for COVID‑19: recent  advances and emerging trends. Diagnostics (Basel) 10: 202,  2020. 
+92. Tanaka Y, Kamimura K, Nakamura R, Ohkoshi‑Yamada M,  Koseki Y, Mizusawa T, Ikarashi S, Hayashi K, Sato H,  Sakamaki A, et al: Usefulness of ultrasonography to assess the  response to steroidal therapy for the rare case of type 2b immuno‑ 
+globulin G4‑related sclerosing cholangitis without pancreatitis:  A case report. World J Clin Cases 8: 5821‑5830, 2020. 93.AvŞar T, ÇaliŞ Ş, Yilmaz B, Demİrcİ OtluoĞlu G, Holyavkİn C  and KiliÇ T: Genome‑wide identification of Chiari malformation  type I associated candidate genes and chromosomal variations.  Turk J Biol 44: 449‑456, 2020. 
+94.La Marca A, Capuzzo M, Paglia T, Roli L, Trenti T and  Nelson SM: Testing for SARS‑CoV‑2 (COVID‑19): A systematic  review and clinical guide to molecular and serological in‑vitro  diagnostic assays. Reprod Biomed Online 41: 483‑499, 2020. 
+95. Sheikhzadeh E, Eissa S, Ismail A and Zourob M: Diagnostic  techniques for COVID‑19 and new developments. Talanta 220:  121392, 2020. 
+96.Zhu N, Wang W, Liu Z, Liang C, Wang W, Ye F, Huang B,  Zhao L, Wang H, Zhou W, et al: Morphogenesis and cytopathic  effect of SARS‑CoV‑2 infection in human airway epithelial  cells. Nat Commun 11: 3910, 2020. 
+97.Leland DS and Ginocchio CC: Role of cell culture for virus  detection in the age of technology. Clin Microbiol Rev 20:  49‑78, 2007. 
+98.Jain R, Sarkale P, Mali D, Shete AM, Patil DY, Majumdar T,  Suryawanshi A, Patil S, Mohandas S and Yadav PD: Inactivation  of SARS‑CoV‑2 by gamma irradiation. Indian J Med Res:  Nov 27, 2020 (Epub ahead of print). 
+99. Park WB, Kwon NJ, Choi SJ, Kang CK, Choe PG, Kim JY,  Yun J, Lee GW, Seong MW, Kim NJ, et al: Virus Isolation from  the First Patient with SARS‑CoV‑2 in Korea. J Korean Med  Sci 35: e84, 2020. 
+100.Zhao J, Zhou H, Huang W, Zhou J, Qiu M, Deng Z, Chen L,  Weng Y, Cai L, Gu Y, et al: Cell morphological analysis of  SARS‑CoV‑2 infection by transmission electron microscopy.  J Thorac Dis 12: 4368‑4373, 2020. 
+101.Akilesh S, Nicosia RF, Alpers CE, Tretiakova M, Hsiang TY,  Gale M Jr and Smith KD: Characterizing viral infection by  electron microscopy: lessons from the coronavirus disease 2019  pandemic. Am J Pathol 191: 222‑227, 2021. 
+102.Goldsmith CS, Tatti KM, Ksiazek TG, Rollin PE, Comer JA,  Lee WW, Rota PA, Bankamp B, Bellini WJ and Zaki SR:  Ultrastructural characterization of SARS coronavirus. Emerg  Infect Dis 10: 320‑326, 2004.
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 21 
+103.Bain W, Lee JS, Watson AM and Stitt‑Fischer MS: Practical  guidelines for collection, manipulation and inactivation of  SARS‑CoV‑2 and COVID‑19 clinical specimens. Curr Protoc  Cytom 93: e77, 2020. 
+104.Wu SY, Yau HS, Yu MY, Tsang HF, Chan LWC, Cho WCS,  Shing Yu AC, Yuen Yim AK, Li MJW, Wong YKE, et al: The  diagnostic methods in the COVID‑19 pandemic, today and in  the future. Expert Rev Mol Diagn 20: 985‑993, 2020. 
+105.Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, Xing F,  Liu J, Yip CC, Poon RW, et al: A familial cluster of pneumonia  associated with the 2019 novel coronavirus indicating  person‑to‑person transmission: A study of a family cluster.  Lancet 395: 514‑523, 2020. 
+106.Wang M, Fu A, Hu B, Tong Y, Liu R, Liu Z, Gu J, Xiang B, Liu J,  Jiang W, et al: Nanopore targeted sequencing for the accurate  and comprehensive detection of SARS‑CoV‑2 and other respi‑ ratory viruses. Small 16: e2002169, 2020. 
+107.Addetia A, Xie H, Roychoudhury P, Shrestha L, Loprieno M,  Huang ML, Jerome KR and Greninger AL: Identification of  multiple large deletions in ORF7a resulting in in‑frame gene  fusions in clinical SARS‑CoV‑2 isolates. J Clin Virol 129:  104523, 2020. 
+108.Di Giallonardo F, Duchene S, Puglia I, Curini V, Profeta F,  Cammà C, Marcacci M, Calistri P, Holmes EC and Lorusso A:  Genomic Epidemiology of the First Wave of SARS‑CoV‑2 in  Italy. Viruses 12: 1438, 2020. 
+109.Moore SC, Penrice‑Randal R, Alruwaili M, Randle N,  Armstrong S, Hartley C, Haldenby S, Dong X, Alrezaihi A,  Almsaud M, et al: Amplicon‑Based Detection and Sequencing  of SARS‑CoV‑2 in Nasopharyngeal Swabs from Patients With  COVID‑19 and Identification of Deletions in the Viral Genome  That Encode Proteins Involved in Interferon Antagonism.  Viruses 12: 1164, 2020. 
+110. Kames J, Holcomb DD, Kimchi O, DiCuccio M,  Hamasaki‑Katagiri N, Wang T, Komar AA, Alexaki A and  Kimchi‑Sarfaty C: Sequence analysis of SARS‑CoV‑2 genome  reveals features important for vaccine design. Sci Rep 10: 15643,  2020. 
+111. Conti P, Caraffa A, Gallenga CE, Kritas SK, Frydas I, Younes A,  Di Emidio P, Tetè G, Pregliasco F and Ronconi G: The British  variant of the new coronavirus‑19 (Sars‑Cov‑2) should not create  a vaccine problem. J Biol Regul Homeost Agents 35: 1‑4, 2021. 
+112. Hourdel V, Kwasiborski A, Balière C, Matheus S, Batéjat CF,  Manuguerra JC, Vanhomwegen J and Caro V: rapid genomic  characterization of SARS‑CoV‑2 by direct amplicon‑based  sequencing through comparison of MinION and Illumina  iSeq100TM system. Front Microbiol 11: 571328, 2020. 
+113.illumina: Comprehensive Workflow for Detecting  Coronavirus Using Illumina Benchtop Systems ‑ A Shotgun  Metagenomics Sequencing Workflow for Effective Detection  and Characterization of Coronavirus Strains. https://www. 
+illumina.com/content/dam/illumina-marketing/documents/ products/appnotes/ngs-coronavirus-app-note-1270-2020-001. pdf. Accessed January 20, 2021. 
+114. Oxford Nanopore Technologies: MinION ‑ Powerful, real‑time,  long‑read sequencing in the palm of your hand. https:// nanoporetech.com/sites/default/files/s3/literature/MinION-Mk1C brochure.pdf. Accessed January 20, 2021. 
+115. Meredith LW, Hamilton WL, Warne B, Houldcroft CJ,  Hosmillo M, Jahun AS, Curran MD, Parmar S, Caller LG,  Caddy SL, et al: Rapid implementation of SARS‑CoV‑2  sequencing to investigate cases of health‑care associated  COVID‑19: A prospective genomic surveillance study. Lancet  Infect Dis 20: 1263‑1271, 2020. 
+116. Wen F, Yu H, Guo J, Li Y, Luo K and Huang S: Identification  of the hyper‑variable genomic hotspot for the novel coronavirus  SARS‑CoV‑2. J Infect 80: 671‑693, 2020. 
+117. Lam TT: Tracking the Genomic Footprints of SARS‑CoV‑2  Transmission. Trends Genet 36: 544‑546, 2020. 
+118. Landete P, Quezada Loaiza CA, Aldave‑Orzaiz B, Muñiz SH,  Maldonado A, Zamora E, Sam Cerna AC, Del Cerro E, Alonso  RC and Couñago F: Clinical features and radiological manifes‑ tations of COVID‑19 disease. World J Radiol 12: 247‑260, 2020. 
+119. Chen H, Ai L, Lu H and Li H: Clinical and imaging features of  COVID‑19. Radiol Infect Dis 7: 43‑50, 2020. 
+120.Al‑Qahtani M, AlAli S, AbdulRahman A, Salman Alsayyad A,  Otoom S and Atkin SL: The prevalence of asymptomatic and  symptomatic COVID‑19 in a cohort of quarantined subjects. Int  J Infect Dis 102: 285‑288, 2021. 
+121.Yanes‑Lane M, Winters N, Fregonese F, Bastos M,  Perlman‑Arrow S, Campbell JR and Menzies D: Proportion  of asymptomatic infection among COVID‑19 positive persons  and their transmission potential: A systematic review and  meta‑analysis. PLoS One 15: e0241536, 2020. 
+122.Katopodis P, Kerslake R, Davies J, Randeva HS, Chatha K,  Hall M, Spandidos DA, Anikin V, Polychronis A,  Robertus JL, et al: COVID 19 and SARS CoV 2 host cell entry  mediators: Expression profiling of TMRSS4 in health and  disease. Int J Mol Med 47: 64, 2021. 
+123.Vivarelli S, Falzone L, Torino F, Scandurra G, Russo G,  Bordonaro R, Pappalardo F, Spandidos DA, Raciti G and  Libra M: Immune-checkpoint inhibitors from cancer to  COVID‑19: A promising avenue for the treatment of patients  with COVID‑19 (Review). Int J Oncol 58: 145‑157, 2021. 
+124.Vivarelli S, Falzone L, Grillo CM, Scandurra G, Torino F and  Libra M: Cancer Management during COVID‑19 Pandemic: Is  Immune Checkpoint Inhibitors‑Based Immunotherapy Harmful  or Beneficial? Cancers (Basel) 12: 2237, 2020. 
+125.Abdi A, Jalilian M, Sarbarzeh PA and Vlaisavljevic Z: Diabetes  and COVID‑19: A systematic review on the current evidences.  Diabetes Res Clin Pract 166: 108347, 2020. 
+126.Huang S, Wang J, Liu F, Liu J, Cao G, Yang C, Liu W, Tu C,  Zhu M and Xiong B: COVID‑19 patients with hypertension have  more severe disease: A multicenter retrospective observational  study. Hypertens Res 43: 824‑831, 2020. 
+127. Pascarella G, Strumia A, Piliego C, Bruno F, Del Buono R,  Costa F, Scarlata S and Agrò FE: COVID‑19 diagnosis and  management: A comprehensive review. J Intern Med 288:  192‑206, 2020. 
+128.La Torre G, Massetti AP, Antonelli G, Fimiani C, Fantini M,  Marte M, Faticoni A, Previte CM, Turriziani O, Pugliese F, et al;  Covid‑Sapienza Collaborative Group: Anosmia and Ageusia as  Predictive Signs of COVID‑19 in Healthcare Workers in Italy:  A Prospective Case‑Control Study. J Clin Med 9: 2870, 2020. 
+129.Tanasa IA, Manciuc C, Carauleanu A, Navolan DB, Bohiltea RE  and Nemescu D: Anosmia and ageusia associated with coro‑ navirus infection (COVID‑19) ‑ what is known? Exp Ther  Med 20: 2344‑2347, 2020. 
+130. Pennisi M, Lanza G, Falzone L, Fisicaro F, Ferri R and Bella R:  SARS‑CoV‑2 and the Nervous System: From Clinical Features  to Molecular Mechanisms. Int J Mol Sci 21: 5475, 2020. 
+131.Connors JM and Levy JH: COVID‑19 and its implications for  thrombosis and anticoagulation. Blood 135: 2033‑2040, 2020. 132.Diao B, Wang C, Tan Y, Chen X, Liu Y, Ning L, Chen L, Li M,  Liu Y, Wang G, et al: Reduction and functional exhaustion of  T cells in patients with coronavirus disease 2019 (COVID‑19).  Front Immunol 11: 827, 2020. 
+133.Basu‑Ray I: Almaddah Nk, Adeboye A and Soos MP: Cardiac  Manifestations Of Coronavirus. In: StatPearls. StatPearls  Publishing, Treasure Island, FL, 2020. 
+134.Garland V, Kumar AB and Borum ML: Gastrointestinal and  hepatic manifestations of COVID‑19: evolving recognition and  need for increased understanding in vulnerable populations.  J Natl Med Assoc: Aug 15, 2020 (Epub ahead of print). 
+135.Baj J, Karakuła‑Juchnowicz H, Teresiński G, Buszewicz G,  Ciesielka M, Sitarz E, Forma A, Karakuła K, Flieger W,  Portincasa P, et al: COVID‑19: Specific and non‑specific clinical  manifestations and symptoms: the current state of knowledge. J  Clin Med 9: 1753, 2020. 
+136.Renu K, Prasanna PL and Valsala Gopalakrishnan A:  Coronaviruses pathogenesis, comorbidities and multi‑organ  damage ‑ A review. Life Sci 255: 117839, 2020. 
+137.Chang MC, Lee W, Hur J and Park D: Chest Computed  Tomography Findings in Asymptomatic Patients with  COVID‑19. Respiration 99: 748‑754, 2020. 
+138.Jędrusik P, Gaciong Z, Sklinda K, Sierpiński R, Walecki J and  Gujski M: Diagnostic role of chest computed tomography in  coronavirus disease 2019. Pol Arch Intern Med 130: 520‑528,  2020. 
+139.Kang EY, Staples CA, McGuinness G, Primack SL and  Müller NL: Detection and differential diagnosis of pulmonary  infections and tumors in patients with AIDS: Value of chest  radiography versus CT. AJR Am J Roentgenol 166: 15‑19, 1996. 
+140.Larici AR, Cicchetti G, Marano R, Merlino B, Elia L,  Calandriello L, Del Ciello A, Farchione A, Savino G, Infante A, et al: Multimodality imaging of COVID‑19 pneumonia:  From diagnosis to follow‑up. A comprehensive review. Eur J  Radiol 131: 109217, 2020.
+22 FALZONE et al: DIAGNOSTIC METHODS FOR COVID-19 
+141.Ippolito D, Maino C, Pecorelli A, Allegranza P, Cangiotti C,  Capodaglio C, Mariani I, Giandola T, Gandola D, Bianco I, et al:  Chest X‑ray features of SARS‑CoV‑2 in the emergency  department: A multicenter experience from northern Italian  hospitals. Respir Med 170: 106036, 2020. 
+142.Li P, Chen L, Liu Z, Pan J, Zhou D, Wang H, Gong H, Fu Z,  Song Q, Min Q, et al: Clinical features and short‑term outcomes  of elderly patients with COVID‑19. Int J Infect Dis 97: 245‑250,  2020. 
+143.Cui N, Zou X and Xu L: Preliminary CT findings of coronavirus  disease 2019 (COVID‑19). Clin Imaging 65: 124‑132, 2020. 144.Kovács A, Palásti P, Veréb D, Bozsik B, Palkó A and Kincses ZT:  
+The sensitivity and specificity of chest CT in the diagnosis of  COVID‑19. Eur Radiol 13: 1‑6, 2020. 
+145.Zhao W, He L, Tang H, Xie X, Tang L and Liu J: The  Relationship Between Chest Imaging Findings and the Viral  Load of COVID‑19. Front Med (Lausanne) 7: 558539, 2020. 
+146.Meng H, Xiong R, He R, Lin W, Hao B, Zhang L, Lu Z, Shen X,  Fan T, Jiang W, et al: CT imaging and clinical course of  asymptomatic cases with COVID‑19 pneumonia at admission in  Wuhan, China. J Infect 81: e33‑e39, 2020. 
+147.Mehrabi S, Fontana S, Mambrin F, Nguyen HQ, Righi E,  Tacconelli E and Mansueto G: Pitfalls of computed tomography  in the coronavirus 2019 (COVID‑19) era: a new perspective on  ground‑glass opacities. Cureus 12: e8151, 2020. 
+148.Tofighi S, Najafi S, Johnston SK and Gholamrezanezhad A:  Low‑dose CT in COVID‑19 outbreak: Radiation safety, image  wisely, and image gently pledge. Emerg Radiol 27: 601‑605,  2020. 
+149.Qiu G, Gai Z, Tao Y, Schmitt J, Kullak‑Ublick GA and Wang J:  Dual‑functional plasmonic photothermal biosensors for highly  accurate severe acute respiratory syndrome coronavirus 2  detection. ACS Nano 14: 5268‑5277, 2020. 
+150. Pandey LM: Design of engineered surfaces for prospective  detection of SARS‑CoV‑2 using quartz crystal micro‑ balance‑based techniques. Expert Rev Proteomics 17: 425‑432,  2020. 
+151.Maddali H, Miles CE, Kohn J and O'Carroll DM:  Optical Biosensors for Virus Detection: Prospects for  SARS‑CoV‑2/COVID‑19. ChemBioChem 22: 1176-1189, 2021. 
+152.Cui F and Zhou HS: Diagnostic methods and potential  portable biosensors for coronavirus disease 2019. Biosens  Bioelectron 165: 112349, 2020. 
+153. Samson R, Navale GR and Dharne MS: Biosensors: frontiers in  rapid detection of COVID‑19. 3 Biotech 10: 385, 2020. 154. Seo G, Lee G, Kim MJ, Baek SH, Choi M, Ku KB, Lee CS,  Jun S, Park D, Kim HG, et al: Rapid detection of COVID‑19  causative virus (SARS‑CoV‑2) in human nasopharyngeal swab  specimens using field‑effect transistor‑based biosensor. ACS  Nano 14: 5135‑5142, 2020. 
+155.Zhao H, Liu F, Xie W, Zhou TC, OuYang J, Jin L, Li H, Zhao CY,  Zhang L, Wei J, et al: Ultrasensitive supersandwich‑type electro‑ chemical sensor for SARS‑CoV‑2 from the infected COVID‑19  patients using a smartphone. Sens Actuators B Chem 327:  128899, 2021. 
+156.Choi JR: Development of point‑of‑care biosensors for  COVID‑19. Front Chem 8: 517, 2020. 
+157.Lu R, Wu X, Wan Z, Li Y, Jin X and Zhang C: A novel reverse  transcription loop‑mediated isothermal amplification method  for rapid detection of SARS‑CoV‑2. Int J Mol Sci 21: 2826,  2020. 
+158.Yuan X, Yang C, He Q, Chen J, Yu D, Li J, Zhai S, Qin Z, Du K,  Chu Z, et al: Current and perspective diagnostic techniques for  COVID‑19. ACS Infect Dis 6: 1998‑2016, 2020. 
+159.Huang WE, Lim B, Hsu CC, Xiong D, Wu W, Yu Y, Jia H,  Wang Y, Zeng Y, Ji M, et al: RT‑LAMP for rapid diagnosis  of coronavirus SARS‑CoV‑2. Microb Biotechnol 13: 950‑961,  2020. 
+160.Broughton JP, Deng X, Yu G, Fasching CL, Servellita V, Singh J,  Miao X, Streithorst JA, Granados A, Sotomayor‑Gonzalez A, et al: CRISPR‑Cas12‑based detection of SARS‑CoV‑2. Nat  Biotechnol 38: 870‑874, 2020. 
+161. Song J, Liu C, Mauk MG, Rankin SC, Lok JB, Greenberg RM  and Bau HH: Two‑Stage Isothermal Enzymatic Amplification  for Concurrent Multiplex Molecular Detection. Clin Chem 63:  714‑722, 2017. 
+162.El‑Tholoth M, Bau HH and Song J: A Single and Two‑Stage,  Closed‑Tube, Molecular Test for the 2019 Novel Coronavirus  (COVID‑19) at Home, Clinic, and Points of Entry. ChemRxiv:  doi: 10.26434/chemrxiv.11860137 
+163. Smithgall MC, Scherberkova I, Whittier S and Green DA:  Comparison of Cepheid Xpert Xpress and Abbott ID Now to  Roche cobas for the Rapid Detection of SARS‑CoV‑2. J Clin  Virol 128: 104428, 2020. 
+164.Rhoads DD, Cherian SS, Roman K, Stempak LM, Schmotzer CL  and Sadri N: Comparison of Abbott ID Now, DiaSorin Simplexa,  and CDC FDA Emergency Use Authorization Methods for the  Detection of SARS‑CoV‑2 from Nasopharyngeal and Nasal  Swabs from Individuals Diagnosed with COVID‑19. J Clin  Microbiol 58: e00760‑e20, 2020. 
+165.Basu A, Zinger T, Inglima K, Woo KM, Atie O, Yurasits L,  See B and Aguero‑Rosenfeld ME: Performance of Abbott ID Now COVID‑19 Rapid Nucleic Acid Amplification Test Using  Nasopharyngeal Swabs Transported in Viral Transport Media  and Dry Nasal Swabs in a New York City Academic Institution.  J Clin Microbiol 58: e01136‑e20, 2020. 
+166.Westermann L, Neubauer B and Köttgen M: Nobel Prize 2020  in Chemistry honors CRISPR: A tool for rewriting the code of  life. Pflugers Arch 473: 1‑2, 2021. 
+167.Doudna JA and Charpentier E: Genome editing. The new frontier  of genome engineering with CRISPR‑Cas9. Science 346:  1258096, 2014. 
+168. Pickar‑Oliver A and Gersbach CA: The next generation of  CRISPR‑Cas technologies and applications. Nat Rev Mol Cell  Biol 20: 490‑507, 2019. 
+169.Broughton JP, Deng X, Yu G, Fasching CL, Singh J, Streithorst J,  Granados A, Sotomayor‑Gonzalez A, Zorn K, Gopez A, et al: Rapid detection of 2019 novel coronavirus SARS‑CoV‑2 using a CRISPR‑based DETECTR lateral flow assay. medRxiv:  https://doi.org/10.1101/2020.03.06.20032334. 
+170.Javalkote VS, Kancharla N, Bhadra B, Shukla M, Soni B,  Goodin M, Bandyopadhyay A and Dasgupta S: CRISPR‑based  assays for rapid detection of SARS‑CoV‑2. Methods: Oct 9,  2020 (Epub ahead of print). 
+171. van Dongen JE, Berendsen JTW, Steenbergen RDM, Wolthuis  RMF, Eijkel JCT and Segerink LI: Point‑of‑care CRISPR/Cas nucleic acid detection: Recent advances, challenges and oppor‑ tunities. Biosens Bioelectron 166: 112445, 2020. 172.Kellner MJ, Koob JG, Gootenberg JS, Abudayyeh OO and  Zhang F: SHERLOCK: Nucleic acid detection with CRISPR  nucleases. Nat Protoc 14: 2986‑3012, 2019. 
+173.Joung J, Ladha A, Saito M, Segel M, Bruneau R, Huang MW,  Kim NG, Yu X, Li J, Walker BD, et al: Point‑of‑care testing  for COVID‑19 using SHERLOCK diagnostics. medRxiv: doi:  10.1101/2020.05.04.20091231 
+174. Food and Drug Administration (FDA): Sherlock™ CRISPR  SARS‑CoV‑2 kit ‑ Instructions for use. https://www.fda.gov/ media/137746/download. Accessed February 2, 2021. 
+175.Hou T, Zeng W, Yang M, Chen W, Ren L, Ai J, Wu J, Liao Y,  Gou X, Li Y, et al: Development and evaluation of a rapid  CRISPR‑based diagnostic for COVID‑19. PLoS Pathog 16:  e1008705, 2020. 
+176.Curti L, Pereyra‑Bonnet F and Gimenez CA: An Ultrasensitive,  Rapid, and Portable Coronavirus SARS‑CoV‑2 Sequence  Detection Method Based on CRISPR‑Cas12. bioRxiv: doi:  https://doi.org/10.1101/2020.02.29.971127. 
+177. Salipante SJ and Jerome KR: Digital PCR‑An Emerging  Technology with Broad Applications in Microbiology. Clin  Chem 66: 117‑123, 2020. 
+178. Falzone L, Musso N, Gattuso G, Bongiorno D, Palermo CI,  Scalia G, Libra M and Stefani S: Sensitivity assessment of  droplet digital PCR for SARS‑CoV‑2 detection. Int J Mol  Med 46: 957‑964, 2020. 
+179. Falzone L, Gattuso G, Lombardo C, Lupo G, Grillo CM,  Spandidos DA, Libra M and Salmeri M: Droplet digital PCR for  the detection and monitoring of Legionella pneumophila. Int J  Mol Med 46: 1777‑1782, 2020. 
+180.Crimi S, Falzone L, Gattuso G, Grillo CM, Candido S, Bianchi A  and Libra M: Droplet Digital PCR Analysis of Liquid Biopsy  Samples Unveils the Diagnostic Role of hsa‑miR‑133a‑3p and  hsa‑miR‑375‑3p in Oral Cancer. Biology (Basel) 9: 379, 2020. 
+181. Salemi R, Falzone L, Madonna G, Polesel J, Cinà D, Mallardo D, Ascierto PA, Libra M and Candido S: MMP‑9 as a Candidate  Marker of Response to BRAF Inhibitors in Melanoma Patients  With BRAFV600E Mutation Detected in Circulating‑Free  DNA. Front Pharmacol 9: 856, 2018. 
+182.Battaglia R, Palini S, Vento ME, La Ferlita A, Lo Faro MJ,  Caroppo E, Borzì P, Falzone L, Barbagallo D, Ragusa M, et al: Identification of extracellular vesicles and characterization  of miRNA expression profiles in human blastocoel fluid. Sci  Rep 9: 84, 2019.
+INTERNATIONAL JOURNAL OF MOlecular medicine 47: 100, 2021 23 
+183.Bizouarn F: Clinical applications using digital PCR. Methods  Mol Biol 1160: 189‑214, 2014. 
+184.Olmedillas‑López S, García‑Arranz M and García‑Olmo D:  Current and Emerging Applications of Droplet Digital PCR in  Oncology. Mol Diagn Ther 21: 493‑510, 2017. 
+185.Denis JA, Nectoux J, Lamy PJ, Rouillac Le Sciellour C,  Guermouche H, Alary AS, Kosmider O, Sarafan‑Vasseur N,  Jovelet C, Busser B, et al: Development of digital PCR molecular  tests for clinical practice: Principles, practical implementation  and recommendations. Ann Biol Clin (Paris) 76: 505‑523, 2018. 
+186. Pinheiro LB, Coleman VA, Hindson CM, Herrmann J,  Hindson BJ, Bhat S and Emslie KR: Evaluation of a droplet  digital polymerase chain reaction format for DNA copy number  quantification. Anal Chem 84: 1003‑1011, 2012. 
+187.Alteri C, Cento V, Antonello M, Colagrossi L, Merli M, Ughi N,  Renica S, Matarazzo E, Di Ruscio F, Tartaglione L, et al:  Detection and quantification of SARS‑CoV‑2 by droplet digital  PCR in real‑time PCR negative nasopharyngeal swabs from  suspected COVID‑19 patients. PLoS One 15: e0236311, 2020. 
+188. Suo T, Liu X, Feng J, Guo M, Hu W, Guo D, Ullah H, Yang Y,  Zhang Q, Wang X, et al: ddPCR: A more accurate tool for  SARS‑CoV‑2 detection in low viral load specimens. Emerg  Microbes Infect 9: 1259‑1268, 2020. 
+189.Liu C, Shi Q, Peng M, Lu R, Li H, Cai Y, Chen J, Xu J and  Shen B: Evaluation of droplet digital PCR for quantification of  SARS‑CoV‑2 Virus in discharged COVID‑19 patients. Aging  (Albany NY) 12: 20997‑21003, 2020. 
+190.Vasudevan HN, Xu P, Servellita V, Miller S, Liu L, Gopez A,  Chiu CY and Abate AR: Digital droplet PCR accurately quan‑ tifies SARS‑CoV‑2 viral load from crude lysate without nucleic  acid purification. Sci Rep 11: 780, 2021. 
+This work is licensed under a Creative Commons    
+Attribution-NonCommercial-NoDerivatives 4.0  
+International (CC BY-NC-ND 4.0) License.
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

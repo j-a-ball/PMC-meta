@@ -1,0 +1,628 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+﻿Section & Topic
+	No
+	Item
+	Reported on page #
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	TITLE OR ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	1
+	Identification as a study of diagnostic accuracy using at least one measure of accuracy
+(such as sensitivity, specificity, predictive values, or AUC)
+	
+
+	
+
+	ABSTRACT
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	Structured summary of study design, methods, results, and conclusions 
+(for specific guidance, see STARD for Abstracts)
+	
+
+	
+
+	INTRODUCTION
+	
+
+	
+
+	
+
+	
+
+	
+
+	3
+	Scientific and clinical background, including the intended use and clinical role of the index test
+	
+
+	
+
+	
+
+	4
+	Study objectives and hypotheses
+	
+
+	
+
+	METHODS
+	
+
+	
+
+	
+
+	
+
+	Study design
+	5
+	Whether data collection was planned before the index test and reference standard 
+were performed (prospective study) or after (retrospective study)
+	
+
+	
+
+	Participants
+	6
+	Eligibility criteria 
+	
+
+	
+
+	
+
+	7
+	On what basis potentially eligible participants were identified 
+(such as symptoms, results from previous tests, inclusion in registry)
+	
+
+	
+
+	
+
+	8
+	Where and when potentially eligible participants were identified (setting, location and dates)
+	
+
+	
+
+	
+
+	9
+	Whether participants formed a consecutive, random or convenience series
+	
+
+	
+
+	Test methods
+	10a
+	Index test, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	10b
+	Reference standard, in sufficient detail to allow replication
+	
+
+	
+
+	
+
+	11
+	Rationale for choosing the reference standard (if alternatives exist)
+	
+
+	
+
+	
+
+	12a
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the index test, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	12b
+	Definition of and rationale for test positivity cut-offs or result categories 
+of the reference standard, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	13a
+	Whether clinical information and reference standard results were available 
+to the performers/readers of the index test
+	
+
+	
+
+	
+
+	13b
+	Whether clinical information and index test results were available 
+to the assessors of the reference standard
+	
+
+	
+
+	Analysis
+	14
+	Methods for estimating or comparing measures of diagnostic accuracy
+	
+
+	
+
+	
+
+	15
+	How indeterminate index test or reference standard results were handled
+	
+
+	
+
+	
+
+	16
+	How missing data on the index test and reference standard were handled
+	
+
+	
+
+	
+
+	17
+	Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory
+	
+
+	
+
+	
+
+	18
+	Intended sample size and how it was determined
+	
+
+	
+
+	RESULTS
+	
+
+	
+
+	
+
+	
+
+	Participants
+	19
+	Flow of participants, using a diagram
+	
+
+	
+
+	
+
+	20
+	Baseline demographic and clinical characteristics of participants
+	
+
+	
+
+	
+
+	21a
+	Distribution of severity of disease in those with the target condition
+	
+
+	
+
+	
+
+	21b
+	Distribution of alternative diagnoses in those without the target condition
+	
+
+	
+
+	
+
+	22
+	Time interval and any clinical interventions between index test and reference standard
+	
+
+	
+
+	Test results
+	23
+	Cross tabulation of the index test results (or their distribution) 
+by the results of the reference standard
+	
+
+	
+
+	
+
+	24
+	Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals)
+	
+
+	
+
+	
+
+	25
+	Any adverse events from performing the index test or the reference standard
+	
+
+	
+
+	DISCUSSION
+	
+
+	
+
+	
+
+	
+
+	
+
+	26
+	Study limitations, including sources of potential bias, statistical uncertainty, and generalisability
+	
+
+	
+
+	
+
+	27
+	Implications for practice, including the intended use and clinical role of the index test
+	
+
+	
+
+	OTHER INFORMATION
+	
+
+	
+
+	
+
+	
+
+	
+
+	28
+	Registration number and name of registry
+	
+
+	
+
+	
+
+	29
+	Where the full study protocol can be accessed
+	
+
+	
+
+	
+
+	30
+	Sources of funding and other support; role of funders
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+________________
+STARD 2015
+AIM 
+STARD stands for “Standards for Reporting Diagnostic accuracy studies”. This list of items was developed to contribute to the completeness and transparency of reporting of diagnostic accuracy studies. Authors can use the list to write informative study reports. Editors and peer-reviewers can use it to evaluate whether the information has been included in manuscripts submitted for publication. 
+Explanation
+A diagnostic accuracy study evaluates the ability of one or more medical tests to correctly classify study participants as having a target condition. This can be a disease, a disease stage, response or benefit from therapy, or an event or condition in the future. A medical test can be an imaging procedure, a laboratory test, elements from history and physical examination, a combination of these, or any other method for collecting information about the current health status of a patient.
+The test whose accuracy is evaluated is called index test. A study can evaluate the accuracy of one or more index tests. Evaluating the ability of a medical test to correctly classify patients is typically done by comparing the distribution of the index test results with those of the reference standard. The reference standard is the best available method for establishing the presence or absence of the target condition. An accuracy study can rely on one or more reference standards.
+If test results are categorized as either positive or negative, the cross tabulation of the index test results against those of the reference standard can be used to estimate the sensitivity of the index test (the proportion of participants with the target condition who have a positive index test), and its specificity (the proportion without the target condition who have a negative index test). From this cross tabulation (sometimes referred to as the contingency or “2x2” table), several other accuracy statistics can be estimated, such as the positive and negative predictive values of the test. Confidence intervals around estimates of accuracy can then be calculated to quantify the statistical precision of the measurements.
+If the index test results can take more than two values, categorization of test results as positive or negative requires a test positivity cut-off. When multiple such cut-offs can be defined, authors can report a receiver operating characteristic (ROC) curve which graphically represents the combination of sensitivity and specificity for each possible test positivity cut-off. The area under the ROC curve informs in a single numerical value about the overall diagnostic accuracy of the index test. 
+The intended use of a medical test can be diagnosis, screening, staging, monitoring, surveillance, prediction or prognosis. The clinical role of a test explains its position relative to existing tests in the clinical pathway. A replacement test, for example, replaces an existing test. A triage test is used before an existing test; an add-on test is used after an existing test. 
+Besides diagnostic accuracy, several other outcomes and statistics may be relevant in the evaluation of medical tests. Medical tests can also be used to classify patients for purposes other than diagnosis, such as staging or prognosis. The STARD list was not explicitly developed for these other outcomes, statistics, and study types, although most STARD items would still apply. 
+DEVELOPMENT
+This STARD list was released in 2015. The 30 items were identified by an international expert group of methodologists, researchers, and editors. The guiding principle in the development of STARD was to select items that, when reported, would help readers to judge the potential for bias in the study, to appraise the applicability of the study findings and the validity of conclusions and recommendations. The list represents an update of the first version, which was published in 2003. 
+
+More information can be found on http://www.equator-network.org/reporting-guidelines/stard.
+ Creative Commons License
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿Original Paper  
+ Nephron Clin Pract 2010;115:c107–c113  
+ DOI: 10.1159/000312873  
+ Albuminuria among Alaska Natives – Findings  from the Genetics of Coronary Artery Disease in  Alaska Natives (GOCADAN) Study  
+ Stacey E. Jolly a Carolyn J. Noonan b Yvette D. Roubideaux d  Jack H. Goldberg b, c Sven O.E. Ebbesson e Jason G. Umans f, g  Barbara V. Howard f, g  
+a Medicine Department, Division of General Internal Medicine, University of California San Francisco,  San Francisco, Calif. , b University of Washington Center for Clinical and Epidemiologic Research, and c Seattle VA  
+ Received: July 8, 2009  
+ Accepted: November 20, 2009   Published online: April 21, 2010  
+Epidemiologic Research and Information Center, Seattle, Wash. , d Department of Family and Community Medicine,  College of Medicine, University of Arizona, Tucson, Ariz. , e Norton Sound Health Corporation, Nome, Alaska , f MedStar Research Institute, and g Georgetown University Medical Center, Washington, D.C. , USA 
+ Key Words  
+ Albuminuria   Kidney disease   Alaska Natives   Risk factor    Epidemiology  
+ Abstract  
+Background: The prevalence and associated risk factors for  albuminuria and low-grade albuminuria in Alaska Natives is  not known. Methods: Cross-sectional analysis of the Genet ics of Coronary Artery Disease in Alaska Natives Study. We  included 1,026 individuals, who represent 85% of the study  participants for whom complete data were available. Risk  factors examined were age, sex, education, diabetes, hyper 
+tension, obesity, lipids, C-reactive protein, angiotensin-con verting enzyme inhibitor use, and smoking status. Urine al bumin excretion was estimated by the albumin/creatinine  ratio measured from a single random morning urine sample.  Albuminuria was defined as an albumin/creatinine ratio of  6 30 mg/g. Low-grade albuminuria was defined as an albu min/creatinine ratio of 10 to ! 30 mg/g. Results: The mean  age was 42 years and over half were female. Diabetes preva lence was low at 3% and the prevalence of hypertension was  
+  
+ © 2010 S. Karger AG, Basel 
+Fax +41 61 306 12 34 
+20%. The prevalence of albuminuria was 6%; the prevalence  of low-grade albuminuria was 12%. Individuals with diabe tes or hypertension were 3 times more likely to have albu minuria than those without these conditions [odd ratios: di abetes 3.0 (1.2–7.9) and hypertension 3.0 (1.2–7.3)]. Conclu sions: The burden of albuminuria is low. Comprehensive  
+programs and policies are important given the rise in diabe tes and hypertension among Alaska Natives.  
+ Copyright © 2010 S. Karger AG, Basel  
+ Introduction  
+ The prevalence of chronic kidney disease, a precursor  to end-stage renal disease requiring dialysis, is increasing  in the U.S. [1] . Albuminuria is a predictor of chronic kid ney disease progression, end-stage renal disease, cardio vascular events, and mortality in the general population  [2, 3] . There is evidence that low-grade albuminuria, de fined as less than 30 mg/g, is also predictive of cardiovas cular disease and death [4, 5] .  
+ Stacey Jolly, MD, MS  
+ Cleveland Clinic Medicine Institute  
+ 9500 Euclid Avenue/G10  
+E-Mail karger@karger.ch www.karger.com 
+ Accessible online at: www.karger.com/nec 
+ Cleveland, OH 44195 (USA)  
+ Tel. +1 216 444 8188, Fax +1 216 445 1007, E-Mail jollys @ ccf.org  
+ American Indians and Alaska Natives (AIAN) have  twice the incidence of end-stage renal disease compared  to whites [6] . Among American Indians, studies find a  30–50% higher prevalence of albuminuria among indi 
+viduals with diabetes [7–11] and also show a higher risk  of cardiovascular disease and death among those with  low-grade albuminuria [12] . Published data is not avail able on the prevalence of and the risk factors for albumin 
+uria or low-grade albuminuria among Alaska Natives.   We use data from the Genetics of Coronary Artery  Disease in Alaska Natives (GOCADAN) study to exam ine the prevalence of and the associated risk factors for  albuminuria among Alaska Natives in the Norton Sound  region on the Northwest coast of Alaska. This remote re gion of Alaska has a population that is predominantly  Inupiat Eskimo. The purpose of our study is: (1) to esti mate the age-specific prevalence of albuminuria among  Alaska Native participants in GOCADAN; (2) to deter mine the independent association of sociodemographic  and clinical risk factors with albuminuria, and (3) to es timate the prevalence and determine the associations of  the risk factors with low-grade albuminuria. 
+ Methods  
+ Study Design and Setting  
+ We conducted a cross-sectional secondary data analysis of the  GOCADAN study. GOCADAN is an ongoing longitudinal, pop ulation-based study conducted to investigate the genetic and non genetic determinants of cardiovascular disease and its risk factors  in Alaska Natives. Details of the study design and methods are  available elsewhere [13] . Briefly, a total of 1,214 predominantly  Inupiat Eskimo participants were recruited from October 2000  through April 2004 in the Norton Sound region on the Northwest  coast of Alaska. Participants completed an interviewer-adminis tered survey of demographics and medical history, and under went a complete physical examination, which included the collec tion of blood, urine, and anthropometric measurements.  
+ Of the 1,214 GOCADAN participants in the study, we exclud ed participants for whom albuminuria status could not be ob tained (n = 97) and who were younger than 18 years of age (n = 1).  Out of the remaining 1,116 participants, we then excluded par ticipants with missing data for our risk factors of interest (n =  90). Our final analytic sample constituted 1,026 participants in  GOCADAN for whom complete data were available, which was  85% of the original sample. We compared the risk factors of inter est among those included in our analysis (n = 1,026) versus those  excluded (n = 90) using  2 statistics and found a significant dif ference only for 2 risk factors. Those included were more likely to  not have a high school education and have hypertension than  those with missing data.  
+ This study was approved by the research and ethics review  board at Norton Sound Health Corporation and all relevant insti tutional review boards.  
+c108 Nephron Clin Pract 2010;115:c107–c113  
+ Measures  
+ The primary outcome for our analysis was albuminuria. Urine  albumin and creatinine were measured from a single morning  sample. Urine albumin was assayed using an immunoturbido metric method (Diasorin SPQ reagents and calibrators, Stillwater,  Minn., USA) on the Roche-Hitachi 717 platform (Basel, Switzer land) with the lowest assayed standard at 5.7 mg/l and a coeffi cient variation of 1.6% at 44 mg/l. Urine creatinine was assayed  using Vitros 250 CREA slides (Ortho Clinical Diagnostics, Rari tan, N.J., USA) and a 2-point system, with a coefficient variation  of 1.8% at 1.47 g/l. The urinary albumin (in mg/ml) to creatinine  (in g/ml) ratio (ACR) was computed for those participants with a  detectable, or greater than 5.7 mg/l, urinary albumin level. An  ACR 6 30 mg/g was the cutoff for a diagnosis of albuminuria. All  those with an undetectable urinary albumin level were catego rized as normal. The secondary outcome, low-grade albuminuria,  was defined as an ACR in the range of 10 to ! 30 mg/g and com pared to normal, defined as an ACR ! 10 mg/g. Serum laboratory  measurements of creatinine or cystatin C are not available as they  were not done as part of the baseline study. 
+ The sociodemographic risk factors for this analysis included  age, sex, and education. Age was calculated in years based on the  verified date of birth during the GOCADAN interview and the  examination date. Age was categorized as 18–34 years, 35–44  years, 45–54 years, and 6 55 years. Sex was defined as either fe 
+male or male. Self-reported years of education were dichotomized  as ! 12 years of school versus 6 12 years of school or general equiv alency diploma. 
+ The clinical risk factors for this analysis included diabetes,  hypertension, overweight/obesity, lipid levels, C-reactive protein  (CRP), angiotensin-converting enzyme (ACE) inhibitor use,  omega-3 fatty acid intake, and current smoking status. According  to the American Diabetes Association 2003 diagnostic guidelines  at the time of the study, diabetes was defined in GOCADAN as  being present when participants reported previous or current use  of either insulin or oral diabetes medication, had a recorded se rum fasting glucose 6 126 mg/dl at the baseline exam, or had a  recorded 2-hour glucose level 6 200 mg/dl after ingesting a 75- 
+gram oral glucose load [14] . Impaired fasting glucose was defined  as having a recorded fasting glucose of 100–125 mg/dl at the base line exam or a recorded 2-hour glucose level of 140–199 mg/dl  after ingesting a 75-gram oral glucose load [14] .  
+ Hypertensive status was categorized according to the Joint  National Committee (JNC VII) guidelines in this analysis as hy pertension, prehypertension, or normal [15] . Hypertension was  defined as a systolic blood pressure 6 140 mm Hg or a diastolic  blood pressure 6 90 mm Hg, or reported use of anti-hypertensive  medication by self-report. Prehypertension was defined as a sys tolic blood pressure 120–139 mm Hg or a diastolic blood pressure  80–89 mm Hg. The body mass index (BMI) was calculated using  measured weight (in pounds) and height (in inches) according to  a standard formula and metric conversion (BMI = weight/height 2 ! 704.5 kg in 2 /lb m 2 ). We categorized BMI as normal (BMI ! 25),  overweight (BMI 25–29), and obese (BMI 6 30). 
+ Lipids were obtained from a fasting blood sample and were  measured by an auto analyzer [13] . All lipid measurements were  dichotomized at clinically meaningful cutoff points: total choles terol 6 200 mg/dl; high-density lipoprotein (HDL) ! 40 mg/dl;  low-density lipoprotein 6 130 mg/dl, and triglycerides 6 150 mg/ dl [16] . High-sensitivity CRP was obtained from serum analysis 
+ Jolly /Noonan /Roubideaux /Goldberg / 
+Ebbesson /Umans /Howard  
+of the GOCADAN participants. CRP was dichotomized using the  clinically meaningful cutoff of 6 3 mg/dl [17] . ACE inhibitor use  
+20 
+was defined as either self-report of ACE inhibitor medication use  or ACE inhibitor use that was ascertained during the medication  15 
+inventory from the baseline exam. Omega-3 fatty acid intake was  ) 
+ascertained from the dietary survey portion of the exam. We cre 
+%
+ (
+e
+ated a combined measure of eicosapentaenoic acid and docosa 10 
+c
+n
+hexaenoic acid in grams that was analyzed as a continuous vari 
+e
+l
+a
+v
+able [18] . Smoking status was obtained by self-report during the  
+e
+r
+5 
+P
+structured interview portion of the examination and was catego rized as never, former, or current smoker. 
+0 
+ Statistical Analysis  
+ Descriptive statistics for participant characteristics were cal culated using means and standard deviations for continuous vari ables and percents for categorical variables. We computed the  
+
+
+	
+
+
+
+18–34 35–44 45–54 55+ Age (years) 
+overall prevalence of albuminuria in our sample of GOCADAN  participants. We reported the prevalence of low-grade albumin uria (10 to ! 30 mg/g). We then calculated the prevalence of albu minuria and corresponding 95% confidence intervals (CI) sepa rately by age categories. We ran the analyses using a method to  account for a study with large and inter-related families (data not  shown). Our results did not change and so we present here the  ordinary logistic regression models. 
+ To assess the association between albuminuria and the select ed risk factors, we fit logistic regression models. Initially, we fit a  series of univariate regression models to estimate the association  of each potential risk factor with albuminuria, unadjusted for  other risk factors. We fit a series of multivariate models that ad justed for risk factors by category (e.g. demographics, clinical  measures, health behaviors) to affirm the robustness of a single  multivariate model given the low number of outcomes in our  study. We then fit a single multivariate model that simultaneous ly adjusted for all relevant risk factors. From this multivariate ad justed model, we estimated the independent association of each  risk factor with albuminuria and derived adjusted odds ratios  (OR) and 95% CI.  
+ Potential risk factors were determined a priori and included in  regressions regardless of significance in either univariate or mul tivariate models, except for omega-3 fatty acid intake. In the sen sitivity analysis, omega-3 fatty acid intake was not significant in  our models and so was excluded in order to maximize our power/ sample size due to missing values. Age was examined as both a  continuous and categorical variable; results were similar and we  present categorical age in the final analysis. We examined the in teraction of hypertension and diabetes by including their product  term in the multivariate model. 
+ We also examined the association of low-grade albuminuria  with selected risk factors. Those with albuminuria (defined as  6 30 mg/g) were excluded from this analysis. Using the same a  priori risk factors, we fit a series of univariate logistic regression  models, followed by a single multivariate model that simultane 
+ously adjusted for all the risk factors comparing low-grade albu minuria (10 to ! 30 mg/g) to normal ( ! 10 mg/g).  
+ We used a complete case analysis approach in which we ana lyzed GOCADAN participants for whom complete data were  available for all variables of interest. STATA version 10.0 (Stata Corp LP 2008, College Station, Tex., USA) was used for all data  manipulation and analysis.  
+Fig. 1. Prevalence and 95% CI for albuminuria by age categories  among participants of the GOCADAN study (n = 1,026). 
+ Results  
+ The mean age of our sample was 42 years (standard  deviation 16 years; range 18–91 years). The prevalence of  albuminuria was 6% (n = 64). The prevalence of albumin uria increased with age from 3% among participants 18– 34 years to 14% in participants 6 55 years ( fig. 1 ). Of those  with albuminuria, 9% (n = 6) had macroalbuminuria, or  an ACR 1 300 mg/g.  
+ Participants with albuminuria were more likely to be  older, female, and have less than a high school education  compared to participants without albuminuria ( table 1 ).  The prevalence of diabetes was higher among partici 
+pants with albuminuria compared to those without (20  vs. 2%). Hypertension was more common among partic ipants with albuminuria as well (50 vs. 18%). There was  some overlap between diabetes and hypertension. Among  the 34 participants with diabetes, the majority (80%) also  had hypertension. Conversely, among the 207 partici pants with hypertension only 13% also had diabetes. Par ticipants with albuminuria had a higher prevalence of  obesity, HDL ! 40 mg/dl, triglycerides 6 150 mg/dl, CRP  6 3 mg/dl, and ACE inhibitor use. Smoking status was  similar among participants with and without albumin uria.  
+ In unadjusted and adjusted analyses, diabetes and hy pertension were most strongly associated with albumin uria ( table 2 ). Even after adjustment for all risk factors,  the odds of albuminuria were approximately 3 times  higher in participants with either diabetes (OR = 3.0, 95%  CI = 1.2–7.9) or hypertension (OR = 3.0, 95% CI = 1.2–7.3)  compared to participants without the condition. The in 
+ Albuminuria among Alaska Natives Nephron Clin Pract 2010;115:c107–c113 c109 
+Table 1. Characteristics of participants of the GOCADAN study  by albuminuria status (n = 1,026) 
+Table 2. Unadjusted and adjusted OR for albuminuria among par ticipants in the GOCADAN study (n = 1,026) 
+Albuminuria absent 
+(n = 962) 
+Albuminuria present 
+(n = 64) 
+Unadjusted Adjusted1 OR (95% CI) OR (95% CI) 
+Sociodemographics n (%) n (%) Age, years 
+18–34 341 (35) 12 (19) 35–44 236 (25) 11 (17) 45–54 203 (21) 11 (17) ≥55 182 (19) 30 (47) Sex 
+Females 543 (56) 45 (70) Males 419 (44) 19 (30) Education, years 
+Less than high school, <12 years 194 (20) 28 (44) High school or greater, ≥12 years 768 (80) 36 (56) 
+Clinical measures n (%) n (%) Glycemic status 
+Normal glucose status 804 (84) 43 (67) Impaired fasting glucose 137 (14) 8 (13) Diabetes 21 (2) 13 (20) Hypertension, JNC 7 definition 
+Normal 456 (47) 14 (22) Prehypertension 331 (34) 18 (28) Hypertension 175 (18) 32 (50) BMI 
+Normal, BMI <25 379 (39) 18 (28) Overweight, BMI 25–29 306 (32) 17 (27) Obesity, BMI ≥30 277 (29) 29 (45) Total cholesterol, mg/dl 
+<200 493 (51) 34 (53) ≥200 469 (49) 30 (47) High-density lipoprotein, mg/dl 
+<40 98 (10) 12 (19) ≥40 864 (90) 52 (81) Low-density lipoprotein, mg/dl 
+<130 644 (67) 51 (80) ≥130 318 (33) 13 (20) Triglycerides, mg/dl 
+<150 721 (75) 43 (67) ≥150 241 (25) 21 (33) High-sensitivity CRP, mg/dl 
+<3 763 (79) 44 (69) ≥3 199 (21) 20 (31) ACE inhibitor 
+No 918 (95) 51 (80) Yes 44 (5) 13 (20) Mean omega-3 fatty acid intake 8 SD,  
+g/day 2.1783.25 3.0684.14 Smoking status 
+Never 180 (19) 15 (23) Former smoker 200 (21) 14 (22) Current smoker 582 (60) 35 (55) 
+Data are frequency (%) except for omega-3 fatty acid intake  which has an n = 945 due to missing values. JNC 7 = Joint Na tional Committee 7 guidelines. 
+c110 Nephron Clin Pract 2010;115:c107–c113  
+Sociodemographics 
+Age, years 
+18–34 referent referent 35–44 1.3 (0.6–3.1) 1.6 (0.7–4.0) 45–54 1.5 (0.7–3.6) 1.7 (0.7–4.3) ≥55 4.7 (2.3–9.4) 2.7 (1.0–7.0) Sex 
+Males referent referent Females 1.8 (1.1–3.2) 2.1 (1.1–3.9) Education, years 
+Less than high school 
+<12 years referent referent High school or greater 
+≥12 years 0.3 (0.2–0.6) 0.6 (0.3–1.1) 
+Clinical measures 
+Glycemic status 
+Normal glucose status referent referent Impaired fasting glucose 1.1 (0.5–2.4) 0.6 (0.2–1.4) Diabetes 11.6 (5.4–24.7) 3.0 (1.2–7.9) Hypertension, JNC 7 definition 
+Normal referent referent Prehypertension 1.8 (0.9–3.6) 2.0 (0.9–4.2) Hypertension 6.0 (3.1–11.4) 3.0 (1.2–7.3) BMI 
+Normal, BMI <25 referent referent Overweight, BMI 25–29 1.2 (0.6–2.3) 1.0 (0.5–2.0) Obesity, BMI ≥30 2.2 (1.2–4.1) 1.5 (0.7–3.1) Total cholesterol, mg/dl 
+<200 referent referent ≥200 0.9 (0.6–1.5) 1.2 (0.6–2.4) High-density lipoprotein, mg/dl 
+<40 referent referent ≥40 0.5 (0.3–1.0) 0.4 (0.2–0.8) Low-density lipoprotein, mg/dl 
+<130 referent referent ≥130 0.5 (0.3–1.0) 0.5 (0.2–1.0) Triglycerides, mg/dl 
+<150 referent referent ≥150 1.5 (0.9–2.5) 0.7 (0.4–1.4) High-sensitivity CRP, mg/dl 
+<3 referent referent ≥3 1.7 (1.0–3.0) 1.1 (0.6–2.1) ACE inhibitor 
+No referent referent Yes 5.3 (2.7–10.5) 1.5 (0.6–3.7) Smoking status 
+Never referent referent Former smoker 0.8 (0.4–1.8) 0.8 (0.3–1.9) Current smoker 0.7 (0.4–1.4) 1.3 (0.6–2.8) 
+1 Simultaneously adjusted for all risk factors. JNC 7 = Joint  National Committee 7 guidelines.
+ Jolly /Noonan /Roubideaux /Goldberg / 
+Ebbesson /Umans /Howard  
+Table 3. Unadjusted and adjusted OR for low-grade albuminuria  (10 to <30 mg/g) among participants in the GOCADAN study (n = 962) 
+Unadjusted Adjusted1 
+OR (95% CI) OR (95% CI) 
+Sociodemographics 
+Age, years 
+18–34 referent referent 35–44 1.1 (0.6–1.9) 1.0 (0.5–1.8) 45–54 1.4 (0.8–2.4) 1.0 (0.5–1.9) ≥55 3.7 (2.3–6.2) 1.8 (0.9–3.6) Sex 
+Males referent referent Females 1.9 (1.2–2.8) 2.2 (1.3–3.4) Education, years 
+Less than high school, <12 years referent referent High school or greater, ≥12 years 0.4 (0.2–0.6) 0.5 (0.3–0.9) 
+Clinical measures 
+Glycemic status 
+Normal glucose status referent referent Impaired fasting glucose 3.3 (2.1–5.1) 2.6 (1.6–4.5) Diabetes 2.9 (1.0–8.0) 1.3 (0.4–4.4) Hypertension, JNC 7 definition 
+Normal referent referent Prehypertension 1.2 (0.8–1.9) 1.2 (0.7–2.0) Hypertension 2.6 (1.6–4.2) 2.0 (1.0–3.7) BMI 
+Normal, BMI <25 referent referent Overweight, BMI 25–29 0.9 (0.6–1.5) 0.8 (0.5–1.3) Obesity, BMI ≥30 1.5 (1.0–2.4) 1.0 (0.6–1.7) Total cholesterol, mg/dl 
+<200 referent referent ≥200 1.2 (0.8–1.7) 0.9 (0.5–1.6) High-density lipoprotein, mg/dl 
+<40 referent referent ≥40 1.5 (0.7–3.0) 1.5 (0.7–3.3) Low-density lipoprotein, mg/dl 
+<130 referent referent ≥130 1.2 (0.8–1.8) 1.2 (0.7–2.2) Triglycerides, mg/dl 
+<150 referent referent ≥150 0.9 (0.6–1.5) 0.8 (0.5–1.3) High-sensitivity CRP, mg/dl 
+<3 referent referent ≥3 2.2 (1.5–3.4) 2.0 (1.2–3.1) ACE inhibitor 
+No referent referent Yes 1.5 (0.7–3.5) 0.6 (0.2–1.5) Smoking status 
+Never referent referent Former smoker 0.9 (0.5–1.6) 0.7 (0.4–1.3) Current smoker 0.6 (0.4–1.0) 0.7 (0.4–1.1) 
+1 Simultaneously adjusted for all risk factors. JNC 7 = Joint  National Committee 7 guidelines.
+teraction of diabetes and hypertension was not signifi cant (p = 0.48) and was not included in the final model.   Table 2 also shows that older age (OR = 2.7, 95% CI =  1.0–7.0) and female sex (OR = 2.1, 95% CI = 1.1–3.9) were  independent risk factors for albuminuria. Elevated HDL  
+was associated with lower odds of albuminuria.   Table 3 presents the unadjusted and adjusted OR and  95% CI comparing the odds of low-grade albuminuria for  selected risk factors among the 962 participants without  albuminuria. Of those participants, 12% (n = 120) had an  ACR in the range of 10 to ! 30 mg/g, i.e. low-grade albu minuria. Those with low-grade albuminuria, compared  to those with normal or undetectable albuminuria, were  more likely to be female, not have completed high school,  and have impaired fasting glucose, diabetes, hyperten sion, and elevated CRP levels. In the multivariate regres sion model, only female sex, not having a high school de gree, impaired fasting glucose, and elevated CRP levels  remained significant.  
+ Discussion  
+ This was the first study to examine the prevalence and  risk factors for albuminuria and low-grade albuminuria  among Alaska Natives. The prevalence of albuminuria  among Alaska Native participants in GOCADAN was  low compared to several empirical studies of AIAN pop 
+ulations in the lower 48 states [9, 10, 19] . Even when com pared to the 10% prevalence in the general US population  [1] , the 6% prevalence we found in Alaska Natives is strik ing in comparison. Diabetes and hypertension were both  found to be important risk factors for albuminuria as  seen in other populations.  
+ Given the low prevalence of diabetes in our study par ticipants, it is not surprising that the prevalence of albu minuria was also low. Among some AIAN populations in  the lower 48 states, diabetes prevalence is nearly 70% [10] ,  whereas in our study of GOCADAN participants, the  prevalence of diabetes was just 3%. Hypertension was  more common among our GOCADAN participants, and  it is an important independent risk factor for albumin uria [20, 21] . Our prevalence of hypertension was slightly  less than that found among US adults [22] and among  some AIAN in the lower 48 states [10] . However, our  prevalence of hypertension was nearly double the preva lence that was found among a different population of  Alaska Natives [23] . Compared to those without albu minuria, we found that those with albuminuria were  more likely to be either treated with or receiving an ACE  
+ Albuminuria among Alaska Natives Nephron Clin Pract 2010;115:c107–c113 c111 
+inhibitor. This may reflect confounding by indication,  given the use of these drugs to control albuminuria or  hypertension, especially among patients with diabetes  [24] . In contrast to other studies [25] , a high HDL was  found to be associated with a lower risk for albuminuria  in our sample, which included those with and without  diabetes. 
+ Impaired fasting glucose and prehypertension are pre cursors to diabetes and hypertension, respectively, and  they were found to be common among this group. A pri or study among American Indians found an association  with impaired fasting glucose and albuminuria [26] . We  found that impaired fasting glucose was independently  associated with low-grade albuminuria. These factors  may be a harbinger of problems to come in the future for  this population that traditionally had low risk factors for  cardiovascular and kidney disease. In the Strong Heart  Study, a longitudinal cardiovascular study conducted  among American Indians, the prevalence of hyperten sion at baseline was 28% in both men and women; over 4  years, it rose to 36% among men and women [27] . Obe sity, an important risk factor for impaired fasting glucose,  diabetes, and hypertension, is increasing among Alaska  Natives [28–30] . The results of this study indicate the  need for prevention efforts before the prevalence of albu minuria and its risk factors increase in this population. 
+ In addition, we found that the risk was higher of hav ing low-grade albuminuria levels among those with ele vated CRP, consistent with albuminuria as a marker of  vascular dysfunction [31] . Low-grade albuminuria was  also associated with hypertension. These findings relate  to the ongoing discussion in the literature about where to  draw the cut-point for the definition of microalbumin uria [32] .
+ While there are important strengths of the  GOCADAN study, such as having carefully defined clin ical measures determined by laboratory analysis and  standardized blood pressure measurements [13] , our  study has several limitations. Our data are cross-section al and therefore we cannot account for changes in the risk  factors or albuminuria status over time. As in most epi demiologic studies, a single random sample of urine was  used to measure albumin and creatinine, rather than re peated measures as recommended for clinical practice  [33] . This may have lead to misclassification or overesti mation of the outcome albuminuria. We did not have  complete data on all GOCADAN participants, nor did we  have serum creatinine or cystatin C data available for  which to estimate kidney function. However, we found  that those with missing risk factor data were generally  
+c112 Nephron Clin Pract 2010;115:c107–c113  
+similar to those who had complete data, except for a small  excess in hypertension among those with missing data.  The modest number of albuminuria cases in our study  makes it challenging to fit a multivariate model that si 
+multaneously adjusts for all risk factors and confounders.  However, the multivariate adjusted analysis, that includ ed both diabetes and hypertension, did reduce the size of  the OR compared to the unadjusted estimates. Our find ings are derived from a specific geographic region in  Alaska, and though representative of the people in that  region, our results may not be generalizable to all Alaska  Natives.  
+ In summary, we found a low burden of albuminuria  among this Alaska Native population. The low preva lence of albuminuria in this population provides an op portunity for continued education, prevention, and re search. While risk factors for albuminuria such as hyper tension, diabetes, and obesity are not as prevalent as in  other populations, public health reports indicate that  they are increasing [34–36] . Understanding the risk fac tors and prevalence of albuminuria and chronic kidney  disease will be important in helping to develop interven tions to keep the burden of disease low in this popula tion.  
+ Acknowledgements  
+ The authors are grateful to the Norton Sound Health Cor poration, GOCADAN staff, and all the study participants of   GOCADAN. This paper was supported by the National Institute  on Aging grant P30AG031057-01 and the National Heart, Lung  and Blood Institute grants RO1-HL64244, U01HL082458, and  M10RR0047-34 from the National Institutes of Health, Bethesda,  Md., USA.  
+ References 1 Coresh J, Selvin E, Stevens LA, Manzi J,  Kusek JW, Eggers P, Van Lente F, Levey AS:  
+Prevalence of chronic kidney disease in the  
+United States. JAMA 2007;298:2038–2047.  
+ 2 Hillege HL, Fidler V, Diercks GF, van Gilst  
+WH, de Zeeuw D, van Veldhuisen DJ, Gans  
+RO, Janssen WM, Grobbee DE, de Jong PE:  
+Urinary albumin excretion predicts cardio 
+vascular and noncardiovascular mortality in  
+general population. Circulation 2002;106:  
+ 1777–1782.  
+ 3 Gerstein HC, Mann JF, Yi Q, Zinman B,  
+ Dinneen SF, Hoogwerf B, Halle JP, Young J,  
+Rashkow A, Joyce C, Nawaz S, Yusuf S: Albu 
+minuria and risk of cardiovascular events,  
+death, and heart failure in diabetic and non 
+diabetic individuals. JAMA 2001;286:421– 
+426. 
+ Jolly /Noonan /Roubideaux /Goldberg / 
+Ebbesson /Umans /Howard  
+ 4 Arnlov J, Evans JC, Meigs JB, Wang TJ, Fox  CS, Levy D, Benjamin EJ, D’Agostino RB,  Vasan RS: Low-grade albuminuria and inci dence of cardiovascular disease events in  nonhypertensive and nondiabetic individu als: the Framingham Heart Study. Circula tion 2005;112:969–975.  
+ 5 Klausen K, Borch-Johnsen K, Feldt-Rasmus sen B, Jensen G, Clausen P, Scharling H,   Appleyard M, Jensen JS: Very low levels of  microalbuminuria are associated with in creased risk of coronary heart disease and  death independently of renal function, hy pertension, and diabetes. Circulation 2004;   110:32–35.  
+ 6 United States Renal Data System: USRDS  2006 Annual Data Report. Bethesda, Na tional Institute of Diabetes and Digestive  and Kidney Diseases, National Institutes of  Health, 2006.  
+ 7 Hirata-Dulas CA, Rith-Najarian SJ, Mc Intyre MC, Ross C, Dahl DC, Keane WF,   Kasiske BL: Risk factors for nephropathy and  cardiovascular disease in diabetic northern  Minnesota American Indians. Clin Nephrol  1996;46:92–98.  
+ 8 Kasiske BL, Rith-Najarian S, Casper ML,  Croft JB: American Indian heritage and risk  factors for renal injury. Kidney Int 1998;54:   1305–1310.  
+ 9 Nelson RG, Morgenstern H, Bennett PH: An  epidemic of proteinuria in Pima Indians  with type 2 diabetes mellitus. Kidney Int  1998;54:2081–2088.  
+ 10 Robbins DC, Knowler WC, Lee ET, Yeh J, Go  OT, Welty T, Fabsitz R, Howard BV: Region al differences in albuminuria among Ameri can Indians: an epidemic of renal disease.  Kidney Int 1996;49:557–563.  
+ 11 Sosenko JM, Hu D, Welty T, Howard BV, Lee  E, Robbins DC: Albuminuria in recent-onset  type 2 diabetes: the Strong Heart Study. Dia betes Care 2002;25:1078–1084.  
+ 12 Xu J, Knowler WC, Devereux RB, Yeh J,  Umans JG, Begum M, Fabsitz RR, Lee ET:  Albuminuria within the ‘normal’ range and  risk of cardiovascular disease and death in  American Indians: the Strong Heart Study.  Am J Kidney Dis 2007;49:208–216.  
+ 13 Howard BV, Devereux RB, Cole SA, David son M, Dyke B, Ebbesson SO, Epstein SE,  Robinson DR, Jarvis B, Kaufman DJ, Laston  S, MacCluer JW, Okin PM, Roman MJ,  Romenesko T, Ruotolo G, Swenson M,  Wenger CR, Williams-Blangero S, Zhu J,  Saccheus C, Fabsitz RR, Robbins DC: A ge netic and epidemiologic study of cardio vascular disease in Alaska Natives   (GOCADAN): design and methods. Int J  Circumpolar Health 2005;64:206–221.  
+ 14 Genuth S, Alberti KG, Bennett P, Buse J, De fronzo R, Kahn R, Kitzmiller J, Knowler WC,  Lebovitz H, Lernmark A, Nathan D, Palmer  J, Rizza R, Saudek C, Shaw J, Steffes M, Stern  M, Tuomilehto J, Zimmet P: Follow-up re port on the diagnosis of diabetes mellitus.  Diabetes Care 2003;26:3160–3167. 
+ 15 Chobanian AV, Bakris GL, Black HR, Cush man WC, Green LA, Izzo JL Jr, Jones DW,  Materson BJ, Oparil S, Wright JT Jr, Roccella  EJ: The seventh report of the Joint National  Committee on prevention, detection, evalu ation, and treatment of high blood pressure:  the JNC 7 Report. JAMA 2003;289:2560– 2572.  
+ 16 Third report of the National Cholesterol Ed ucation Program (NCEP) expert panel on  detection, evaluation, and treatment of high  blood cholesterol in adults (Adult Treatment  Panel III). Final report. Circulation 2002;   106:3143–3421.  
+ 17 Pearson TA, Mensah GA, Alexander RW,  Anderson JL, Cannon RO 3rd, Criqui M,  Fadl YY, Fortmann SP, Hong Y, Myers GL,  Rifai N, Smith SC Jr, Taubert K, Tracy RP,  Vinicor F: Markers of inflammation and car 
+diovascular disease: application to clinical  and public health practice: a statement for  healthcare professionals from the Centers  for Disease Control and prevention and the  American Heart Association. Circulation  2003;107:499–511.  
+ 18 Ebbesson SO, Roman MJ, Devereux RB,  Kaufman D, Fabsitz RR, Maccluer JW, Dyke  B, Laston S, Wenger CR, Comuzzie AG,  Romenesko T, Ebbesson LO, Nobmann ED,  Howard BV: Consumption of omega-3 fatty  acids is not associated with a reduction in ca 
+rotid atherosclerosis: the Genetics of Coro nary Artery Disease in Alaska Natives study.  Atherosclerosis 2008;199:346–353.  
+ 19 Shah VO, Scavini M, Stidley CA, Tentori F,  Welty TK, MacCluer JW, Narva AS, Bobelu  A, Albert CP, Kessler DS, Harford AM, Wong  CS, Harris AA, Paine S, Zager PG: Epidemic  of diabetic and nondiabetic renal disease  among the Zuni Indians: the Zuni Kidney  Project. J Am Soc Nephrol 2003;14:1320– 1329.  
+ 20 K/DOQI clinical practice guidelines for  chronic kidney disease: evaluation, classifi cation, and stratification. Am J Kidney Dis  2002;39:S1–S266.  
+ 21 Brown WW, Peters RM, Ohmit SE, Keane  WF, Collins A, Chen SC, King K, Klag MJ,  Molony DA, Flack JM: Early detection of kid ney disease in community settings: the Kid ney Early Evaluation Program (KEEP). Am J  Kidney Dis 2003;42:22–35.  
+ 22 Racial/ethnic disparities in prevalence,  treatment, and control of hypertension –  United States, 1999–2002. MMWR 2005;54:   7–9.  
+ 23 Murphy NJ, Schraer CD, Theile MC, Boyko  EJ, Bulkow LR, Doty BJ, Lanier AP: Hyper tension in Alaska Natives: association with  overweight, glucose intolerance, diet and  mechanized activity. Ethn Health 1997;2:   267–275.  
+ 24 Sarafidis PA, Khosla N, Bakris GL: Antihy pertensive therapy in the presence of pro teinuria. Am J Kidney Dis 2007;49:12–26.  
+ 25 Xu J, Lee ET, Devereux RB, Umans JG, Bella  JN, Shara NM, Yeh J, Fabsitz RR, Howard  BV: A longitudinal study of risk factors for  incident albuminuria in diabetic American  Indians: the Strong Heart Study. Am J Kid 
+ney Dis 2008;51:415–424.  
+ 26 Hoehner CM, Greenlund KJ, Rith-Najarian  S, Casper ML, McClellan WM: Association  of the insulin resistance syndrome and mi croalbuminuria among nondiabetic Native  Americans. The Inter-Tribal Heart Project. J  Am Soc Nephrol 2002;13:1626–1634.  
+ 27 Welty TK, Rhoades DA, Yeh F, Lee ET,   Cowan LD, Fabsitz RR, Robbins DC, De vereux RB, Henderson JA, Howard BV:  Changes in cardiovascular disease risk fac tors among American Indians. The Strong  Heart Study. Ann Epidemiol 2002;12:97– 106.  
+ 28 Hiratsuka VY, Loo R, Will JC, Oberrecht R,  Poindexter P: Cardiovascular disease risk  factor screening among Alaska Native wom en: the traditions of the heart project. Int J  Circumpolar Health 2007; 66(suppl 1):39– 44.  
+ 29 Mohatt GV, Plaetke R, Klejka J, Luick B, Lar don C, Bersamin A, Hopkins S, Dondanville  M, Herron J, Boyer B: The Center for Alaska  Native Health Research Study: a communi ty-based participatory research study of obe sity and chronic disease-related protective  and risk factors. Int J Circumpolar Health  2007;66:8–18.  
+ 30 Murphy NJ, Schraer CD, Thiele MC, Boyko  EJ, Bulkow LR, Doty BJ, Lanier AP: Dietary  change and obesity associated with glucose  intolerance in Alaska Natives. J Am Diet As 
+soc 1995;95:676–682.  
+ 31 Deckert T, Feldt-Rasmussen B, Borch-John sen K, Jensen T, Kofoed-Enevoldsen A: Al buminuria reflects widespread vascular  damage: the steno hypothesis. Diabetologia  1989;32:219–226.  
+ 32 Knight EL, Curhan GC: Albuminuria: mov ing beyond traditional microalbuminuria  cut-points. Curr Opin Nephrol Hypertens  2003;12:283–284.  
+ 33 National Kidney Foundation: Kidney Dis ease Outcomes Quality Initiative Guideline.  Am J Kidney Dis 2002;39:S32–S36.  
+ 34 Diagnosed diabetes among American Indi ans and Alaska Natives aged ! 35 years – United States, 1994–2004. MMWR 2006;55:   1201–1203.  
+ 35 Diabetes prevalence among American Indi ans and Alaska Natives and the overall popu lation – United States, 1994–2002. MMWR  2003;52:702–704.  
+ 36 Boyer BB, Mohatt GV, Plaetke R, Herron J,  Stanhope KL, Stephensen C, Havel PJ: Meta bolic syndrome in Yup’ik Eskimos: the Cen ter for Alaska Native Health Research  (CANHR) Study. Obesity 2007; 15: 2535– 2540.  
+ Albuminuria among Alaska Natives Nephron Clin Pract 2010;115:c107–c113 c113
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!

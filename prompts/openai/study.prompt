@@ -1,0 +1,609 @@
+Read the following checklist, which states best practice guidelines for reporting biomedical and health research in peer-reviewed articles.
+After reviewing the checklist, you will be asked to fill it out for a given PubMed research article. PAY CLOSE ATTENTION.
+```checklist
+STROBE Statement—checklist of items that should be included in reports of observational studies
+
+
+
+
+	Item No
+	Recommendation
+	Page 
+No
+	Title and abstract
+	1
+	(a) Indicate the study’s design with a commonly used term in the title or the abstract
+	
+
+	(b) Provide in the abstract an informative and balanced summary of what was done and what was found
+	
+
+	Introduction
+	Background/rationale
+	2
+	Explain the scientific background and rationale for the investigation being reported
+	
+
+	Objectives
+	3
+	State specific objectives, including any prespecified hypotheses
+	
+
+	Methods
+	Study design
+	4
+	Present key elements of study design early in the paper
+	
+
+	Setting
+	5
+	Describe the setting, locations, and relevant dates, including periods of recruitment, exposure, follow-up, and data collection
+	
+
+	Participants
+	6
+	(a) Cohort study—Give the eligibility criteria, and the sources and methods of selection of participants. Describe methods of follow-up
+Case-control study—Give the eligibility criteria, and the sources and methods of case ascertainment and control selection. Give the rationale for the choice of cases and controls
+Cross-sectional study—Give the eligibility criteria, and the sources and methods of selection of participants
+	
+
+	(b) Cohort study—For matched studies, give matching criteria and number of exposed and unexposed
+Case-control study—For matched studies, give matching criteria and the number of controls per case
+	
+
+	Variables
+	7
+	Clearly define all outcomes, exposures, predictors, potential confounders, and effect modifiers. Give diagnostic criteria, if applicable
+	
+
+	Data sources/ measurement
+	8*
+	 For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group
+	
+
+	Bias
+	9
+	Describe any efforts to address potential sources of bias
+	
+
+	Study size
+	10
+	Explain how the study size was arrived at
+	
+
+	Quantitative variables
+	11
+	Explain how quantitative variables were handled in the analyses. If applicable, describe which groupings were chosen and why
+	
+
+	Statistical methods
+	12
+	(a) Describe all statistical methods, including those used to control for confounding
+	
+
+	(b) Describe any methods used to examine subgroups and interactions
+	
+
+	(c) Explain how missing data were addressed
+	
+
+	(d) Cohort study—If applicable, explain how loss to follow-up was addressed
+Case-control study—If applicable, explain how matching of cases and controls was addressed
+Cross-sectional study—If applicable, describe analytical methods taking account of sampling strategy
+	
+
+	(e) Describe any sensitivity analyses
+	
+
+	Continued on next page
+________________
+Results
+	Participants
+	13*
+	(a) Report numbers of individuals at each stage of study—eg numbers potentially eligible, examined for eligibility, confirmed eligible, included in the study, completing follow-up, and analysed
+	
+
+	(b) Give reasons for non-participation at each stage
+	
+
+	(c) Consider use of a flow diagram
+	
+
+	Descriptive data
+	14*
+	(a) Give characteristics of study participants (eg demographic, clinical, social) and information on exposures and potential confounders
+	
+
+	(b) Indicate number of participants with missing data for each variable of interest
+	
+
+	(c) Cohort study—Summarise follow-up time (eg, average and total amount)
+	
+
+	Outcome data
+	15*
+	Cohort study—Report numbers of outcome events or summary measures over time
+	
+
+	Case-control study—Report numbers in each exposure category, or summary measures of exposure
+	
+
+	Cross-sectional study—Report numbers of outcome events or summary measures
+	
+
+	Main results
+	16
+	(a) Give unadjusted estimates and, if applicable, confounder-adjusted estimates and their precision (eg, 95% confidence interval). Make clear which confounders were adjusted for and why they were included
+	
+
+	(b) Report category boundaries when continuous variables were categorized
+	
+
+	(c) If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time period
+	
+
+	Other analyses
+	17
+	Report other analyses done—eg analyses of subgroups and interactions, and sensitivity analyses
+	
+
+	Discussion
+	Key results
+	18
+	Summarise key results with reference to study objectives
+	
+
+	Limitations
+	19
+	Discuss limitations of the study, taking into account sources of potential bias or imprecision. Discuss both direction and magnitude of any potential bias
+	
+
+	Interpretation
+	20
+	Give a cautious overall interpretation of results considering objectives, limitations, multiplicity of analyses, results from similar studies, and other relevant evidence
+	
+
+	Generalisability
+	21
+	Discuss the generalisability (external validity) of the study results
+	
+
+	Other information
+	Funding
+	22
+	Give the source of funding and the role of the funders for the present study and, if applicable, for the original study on which the present article is based
+	
+
+	
+
+*Give information separately for cases and controls in case-control studies and, if applicable, for exposed and unexposed groups in cohort and cross-sectional studies.
+
+
+```
+Now that you have read the checklist, you will be asked to read the full text of a biomedical or health research article retrieved from PubMed.
+As you read the article, think about whether or not it satisfies each of the criteria included in the checklist.
+After reviewing the article, you will be asked to generate a completed version of the checklist you were shown, correctly filled out in reference to the article you read.
+READ THE ARTICLE CAREFULLY.
+```article
+﻿nutrients 
+Article 
+Smoking Exposure Is Associated with Serum Vitamin D Deficiency in Children: Evidence from the Japan Environment and Children’s Study 
+Limin Yang 1,2,* , Miori Sato 1,2, Mayako Saito-Abe 1,2, Yumiko Miyaji 1,2, Chikako Sato 1,2, Minaho Nishizato 1,2 , Natsuhiko Kumasaka 1,2, Hidetoshi Mezawa 1,2 , Kiwako Yamamoto-Hanada 1,2 and Yukihiro Ohya 1,2 
+1 Allergy Center, National Center for Child Health and Development, Tokyo 157-8535, Japan; 
+sato-m@ncchd.go.jp (M.S.); saito-myk@ncchd.go.jp (M.S.-A.); miyaji-y@ncchd.go.jp (Y.M.); 
+sato-ch@ncchd.go.jp (C.S.); nishizato-m@ncchd.go.jp (M.N.); kumasaka-n@ncchd.go.jp (N.K.); 
+mezawa-h@ncchd.go.jp (H.M.); yamamoto-k@ncchd.go.jp (K.Y.-H.); ohya-y@ncchd.go.jp (Y.O.) 
+2 Medical Support Center for the Japan Environment and Children’s Study, National Research Institute for 
+Child Health and Development, Tokyo 157-8535, Japan 
+* Correspondence: yo-r@ncchd.go.jp; Tel.: +81-3-3416-0181; Fax: +81-3-3416-2222 
+Abstract: Tobacco smoke exposure is known to lower serum 25-hydroxyvitamin D (25(OH)D) con centrations. This study evaluated the association between passive smoking and vitamin D deficiency 
+(VDD) in young children using data from the Japan Environment and Children’s Study (JECS), the 
+largest birth cohort study in Japan. Information on parental smoking status was extracted from 
+a survey of JECS for children aged 1.5 years and data for serum 25(OH)D concentrations were ob 
+Citation: Yang, L.; Sato, M.; 
+Saito-Abe, M.; Miyaji, Y.; Sato, C.; Nishizato, M.; Kumasaka, N.; Mezawa, H.; Yamamoto-Hanada, K.; Ohya, Y. Smoking Exposure Is Associated with Serum Vitamin D Deficiency in Children: Evidence from the Japan Environment and Children’s Study. Nutrients 2022, 14, 3121. https://doi.org/10.3390/ nu14153121 
+Academic Editor: Melissa Melough 
+Received: 22 June 2022 
+Accepted: 25 July 2022 
+Published: 29 July 2022 
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil iations. 
+Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 
+4.0/). 
+tained from blood tests in the Sub-Cohort Study of JECS performed at age 2 years. Logistic regression and linear models were fitted to evaluate the association between these variables. Data were analyzed for 4593 children. After adjusting for covariates, smoke exposure was significantly associated with increased incidence of VDD (OR 1.35; 95% CI, 1.14–1.59) according to the logistic model. The linear model indicated that passive smoking negatively predicted de-seasonalized serum 25(OH)D concen trations (β −0.5; 95% CI −0.95 to −0.08) in children aged 2 years. The results suggest that smoke exposure is a risk factor for VDD in children. Given that VD plays a crucial role in bone metabolism and the immune system, our findings are significant for clinical and public health. 
+Keywords: tobacco smoke exposure; children; serum 25(OH)D; vitamin D; deficiency 
+1. Introduction 
+Vitamin D (VD) is a steroid hormone that can be obtained from exposure to sunshine and by dietary intake. The two forms of VD are ergocalciferol (VD2) and cholecalcif erol (VD3). From exposure to sunlight, specifically ultraviolet B radiation, previtamin D3 is synthesized from 7-dehydroxycholesterol through photolytic conversion [1], and vitamin D3 is converted from previtamin D3 in the skin. In the liver, 25-hydroxyvitamin D (25(OH)D)—the major circulating form and the best producerr of VD—is generated by the action of 25-hydroxylase. Finally, 25(OH)D is metabolized in the kidney to 1,25-dihydroxyvitamin D3 [1], a biologically active metabolite of VD [2,3]. 
+Vitamin D plays a crucial role in regulating calcium and phosphate metabolism and maintaining bone density [4], whereas its deficiency is suggested to be associated with osteoporosis, fractures, and rickets in the young population [5]. In addition to bone health, VD has anti-inflammatory and antioxidant properties and affects the immune system by regulating immune processes [1]. Vitamin D deficiency (VDD) appears to be related to chronic disorders, such as cancers, diabetes, autoimmune diseases, and heart diseases [6]. According to an epidemiologic study, VDD risk factors include lack of sun exposure, 
+Nutrients 2022, 14, 3121. https://doi.org/10.3390/nu14153121 https://www.mdpi.com/journal/nutrients
+           
+According to an epidemiologic study, VDD risk factors include lack of sun exposure,  physical inactivity, obesity, and measurements in the winter season [6]. Globally, more  
+Nutrients 2022, 14, 3121 2 of 10 than 1 billion people have VDD [7].  
+Cigarettes and cigarette smoke contain more than 7000 chemicals, and most of these  
+chemicals are harmful, such as nicotine, hydrogen cyanide, formaldehyde, and lead, [8].  physical inactivity, obesity, and measurements in the winter season [6]. Globally, more than 
+Tobacco smoke exposure is considered to lower serum 25(OH)D concentrations, and then  
+1 billion people have VDD [7]. 
+lead to low bone mass or fracture [9]. Although the results remain inconsistent, this de 
+Cigarettes and cigarette smoke contain more than 7000 chemicals, and most of these 
+pressed effect has been reported among different adult populations. Studies have also  
+chemicals are harmful, such as nicotine, hydrogen cyanide, formaldehyde, and lead, [8]. 
+been performed in children [9–11]. An analysis for young population (3–17 years US chil 
+Tobacco smoke exposure is considered to lower serum 25(OH)D concentrations, and then 
+dren) indicated that tobacco smoke exposure is associated with an increased risk of vita 
+lead to low bone mass or fracture [9]. Although the results remain inconsistent, this 
+min D deficiency in young population [11]. However, little is known about the Japanese  
+depressed effect has been reported among different adult populations. Studies have also 
+been performed in children [9–11]. An analysis for young population (3–17 years US 
+population, especially in young children. Therefore, we designed this study to evaluate  children) indicated that tobacco smoke exposure is associated with an increased risk of 
+the association between passive smoking and VDD in young children using data from a  vitamin D deficiency in young population [11]. However, little is known about the Japanese 
+birth cohort in Japan.  
+population, especially in young children. Therefore, we designed this study to evaluate the 
+association between passive smoking and VDD in young children using data from a birth 
+2. Materials and Methods  
+cohort in Japan. 
+2.1. Study Design  
+2. Materials and Methods 
+The participants in this observational study were obtained from the Japan Environ 
+2.1. Study Design 
+ment and Children’s Study (JECS), the largest birth cohort study in Japan [12]. The main  aims of JECS were to evaluate the association between exposure to environmental chemi 
+The participants in this observational study were obtained from the Japan Environment 
+and Children’s Study (JECS), the largest birth cohort study in Japan [12]. The main aims 
+cals and children’s health and development [12]. The recruitment period for JECS was  of JECS were to evaluate the association between exposure to environmental chemicals 
+between January 2011 and March 2014 from 15 Regional Centers [12] The parents and  and children’s health and development [12]. The recruitment period for JECS was between 
+their children were followed until children reached 13 years of age [12].  
+January 2011 and March 2014 from 15 Regional Centers [12] The parents and their children 
+Data collection methods included self-administered questionnaires, environmental  
+were followed until children reached 13 years of age [12]. 
+measurements, developmental and neuropsychological tests, and medical checks accord Data collection methods included self-administered questionnaires, environmental 
+ing to the JECS protocols [12]. Medical checks, including blood tests, were performed at  measurements, developmental and neuropsychological tests, and medical checks according 
+2, 4, 6, 8, 10, and 12 years as a Sub-Cohort Study of JECS [12,13].  
+to the JECS protocols [12]. Medical checks, including blood tests, were performed at 2, 4, 6, 
+Our study was designed to explore children’s exposure to tobacco smoke in relation  
+8, 10, and 12 years as a Sub-Cohort Study of JECS [12,13]. 
+to VDD. Information on parental smoking status was extracted from the self-administered  
+Our study was designed to explore children’s exposure to tobacco smoke in relation 
+questionnaire conducted when children were age 1.5 years, and data for serum 25(OH)D  
+to VDD. Information on parental smoking status was extracted from the self-administered 
+concentrations were obtained from blood tests in the Sub-Cohort Study of JECS performed  
+questionnaire conducted when children were age 1.5 years, and data for serum 25(OH)D 
+at age 2 years. After excluding children with missing 25(OH)D data, we analyzed 4593  
+concentrations were obtained from blood tests in the Sub-Cohort Study of JECS performed 
+children in this study. Detailed data selection is presented in Figure 1. The datasets jecs 
+at age 2 years. After excluding children with missing 25(OH)D data, we analyzed 4593 
+ta-20190930 and jecs-ta-20190930-mdv, released by the Program Office in October 2019,  
+children in this study. Detailed data selection is presented in Figure 1. The datasets jecs-ta 
+20190930 and jecs-ta-20190930-mdv, released by the Program Office in October 2019, were 
+were used for analysis.  
+used for analysis. 
+Figure 1. Study flow-chart. JECS, Japan Environment and Children’s Study.
+Figure 1. Study flow-chart. JECS, Japan Environment and Children’s Study.  
+Nutrients 2022, 14, 3121 3 of 10 
+2.2. Assessment of Children’s Tobacco Smoke Exposure 
+Passive smoking was defined by the answer “Yes” to the question “Do you smoke 
+currently?” as answered by the mother or father. Another question that addressed the 
+number of cigarettes smoked per day at home was used to assess the dose–response 
+relationship between tobacco smoke exposure and VDD. The number of cigarettes smoked 
+per day was grouped as a category variable (0, 1–5, 6–10 and ≥11). 
+2.3. Model Covariates 
+The covariates were determined based on scientific knowledge and published studies 
+on the determinants of 25(OH)D. Sociodemographic data included education level [11] and 
+annual household income [11], which were asked on the MT2 questionnaire [14]. Children’s 
+sex [11], gestational age at birth [15,16], and birthweight [11,17] were extracted from the 
+medical records after delivery [14]. Other model covariates, including daycare attendance, 
+wearing a hat playing outside, outside play time (associated with sunlight exposure) and Z 
+scores of body mass index (BMI) [11] at age 1.5 years, were obtained from the questionnaire 
+conducted after birth. The timing (the month) of the blood test [6] was extracted from the 
+Sub-Cohort Study of JECS at 2 years and grouped into 4 seasons of 3 months each. 
+2.4. Serum 25(OH)D Concentrations 
+Serum 25(OH)D concentration was measured by the liquid chromatography–tandem 
+mass spectrometry (LC-MS/MS) method (LSI Medience Corporation, Tokyo, Japan) [18]. The intra-assay and inter-assay CV are described in our previous published study [18]. Serum 25(OH)D concentrations were defined as a sum of 25(OH)D2 and 25(OH)D3. Serum 
+25(OH)D concentrations less than 20 ng/mL were defined as VDD based on criteria pub lished by the Japanese Society for Bone and Mineral Research [18]. 
+2.5. Statistical Analysis 
+To assess the relationship between tobacco smoke exposure and VDD, we fitted 
+the logistic regression model. We first fitted Model 1 with tobacco smoke exposure and 
+children’s sex as the independent variables, and then we added sociodemographic factors, 
+daycare attendance, and season of blood test into Model 2 (main model). Finally, the Z 
+score of BMI at age 1.5 years was further adjusted. 
+We did not perform a stepwise selection to reduce variables in the models. The 
+multicollinearity of the independent variables in the models was scrutinized for variance 
+inflation factor values. We assumed that the missing data in the model were random, and 
+missing data for covariates were imputed using multiple imputation (MI) analysis. The MI 
+process generated 20 datasets with the missing data imputed. All confounders were used 
+in the imputation processes. 
+Next, we explored the dose–response relationship of tobacco smoke exposure with 
+VDD using the number of cigarettes per day as a proxy for magnitude of tobacco smoke 
+exposure in children. In addition, we fitted the linear regression model for de-seasonalized 
+serum 25(OH)D concentrations [19]. Calculation details for de-seasonalized serum 25(OH)D 
+concentrations were published in our previous study [20] 
+As a sensitivity analysis, we also fitted the models with a complete dataset by removing 
+data in the dataset if it contains missing values. 
+Descriptive analysis and modeling were conducted with R version 4.0.3 software 
+(Institute for Statistics and Mathematics, Vienna, Austria; www.r-project.org accessed on 
+10 December 2020). 
+3. Results 
+3.1. Baseline Characteristic, Passive Smoking, and VDD 
+Figure 1 presents the flow chart for the study. After excluding children with missing 
+data for serum 25(OH)D2 or 25(OH)D3 concentrations, 4593 children remained for analysis. Table 1 presents the baseline characteristics of the study cohort. Among the 4493 children
+Nutrients 2022, 14, 3121 4 of 10 
+whose parents answered the question involving smoking, 1289 (28.7%) children were 
+judged to be exposed to tobacco smoke. The prevalence of VDD was near 25% in this cohort. Tables S1 and S2 show the baseline characteristics for children by VDD or passive smoking. 
+Table 1. Baseline characteristics of participants. 
+Variables N % 
+Education level of mother High 3158 69.1 Low 1413 30.9 
+Missing 22 
+Education level of father High 2774 60.9 Low 1780 39.1 
+Missing 39 
+Annual Income of family Normal or high 2777 63.3 Low 1610 36.7 
+Missing 206 
+Low birth weight No 4257 92.7 Yes 336 7.3 
+Sex of children Boys 2338 50.9 Girls 2255 49.1 
+Premature birth No 4415 96.1 Yes 178 3.9 
+Ages of mother at pregnancy <35 3250 70.8 ≥35 1342 29.2 
+Missing 1 
+Exclusive breast milk before and at 6 months No 2795 61 Yes 1787 39 
+Missing 11 
+Day nursery No 2318 51.5 Yes 2180 48.5 
+Missing 95 
+Season of 25(OH)D measurement March–May 998 21.7 June–August 1441 31.4 
+September–November 1403 30.5 
+December–February 751 16.4 
+Wearing a hat playing outside Yes 3508 77.7 No 1004 22.3 
+Missing 81 
+Outside play time (hours) <1 2060 46.3 ≥1 2390 53.7 
+Missing 143 
+Parents smoking No 3204 71.3 Yes 1289 28.7 
+Missing 100 
+Number of cigarettes smoked at home (mother) 0 4229 93.7 1–5 122 2.7 
+6–10 103 2.3 
+≥11 60 1.3 
+Missing 79 
+Number of cigarettes smoked at home (father) 0 3256 76.2 1–5 500 11.7 
+6–10 307 7.2 
+≥11 208 4.9 
+Missing 322 
+Serum 25(OH)D concentrations (ng/mL) ≥20 3459 75.3 <20 1134 24.7 
+Z scores of BMI at 18 months mean (SD) 0.48 (1.13)
+Nutrients 2022, 14, 3121 5 of 10 
+3.2. Association between Passive Smoking at Age 1.5 Years and VDD at 2 Years 
+Table 2 lists the results from logistic regression models, which identified the association 
+between passive smoking in children and VDD. After adjusting for children’s sex, parents’ education levels, income, low birth weight, premature birth, ages of mother at pregnancy, 
+exclusive breast milk before and at 6 months, day nursery, wearing a hat playing outside, 
+outside play time and season of blood test, passive smoking in children was significantly 
+associated with an increased incidence of VDD at 2 years (OR 1.35; 95% CI, 1.14–1.59). The 
+inclusion of BMI z-score in logistic models did not meaningfully change the relationship 
+between smoke exposure and VDD. 
+Table 2. Association of tobacco smoke exposure with vitamin D deficiency in children age 2 years. 
+95% CI 
+OR Lower Upper p Value 
+Tabaco smoking exposure # 
+Model 1 a 1.34 1.16 1.55 0.0001 
+Model 2 b 1.35 1.14 1.59 0.0004 
+Model 3 c 1.34 1.14 1.59 0.0005 
+Number of cigarettes smoked at home (mother) $ 
+Model 1 a 
+1–5 1.59 1.08 2.33 0.018 
+6–10 0.79 0.49 1.28 0.340 
+≥11 1.72 1.00 2.94 0.049 
+Model 2 b 
+1–5 1.38 0.90 2.11 0.137 
+6–10 0.72 0.43 1.23 0.228 
+≥11 1.65 0.91 3.00 0.010 
+Model 3 c 
+1–5 1.39 0.91 2.12 0.134 
+6–10 0.74 0.43 1.25 0.253 
+≥11 1.64 0.90 2.98 0.104 
+Number of cigarettes smoked at home (father) $ 
+Model 1 a 
+1–5 1.51 1.23 1.85 <0.001 
+6–10 1.07 0.82 1.40 0.635 
+≥11 1.22 0.89 1.66 0.225 
+Model 2 b 
+1–5 1.47 1.17 1.85 0.001 
+6–10 1.10 0.82 1.48 0.527 
+≥11 1.25 0.89 1.77 0.202 
+Model 3 c 
+1–5 1.46 1.16 1.84 0.001 
+6–10 1.10 0.82 1.49 0.514 
+≥11 1.25 0.89 1.77 0.201 
+Models were fitted with logistic regression model. OR odds ratios, CI; confidential inference; a Model 1 adjusted 
+sex; b Model 2 adjusted sex, education levels of parents, income, low birth weight, premature birth, ages of mother 
+at pregnancy, exclusive breast milk before and at 6 months, day nursery, wearing a hat playing outside, outside 
+play time and season of blood test; c Model 3 adjusted sex, education levels of parents, income, low birth weight, 
+premature birth, ages of mother at pregnancy, exclusive breast milk before and at 6 months, day nursery, wearing 
+a hat playing outside, outside play time, season of blood test and z scores of BMI at age 1.5 years; # No smoking 
+exposure was used as reference category; $ Not smoking at home group was reference group. 
+In addition, there does not appear to be a dose–response relationship between the 
+number of cigarettes smoked indoors and VDD. Compared with children who had no 
+second-hand smoke exposure at home, after covariate adjustment, only children whose 
+fathers smoked 1–5 cigarettes per day indoors was associated with an increased incidence 
+of VDD at age 2 years (OR 1.47; 95% CI, 1.17–1.85 for fathers smoking 1–5 cigarettes/day; 
+OR 1.10; 95% CI, 0.82–1.48 for 6–10 cigarettes/day; OR 1.25; 95% CI, 0.89–1.77 for 11 or more
+Nutrients 2022, 14, 3121 6 of 10 
+cigarettes/day). A similar pattern was also observed in models fitted with the complete 
+dataset (Table S3). 
+3.3. Association between Passive Smoking at Age 1.5 Years and De-Seasonalized Serum 25(OH)D 
+Concentrations at Age 2 Years 
+Table 3 shows the association between passive smoking and de-seasonalized serum 
+25(OH)D concentrations. As shown, passive smoking negatively predicted de-seasonalized 
+serum 25(OH)D concentrations in the models. After adjusting for the children’s sex, parents’ education levels, income, low birth weight, premature birth, ages of mother at pregnancy, 
+exclusive breast milk before and at 6 months, day nursery, wearing a hat playing outside 
+and outside play time, compared with the non-exposure group, passive smoking was 
+associated with low de-seasonalized serum 25(OH)D concentrations (β −0.5; 95% CI, 
+−0.95 to −0.08). Passive smoking was still significantly negatively associated with de 
+seasonalized 25(OH)D, and the coefficient was almost unchanged (Model 3 in Table 3), 
+when the Z scores of BMI at age 1.5 years were added into the model. The linear model 
+for serum 25(OH)D concentrations showed similar results to those for de-seasonalized 
+serum 25(OH)D concentrations (data not shown). The results for the relationship between 
+the number of cigarettes smoked per day by parents and VDD in children showed that 
+only the group smoking 1–5 cigarettes per day was significantly associated with decreased 
+de-seasonalized serum 25(OH)D concentrations, compared with the non-exposure group 
+(β −1.17; 95% CI, −2.33 to −0.01 for mothers smoking 1–5 cigarettes/day; β −0.74; 95% CI, 
+−1.36 to −0.12 for fathers smoking 1–5 cigarettes/day). 
+Table 3. Association between tobacco smoke exposure and de-seasonalized serum 25(OH)D concen trations in children aged 2 years. 
+95% CI 
+Coefficients Lower Upper p Value 
+Tabaco smoking exposure 
+Model 1 a −0.55 −0.97 −0.13 0.011 
+Model 2 b −0.52 −0.95 −0.08 0.020 
+Model 3 c −0.51 −0.95 −0.08 0.021 
+Number of cigarettes smoked at home (mother) 
+Model 1 a 
+1–5 −1.21 −2.37 −0.05 0.041 
+6–10 0.53 −0.73 1.79 0.412 
+≥11 0.50 −1.18 2.18 0.558 
+Model 2 b 
+1–5 −1.17 −2.33 −0.01 0.048 
+6–10 0.53 −0.73 1.80 0.409 
+≥11 0.54 −1.15 2.23 0.529 
+Model 3 c 
+1–5 −1.18 −2.34 −0.02 0.047 
+6–10 0.52 −0.75 1.78 0.424 
+≥11 0.56 −1.13 2.25 0.518 
+Number of cigarettes smoked at home (father) 
+Model 1 a 
+1–5 −0.85 −1.46 −0.24 0.007 
+6–10 −0.35 −1.10 0.40 0.363 
+≥11 0.30 −0.63 1.22 0.529 
+Model 2 b 
+1–5 −0.74 −1.36 −0.12 0.020 
+6–10 −0.33 −1.08 0.42 0.392 
+≥11 0.22 −0.71 1.15 0.648
+Nutrients 2022, 14, 3121 7 of 10 
+Table 3. Cont. 
+95% CI 
+Coefficients Lower Upper p Value 
+Model 3 c 
+1–5 −0.73 −1.35 −0.11 0.021 
+6–10 −0.33 −1.09 0.42 0.387 
+≥11 0.22 −0.71 1.15 0.647 
+Models were fitted with linear regression model. CI, confidential interval; a Model 1 adjusted for sex; b Model 
+2 for adjusted sex, education levels of parents, income, low birth weight, premature birth, ages of mother at 
+pregnancy, exclusive breast milk before and at 6 months, day nursery, wearing a hat playing outside and outside 
+play time; c Model 3 for adjusted sex, education levels of parents, income, low birth weight, premature birth, ages 
+of mother at pregnancy, exclusive breast milk before and at 6 months, day nursery, wearing a hat playing outside, 
+outside play time and z scores of BMI at age 1.5 years. 
+4. Discussion 
+Our results showed a high risk of VDD in children exposed to parental smoking 
+compared with children who were not exposed. This study is the first effort to assess the 
+association between smoking and VDD in children as young as 2 years in the Japanese 
+population on this topic, to our best knowledge. 
+Our results are in line with those of several published studies. A recent report from 
+the U.K. Biobank indicated that tobacco smoking increased the risk of VDD in adults [21]. Similarly, a study in Finland among 5714 adults age 30–79 years showed lower serum 
+25(OH)D concentrations in former and current smokers than never- or less than 1-year 
+smokers [6]. Evidence from a study in Sweden in young men showed that smokers consis tently had lower serum VD concentrations than nonsmokers [22]. In addition, significantly 
+low serum 25(OH)D3 levels were observed in both active and passive smoking groups, 
+according to the report from Soldin et al. who evaluated steroid hormone concentrations 
+of 293 women age 18–45 years in the United States [23]. A study in Chinese men found 
+an inverse dose–response relationship—the greater the number of cigarettes per day, the 
+lower the concentration of VD [24]. Maternal smoke exposure also has been found to be 
+associated with low serum VD in infants [15]. Moreover, Chinellato et al. evaluated the 
+effect of passive smoking exposure on serum VD concentrations in 152 white children and 
+found significantly lower serum 25(OH)D concentrations among those with exposure to 
+both parents smoking than those without smoking exposure [10]. In contrast, a study in 
+Iran by Banihosseini et al. did not find a significant association [25]; however, the lack of 
+power due to a limited sample size may explain the nonsignificant effect of smoking on VD 
+in the study. 
+The mechanisms for lower VD with smoking exposure remain unclear. Some molecu 
+lar pathways have been reported. Smoking exposure causes a disruption of VD metabolism, 
+related to the dysfunction of VD-parathyroid hormone (PTH) axis [5]. The simultaneous de crease in PTH and calcitriol has been observed in a population with smoking exposure [26]. The reduction in 1α-hydroxylase with exposure to cigarette smoking extract also has been 
+reported. In addition, the dysregulation of genes that encode for the enzymes involving 
+VD metabolism may explain the deleterious effect of smoking exposure on serum VD [5]. The decreased concentration of serum VD with smoking exposure may also be related to 
+disturbances in food intake. A study evaluating smoking exposure, dietary calcium, and 
+VD concentrations in women showed that tobacco smoking can change the taste of dietary 
+intake, and thereby result in lower intake of VD from food; moreover, this change can be 
+reversed by smoking cessation [5,27]. 
+We did not find a dose–response relationship between the number of cigarettes smoked 
+indoors and VDD. The number of cigarettes smoked by parents may not a good proxy 
+to reflect the true magnitude of tobacco smoke exposure in children. The overall tobacco 
+smoke exposure from children’s environments included second-hand smoke and third hand smoke, which is residual nicotine and other smoke toxicants accumulated on dust, the surface of clothes and furniture in children’s environments by smokers. Therefore, the
+Nutrients 2022, 14, 3121 8 of 10 
+tobacco smoke exposure was affected not only by number of cigarettes smoked per day, 
+but also by other determinants, such as the number of indoor smokers, the size of smoking 
+space, the ventilation frequency, efficiency of the ventilation, and children’s indoor time. A further evaluation of the effects of smoking on VDD should focus on tobacco smoke 
+exposure with better biomarkers, such as hand nicotine or salivary/urinary cotinine. 
+The large sample size is an important strength of our study. The data used for analysis 
+were obtained from the largest birth cohort in Japan, which could provide enough power to 
+show the significant association between smoking exposure and VDD in the model. More over, LM-MS/MS was used to test serum 25(OH)D concentrations. This method is consid ered to be a reliable and robust method of measurement, and is extensively used in studies 
+involving serum 25(OH)D concentrations as a gold standard [28,29]. In addition, although 
+the study covers a wide geographic area from the northernmost prefecture (Hokkaido) to 
+the southernmost prefecture (Okinawa); all tests for serum 25(OH)D concentrations were 
+performed in one laboratory, which minimized the potential measurement errors. 
+Comparison with other studies should be performed with caution. Although serum 
+25(OH)D concentration is the best marker to reflect VD concentrations in the body, no single 
+cutoff value has been agreed upon by health agencies for serum 25(OH)D concentration to 
+define VDD. Second, serum VD status was evaluated according to a single blood test, which 
+may not reflect long-term VD in the body very well [20,21]. Third, a value of 25(OH)D was 
+truncated as 4 in this study if a value of serum 25(OH)D2 or 25(OH)D3 was lower than 
+4 ng/mL, which may cause an overestimation of VD level [18,20]. Fourth, the information 
+on tobacco smoke exposure was collected from the questionnaires, which may underreport 
+smoking and could not reflect the precise degree of exposure to tobacco overall. Finally, 
+although the analysis was performed on data from a large cohort, we cannot obtain a causal 
+conclusion because of the observational study design. The results warrant replications in 
+other young populations to confirm our findings. 
+In conclusion, our data suggest that children’s tobacco smoke exposure is a risk factor 
+for VDD. Given that VD plays crucial role in the bone metabolism and the immune system, our findings have important clinical and public health significance. Further studies are 
+needed to clarify the genetic mechanisms of this relationship. 
+Supplementary Materials: The following are available online at https://www.mdpi.com/article/10 
+.3390/nu14153121/s1, Table S1: Baseline characteristics by vitamin D deficiency; Table S2: Baseline 
+characteristics by smoking exposure; Table S3: Logistic models evaluating the association of tobacco 
+smoke exposure with vitamin D deficiency in children aged 2 years using the complete dataset. 
+Author Contributions: All authors approved the final manuscript. L.Y. initiated the concept and 
+designed the study to which M.S., M.S.-A., Y.M., C.S., M.N., N.K., H.M., K.Y.-H. and Y.O. gave advice. L.Y., M.S., M.S.-A., Y.M., M.N., H.M., K.Y.-H. and Y.O. collected the data. L.Y. analyzed the data and 
+wrote the manuscript. L.Y., M.S., M.S.-A., Y.M., C.S., M.N., N.K., H.M., K.Y.-H. and Y.O. reviewed the 
+manuscript and gave critical advice. All authors have read and agreed to the published version of the 
+manuscript. 
+Funding: This study was funded by the Ministry of the Environment, Japan. The findings and 
+conclusions of this article are solely the responsibility of the authors and do not represent the official 
+views of the above government. 
+Institutional Review Board Statement: The Main study and SCS were conducted following the 
+guidelines specified in the Declaration of Helsinki. The JECS protocol was reviewed and approved 
+by the Ministry of the Environment’s Institutional Review Board on Epidemiological Studies and the 
+Ethics Committees of all participating institutions (No. 100910001). 
+Informed Consent Statement: Written consent to the SCS protocol is signed separately from that of 
+the Main Study and obtained from all participating mothers and fathers. 
+Data Availability Statement: Data are unsuitable for public deposition due to ethical restrictions and 
+the legal framework of Japan. It is prohibited by the Act on the Protection of Personal Information 
+(Act No. 57 of 30 May 2003, amendment on 9 September 2015) to publicly deposit data containing
+Nutrients 2022, 14, 3121 9 of 10 
+personal information. Ethical Guidelines for Medical and Health Research Involving Human Subjects 
+enforced by the Japan Ministry of Education, Culture, Sports, Science and Technology and the 
+Ministry of Health, Labour and Welfare also restricts the open sharing of the epidemiologic data. All inquiries about access to data should be sent to: jecs-en@nies.go.jp. The person responsible for 
+handling enquiries sent to this e-mail address is Dr Shoji F. Nakayama, JECS Programme Office, 
+National Institute for Environmental Studies. 
+Acknowledgments: Members of the JECS Group as of 2022: Michihiro Kamijima (principal investi gator, Nagoya City University, Nagoya, Japan), Shin Yamazaki (National Institute for Environmental 
+Studies, Tsukuba, Japan), Yukihiro Ohya (National Center for Child Health and Development, Tokyo, 
+Japan), Reiko Kishi (Hokkaido University, Sapporo, Japan), Nobuo Yaegashi (Tohoku University, Sendai, Japan), Koichi Hashimoto (Fukushima Medical University, Fukushima, Japan), Chisato Mori 
+(Chiba University, Chiba, Japan), Shuichi Ito (Yokohama City University, Yokohama, Japan), Zen taro Yamagata (University of Yamanashi, Chuo, Japan), Hidekuni Inadera (University of Toyama, 
+Toyama, Japan), Takeo Nakayama (Kyoto University, Kyoto, Japan), Tomotaka Sobue (Osaka Uni versity, Suita, Japan), Masayuki Shima (Hyogo Medical University, Nishinomiya, Japan), Hiroshige 
+Nakamura(Tottori University, Yonago, Japan), Narufumi Suganuma (Kochi University, Nankoku, 
+Japan), Koichi Kusuhara (University of Occupational and Environmental Health, Kitakyushu, Japan), and Takahiko Katoh (Kumamoto University, Kumamoto, Japan). We thank all study participants and 
+healthcare professionals who provided support for the JECS. 
+Conflicts of Interest: The authors have no conflict of interest to declare. 
+References 
+1. Mora, J.R.; Iwata, M.; von Andrian, U.H. Vitamin effects on the immune system: Vitamins A and D take centre stage. Nat. Rev. Immunol. 2008, 8, 685–698. [CrossRef] [PubMed] 
+2. Dusso, A.S.; Brown, A.J.; Slatopolsky, E. Vitamin D. Am. J. Physiol. Renal Physiol. 2005, 289, F8–F28. [CrossRef] [PubMed] 3. Gois, P.H.F.; Ferreira, D.; Olenski, S.; Seguro, A.C. Vitamin D and infectious diseases: Simple bystander or contributing factor? Nutrients 2017, 9, 651. [CrossRef] [PubMed] 
+4. Cheng, S.; Tylavsky, F.; Kroger, H.; Karkkainen, M.; Lyytikainen, A.; Koistinen, A.; Mahonen, A.; Alen, M.; Halleen, J.; Vaananen, K.; et al. Association of low 25-hydroxyvitamin D concentrations with elevated parathyroid hormone concentrations and low cortical bone density in early pubertal and prepubertal Finnish girls. Am. J. Clin. Nutr. 2003, 78, 485–492. [CrossRef] 
+5. Mousavi, S.E.; Amini, H.; Heydarpour, P.; Amini Chermahini, F.; Godderis, L. Air pollution, environmental chemicals, and smoking may trigger vitamin D deficiency: Evidence and potential mechanisms. Environ. Int. 2019, 122, 67–90. [CrossRef] 6. Jaaskelainen, T.; Knekt, P.; Marniemi, J.; Sares-Jaske, L.; Mannisto, S.; Heliovaara, M.; Jarvinen, R. Vitamin D status is associated 
+with sociodemographic factors, lifestyle and metabolic health. Eur. J. Nutr. 2013, 52, 513–525. [CrossRef] 7. Holick, M.F. Vitamin D deficiency. N. Engl. J. Med. 2007, 357, 266–281. [CrossRef] 
+8. U.S. Department of Health and Human Services. The Health Consequences of Smoking: 50 Years of Progress. A Report of the Surgeon General; U.S. Department of Health and Human Services; Centers for Disease Control and Prevention; National Center for Chronic Disease Prevention and Health Promotion; Office on Smoking and Health: Atlanta, GA, USA, 2014; Printed with corrections, January 2014. Available online: https://www.ncbi.nlm.nih.gov/books/NBK179276/pdf/Bookshelf_NBK179276.pdf (accessed on 1 June 2022). 
+9. Lokki, A.I.; Heikkinen-Eloranta, J.; Ohman, H.; Heinonen, S.; Surcel, H.M.; Nielsen, H.S. Smoking during pregnancy reduces vitamin D levels in a Finnish birth register cohort. Public Health Nutr. 2020, 23, 1273–1277. [CrossRef] 10. Chinellato, I.; Piazza, M.; Sandri, M.; Paiola, G.; Tezza, G.; Boner, A.L. Correlation between vitamin D serum levels and passive smoking exposure in children with asthma. Allergy Asthma Proc. 2018, 39, 8–14. [CrossRef] 
+11. Nwosu, B.U.; Kum-Nji, P. Tobacco smoke exposure is an independent predictor of vitamin D deficiency in US children. PLoS ONE 2018, 13, e0205342. [CrossRef] 
+12. Japan Environment and Children’s Study (JECS) Study Protocol. Available online: https://www.env.go.jp/chemi/ceh/outline/ data/jecs-study_protocol_14_en.pdf (accessed on 10 June 2022). 
+13. Sekiyama, M.; Yamazaki, S.; Michikawa, T.; Nakayama, S.F.; Nitta, H.; Taniguchi, Y.; Suda, E.; Isobe, T.; Kobayashi, Y.; Iwai-Shimada, M.; et al. Study design and participants’ profile in the sub-cohort study in the Japan Environment and Children’s Study (JECS). J. Epidemiol 2022, 32, 228–236. [CrossRef] 
+14. Yang, L.; Sato, M.; Saito-Abe, M.; Irahara, M.; Nishizato, M.; Sasaki, H.; Konishi, M.; Ishitsuka, K.; Mezawa, H.; Yamamoto Hanada, K.; et al. Association of hemoglobin and hematocrit levels during pregnancy and maternal dietary iron intake with allergic diseases in children: The Japan Environment and Children’s Study (JECS). Nutrients 2021, 13, 810. [CrossRef] 
+15. Khuri-Bulos, N.; Lang, R.D.; Blevins, M.; Kudyba, K.; Lawrence, L.; Davidson, M.; Faouri, S.; Halasa, N.B. Vitamin D deficiency among newborns in Amman, Jordan. Glob. J. Health Sci. 2013, 6, 162–171. [CrossRef]
+Nutrients 2022, 14, 3121 10 of 10 
+16. Liu, R.; Wu, H.; Chen, Y.; Xiong, F.; Zhao, J.; Sun, H.; Li, Y.; He, F. Prevalence of vitamin A and vitamin D deficiency in hospitalized neonates in Xi’an, China. Asia Pac. J. Clin. Nutr. 2022, 31, 275–281. [CrossRef] 
+17. Al-Qahtani, S.M.; Shati, A.A.; Alqahtani, Y.A.; Dawood, S.A.; Siddiqui, A.F.; Zaki, M.S.A.; Khalil, S.N. Prevalence and correlates of vitamin D deficiency in children aged less than two years: A cross-sectional study from Aseer Region, Southwestern Saudi Arabia. Healthcare 2022, 10, 1064. [CrossRef] 
+18. Yang, L.; Sato, M.; Saito-Abe, M.; Irahara, M.; Nishizato, M.; Sasaki, H.; Konishi, M.; Ishitsuka, K.; Mezawa, H.; Yamamoto Hanada, K.; et al. 25-Hydroxyvitamin D levels among 2-year-old children: Findings from the Japan Environment and Children’s study (JECS). BMC Pediatr. 2021, 21, 539. [CrossRef] 
+19. Van der Mei, I.A.; Ponsonby, A.L.; Dwyer, T.; Blizzard, L.; Taylor, B.V.; Kilpatrick, T.; Butzkueven, H.; McMichael, A.J. Vitamin D levels in people with multiple sclerosis and community controls in Tasmania, Australia. J. Neurol. 2007, 254, 581–590. [CrossRef] 20. Yang, L.; Sato, M.; Saito-Abe, M.; Nishizato, M.; Mezawa, H.; Yamamoto-Hanada, K.; Ohya, Y.; The Japan Environment and Children’s Study (JECS) Group. Serum 25-Hydroxyvitamin D Concentrations and Atopic Dermatitis in Early Childhood: Findings from the Japan Environment and Children’s Study. Nutrients 2021, 13, 2761. [CrossRef] 
+21. Lin, L.Y.; Smeeth, L.; Langan, S.; Warren-Gash, C. Distribution of vitamin D status in the UK: A cross-sectional analysis of UK Biobank. BMJ Open 2021, 11, e038503. [CrossRef] 
+22. Lorentzon, M.; Mellstrom, D.; Haug, E.; Ohlsson, C. Smoking is associated with lower bone mineral density and reduced cortical thickness in young men. J. Clin. Endocrinol. Metab. 2007, 92, 497–503. [CrossRef] 
+23. Soldin, O.P.; Makambi, K.H.; Soldin, S.J.; O’Mara, D.M. Steroid hormone levels associated with passive and active smoking. Steroids 2011, 76, 653–659. [CrossRef] 
+24. Jiang, C.Q.; Chan, Y.H.; Xu, L.; Jin, Y.L.; Zhu, T.; Zhang, W.S.; Cheng, K.K.; Lam, T.H. Smoking and serum vitamin D in older Chinese people: Cross-sectional analysis based on the Guangzhou Biobank Cohort Study. BMJ Open 2016, 6, e010946. [CrossRef] 25. Banihosseini, S.Z.; Baheiraei, A.; Shirzad, N.; Heshmat, R.; Mohsenifar, A. The effect of cigarette smoke exposure on vitamin D 
+level and biochemical parameters of mothers and neonates. J. Diabetes Metab. Disord. 2013, 12, 19. [CrossRef] 26. Need, A.G.; Kemp, A.; Giles, N.; Morris, H.A.; Horowitz, M.; Nordin, B.E. Relationships between intestinal calcium absorption, serum vitamin D metabolites and smoking in postmenopausal women. Osteoporos. Int. 2002, 13, 83–88. [CrossRef] 27. Morabia, A.; Bernstein, M.S.; Antonini, S. Smoking, dietary calcium and vitamin D deficiency in women: A population-based study. Eur. J. Clin. Nutr. 2000, 54, 684–689. [CrossRef] 
+28. Kassi, E.N.; Stavropoulos, S.; Kokkoris, P.; Galanos, A.; Moutsatsou, P.; Dimas, C.; Papatheodorou, A.; Zafeiris, C.; Lyritis, G. Smoking is a significant determinant of low serum vitamin D in young and middle-aged healthy males. Hormones 2015, 14, 245–250. [CrossRef] 
+29. De la Hunty, A.; Wallace, A.M.; Gibson, S.; Viljakainen, H.; Lamberg-Allardt, C.; Ashwell, M. UK Food Standards Agency Workshop Consensus Report: The choice of method for measuring 25-hydroxyvitamin D to estimate vitamin D status for the UK National Diet and Nutrition Survey. Br. J. Nutr. 2010, 104, 612–619. [CrossRef]
+```
+Now that you have read the article, evaluate it according to the checklist. 
+Return a complete and correctly filled out version of the checklist. 
+TAKE TIME TO THINK AND DO YOUR BEST!
