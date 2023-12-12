@@ -1,0 +1,41 @@
+```checklist
+CARE Checklist of information to include when writing a case report    Topic Item Checklist item description Reported on Line 
+Title 1 The diagnosis or intervention of primary focus followed by the words “case report” Yes, "A Rare Case of Cardiac Echinococcosis: The Role of Multimodality Imaging" 
+Key Words 2 2 to 5 key words that identify diagnoses or interventions in this case report, including "case report" Yes, Keywords: Echinococcus, Global longitudinal strain, Hydatid cyst, Open heart surgery, Transthoracic echocardiography 
+Abstract 
+(no references) 
+3a Introduction: What is unique about this case and what does it add to the scientific literature? Not explicitly reported, but uniqueness is implied in the introduction and discussion 
+3b Main symptoms and/or important clinical findings Yes, sudden-onset respiratory-related chest pain, elevated cardiac markers, abnormal ECG 
+3c The main diagnoses, therapeutic interventions, and outcomes Yes, diagnosis of cardiac echinococcosis, multimodality imaging, surgical intervention, improved outcomes 
+3d Conclusion—What is the main “take-away” lesson(s) from this case? Not explicitly reported in the abstract, but can be inferred from the discussion and conclusion 
+Introduction 4 One or two paragraphs summarizing why this case is unique (may include references) Yes, paragraphs present discussing the rarity and uniqueness of cardiac echinococcosis 
+Patient Information 5a De-identified patient specific information Yes, 38-year-old man, originally from Serbia 
+5b Primary concerns and symptoms of the patient Yes, sudden-onset respiratory-related chest pain 
+5c Medical, family, and psycho-social history including relevant genetic information Yes, originally from Serbia, grew up in a rural setting with various animals 
+5d Relevant past interventions with outcomes Not applicable, the patient was previously healthy 
+Clinical Findings  Timeline  
+Diagnostic  
+Assessment  
+Therapeutic  
+Intervention  
+Follow-up and  Outcomes  
+6 Describe significant physical examination (PE) and important clinical findings Yes, elevated cardiac markers, abnormal ECG, large mass in the heart 
+7 Historical and current information from this episode of care organized as a timeline Not explicitly in a timeline format, but historical and current information is provided throughout the case presentation 
+8a Diagnostic testing (such as PE, laboratory testing, imaging, surveys) Yes, TTE, cMRI, CT, serology 
+8b Diagnostic challenges (such as access to testing, financial, or cultural) Not reported 
+8c Diagnosis (including other diagnoses considered) Yes, cardiac echinococcosis with E. granulosus 
+8d Prognosis (such as staging in oncology) where applicable Not applicable, no staging mentioned 
+9a Types of therapeutic intervention (such as pharmacologic, surgical, preventive, self-care) Yes, surgical excision, albendazole treatment, prophylactic steroids 
+9b Administration of therapeutic intervention (such as dosage, strength, duration) Yes, 200 mg albendazole twice daily for six days before surgery 
+9c Changes in therapeutic intervention (with rationale) Not reported 
+10a Clinician and patient-assessed outcomes (if available) Yes, improved myocardial contraction, normalization of LVEF 
+10b Important follow-up diagnostic and other test results Yes, postoperative TTE showed improved myocardial contraction 
+10c Intervention adherence and tolerability (How was this assessed?) Not explicitly reported 
+10d Adverse and unanticipated events Yes, potential cyst rupture and pericardial effusion noted 
+Discussion 11a A scientific discussion of the strengths AND limitations associated with this case report Not explicitly reported 
+11b Discussion of the relevant medical literature with references Yes, references and discussion of medical literature provided 
+11c The scientific rationale for any conclusions (including assessment of possible causes) Yes, rationale for conclusions provided 
+11d The primary “take-away” lessons of this case report (without references) in a one paragraph conclusion Yes, conclusion paragraph provided 
+Patient Perspective 12 The patient should share their perspective in one to two paragraphs on the treatment(s) they received Not reported 
+Informed Consent 13 Did the patient give informed consent? Please provide if requested Not explicitly reported, but it is standard practice to obtain informed consent for case reports 
+```

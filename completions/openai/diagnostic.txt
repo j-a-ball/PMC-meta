@@ -1,0 +1,90 @@
+```checklist
+Section & Topic No Item Reported on page #
+
+TITLE OR ABSTRACT
+
+1 Identification as a study of diagnostic accuracy using at least one measure of accuracy (such as sensitivity, specificity, predictive values, or AUC) No
+
+ABSTRACT
+
+2 Structured summary of study design, methods, results, and conclusions (for specific guidance, see STARD for Abstracts) No
+
+INTRODUCTION
+
+3 Scientific and clinical background, including the intended use and clinical role of the index test No
+
+4 Study objectives and hypotheses No
+
+METHODS
+
+Study design 5 Whether data collection was planned before the index test and reference standard were performed (prospective study) or after (retrospective study) No
+
+Participants 6 Eligibility criteria No
+
+7 On what basis potentially eligible participants were identified (such as symptoms, results from previous tests, inclusion in registry) No
+
+8 Where and when potentially eligible participants were identified (setting, location and dates) No
+
+9 Whether participants formed a consecutive, random or convenience series No
+
+Test methods 10a Index test, in sufficient detail to allow replication No
+
+10b Reference standard, in sufficient detail to allow replication No
+
+11 Rationale for choosing the reference standard (if alternatives exist) No
+
+12a Definition of and rationale for test positivity cut-offs or result categories of the index test, distinguishing pre-specified from exploratory No
+
+12b Definition of and rationale for test positivity cut-offs or result categories of the reference standard, distinguishing pre-specified from exploratory No
+
+13a Whether clinical information and reference standard results were available to the performers/readers of the index test No
+
+13b Whether clinical information and index test results were available to the assessors of the reference standard No
+
+Analysis 14 Methods for estimating or comparing measures of diagnostic accuracy No
+
+15 How indeterminate index test or reference standard results were handled No
+
+16 How missing data on the index test and reference standard were handled No
+
+17 Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory No
+
+18 Intended sample size and how it was determined No
+
+RESULTS
+
+Participants 19 Flow of participants, using a diagram No
+
+20 Baseline demographic and clinical characteristics of participants No
+
+21a Distribution of severity of disease in those with the target condition No
+
+21b Distribution of alternative diagnoses in those without the target condition No
+
+22 Time interval and any clinical interventions between index test and reference standard No
+
+Test results 23 Cross tabulation of the index test results (or their distribution) by the results of the reference standard No
+
+24 Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals) No
+
+25 Any adverse events from performing the index test or the reference standard No
+
+DISCUSSION
+
+26 Study limitations, including sources of potential bias, statistical uncertainty, and generalisability No
+
+27 Implications for practice, including the intended use and clinical role of the index test No
+
+OTHER INFORMATION
+
+28 Registration number and name of registry No
+
+29 Where the full study protocol can be accessed No
+
+30 Sources of funding and other support; role of funders No
+
+________________
+STARD 2015
+```
+
+The article reviewed is a comprehensive review of diagnostic strategies for COVID-19 and does not report on a specific study of diagnostic accuracy. Therefore, the checklist items are not applicable to this type of article. The article discusses various diagnostic methods, including RT-PCR, rapid antigen and antibody tests, immunoenzymatic serological tests, and others, but it does not present original research data or a specific study design that would require reporting according to the STARD checklist.

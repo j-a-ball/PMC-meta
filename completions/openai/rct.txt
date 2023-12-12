@@ -1,0 +1,47 @@
+```checklist
+The ARRIVE guidelines 2.0: author checklist 
+The ARRIVE Essential 10 
+Section/line  
+Item Recommendation 
+Study design 1 a. The groups being compared are RCT-FAPs and ATT-FAPs, with control groups being the respective negative controls (RC-NC and AT-NC). 
+b. The experimental unit is a single animal (mouse). 
+Sample size 2 a. The exact number of experimental units allocated to each group is specified in the figures (n = 3-6 for various tests). The total number of animals used is not explicitly stated. 
+b. The sample size decision is not explicitly described, nor is there an a priori sample size calculation reported. 
+Inclusion and exclusion criteria 3 a. Criteria for including and excluding animals or experimental units are not explicitly described. 
+b. Exclusions of animals, experimental units, or data points are not reported. 
+c. The exact value of n in each experimental group is reported in the figure legends. 
+Randomisation 4 a. Randomisation to control and treatment groups is mentioned (BML-284 group and control group), but the method used to generate the randomisation sequence is not described. 
+b. Strategies to minimise potential confounders are not explicitly described. 
+Blinding 5 Blinding is mentioned in the statistical analysis section, stating that experiments were assessed and analyzed by two independent investigators in a blinded manner. 
+Outcome measures 6 a. Outcome measures assessed include fatty infiltration, triglyceride measurement, gait analysis, treadmill test, and various molecular analyses. 
+b. The primary outcome measure is not explicitly specified. 
+Statistical methods 7 a. Statistical methods used for each analysis are described, including Student t-test and RNA-seq analysis. Software used is not specified. 
+b. Methods to assess whether the data met the assumptions of the statistical approach are not described. 
+Experimental animals 8 a. Details of the animals used are provided, including species (C57BL/6 mice), sex (male), and age (twelve-week-old). 
+b. Further relevant information such as health/immune status, genetic modification status, genotype, and previous procedures are not provided. 
+Experimental procedures 9 a. Procedures are described in enough detail to allow replication, including the establishment of RCT and ATT animal models, muscle harvest, cell sorting, and cell culture. 
+b. Timing of procedures such as tendon injury and subsequent analyses are provided. 
+c. Location details such as specific laboratory or facility are not provided. Acclimatisation periods are not mentioned. 
+d. Rationale for procedures is provided in the context of the study's aim to investigate FAPs' role in fatty infiltration after tendon injury. 
+Results 10 a. Summary/descriptive statistics for each experimental group are reported, including measures of variability. 
+b. Effect size with a confidence interval is not reported. 
+
+The Recommended Set 
+Abstract 11 The abstract provides a summary of the research objectives, animal species, key methods, principal findings, and study conclusions. 
+Background 12 a. Sufficient scientific background is included to understand the rationale and context for the study. 
+b. The relevance of the animal species and model to the scientific objectives and human biology is explained. 
+Objectives 13 The research question and objectives are clearly described. Specific hypotheses being tested are implied but not explicitly stated. 
+Ethical statement 14 The name of the ethical review committee and approval number are provided. 
+Housing and husbandry 15 Details of housing and husbandry conditions are not provided. 
+Animal care and monitoring 16 a. Interventions to reduce pain, suffering, and distress are not described. 
+b. Adverse events are not reported. 
+c. Humane endpoints and monitoring frequency are not mentioned. 
+Interpretation/scientific implications 17 a. Interpretation of the results is provided, considering the study objectives and hypotheses, current theory, and other relevant studies. 
+b. Study limitations are not explicitly discussed. 
+Generalisability/translation 18 The potential generalisability of the findings to other species or experimental conditions, including relevance to human biology, is discussed. 
+Protocol registration 19 A statement regarding protocol registration is not provided. 
+Data access 20 A statement describing if and where study data are available is not provided. 
+Declaration of interests 21 a. No declaration of potential conflicts of interest is provided. 
+b. Funding sources are listed, but the role of the funders in the design, analysis, and reporting of the study is not described. 
+www.ARRIVEguidelines.org
+```

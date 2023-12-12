@@ -1,0 +1,179 @@
+```checklist
+﻿AGREE Reporting Checklist
+2016
+
+CHECKLIST ITEM AND DESCRIPTION
+	REPORTING CRITERIA
+	Page #
+	DOMAIN 1: SCOPE AND PURPOSE
+	1. OBJECTIVES
+Report the overall objective(s) of the guideline. The expected health benefits from the guideline are to be specific to the clinical problem or health topic.
+	☐  Health intent(s) (i.e., prevention, screening, diagnosis, treatment, etc.)
+☐  Expected benefit(s) or outcome(s)
+☐  Target(s) (e.g., patient population, society)
+	     N/A (This is not a guideline but an observational study)
+	2. QUESTIONS
+Report the health question(s) covered by the guideline, particularly for the key recommendations.
+	☐  Target population
+☐  Intervention(s) or exposure(s)
+☐  Comparisons (if appropriate)
+☐  Outcome(s)
+☐  Health care setting or context
+	     N/A (This is not a guideline but an observational study)
+	3. POPULATION
+Describe the population (i.e., patients, public, etc.) to whom the guideline is meant to apply.
+	☐  Target population, sex and age
+☐  Clinical condition (if relevant)
+☐  Severity/stage of disease (if relevant)
+☐  Comorbidities (if relevant)
+☐  Excluded populations (if relevant)
+	     N/A (This is not a guideline but an observational study)
+	DOMAIN 2: STAKEHOLDER INVOLVEMENT
+	4. GROUP MEMBERSHIP
+Report all individuals who were involved in the development process. This may include members of the steering group, the research team involved in selecting and reviewing/rating the evidence and individuals involved in formulating the final recommendations. 
+	☐  Name of participant
+☐  Discipline/content expertise (e.g., neurosurgeon, methodologist)
+☐  Institution (e.g., St. Peter’s hospital)
+☐  Geographical location (e.g., Seattle, WA)
+☐  A description of the member’s role in the guideline development group
+	     N/A (This is not a guideline but an observational study)
+   * 	5. TARGET POPULATION PREFERENCES AND VIEWS
+Report how the views and preferences of the target population were sought/considered and what the resulting outcomes were.
+	☐  Statement of type of strategy used to capture patients’/publics’ views and preferences (e.g., participation in the guideline development group, literature review of values and preferences)
+☐  Methods by which preferences and views were sought (e.g., evidence from literature, surveys, focus groups)
+☐  Outcomes/information gathered on patient/public information
+☐  How the information gathered was used to inform the guideline development process and/or formation of the recommendations
+	     N/A (This is not a guideline but an observational study)
+	6. TARGET USERS
+Report the target (or intended) users of the guideline. 
+	☐  The intended guideline audience  (e.g. specialists, family physicians, patients, clinical or institutional leaders/administrators) 
+☐  How the guideline may be used by its target audience (e.g., to inform clinical decisions, to inform policy, to inform standards of care)
+	     N/A (This is not a guideline but an observational study)
+	DOMAIN 3: RIGOUR OF DEVELOPMENT
+	7. SEARCH METHODS
+Report details of the strategy used to search for evidence. 
+	☐  Named electronic database(s) or evidence source(s) where the search was performed (e.g., MEDLINE, EMBASE, PsychINFO, CINAHL)
+☐  Time periods searched (e.g., January 1, 2004 to March 31, 2008)
+☐  Search terms used (e.g., text words, indexing terms, subheadings)
+☐  Full search strategy included (e.g., possibly located in appendix)
+	     N/A (This is not a guideline but an observational study)
+	8. EVIDENCE SELECTION CRITERIA
+Report the criteria used to select (i.e., include and exclude) the evidence.  Provide rationale, where appropriate.
+	☐  Target population (patient, public, etc.) characteristics
+☐  Study design 
+☐  Comparisons (if relevant)
+☐  Outcomes 
+☐  Language (if relevant)
+☐  Context (if relevant)
+	     N/A (This is not a guideline but an observational study)
+	9. STRENGTHS & LIMITATIONS OF THE EVIDENCE
+Describe the strengths and limitations of the evidence.  Consider from the perspective of the individual studies and the body of evidence aggregated across all the studies. Tools exist that can facilitate the reporting of this concept. 
+	☐  Study design(s) included in body of evidence
+☐  Study methodology limitations (sampling, blinding, allocation concealment, analytical methods)
+☐  Appropriateness/relevance of primary and secondary outcomes considered
+☐  Consistency of results across studies
+☐  Direction of results across studies
+☐  Magnitude of benefit versus magnitude of harm
+☐  Applicability to practice context
+	     N/A (This is not a guideline but an observational study)
+	10. FORMULATION OF RECOMMENDATIONS
+Describe the methods used to formulate the recommendations and how final decisions were reached. Specify any areas of disagreement and the methods used to resolve them.
+	☐  Recommendation development process (e.g., steps used in modified Delphi technique, voting procedures that were considered)
+☐  Outcomes of the recommendation development process (e.g., extent to which consensus was reached using modified Delphi technique, outcome of voting procedures)
+☐  How the process influenced the recommendations (e.g., results of Delphi technique influence final recommendation, alignment with recommendations and the final vote)
+	     N/A (This is not a guideline but an observational study)
+	11. CONSIDERATION OF BENEFITS AND HARMS
+Report the health benefits, side effects, and risks that were considered when formulating the recommendations.
+	☐  Supporting data and report of benefits
+☐  Supporting data and report of harms/side effects/risks
+☐  Reporting of the balance/trade-off between benefits and harms/side effects/risks 
+☐  Recommendations reflect considerations of both benefits and harms/side effects/risks 
+	     N/A (This is not a guideline but an observational study)
+	12. LINK BETWEEN RECOMMENDATIONS AND EVIDENCE
+Describe the explicit link between the recommendations and the evidence on which they are based. 
+	☐  How the guideline development group linked and used the evidence to inform recommendations
+☐  Link between each recommendation and key evidence (text description and/or reference list)
+☐  Link between recommendations and evidence summaries and/or evidence tables in the results section of the guideline
+	     N/A (This is not a guideline but an observational study)
+	13. EXTERNAL REVIEW
+Report the methodology used to conduct the external review.
+	☐  Purpose and intent of the external review (e.g., to improve quality, gather feedback on draft recommendations, assess applicability and feasibility, disseminate evidence)
+☐  Methods taken to undertake the external review (e.g., rating scale, open-ended questions)
+☐  Description of the external reviewers (e.g., number, type of reviewers, affiliations)
+☐  Outcomes/information gathered from the external review (e.g., summary of key findings)
+☐  How the information gathered was used to inform the guideline development process and/or formation of the recommendations (e.g., guideline panel considered results of review in forming final recommendations)
+	     N/A (This is not a guideline but an observational study)
+	14. UPDATING PROCEDURE
+Describe the procedure for updating the guideline.
+	☐  A statement that the guideline will be updated
+☐  Explicit time interval or explicit criteria to guide decisions about when an update will occur
+☐  Methodology for the updating procedure
+	     N/A (This is not a guideline but an observational study)
+	DOMAIN 4: CLARITY OF PRESENTATION
+	15. SPECIFIC AND UNAMBIGUOUS RECOMMENDATIONS
+Describe which options are appropriate in which situations and in which population groups, as informed by the body of evidence. 
+	☐  A statement of the recommended action
+☐  Intent or purpose of the recommended action (e.g., to improve quality of life, to decrease side effects)
+☐  Relevant population (e.g., patients, public)
+☐  Caveats or qualifying statements, if relevant (e.g., patients or conditions for whom the recommendations would not apply)
+☐  If there is uncertainty about the best care option(s), the uncertainty should be stated in the guideline
+	     N/A (This is not a guideline but an observational study)
+	16. MANAGEMENT OPTIONS
+Describe the different options for managing the condition or health issue. 
+	☐  Description of management options
+☐  Population or clinical situation most appropriate to each option
+	     N/A (This is not a guideline but an observational study)
+	17. IDENTIFIABLE KEY RECOMMENDATIONS
+Present the key recommendations so that they are easy to identify. 
+	☐  Recommendations in a summarized box, typed in bold, underlined, or presented as flow charts or algorithms
+☐  Specific recommendations grouped together in one section
+	     N/A (This is not a guideline but an observational study)
+	DOMAIN 5: APPLICABILITY
+	18. FACILITATORS AND BARRIERS TO APPLICATION
+Describe the facilitators and barriers to the guideline’s application. 
+	☐  Types of facilitators and barriers that were considered
+☐  Methods by which information regarding the facilitators and barriers to implementing recommendations were sought (e.g., feedback from key stakeholders, pilot testing of guidelines before widespread implementation)
+☐  Information/description of the types of facilitators and barriers that emerged from the inquiry (e.g., practitioners have the skills to deliver the recommended care, sufficient equipment is not available to ensure all eligible members of the population receive mammography)
+☐  How the information influenced the guideline development process and/or formation of the recommendations
+	     N/A (This is not a guideline but an observational study)
+	19. IMPLEMENTATION ADVICE/TOOLS
+Provide advice and/or tools on how the recommendations can be applied in practice.
+	☐  Additional materials to support the implementation of the guideline in practice. 
+      For example:
+* Guideline summary documents
+* Links to check lists, algorithms
+* Links to how-to manuals
+* Solutions linked to barrier analysis (see Item 18)
+* Tools to capitalize on guideline facilitators (see Item 18)
+* Outcome of pilot test and lessons learned
+	     N/A (This is not a guideline but an observational study)
+	20. RESOURCE IMPLICATIONS
+Describe any potential resource implications of applying the recommendations. 
+	☐  Types of cost information that were considered (e.g., economic evaluations, drug acquisition costs)
+☐  Methods by which the cost information was sought (e.g., a health economist was part of the guideline development panel, use of health technology assessments for specific drugs, etc.)
+☐  Information/description of the cost information that emerged from the inquiry (e.g., specific drug acquisition costs per treatment course)
+☐  How the information gathered was used to inform the guideline development process and/or formation of the recommendations
+	     N/A (This is not a guideline but an observational study)
+	21. MONITORING/ AUDITING CRITERIA
+Provide monitoring and/or auditing criteria to measure the application of guideline recommendations. 
+	☐  Criteria to assess guideline implementation or adherence to recommendations
+☐  Criteria for assessing impact of implementing the recommendations
+☐  Advice on the frequency and interval of measurement
+☐  Operational definitions of how the criteria should be measured
+	     N/A (This is not a guideline but an observational study)
+	DOMAIN 6: EDITORIAL INDEPENDENCE
+	22. FUNDING BODY
+Report the funding body’s influence on the content of the guideline. 
+	☐  The name of the funding body or source of funding (or explicit statement of no funding)
+☐  A statement that the funding body did not influence the content of the guideline
+	     N/A (This is not a guideline but an observational study)
+	23. COMPETING INTERESTS
+Provide an explicit statement that all group members have declared whether they have any competing interests.
+	☐  Types of competing interests considered
+☐  Methods by which potential competing interests were sought
+☐  A description of the competing interests
+☐  How the competing interests influenced the guideline process and development of recommendations
+	     N/A (This is not a guideline but an observational study)
+```
+
+The AGREE Reporting Checklist is not applicable to the article reviewed as it is designed for clinical practice guidelines, not observational studies. The article in question is a multicenter, observational study evaluating patient satisfaction with chronic obstructive pulmonary disease (COPD) treatment. Therefore, none of the checklist items are relevant to this type of research report.

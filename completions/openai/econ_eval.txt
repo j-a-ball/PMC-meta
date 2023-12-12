@@ -1,0 +1,177 @@
+```checklist
+CHEERS 2022 Checklist  
+
+	Item 
+	Guidance for Reporting 
+	Reported in section 
+	TITLE
+	
+	Title 
+	1
+	Identify the study as an economic evaluation and specify the  
+interventions being compared. 
+	Yes - Title
+
+	ABSTRACT
+	
+	Abstract 
+	2
+	Provide a structured summary that highlights context, key methods,  results and alternative analyses.
+	Yes - Abstract
+
+	INTRODUCTION
+	
+	Background and  
+objectives 
+	3
+	Give the context for the study, the study question and its practical  relevance for decision making in policy or practice. 
+	Yes - Introduction
+
+	METHODS
+	
+	Health economic  
+analysis plan 
+	4
+	Indicate whether a health economic analysis plan was developed and  where available. 
+	Not explicitly reported
+
+	Study population 
+	5
+	Describe characteristics of the study population (such as age  range, demographics, socioeconomic, or clinical characteristics). 
+	Yes - Methods
+
+	Setting and location 
+	6 
+	Provide relevant contextual information that may influence findings. 
+	Yes - Methods
+
+	Comparators 
+	7 
+	Describe the interventions or strategies being compared and why chosen.
+	Yes - Methods
+
+	Perspective 
+	8 
+	State the perspective(s) adopted by the study and why chosen. 
+	Yes - Methods
+
+	Time horizon 
+	9 
+	State the time horizon for the study and why appropriate. 
+	Yes - Methods
+
+	Discount rate 
+	10 
+	Report the discount rate(s) and reason chosen. 
+	Not applicable - No discounting due to short time horizon
+
+	Selection of outcomes 
+	11 
+	Describe what outcomes were used as the measure(s) of benefit(s)  and harm(s). 
+	Yes - Methods
+
+	Measurement of  
+outcomes 
+	12 
+	Describe how outcomes used to capture benefit(s) and harm(s)  were measured. 
+	Yes - Methods
+
+	Valuation of outcomes 
+	13 
+	Describe the population and methods used to measure and value outcomes. 
+	Yes - Methods
+
+	Measurement and  
+valuation of resources  and costs 
+	14 
+	Describe how costs were valued. 
+	Yes - Methods
+
+	Currency, price date,  and conversion 
+	15
+	Report the dates of the estimated resource quantities and unit costs, plus the  currency and year of conversion. 
+	Yes - Methods
+
+	Rationale and  
+description of model 
+	16 
+	If modelling is used, describe in detail and why used. Report if the model  is publicly available and where it can be accessed.
+	Not applicable - No modeling used
+
+	Analytics and  
+assumptions 
+	17 
+	Describe any methods for analysing or statistically transforming data, any  extrapolation methods, and approaches for validating any model used. 
+	Yes - Methods
+
+	Characterizing  
+heterogeneity 
+	18 
+	Describe any methods used for estimating how the results of the study  vary for sub-groups. 
+	Not reported
+
+	Characterizing  
+distributional effects 
+	19 
+	Describe how impacts are distributed across different individuals  or adjustments made to reflect priority populations.
+	Not reported
+
+	Characterizing  
+uncertainty 
+	20 
+	Describe methods to characterize any sources of uncertainty in the analysis. 
+	Yes - Methods
+
+	Approach to  
+engagement with  
+patients and others  
+affected by the study
+	21
+	Describe any approaches to engage patients or service recipients, the  general public, communities, or stakeholders (e.g., clinicians or payers) in  the design of the study. 
+	Not reported
+
+	RESULTS
+	
+	Study parameters 
+	22 
+	Report all analytic inputs (e.g., values, ranges, references) including  uncertainty or distributional assumptions. 
+	Yes - Results
+
+	Summary of main  
+results 
+	23 
+	Report the mean values for the main categories of costs and outcomes of  interest and summarise them in the most appropriate overall measure. 
+	Yes - Results
+
+	Effect of uncertainty 
+	24
+	Describe how uncertainty about analytic judgments, inputs, or projections  affect findings. Report the effect of choice of discount rate and time horizon,  if applicable.
+	Yes - Results
+
+	Effect of engagement  with patients and others  affected by the study 
+	25 
+	Report on any difference patient/service recipient, general public, community,  or stakeholder involvement made to the approach or findings of the study 
+	Not reported
+
+	DISCUSSION
+	
+	Study findings,  
+limitations,  
+generalizability, and  
+current knowledge 
+	26 
+	Report key findings, limitations, ethical or equity considerations not captured,  and how these could impact patients, policy, or practice. 
+	Yes - Discussion
+
+	OTHER RELEVANT INFORMATION
+	Source of funding 
+	27 
+	Describe how the study was funded and any role of the funder in  the identification, design, conduct, and reporting of the analysis 
+	Yes - Acknowledgments
+
+	Conflicts of interest 
+	28 
+	Report authors conflicts of interest according to journal or  
+International Committee of Medical Journal Editors requirements. 
+	Yes - Acknowledgments
+```

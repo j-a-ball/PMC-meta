@@ -1,0 +1,90 @@
+```checklist
+Section & Topic No Item Reported on page #
+
+TITLE OR ABSTRACT
+
+1 Identification as a study of diagnostic accuracy using at least one measure of accuracy (such as sensitivity, specificity, predictive values, or AUC) No N/A
+
+ABSTRACT
+
+2 Structured summary of study design, methods, results, and conclusions No N/A
+
+INTRODUCTION
+
+3 Scientific and clinical background, including the intended use and clinical role of the index test No N/A
+
+4 Study objectives and hypotheses No N/A
+
+METHODS
+
+Study design 5 Whether data collection was planned before the index test and reference standard were performed (prospective study) or after (retrospective study) No N/A
+
+Participants 6 Eligibility criteria No N/A
+
+7 On what basis potentially eligible participants were identified (such as symptoms, results from previous tests, inclusion in registry) No N/A
+
+8 Where and when potentially eligible participants were identified (setting, location and dates) No N/A
+
+9 Whether participants formed a consecutive, random or convenience series No N/A
+
+Test methods 10a Index test, in sufficient detail to allow replication No N/A
+
+10b Reference standard, in sufficient detail to allow replication No N/A
+
+11 Rationale for choosing the reference standard (if alternatives exist) No N/A
+
+12a Definition of and rationale for test positivity cut-offs or result categories of the index test, distinguishing pre-specified from exploratory No N/A
+
+12b Definition of and rationale for test positivity cut-offs or result categories of the reference standard, distinguishing pre-specified from exploratory No N/A
+
+13a Whether clinical information and reference standard results were available to the performers/readers of the index test No N/A
+
+13b Whether clinical information and index test results were available to the assessors of the reference standard No N/A
+
+Analysis 14 Methods for estimating or comparing measures of diagnostic accuracy No N/A
+
+15 How indeterminate index test or reference standard results were handled No N/A
+
+16 How missing data on the index test and reference standard were handled No N/A
+
+17 Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory No N/A
+
+18 Intended sample size and how it was determined No N/A
+
+RESULTS
+
+Participants 19 Flow of participants, using a diagram No N/A
+
+20 Baseline demographic and clinical characteristics of participants No N/A
+
+21a Distribution of severity of disease in those with the target condition No N/A
+
+21b Distribution of alternative diagnoses in those without the target condition No N/A
+
+22 Time interval and any clinical interventions between index test and reference standard No N/A
+
+Test results 23 Cross tabulation of the index test results (or their distribution) by the results of the reference standard No N/A
+
+24 Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals) No N/A
+
+25 Any adverse events from performing the index test or the reference standard No N/A
+
+DISCUSSION
+
+26 Study limitations, including sources of potential bias, statistical uncertainty, and generalisability No N/A
+
+27 Implications for practice, including the intended use and clinical role of the index test No N/A
+
+OTHER INFORMATION
+
+28 Registration number and name of registry No N/A
+
+29 Where the full study protocol can be accessed No N/A
+
+30 Sources of funding and other support; role of funders No N/A
+
+________________
+STARD 2015
+```
+
+The article reviewed is an umbrella review of cognitive impairment in people with schizophrenia and does not fit the criteria for a study of diagnostic accuracy as outlined in the STARD 2015 checklist. Therefore, none of the items on the checklist are applicable to this article. The checklist is designed for diagnostic accuracy studies that evaluate the ability of one or more medical tests to correctly classify study participants as having a target condition. Since the article in question is a review of systematic reviews and meta-analyses related to cognitive impairment in schizophrenia, it does not involve the assessment of a diagnostic test or index test against a reference standard, which is the focus of the STARD checklist.

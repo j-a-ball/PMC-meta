@@ -1,0 +1,90 @@
+```checklist
+Section & Topic No Item Reported on page #
+
+TITLE OR ABSTRACT
+
+1 Identification as a study of diagnostic accuracy using at least one measure of accuracy (such as sensitivity, specificity, predictive values, or AUC) Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+ABSTRACT
+
+2 Structured summary of study design, methods, results, and conclusions Page 1769
+
+INTRODUCTION
+
+3 Scientific and clinical background, including the intended use and clinical role of the index test Page 1769-1770
+
+4 Study objectives and hypotheses Page 1769
+
+METHODS
+
+Study design 5 Whether data collection was planned before the index test and reference standard were performed (prospective study) or after (retrospective study) Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+Participants 6 Eligibility criteria Page 1770
+
+7 On what basis potentially eligible participants were identified (such as symptoms, results from previous tests, inclusion in registry) Page 1770
+
+8 Where and when potentially eligible participants were identified (setting, location and dates) Page 1770
+
+9 Whether participants formed a consecutive, random or convenience series Page 1770
+
+Test methods 10a Index test, in sufficient detail to allow replication Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+10b Reference standard, in sufficient detail to allow replication Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+11 Rationale for choosing the reference standard (if alternatives exist) Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+12a Definition of and rationale for test positivity cut-offs or result categories of the index test, distinguishing pre-specified from exploratory Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+12b Definition of and rationale for test positivity cut-offs or result categories of the reference standard, distinguishing pre-specified from exploratory Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+13a Whether clinical information and reference standard results were available to the performers/readers of the index test Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+13b Whether clinical information and index test results were available to the assessors of the reference standard Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+Analysis 14 Methods for estimating or comparing measures of diagnostic accuracy Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+15 How indeterminate index test or reference standard results were handled Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+16 How missing data on the index test and reference standard were handled Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+17 Any analyses of variability in diagnostic accuracy, distinguishing pre-specified from exploratory Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+18 Intended sample size and how it was determined Page 1770
+
+RESULTS
+
+Participants 19 Flow of participants, using a diagram Not reported
+
+20 Baseline demographic and clinical characteristics of participants Page 1772, Table 1
+
+21a Distribution of severity of disease in those with the target condition Not reported
+
+21b Distribution of alternative diagnoses in those without the target condition Not reported
+
+22 Time interval and any clinical interventions between index test and reference standard Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+Test results 23 Cross tabulation of the index test results (or their distribution) by the results of the reference standard Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+24 Estimates of diagnostic accuracy and their precision (such as 95% confidence intervals) Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+25 Any adverse events from performing the index test or the reference standard Not applicable (The study is not a diagnostic accuracy study but an economic evaluation of an intervention)
+
+DISCUSSION
+
+26 Study limitations, including sources of potential bias, statistical uncertainty, and generalisability Page 1774-1775
+
+27 Implications for practice, including the intended use and clinical role of the index test Page 1775
+
+OTHER INFORMATION
+
+28 Registration number and name of registry Page 1769
+
+29 Where the full study protocol can be accessed Page 1770
+
+30 Sources of funding and other support; role of funders Page 1777
+
+________________
+STARD 2015
+```
+
+Please note that many items in the STARD checklist are not applicable to the reviewed article because it is not a study of diagnostic accuracy but rather an economic evaluation of an intervention. The checklist has been completed to the best of my ability based on the content of the article provided.
