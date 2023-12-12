@@ -1,16 +1,16 @@
 __author__ = "Jon Ball"
-__version__ = "November 2023"
+__version__ = "December 2023"
 
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.vectorstores import Chroma
+from vectordb_setup import hf_embed, openai_embed
 from tqdm import tqdm
 import chromadb
 import jinja2
 import torch
 import random
-import json
-import time
 import os
+
 
 def main():
     # Set random seed
@@ -18,55 +18,64 @@ def main():
     torch.manual_seed(42)
     # Access local chroma client
     persistent_client = chromadb.PersistentClient(path="chroma")
-    for tup in [
-        ("Muennighoff/SGPT-125M-weightedmean-nli-bitfit", "125M"), 
-        ("Muennighoff/SGPT-1.3B-weightedmean-nli-bitfit", "1_3B"), 
-        ("Muennighoff/SGPT-2.7B-weightedmean-nli-bitfit", "2_7B"),
-        ("Muennighoff/SGPT-5.8B-weightedmean-nli-bitfit", "5_8B")
-        ]:
-        model_name, collection_name = tup
-        print(f'Creating prompts using "{model_name}" for retrieval...')
-        create_prompts(persistent_client, model_name, collection_name)
-        print(f'   ...prompts created for "{model_name}".')
+    # Load articles
+    articles = load_articles()
+    # Load embeddings
+    print("Loading HF embeddings...")
+    hf_ef = hf_embed("Muennighoff/SGPT-2.7B-weightedmean-nli-bitfit")
+    openai_ef = openai_embed("text-embedding-ada-002")
+    print("   ...HF embeddings loaded.")
+    # Use hf retrieval models to generate prompts
+    print("Generating prompts with HuggingFace SGPT retrieval...")
+    collection_name = "2_7B"
+    output_dir = f"prompts/{collection_name}"
+    vectordb = Chroma(
+        client=persistent_client,
+        collection_name=collection_name,
+        embedding_function=hf_ef
+        )
+    article_loop(articles, vectordb, output_dir)
+    print("   ...prompts generated.")
+    # Use openai retrieval model to generate prompts
+    print("Generating prompts with OpenAI retrieval...")
+    collection_name = "openai"
+    output_dir = f"prompts/{collection_name}"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    vectordb = Chroma(
+        client=persistent_client,
+        collection_name=collection_name,
+        embedding_function=openai_ef
+        )
+    article_loop(articles, vectordb, output_dir)
+    print("   ...prompts generated.")
     print("Done.")
 
-def create_prompts(persistent_client, model_name, collection_name):
-    # HF embedding model config
-    model_kwargs = {"device": "cpu"}
-    encode_kwargs = {"normalize_embeddings": True}
-    embedding = load_embedding(model_name, model_kwargs, encode_kwargs)
-    vectordb = load_vectordb(persistent_client, collection_name, embedding)
+
+def article_loop(articles, vectordb, output_dir):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    for filename, article in tqdm(articles):
+        checklist = vectordb.similarity_search(article, 1)[0].metadata["checklist"]
+        # generate prompt with jinja2
+        jinjitsu = jinjaLoader("prompts", "checklist.prompt")
+        templateVars = {"checklist": checklist, "article": article}
+        prompt = jinjitsu.render(templateVars)
+        # write prompt to file
+        with open(f"{output_dir}/{filename[:-4]}.prompt", "w") as outfile:
+            outfile.write(prompt)
+
+
+def load_articles():
+    print("Loading articles...")
+    articles = []
     for dirname, dirpath, filenames in os.walk("articles"):
         for filename in [f for f in filenames if f.endswith(".txt")]:
             with open(os.path.join(dirname, filename), "r") as infile:
                 article = infile.read()
-            checklist = vectordb.similarity_search(article, 1)[0].metadata["checklist"]
-            # generate prompt with jinja2
-            output_dir = f"prompts/{collection_name}"
-            if not os.path.exists(output_dir):
-                os.mkdir(output_dir)
-            jinjitsu = jinjaLoader("prompts", "checklist.prompt")
-            templateVars = {"checklist": checklist, "article": article}
-            prompt = jinjitsu.render(templateVars)
-            # write prompt to file
-            with open(f"{output_dir}/{filename[:-4]}.prompt", "w") as outfile:
-                outfile.write(prompt)
-
-def load_vectordb(persistent_client, collection_name, embedding):
-    vectordb = Chroma(
-        client=persistent_client,
-        collection_name=collection_name,
-        embedding_function=embedding,
-        )
-    return vectordb
-
-def load_embedding(model_name, model_kwargs, encode_kwargs):
-    embedding = SentenceTransformerEmbeddings(
-        model_name=model_name,
-        model_kwargs=model_kwargs,
-        encode_kwargs=encode_kwargs
-        )
-    return embedding               
+            articles.append((filename, article))
+    print(f"   ...loaded {len(articles)} articles.")
+    return articles
 
 
 class jinjaLoader():
