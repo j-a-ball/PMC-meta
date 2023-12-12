@@ -7,7 +7,7 @@ import tiktoken
 import os
 from dotenv import load_dotenv
 _ = load_dotenv("openai.env")
-openai_key = os.environ.get("OPENAI_KEY")
+openai_key = os.environ.get("OPENAI_API_KEY")
 openai.api_key = openai_key
 
 def get_completion(messages, temp=0, model="gpt-4"):
