@@ -1,6 +1,5 @@
 chromadb
 langchain
-gguf
 jinja2
 sentence-transformers
 torch
