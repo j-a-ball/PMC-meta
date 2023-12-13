@@ -41,7 +41,7 @@ def walk_articles(input_dir, output_dir):
                 
 
 def get_completion(prompt, model="gpt-4-1106-preview"):
-    chat = start_chat("You are an expert biostastician, methodologist, and reviewer of medical articles. You are reviewing a biomedical or health research article, according to a research reporting guideline checklist. RETURN A COMPLETED VERSION OF THE CHECKLIST WITH CORRECT ANSWERS.")
+    chat = start_chat("You are an expert biostatistician, methodologist, and reviewer of research articles. You are reviewing a biomedical or health research article, according to a research reporting guideline checklist. RETURN A COMPLETED VERSION OF THE CHECKLIST WITH CORRECT ANSWERS.")
     chat = user_turn(chat, prompt)
     try:
         chat = system_turn(chat, model=model)
